@@ -6,12 +6,13 @@
 // - Lessons are spread across the learner's chosen study weekdays in
 //   proportion to each lesson's estimated hours.
 
-import { addDays, daysBetween, todayStr, weekday, isoToLocalDay } from './dates.js';
+import { addDays, daysBetween, todayStr, weekday, isoToLocalDay } from './dates.js?v=2';
 
 export function buildPlan(course, profile) {
   const { courseStart, courseEnd, examDate } = profile.dates;
   const warnings = [];
-  if (!courseStart || !(courseEnd || examDate)) return { ok: false, warnings: ['Add your course start and end dates in Profile to generate a timeline.'] };
+  if (!courseStart && !courseEnd && !examDate) return { ok: false, warnings: ['No course dates have been added yet. Lessons, quizzes and reviews all work without them.'] };
+  if (!courseStart || !(courseEnd || examDate)) return { ok: false, warnings: ['It needs both a course start date and a course end (or exam) date.'] };
 
   const target = examDate || courseEnd;
   if (examDate && courseEnd && examDate > courseEnd) warnings.push('Your exam date is after your course end date. Double-check both dates against your enrolment records.');

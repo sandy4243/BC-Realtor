@@ -3,7 +3,7 @@
 // real backend (multi-device, shared profiles), replace load()/save() and keep
 // the exported API the same.
 
-import { todayStr, addDays, isoToLocalDay as toLocalDay } from './dates.js';
+import { todayStr, addDays, isoToLocalDay as toLocalDay } from './dates.js?v=2';
 
 const KEY = 'cre-study.v1';
 const REVIEW_INTERVALS = [0, 1, 2, 4, 8, 16]; // days, indexed by Leitner box 1–5

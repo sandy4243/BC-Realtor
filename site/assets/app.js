@@ -1,6 +1,6 @@
-import { store } from './store.js';
-import { buildPlan, pace, streak, tagStats } from './plan.js';
-import { todayStr, addDays, fmt, fmtLong, daysBetween, isoToLocalDay } from './dates.js';
+import { store } from './store.js?v=2';
+import { buildPlan, pace, streak, tagStats } from './plan.js?v=2';
+import { todayStr, addDays, fmt, fmtLong, daysBetween, isoToLocalDay } from './dates.js?v=2';
 
 const app = document.getElementById('app');
 const nav = document.getElementById('nav');
@@ -9,7 +9,7 @@ const nav = document.getElementById('nav');
 const cache = new Map();
 function fetchCached(path, as) {
   if (!cache.has(path)) {
-    const p = fetch(path).then((r) => {
+    const p = fetch(path, { cache: 'no-cache' }).then((r) => {
       if (!r.ok) throw new Error(`${path}: ${r.status}`);
       return as === 'json' ? r.json() : r.text();
     });
@@ -96,7 +96,7 @@ function activityText(a) {
 
 // ── Timeline ────────────────────────────────────────────────
 function timeline(plan, p, { compact = false } = {}) {
-  if (!plan.ok) return `<div class="callout">${plan.warnings.map(esc).join('<br>')} <a href="#/profile">Set dates →</a></div>`;
+  if (!plan.ok) return `<div class="callout"><strong>Timeline couldn’t be created.</strong> ${plan.warnings.map(esc).join('<br>')} <a href="#/profile">Add dates →</a></div>`;
   const span = daysBetween(plan.start, plan.target);
   const pos = (d) => Math.min(100, Math.max(0, (daysBetween(plan.start, d) / span) * 100));
   const today = todayStr();
@@ -147,11 +147,11 @@ function viewWelcome() {
       <label>Your name <input name="name" required autocomplete="name" placeholder="e.g. Sandeep"></label>
       <label>Email <span class="muted">(optional, for summaries later)</span> <input name="email" type="email" autocomplete="email"></label>
       <fieldset>
-        <legend>Course dates</legend>
-        <p class="muted small">Use the dates from your course enrolment. You can change them later.</p>
+        <legend>Course dates <span class="muted">(optional)</span></legend>
+        <p class="muted small">Add the dates from your course enrolment to get a personal study timeline. You can skip this and add them later in Profile.</p>
         <div class="grid-3">
-          <label>Course start <input name="courseStart" type="date" required></label>
-          <label>Course end <input name="courseEnd" type="date" required></label>
+          <label>Course start <input name="courseStart" type="date"></label>
+          <label>Course end <input name="courseEnd" type="date"></label>
           <label>Exam date <span class="muted">(optional)</span> <input name="examDate" type="date"></label>
         </div>
       </fieldset>

@@ -56,6 +56,10 @@ serve.py                    local server
 - `tag` groups questions into topics for the dashboard's weak-spots panel.
 - `id` must never change once published. Learners' review history is keyed on it.
 
+## Caching
+
+GitHub Pages tells browsers to cache files for 10 minutes. Content files (`site/content/`) are always revalidated, so new lessons appear on the next page load. Code files are not: when you change anything in `site/assets/`, bump the `?v=N` number everywhere it appears (`index.html` and the `import` lines in the `.js` files) so browsers fetch the new version.
+
 ## How progress works
 
 - **Profiles** live in the browser's localStorage. Several people can have profiles on one device. Profile → Export downloads a JSON backup that can be imported on another computer.
