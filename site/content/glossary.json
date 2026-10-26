@@ -190,6 +190,16 @@
     "lesson": "07"
   },
   {
+    "term": "Caveat lessee",
+    "def": "\"Let the tenant beware\": in commercial leasing, no implied duty on the landlord to repair unfurnished premises.",
+    "lesson": "10"
+  },
+  {
+    "term": "Certificate of Payment (Form F)",
+    "def": "A strata's certificate of whether money is owing for a lot. Needed to register a transfer; valid 60 days; max $15.",
+    "lesson": "11"
+  },
+  {
     "term": "Certificate of pending litigation (CPL)",
     "def": "A notice on title that a lawsuit claiming an interest in the land has started. Formerly called lis pendens.",
     "lesson": "03"
@@ -220,6 +230,11 @@
     "lesson": "04"
   },
   {
+    "term": "Close family member",
+    "def": "Under the RTA: a person's parent, spouse or child, or their spouse's parent or child.",
+    "lesson": "10"
+  },
+  {
     "term": "Collateral warranty",
     "def": "A separate binding promise made alongside the main contract, which can survive completion. Hard to prove.",
     "lesson": "08"
@@ -228,6 +243,11 @@
     "term": "Committee",
     "def": "A person appointed by the court to manage the affairs of an adult who can't manage them. The adult can no longer contract.",
     "lesson": "07"
+  },
+  {
+    "term": "Common assets",
+    "def": "Property owned by the strata corporation itself, such as equipment or a caretaker's suite.",
+    "lesson": "11"
   },
   {
     "term": "Common law",
@@ -260,6 +280,11 @@
     "lesson": "07"
   },
   {
+    "term": "Condition inspection report",
+    "def": "The signed report from the joint landlord-tenant inspection at the start and end of a residential tenancy.",
+    "lesson": "10"
+  },
+  {
     "term": "Condition precedent",
     "def": "A \"subject\": an event that must happen before the contract becomes binding. Only a party for whose sole benefit it exists can waive it.",
     "lesson": "07"
@@ -290,6 +315,11 @@
     "lesson": "07"
   },
   {
+    "term": "Contingency reserve fund (CRF)",
+    "def": "A strata's savings for expenses that occur less than once a year. Minimum annual contribution 10% of the operating budget; no refunds on sale.",
+    "lesson": "11"
+  },
+  {
     "term": "Continuing / Released Client",
     "def": "The two roles under a Rules s.65 conflict agreement: the licensee keeps acting for the Continuing Client; the Released Client gets no further advice but keeps confidentiality.",
     "lesson": "09"
@@ -308,6 +338,11 @@
     "term": "Cooperating brokerage",
     "def": "The brokerage working with the buyer, which usually shares in the listing brokerage's commission.",
     "lesson": "09"
+  },
+  {
+    "term": "Cooperative (co-op)",
+    "def": "A corporation that owns a building; members buy shares that entitle them to lease a unit. Sales usually need board approval.",
+    "lesson": "11"
   },
   {
     "term": "Cooperative interest",
@@ -360,6 +395,11 @@
     "lesson": "08"
   },
   {
+    "term": "Depreciation report",
+    "def": "A study of a strata's major components, their remaining life and replacement costs, with a 30-year forecast. Required every 5 years for stratas of 5+ lots.",
+    "lesson": "11"
+  },
+  {
     "term": "Designated agency",
     "def": "BC's model since June 2012: the brokerage names specific licensee(s) as the client's sole agents; the rest of the brokerage isn't the client's agent.",
     "lesson": "09"
@@ -393,6 +433,11 @@
     "term": "Distinguish (a case)",
     "def": "To treat an earlier decision as not binding because a crucial fact is different.",
     "lesson": "01"
+  },
+  {
+    "term": "Distress",
+    "def": "A commercial landlord's right to seize and sell a tenant's goods to recover unpaid rent. Abolished for residential tenancies.",
+    "lesson": "10"
   },
   {
     "term": "Doctrine of merger",
@@ -448,6 +493,11 @@
     "term": "Effective cause",
     "def": "The brokerage whose efforts actually brought about the sale. Relevant to open listings and to sales after a listing expires.",
     "lesson": "09"
+  },
+  {
+    "term": "Electrical planning report",
+    "def": "A report on a strata's electrical capacity and future demands (e.g. EV charging), required for stratas of 5+ lots.",
+    "lesson": "11"
   },
   {
     "term": "Encumbrance",
@@ -515,6 +565,11 @@
     "lesson": "01"
   },
   {
+    "term": "Fair wear and tear",
+    "def": "Normal ageing and use of premises, which a tenant isn't required to repair.",
+    "lesson": "10"
+  },
+  {
     "term": "Fee simple",
     "def": "The largest bundle of rights a private person can hold in land. The closest thing to ownership in Canada.",
     "lesson": "01"
@@ -540,6 +595,11 @@
     "lesson": "04"
   },
   {
+    "term": "Fixed term tenancy",
+    "def": "A tenancy with a set end date. A commercial one ends automatically; a residential one usually becomes month-to-month.",
+    "lesson": "10"
+  },
+  {
     "term": "Fixture",
     "def": "Something attached to land or a building so that it's legally part of the real property. Stays with the property on a sale.",
     "lesson": "02"
@@ -548,6 +608,11 @@
     "term": "Form A",
     "def": "The prescribed Freehold Transfer used to transfer fee simple title in BC. The contract of purchase and sale itself isn't registered.",
     "lesson": "03"
+  },
+  {
+    "term": "Form K",
+    "def": "The Notice of Tenant's Responsibilities a strata landlord must give a tenant (with the bylaws and rules) and file with the strata within 2 weeks.",
+    "lesson": "11"
   },
   {
     "term": "Frustration",
@@ -563,6 +628,16 @@
     "term": "Grant of Probate",
     "def": "A court document confirming a will and the executor's authority to deal with the estate, including selling land.",
     "lesson": "07"
+  },
+  {
+    "term": "Gross lease",
+    "def": "A commercial lease where one rent figure covers the tenant's share of operating costs; the landlord bears increases.",
+    "lesson": "10"
+  },
+  {
+    "term": "Ground lease",
+    "def": "The lease (at least 50 years) under which a developer leases land from a leasehold landlord to build a leasehold strata.",
+    "lesson": "11"
   },
   {
     "term": "Headline test",
@@ -600,6 +675,11 @@
     "lesson": "07"
   },
   {
+    "term": "Information Certificate (Form B)",
+    "def": "A strata's certificate of key facts about a lot and the corporation (fees, levies, CRF, lawsuits, bylaw changes). Within 8 days, max $35.",
+    "lesson": "11"
+  },
+  {
     "term": "Injunction",
     "def": "An equitable court order telling someone to stop doing something. A mandatory injunction orders them to do something.",
     "lesson": "01"
@@ -608,6 +688,16 @@
     "term": "Inoperative licence",
     "def": "A licence that still exists but can't be used, for example when a licensee leaves their brokerage or their managing broker's licence is suspended.",
     "lesson": "04"
+  },
+  {
+    "term": "Interesse termini",
+    "def": "The old rule that no estate passes until the tenant takes possession, so a commercial tenant refused entry gets only damages. Abolished for residential tenancies.",
+    "lesson": "10"
+  },
+  {
+    "term": "Interim budget",
+    "def": "The developer's budget governing strata finances from the first conveyance until the first AGM.",
+    "lesson": "11"
   },
   {
     "term": "Invitation to treat",
@@ -650,9 +740,24 @@
     "lesson": "07"
   },
   {
+    "term": "Lease",
+    "def": "An agreement giving a tenant exclusive possession of land for a term, usually for rent. It creates an interest in land that binds a buyer.",
+    "lesson": "10"
+  },
+  {
+    "term": "Leasehold landlord",
+    "def": "The government, municipality, First Nation or public authority that leases land to a developer for a leasehold strata.",
+    "lesson": "11"
+  },
+  {
     "term": "Leasehold strata",
     "def": "A strata created on land leased for at least 50 years from a leasehold landlord (a government, certain First Nations or a university). Buyers get leases, not fee simple.",
     "lesson": "03"
+  },
+  {
+    "term": "Leasehold tenant",
+    "def": "The \"owner\" of a leasehold strata lot, holding an assignment of the strata lot lease rather than fee simple.",
+    "lesson": "11"
   },
   {
     "term": "Leave to appeal",
@@ -683,6 +788,11 @@
     "term": "Limitation period",
     "def": "The time limit for starting a lawsuit. In BC: 2 years from discovery, with a 15-year ultimate limit. Miss it and the right to sue is gone.",
     "lesson": "01"
+  },
+  {
+    "term": "Limited common property (LCP)",
+    "def": "Common property designated for the exclusive use of one or more strata lots. It runs with the lot.",
+    "lesson": "11"
   },
   {
     "term": "Limited dual agency",
@@ -800,6 +910,11 @@
     "lesson": "03"
   },
   {
+    "term": "Non-derogation from grant",
+    "def": "The landlord's implied promise not to undermine the benefit of what it has leased.",
+    "lesson": "10"
+  },
+  {
     "term": "Norfolk & Aikens",
     "def": "The 1989 BCCA decision behind the CPS clauses that let transfers and mortgages register on lawyers' and notaries' undertakings.",
     "lesson": "08"
@@ -830,9 +945,24 @@
     "lesson": "09"
   },
   {
+    "term": "Operating fund",
+    "def": "A strata's fund for expenses that occur once a year or more often.",
+    "lesson": "11"
+  },
+  {
     "term": "Option agreement",
     "def": "A contract where the offeror receives separate consideration to keep an offer open for a set time.",
     "lesson": "07"
+  },
+  {
+    "term": "Order of possession",
+    "def": "An order (from the RTB or a court) entitling a landlord to possession, enforceable by a court bailiff.",
+    "lesson": "10"
+  },
+  {
+    "term": "Overholding",
+    "def": "A tenant staying on after a lease ends. If the landlord accepts rent, a commercial periodic tenancy may be implied.",
+    "lesson": "10"
   },
   {
     "term": "Party to be charged",
@@ -855,6 +985,11 @@
     "lesson": "06"
   },
   {
+    "term": "Periodic tenancy",
+    "def": "A tenancy that renews itself each period (weekly, monthly, yearly) until someone gives proper notice.",
+    "lesson": "10"
+  },
+  {
     "term": "Permissive waste",
     "def": "A life tenant letting the property deteriorate by doing nothing. Generally not liable.",
     "lesson": "02"
@@ -863,6 +998,11 @@
     "term": "Personal real estate corporation (PREC)",
     "def": "A corporation a licensee may use to receive their remuneration, mainly for tax planning. It doesn't shield the licensee from liability.",
     "lesson": "04"
+  },
+  {
+    "term": "Pet damage deposit",
+    "def": "An extra residential deposit for possible pet damage, also capped at half a month's rent.",
+    "lesson": "10"
   },
   {
     "term": "PID",
@@ -965,6 +1105,11 @@
     "lesson": "07"
   },
   {
+    "term": "Quiet enjoyment",
+    "def": "A tenant's right to possess the premises free from title challenges and substantial interference.",
+    "lesson": "10"
+  },
+  {
     "term": "Ratification",
     "def": "A principal approving, after the fact, an act done without authority, binding them as if it had been authorized from the start.",
     "lesson": "09"
@@ -1040,6 +1185,16 @@
     "lesson": "05"
   },
   {
+    "term": "Residential Tenancy Act (RTA)",
+    "def": "BC's 1984 statute governing residential tenancies. Most of its protections can't be contracted out of.",
+    "lesson": "10"
+  },
+  {
+    "term": "Residential Tenancy Branch (RTB)",
+    "def": "The provincial body that resolves residential tenancy disputes through arbitration and enforces compliance.",
+    "lesson": "10"
+  },
+  {
     "term": "Residual power",
     "def": "Law-making power over matters the Constitution doesn't specifically assign. Held by the federal government.",
     "lesson": "01"
@@ -1070,6 +1225,11 @@
     "lesson": "02"
   },
   {
+    "term": "Schedule of Restrictions",
+    "def": "Restrictions on leasing, assignment or occupancy of leasehold strata lots, filed with the leasehold strata plan.",
+    "lesson": "11"
+  },
+  {
     "term": "Schedule of Unit Entitlement",
     "def": "A strata document setting each lot's share of the common property, generally used to split the strata's expenses.",
     "lesson": "03"
@@ -1085,9 +1245,24 @@
     "lesson": "09"
   },
   {
+    "term": "Section (strata)",
+    "def": "A \"mini strata corporation\" for lots with similar interests (e.g. commercial units), with its own executive and costs.",
+    "lesson": "11"
+  },
+  {
     "term": "Section 219 covenant",
     "def": "A covenant registered under LTA s.219 in favour of the province or a local government. Unlike common law restrictive covenants, it can be positive or negative.",
     "lesson": "03"
+  },
+  {
+    "term": "Security deposit",
+    "def": "Money paid to a landlord as protection against damage or other breaches. Residential: max half a month's rent, returned with interest within 15 days.",
+    "lesson": "10"
+  },
+  {
+    "term": "Security of tenure",
+    "def": "The residential tenant's protection that a tenancy can end only for reasons the RTA allows.",
+    "lesson": "10"
   },
   {
     "term": "Seller sub-agency",
@@ -1098,6 +1273,11 @@
     "term": "Shared interest in land",
     "def": "Co-ownership of land with others, plus an agreement limiting each owner's use to a particular part.",
     "lesson": "05"
+  },
+  {
+    "term": "Short term exclusive use",
+    "def": "A personal, cancellable permission to use common property exclusively, for up to 1 year (5 years for an EV-charging stall).",
+    "lesson": "11"
   },
   {
     "term": "Smurfing",
@@ -1115,6 +1295,11 @@
     "lesson": "04"
   },
   {
+    "term": "Special levy",
+    "def": "A one-time charge on strata owners: ¾ vote if shared by unit entitlement, unanimous otherwise.",
+    "lesson": "11"
+  },
+  {
     "term": "Specific performance",
     "def": "An equitable remedy ordering a party to actually carry out a contract, such as transferring a property. Discretionary and can be lost through delay.",
     "lesson": "01"
@@ -1123,6 +1308,11 @@
     "term": "Stakeholder",
     "def": "Someone holding money for two parties until conditions are met. A brokerage holds purchase deposits as stakeholder, not as either side's agent.",
     "lesson": "05"
+  },
+  {
+    "term": "Standard Bylaws",
+    "def": "The bylaws in the Schedule to the Strata Property Act, which apply to every strata unless validly amended.",
+    "lesson": "11"
   },
   {
     "term": "Standard of care",
@@ -1150,6 +1340,21 @@
     "lesson": "07"
   },
   {
+    "term": "Strata corporation",
+    "def": "The legal entity (\"The Owners, Strata Plan ___\") created when a strata plan is deposited. All owners are members, and a judgment against it binds them all.",
+    "lesson": "11"
+  },
+  {
+    "term": "Strata council",
+    "def": "The owners elected to exercise the strata corporation's powers and enforce its bylaws between general meetings.",
+    "lesson": "11"
+  },
+  {
+    "term": "Strata lien",
+    "def": "A lien a strata registers on a lot for unpaid fees, levies and related costs (not fines). It ranks ahead of mortgages.",
+    "lesson": "11"
+  },
+  {
     "term": "Strata lot",
     "def": "The part of a strata development owned individually, with its own title. Informally a \"unit\".",
     "lesson": "03"
@@ -1175,14 +1380,34 @@
     "lesson": "03"
   },
   {
+    "term": "Sublease",
+    "def": "A lease by a tenant to a subtenant for less than the tenant's whole remaining term (the tenant keeps a reversion).",
+    "lesson": "10"
+  },
+  {
     "term": "Superintendent of Real Estate",
     "def": "BCFSA's chief executive officer. Holds RESA's licensing, investigation and discipline powers and delegates most of them to BCFSA staff.",
     "lesson": "04"
   },
   {
+    "term": "Surrender",
+    "def": "A tenant giving up the rest of the term, by agreement or by the landlord acting inconsistently with the lease (e.g. re-letting without notice).",
+    "lesson": "10"
+  },
+  {
     "term": "Suspicious transaction report (STR)",
     "def": "A report to FINTRAC, as soon as practicable, when there are reasonable grounds to suspect money laundering or terrorist financing. No dollar threshold.",
     "lesson": "06"
+  },
+  {
+    "term": "Tenancy agreement",
+    "def": "The Residential Tenancy Act's name for a residential lease. Must be in writing, signed and dated, with the required standard terms.",
+    "lesson": "10"
+  },
+  {
+    "term": "Tenancy at will",
+    "def": "A tenancy either party can end at any time, often when a seller lets a buyer move in before completion.",
+    "lesson": "10"
   },
   {
     "term": "Tenancy in common",
@@ -1243,6 +1468,11 @@
     "term": "Tribunal",
     "def": "A specialized decision-making body created by statute for one area of disputes. Not part of the court system, but its decisions can be reviewed by the courts.",
     "lesson": "01"
+  },
+  {
+    "term": "Triple net lease",
+    "def": "A commercial lease where the tenant pays base rent plus property taxes, insurance and repairs and maintenance (all operating costs).",
+    "lesson": "10"
   },
   {
     "term": "True condition precedent",
@@ -1310,6 +1540,11 @@
     "lesson": "05"
   },
   {
+    "term": "Vacate clause",
+    "def": "A term requiring a residential tenant to leave at the end of a fixed term. Allowed only for subleases or when the landlord or close family will move in.",
+    "lesson": "10"
+  },
+  {
     "term": "Vicarious liability",
     "def": "Liability for someone else's wrong. A brokerage is liable for its licensees' acts in the ordinary course of their work, even fraud.",
     "lesson": "06"
@@ -1348,5 +1583,10 @@
     "term": "Water licence",
     "def": "Provincial permission to use surface or groundwater under the Water Sustainability Act. Not recorded in the land title office; passes to a buyer with any unpaid fees.",
     "lesson": "02"
+  },
+  {
+    "term": "Winding up (strata)",
+    "def": "Cancelling a strata plan and dissolving the corporation, e.g. to sell to a developer. Needs an 80% vote and a court order.",
+    "lesson": "11"
   }
 ]

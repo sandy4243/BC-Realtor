@@ -1,0 +1,971 @@
+{
+  "lessonId": "11",
+  "questions": [
+    {
+      "id": "11-001",
+      "tag": "History",
+      "q": "When did the Strata Property Act replace the Condominium Act?",
+      "choices": [
+        "January 1, 1966",
+        "July 1, 2000",
+        "January 1, 2002",
+        "November 24, 2022"
+      ],
+      "answer": 1,
+      "explain": "July 1, 2000. The Standard Bylaws applied to every strata from January 1, 2002.",
+      "ref": "Lesson 11 · The strata concept and unit entitlement"
+    },
+    {
+      "id": "11-002",
+      "tag": "Unit entitlement",
+      "q": "What does a strata lot's unit entitlement determine?",
+      "choices": [
+        "Only its annual property tax assessment",
+        "Its share of common property and expenses",
+        "The number of seats it holds on council",
+        "The maximum price it can be resold for"
+      ],
+      "answer": 1,
+      "explain": "It sets each lot's share of ownership of common property and of the strata's expenses (Form V).",
+      "ref": "Lesson 11 · The strata concept and unit entitlement"
+    },
+    {
+      "id": "11-003",
+      "tag": "Unit entitlement",
+      "q": "Total unit entitlement is 8,000; a lot has 64. What is its share of a $200,000 special levy?",
+      "choices": [
+        "$1,280",
+        "$1,600",
+        "$3,200",
+        "$2,560"
+      ],
+      "answer": 1,
+      "explain": "64 ÷ 8,000 × $200,000 = $1,600.",
+      "ref": "Lesson 11 · The strata concept and unit entitlement"
+    },
+    {
+      "id": "11-004",
+      "tag": "Unit entitlement",
+      "q": "How is unit entitlement usually calculated for residential strata lots?",
+      "choices": [
+        "By market value",
+        "By habitable area",
+        "By number of bedrooms",
+        "Equally for every lot"
+      ],
+      "answer": 1,
+      "explain": "Habitable area, which excludes patios, balconies, garages, parking and storage (other than closets).",
+      "ref": "Lesson 11 · The strata concept and unit entitlement"
+    },
+    {
+      "id": "11-005",
+      "tag": "Unit entitlement",
+      "q": "What vote is needed to allocate strata expenses on a basis other than unit entitlement?",
+      "choices": [
+        "A simple majority vote",
+        "A unanimous vote, registered",
+        "A ¾ vote of the owners",
+        "An 80% vote and court order"
+      ],
+      "answer": 1,
+      "explain": "A unanimous resolution, registered at the land title office.",
+      "ref": "Lesson 11 · The strata concept and unit entitlement"
+    },
+    {
+      "id": "11-006",
+      "tag": "Common property",
+      "q": "Who owns the common property in a strata development?",
+      "choices": [
+        "The strata corporation itself",
+        "The owners, as tenants in common",
+        "The original owner developer",
+        "The local municipality"
+      ],
+      "answer": 1,
+      "explain": "Owners hold it as tenants in common (by unit entitlement); the strata corporation controls and maintains it.",
+      "ref": "Lesson 11 · Common property and who gets to use it"
+    },
+    {
+      "id": "11-007",
+      "tag": "LCP",
+      "q": "How does limited common property differ from a short term exclusive use permission?",
+      "choices": [
+        "LCP is personal; a permission runs with the lot",
+        "LCP runs with the lot; a permission is personal",
+        "Both last a maximum of one year",
+        "Only LCP can be cancelled at any time"
+      ],
+      "answer": 1,
+      "explain": "LCP attaches to the strata lot; short term exclusive use is a personal, cancellable privilege.",
+      "ref": "Lesson 11 · Common property and who gets to use it"
+    },
+    {
+      "id": "11-008",
+      "tag": "LCP",
+      "q": "What vote can designate common property as LCP without amending the strata plan?",
+      "choices": [
+        "A majority vote at a council meeting",
+        "A ¾ vote at a general meeting, then filing",
+        "A unanimous vote of all the owners",
+        "An 80% vote of owners and a court order"
+      ],
+      "answer": 1,
+      "explain": "A ¾ resolution filed at the LTO (recorded in the Common Property Record). Amending the plan itself needs a unanimous vote.",
+      "ref": "Lesson 11 · Common property and who gets to use it"
+    },
+    {
+      "id": "11-009",
+      "tag": "Exclusive use",
+      "q": "What's the maximum term of a short term exclusive use permission for an ordinary storage locker?",
+      "choices": [
+        "6 months",
+        "1 year",
+        "5 years",
+        "10 years"
+      ],
+      "answer": 1,
+      "explain": "One year (renewable). Up to 5 years for a parking stall with owner-installed EV charging.",
+      "ref": "Lesson 11 · Common property and who gets to use it"
+    },
+    {
+      "id": "11-010",
+      "tag": "Parking",
+      "q": "Which arrangement is no longer allowed for parking stalls in new residential strata plans?",
+      "choices": [
+        "Limited common property stalls",
+        "Stalls as separate strata lots",
+        "Stalls forming part of a strata lot",
+        "Common property stalls by licence"
+      ],
+      "answer": 1,
+      "explain": "Separate-lot stalls appear only in some older residential plans.",
+      "ref": "Lesson 11 · Parking stalls and storage lockers"
+    },
+    {
+      "id": "11-011",
+      "tag": "EV",
+      "q": "How long does a strata have to decide an owner's request to install EV charging?",
+      "choices": [
+        "30 days",
+        "3 months",
+        "6 months",
+        "1 year"
+      ],
+      "answer": 1,
+      "explain": "Three months, and it can't unreasonably refuse (though it can set reasonable conditions).",
+      "ref": "Lesson 11 · EV charging"
+    },
+    {
+      "id": "11-012",
+      "tag": "EV",
+      "q": "A significant change to common property for EV charging needs what vote?",
+      "choices": [
+        "A ¾ vote",
+        "A majority vote",
+        "A unanimous vote",
+        "No vote at all"
+      ],
+      "answer": 1,
+      "explain": "EV-related approvals that would normally need ¾ drop to a majority.",
+      "ref": "Lesson 11 · EV charging"
+    },
+    {
+      "id": "11-013",
+      "tag": "Corporation",
+      "q": "When is a strata corporation created?",
+      "choices": [
+        "At the first annual general meeting",
+        "When the strata plan is deposited",
+        "When half the lots are sold",
+        "When the bylaws are filed"
+      ],
+      "answer": 1,
+      "explain": "On deposit of the strata plan at the land title office (s.2).",
+      "ref": "Lesson 11 · The strata corporation"
+    },
+    {
+      "id": "11-014",
+      "tag": "Corporation",
+      "q": "A court awards $500,000 against a strata corporation. Who ultimately pays?",
+      "choices": [
+        "The council members personally",
+        "Every owner, by unit entitlement",
+        "Only the strata's insurer",
+        "The strata manager"
+      ],
+      "answer": 1,
+      "explain": "A judgment against the strata is a judgment against all owners, shared by unit entitlement (except an owner who sued).",
+      "ref": "Lesson 11 · The strata corporation"
+    },
+    {
+      "id": "11-015",
+      "tag": "Sections",
+      "q": "Why might a mixed-use strata create sections?",
+      "choices": [
+        "To avoid paying property taxes",
+        "So each group bears its own costs",
+        "To allow rental restrictions",
+        "To avoid needing insurance"
+      ],
+      "answer": 1,
+      "explain": "Sections let groups (e.g. commercial and residential) handle and pay for matters affecting only their own lots.",
+      "ref": "Lesson 11 · The strata corporation"
+    },
+    {
+      "id": "11-016",
+      "tag": "Insurance",
+      "q": "Which is NOT normally covered by the strata corporation's insurance?",
+      "choices": [
+        "The building's common property",
+        "An owner's furniture and belongings",
+        "Fixtures the developer installed",
+        "Liability for bodily injury"
+      ],
+      "answer": 1,
+      "explain": "Owners need their own coverage for contents, deductibles passed on to them, and gaps that lead to special levies.",
+      "ref": "Lesson 11 · The strata corporation's duties"
+    },
+    {
+      "id": "11-017",
+      "tag": "Records",
+      "q": "How long does a strata have to provide copies of its bylaws and rules on request?",
+      "choices": [
+        "2 days",
+        "1 week",
+        "2 weeks",
+        "30 days"
+      ],
+      "answer": 1,
+      "explain": "One week for bylaws and rules; two weeks for other records.",
+      "ref": "Lesson 11 · Records and who can see them"
+    },
+    {
+      "id": "11-018",
+      "tag": "Records",
+      "q": "A tenant has a 4-year lease of a residential strata lot. What rights do they get?",
+      "choices": [
+        "None, since only owners have strata rights",
+        "The landlord's powers, after written notice",
+        "Only the right to vote on annual budgets",
+        "Full ownership rights over the strata lot"
+      ],
+      "answer": 1,
+      "explain": "s.148: tenants on leases of 3 years or more are assigned the landlord's powers and duties, once they give the strata written notice.",
+      "ref": "Lesson 11 · Records and who can see them"
+    },
+    {
+      "id": "11-019",
+      "tag": "Form B",
+      "q": "What is the maximum a strata can charge for an Information Certificate (Form B)?",
+      "choices": [
+        "$15",
+        "$35",
+        "$50",
+        "$100"
+      ],
+      "answer": 1,
+      "explain": "$35 plus up to 25 cents per page for copies, delivered within 8 days.",
+      "ref": "Lesson 11 · What the buyer can get, and what you must read"
+    },
+    {
+      "id": "11-020",
+      "tag": "Form B",
+      "q": "Which document must be attached to a Form B?",
+      "choices": [
+        "The owner's latest mortgage statement",
+        "The most recent depreciation report",
+        "The strata manager's service contract",
+        "Each owner's property tax assessment"
+      ],
+      "answer": 1,
+      "explain": "Rules, current budget and the most recent depreciation report (and any electrical planning report).",
+      "ref": "Lesson 11 · What the buyer can get, and what you must read"
+    },
+    {
+      "id": "11-021",
+      "tag": "Form F",
+      "q": "What is a Certificate of Payment (Form F) mainly used for?",
+      "choices": [
+        "Showing the monthly strata fee amount",
+        "Allowing a transfer to be registered",
+        "Approving a buyer's planned tenancy",
+        "Listing any pending bylaw changes"
+      ],
+      "answer": 1,
+      "explain": "The LTO won't register a transfer of a strata lot without one (except court-ordered sales). It's valid for 60 days.",
+      "ref": "Lesson 11 · What the buyer can get, and what you must read"
+    },
+    {
+      "id": "11-022",
+      "tag": "Form F",
+      "q": "How long is a Certificate of Payment valid once issued?",
+      "choices": [
+        "30 days",
+        "60 days",
+        "90 days",
+        "1 year"
+      ],
+      "answer": 1,
+      "explain": "60 days. The buyer's lawyer or notary usually orders it shortly before completion.",
+      "ref": "Lesson 11 · What the buyer can get, and what you must read"
+    },
+    {
+      "id": "11-023",
+      "tag": "Documents",
+      "q": "Why did the buyer's claim fail in Sask v. Brooke?",
+      "choices": [
+        "The seller had no duty to disclose",
+        "The minutes showed the leak history",
+        "The special levy was too small",
+        "The strata never had any leaks"
+      ],
+      "answer": 1,
+      "explain": "The buyer had the minutes, which described the leaks, so she couldn't show reasonable reliance on the seller's false statement.",
+      "ref": "Lesson 11 · What the buyer can get, and what you must read"
+    },
+    {
+      "id": "11-024",
+      "tag": "Documents",
+      "q": "How far back should licensees review strata minutes, where available?",
+      "choices": [
+        "6 months",
+        "At least 2 years",
+        "At least 5 years",
+        "10 years"
+      ],
+      "answer": 1,
+      "explain": "At least the preceding two years of council, general and section meeting minutes.",
+      "ref": "Lesson 11 · What the buyer can get, and what you must read"
+    },
+    {
+      "id": "11-025",
+      "tag": "Council",
+      "q": "What standard must a strata council member meet?",
+      "choices": [
+        "The standard of a professional engineer",
+        "Honest, good faith, reasonably prudent",
+        "Only a duty to avoid committing fraud",
+        "No legal standard applies to volunteers"
+      ],
+      "answer": 1,
+      "explain": "s.31: honesty and good faith, and the care, diligence and skill of a reasonably prudent person.",
+      "ref": "Lesson 11 · The council"
+    },
+    {
+      "id": "11-026",
+      "tag": "Handover",
+      "q": "When must a developer call the first AGM?",
+      "choices": [
+        "Within 1 year of filing the strata plan",
+        "Within 6 weeks of 50%+1 sold or 9 months",
+        "Only once all of the lots have been sold",
+        "Whenever a group of owners requests it"
+      ],
+      "answer": 1,
+      "explain": "Within 6 weeks after the earlier of 50% + 1 of the lots being conveyed or 9 months after the first conveyance.",
+      "ref": "Lesson 11 · The developer's first council and the handover"
+    },
+    {
+      "id": "11-027",
+      "tag": "Meetings",
+      "q": "How much written notice is required for a strata general meeting?",
+      "choices": [
+        "7 days",
+        "At least 20 days",
+        "At least 30 days",
+        "14 days"
+      ],
+      "answer": 1,
+      "explain": "At least 20 days' written notice.",
+      "ref": "Lesson 11 · General meetings"
+    },
+    {
+      "id": "11-028",
+      "tag": "Meetings",
+      "q": "What share of votes can demand a special general meeting?",
+      "choices": [
+        "10%",
+        "20%",
+        "25%",
+        "50%"
+      ],
+      "answer": 1,
+      "explain": "Owners holding at least 20% of the votes can demand an SGM in writing.",
+      "ref": "Lesson 11 · General meetings"
+    },
+    {
+      "id": "11-029",
+      "tag": "Voting",
+      "q": "When can a mortgagee vote in place of a strata owner?",
+      "choices": [
+        "Whenever the owner misses a mortgage payment",
+        "On security-related matters, with 3 days' notice",
+        "On any matter at all, if the owner agrees",
+        "Never, because only owners can ever vote"
+      ],
+      "answer": 1,
+      "explain": "Only if the mortgage gives the right, with at least 3 days' written notice, on insurance, maintenance, finance or matters affecting its security.",
+      "ref": "Lesson 11 · Voting"
+    },
+    {
+      "id": "11-030",
+      "tag": "Voting",
+      "q": "Two co-owners of a strata lot can't agree how to vote. What happens?",
+      "choices": [
+        "The older owner decides",
+        "Their vote isn't counted",
+        "The chair decides",
+        "They each get half a vote"
+      ],
+      "answer": 1,
+      "explain": "If co-owners can't agree, the chair must not count their vote on that matter.",
+      "ref": "Lesson 11 · Voting"
+    },
+    {
+      "id": "11-031",
+      "tag": "Managers",
+      "q": "Whom does a strata property manager represent?",
+      "choices": [
+        "Each individual owner",
+        "The strata corporation",
+        "The developer",
+        "The tenants"
+      ],
+      "answer": 1,
+      "explain": "The strata corporation. The manager takes instructions only from council and owes it fiduciary duties.",
+      "ref": "Lesson 11 · Strata managers"
+    },
+    {
+      "id": "11-032",
+      "tag": "Funds",
+      "q": "Which expense would normally come from the contingency reserve fund?",
+      "choices": [
+        "Monthly gardening",
+        "Replacing the roof",
+        "Annual insurance premium",
+        "Monthly utility bills"
+      ],
+      "answer": 1,
+      "explain": "The CRF covers expenses that occur less often than once a year.",
+      "ref": "Lesson 11 · Strata finances"
+    },
+    {
+      "id": "11-033",
+      "tag": "Funds",
+      "q": "What's the minimum annual contribution to the CRF?",
+      "choices": [
+        "5% of the operating budget",
+        "10% of the operating budget",
+        "25% of the operating budget",
+        "Whatever council decides"
+      ],
+      "answer": 1,
+      "explain": "At least 10% of the operating fund budget, considering the latest depreciation report.",
+      "ref": "Lesson 11 · Strata finances"
+    },
+    {
+      "id": "11-034",
+      "tag": "Funds",
+      "q": "A selling owner asks for a refund of their CRF contributions. What's the answer?",
+      "choices": [
+        "They get a pro-rated refund",
+        "No, refunds are prohibited",
+        "Yes, if a ¾ vote approves",
+        "Only if the CRF is overfunded"
+      ],
+      "answer": 1,
+      "explain": "s.101 expressly prohibits returning CRF contributions.",
+      "ref": "Lesson 11 · Strata finances"
+    },
+    {
+      "id": "11-035",
+      "tag": "Funds",
+      "q": "If the bylaws are silent, how much can council spend from the operating fund without approval?",
+      "choices": [
+        "Up to $5,000 in any one year",
+        "Lesser of 5% of contributions or $2,000",
+        "Up to 10% of the annual operating budget",
+        "Nothing at all without a ¾ vote"
+      ],
+      "answer": 1,
+      "explain": "The lesser of 5% of the year's operating contributions or $2,000 (plus emergency spending).",
+      "ref": "Lesson 11 · Strata finances"
+    },
+    {
+      "id": "11-036",
+      "tag": "Interim budget",
+      "q": "The developer's interim budget underestimated expenses by 15%. What's the consequence?",
+      "choices": [
+        "The owners pay the difference",
+        "The developer pays it plus a penalty",
+        "Nothing, since it was only an estimate",
+        "The first AGM must be postponed"
+      ],
+      "answer": 1,
+      "explain": "The developer pays the shortfall; over 10%, it also pays a penalty of double (or triple) the shortfall.",
+      "ref": "Lesson 11 · The developer's interim budget"
+    },
+    {
+      "id": "11-037",
+      "tag": "CRF seed",
+      "q": "A developer conveys the first lot 8 months after depositing the plan. Interim operating expenses are $200,000. What must it pay into the CRF?",
+      "choices": [
+        "$10,000",
+        "$20,000",
+        "$100,000",
+        "Nothing"
+      ],
+      "answer": 1,
+      "explain": "Within the first year: 10% of estimated operating expenses = $20,000.",
+      "ref": "Lesson 11 · The developer's interim budget"
+    },
+    {
+      "id": "11-038",
+      "tag": "Levy",
+      "q": "What vote is needed for a special levy shared by unit entitlement?",
+      "choices": [
+        "A majority vote",
+        "A ¾ vote",
+        "A unanimous vote",
+        "An 80% vote"
+      ],
+      "answer": 1,
+      "explain": "¾ by unit entitlement; unanimous for any other sharing method.",
+      "ref": "Lesson 11 · Special levies"
+    },
+    {
+      "id": "11-039",
+      "tag": "Levy",
+      "q": "A ¾ vote fails for a levy to fix a dangerous balcony. What can the strata do?",
+      "choices": [
+        "Nothing until the next annual general meeting",
+        "Pass it by majority, then seek court approval",
+        "Charge the levy anyway, as an emergency",
+        "Let council impose it without any vote"
+      ],
+      "answer": 1,
+      "explain": "s.173(2): for repairs necessary for safety or to prevent significant loss, a majority plus a Supreme Court application within 90 days.",
+      "ref": "Lesson 11 · Special levies"
+    },
+    {
+      "id": "11-040",
+      "tag": "Levy",
+      "q": "A levy instalment falls due after completion of a sale. Under s.109, who pays it?",
+      "choices": [
+        "The seller, as the former owner",
+        "The buyer, as the new owner",
+        "They split it equally",
+        "The strata must waive it"
+      ],
+      "answer": 1,
+      "explain": "Whoever owns the lot when the payment is due pays it, unless the contract shifts it.",
+      "ref": "Lesson 11 · Special levies"
+    },
+    {
+      "id": "11-041",
+      "tag": "Levy",
+      "q": "Which wording should a special levy holdback clause use?",
+      "choices": [
+        "\"Assessment passed\"",
+        "\"Special levy approved\"",
+        "\"Charge imposed\"",
+        "\"Fee adopted\""
+      ],
+      "answer": 1,
+      "explain": "Match s.108: \"approved\" rather than \"passed\", and \"special levy\" rather than \"assessment\".",
+      "ref": "Lesson 11 · Special levies"
+    },
+    {
+      "id": "11-042",
+      "tag": "Depreciation",
+      "q": "How often must a strata obtain a depreciation report after its first one?",
+      "choices": [
+        "Every year",
+        "Every 5 years",
+        "Every 10 years",
+        "Only when selling"
+      ],
+      "answer": 1,
+      "explain": "Every 5 years. Stratas with fewer than 5 lots are exempt.",
+      "ref": "Lesson 11 · Depreciation reports and electrical planning reports"
+    },
+    {
+      "id": "11-043",
+      "tag": "Depreciation",
+      "q": "Over what period does a depreciation report's financial forecast run?",
+      "choices": [
+        "5 years",
+        "30 years",
+        "10 years",
+        "50 years"
+      ],
+      "answer": 1,
+      "explain": "30 years, showing the effect on the contingency reserve fund.",
+      "ref": "Lesson 11 · Depreciation reports and electrical planning reports"
+    },
+    {
+      "id": "11-044",
+      "tag": "Collection",
+      "q": "What must a strata do before suing an owner for unpaid fees?",
+      "choices": [
+        "Get a court order first",
+        "Give at least 2 weeks' written demand",
+        "Hold a special general meeting",
+        "File a lien against the strata lot first"
+      ],
+      "answer": 1,
+      "explain": "At least two weeks' written notice demanding payment.",
+      "ref": "Lesson 11 · Collecting money from owners"
+    },
+    {
+      "id": "11-045",
+      "tag": "Collection",
+      "q": "Can a strata file a lien for unpaid bylaw fines?",
+      "choices": [
+        "Yes, like any other strata debt",
+        "No, but it can withhold the Form F",
+        "Yes, once 30 days have passed",
+        "Only after a ¾ vote of owners"
+      ],
+      "answer": 1,
+      "explain": "No lien for fines or bylaw-remedy costs; the strata can sue or withhold the Certificate of Payment.",
+      "ref": "Lesson 11 · Collecting money from owners"
+    },
+    {
+      "id": "11-046",
+      "tag": "Collection",
+      "q": "Which charge ranks ahead of a registered strata lien?",
+      "choices": [
+        "A first mortgage",
+        "A builders lien",
+        "A second mortgage",
+        "A line of credit"
+      ],
+      "answer": 1,
+      "explain": "A strata lien beats every other charge except builders liens, Crown liens (not mortgages) and liens for a judgment share.",
+      "ref": "Lesson 11 · Collecting money from owners"
+    },
+    {
+      "id": "11-047",
+      "tag": "Bylaws",
+      "q": "When is an amended bylaw enforceable?",
+      "choices": [
+        "When council approves it",
+        "Once it's filed at the LTO",
+        "At the next AGM",
+        "30 days after the vote"
+      ],
+      "answer": 1,
+      "explain": "Only once it's filed at the land title office.",
+      "ref": "Lesson 11 · Bylaws and rules"
+    },
+    {
+      "id": "11-048",
+      "tag": "Rules",
+      "q": "What can strata rules regulate?",
+      "choices": [
+        "Use of the individual strata lots",
+        "Use of common property and assets",
+        "The strata corporation's budget",
+        "Rental of the strata lots to tenants"
+      ],
+      "answer": 1,
+      "explain": "Rules (made by council) cover common property and common assets, not strata lots.",
+      "ref": "Lesson 11 · Bylaws and rules"
+    },
+    {
+      "id": "11-049",
+      "tag": "Rules",
+      "q": "A rule made by council isn't ratified at the next AGM. What happens?",
+      "choices": [
+        "It becomes a bylaw",
+        "It ceases to have effect",
+        "It continues for a year",
+        "It needs filing at the LTO"
+      ],
+      "answer": 1,
+      "explain": "Unratified rules lapse at the first AGM after they're made.",
+      "ref": "Lesson 11 · Bylaws and rules"
+    },
+    {
+      "id": "11-050",
+      "tag": "Bylaws",
+      "q": "After the second AGM, what vote amends the bylaws of a residential strata?",
+      "choices": [
+        "A majority vote",
+        "A ¾ vote",
+        "A unanimous vote",
+        "An 80% vote"
+      ],
+      "answer": 1,
+      "explain": "¾. Before the second AGM, a residential strata needs a unanimous vote.",
+      "ref": "Lesson 11 · Bylaws and rules"
+    },
+    {
+      "id": "11-051",
+      "tag": "Bylaws",
+      "q": "In a mixed residential and commercial strata, what does a bylaw amendment need after the 2nd AGM?",
+      "choices": [
+        "¾ of all lots combined",
+        "¾ of each group separately",
+        "A majority of each group",
+        "Unanimous approval"
+      ],
+      "answer": 1,
+      "explain": "Both a ¾ vote of residential lots and a ¾ vote of non-residential lots (unless the bylaws say otherwise for non-residential).",
+      "ref": "Lesson 11 · Bylaws and rules"
+    },
+    {
+      "id": "11-052",
+      "tag": "Enforcement",
+      "q": "What must happen before a strata fines an owner?",
+      "choices": [
+        "Nothing, because fines are automatic",
+        "Written details and a chance to respond",
+        "An order from the BC Supreme Court",
+        "A ¾ vote at a general meeting first"
+      ],
+      "answer": 1,
+      "explain": "Complaint, written particulars, a reasonable chance to answer (including a hearing if asked), then a written decision.",
+      "ref": "Lesson 11 · Enforcing bylaws and rules"
+    },
+    {
+      "id": "11-053",
+      "tag": "Fines",
+      "q": "What is the maximum fine per bylaw contravention under the Regulation (other than short-term rentals)?",
+      "choices": [
+        "$50",
+        "$200",
+        "$500",
+        "$1,000"
+      ],
+      "answer": 1,
+      "explain": "$200 per bylaw breach and $50 per rule breach, every 7 days. Short-term rental bylaws: up to $1,000 daily.",
+      "ref": "Lesson 11 · Enforcing bylaws and rules"
+    },
+    {
+      "id": "11-054",
+      "tag": "Enforcement",
+      "q": "In Bahmutsky v. Petkau, why did the strata have to pay damages?",
+      "choices": [
+        "It fined a resident too much",
+        "It failed to enforce its bylaws",
+        "It passed an illegal bylaw",
+        "It refused to repair a roof"
+      ],
+      "answer": 1,
+      "explain": "Enforcing bylaws is mandatory (s.26). The strata threatened a fine for smoking nuisance but never followed through.",
+      "ref": "Lesson 11 · Enforcing bylaws and rules"
+    },
+    {
+      "id": "11-055",
+      "tag": "Rentals",
+      "q": "Since November 24, 2022, what can a strata still restrict?",
+      "choices": [
+        "Long-term rentals",
+        "Short-term rentals",
+        "Who may be a tenant",
+        "The number of rented units"
+      ],
+      "answer": 1,
+      "explain": "General rental restrictions are banned; short-term rental restrictions are still allowed.",
+      "ref": "Lesson 11 · Common restrictions to check"
+    },
+    {
+      "id": "11-056",
+      "tag": "Rentals",
+      "q": "When must a Form K signed by the tenant be given to the strata?",
+      "choices": [
+        "Before the tenant first views the unit",
+        "Within 2 weeks of the tenancy starting",
+        "Within 30 days of signing the lease",
+        "Only at the next annual general meeting"
+      ],
+      "answer": 1,
+      "explain": "Within two weeks. If the landlord didn't provide the bylaws and Form K, the tenant can end the tenancy within 90 days.",
+      "ref": "Lesson 11 · Common restrictions to check"
+    },
+    {
+      "id": "11-057",
+      "tag": "Age",
+      "q": "Which age-restriction bylaw is allowed today?",
+      "choices": [
+        "Residents must be 19+",
+        "Residents must be 55+",
+        "Residents must be 65+ only",
+        "No age bylaws at all"
+      ],
+      "answer": 1,
+      "explain": "Only age restrictions of 55 or older (\"not less than 55\"). Other ages were removed in 2022.",
+      "ref": "Lesson 11 · Common restrictions to check"
+    },
+    {
+      "id": "11-058",
+      "tag": "Pets",
+      "q": "Under the Standard Bylaws, which pet is an owner allowed to keep?",
+      "choices": [
+        "Two dogs",
+        "One dog or one cat",
+        "Three caged birds",
+        "Any number of cats"
+      ],
+      "answer": 1,
+      "explain": "Reasonable numbers of fish and small caged mammals, up to 2 caged birds, and one dog or one cat.",
+      "ref": "Lesson 11 · Common restrictions to check"
+    },
+    {
+      "id": "11-059",
+      "tag": "Repairs",
+      "q": "Which repair is always the strata's job, even on limited common property?",
+      "choices": [
+        "Replacing a lot's kitchen cabinets",
+        "Repairing balcony railings",
+        "Painting a lot's bedroom",
+        "Fixing an owner's dishwasher"
+      ],
+      "answer": 1,
+      "explain": "The strata always repairs structure, exterior, balconies, exterior doors and windows, and fences or railings.",
+      "ref": "Lesson 11 · Repairs"
+    },
+    {
+      "id": "11-060",
+      "tag": "Wind-up",
+      "q": "What's needed to wind up a strata and sell the whole property?",
+      "choices": [
+        "A ¾ vote of the owners",
+        "An 80% vote and a court order",
+        "A simple majority vote",
+        "A unanimous vote, nothing more"
+      ],
+      "answer": 1,
+      "explain": "An 80% resolution at a general meeting plus BC Supreme Court approval.",
+      "ref": "Lesson 11 · Winding up and legal proceedings"
+    },
+    {
+      "id": "11-061",
+      "tag": "Wind-up",
+      "q": "In Dubas v. Strata Plan VR 92, what vote was needed to hire a brokerage to market the complex?",
+      "choices": [
+        "80%",
+        "A majority",
+        "¾",
+        "Unanimous"
+      ],
+      "answer": 1,
+      "explain": "A majority vote at a general meeting was enough.",
+      "ref": "Lesson 11 · Winding up and legal proceedings"
+    },
+    {
+      "id": "11-062",
+      "tag": "Lawsuits",
+      "q": "An owner sues the strata and wins. Must they help pay the judgment?",
+      "choices": [
+        "Yes, by unit entitlement",
+        "No",
+        "Only half their share",
+        "Only if they're on council"
+      ],
+      "answer": 1,
+      "explain": "An owner who obtains a judgment against the strata doesn't contribute to it (or to the strata's defence costs).",
+      "ref": "Lesson 11 · Winding up and legal proceedings"
+    },
+    {
+      "id": "11-063",
+      "tag": "Leasehold",
+      "q": "What must the minimum term of a ground lease for a leasehold strata be?",
+      "choices": [
+        "25 years",
+        "50 years",
+        "99 years",
+        "125 years"
+      ],
+      "answer": 1,
+      "explain": "At least 50 years.",
+      "ref": "Lesson 11 · Leasehold stratas"
+    },
+    {
+      "id": "11-064",
+      "tag": "Leasehold",
+      "q": "What happens if a leasehold landlord doesn't give notice of non-renewal at least 1 year before expiry?",
+      "choices": [
+        "The lease ends anyway",
+        "Automatic 5-year renewal",
+        "Conversion to freehold",
+        "The tenant must buy the land"
+      ],
+      "answer": 1,
+      "explain": "The default is an automatic five-year renewal.",
+      "ref": "Lesson 11 · Leasehold stratas"
+    },
+    {
+      "id": "11-065",
+      "tag": "Leasehold",
+      "q": "Does the Home Buyer Rescission Period apply to a leasehold strata purchase?",
+      "choices": [
+        "Yes, always",
+        "No",
+        "Only for new units",
+        "Only if residential"
+      ],
+      "answer": 1,
+      "explain": "The HBRP doesn't apply to leasehold interests or homes on leased land.",
+      "ref": "Lesson 11 · Leasehold stratas"
+    },
+    {
+      "id": "11-066",
+      "tag": "Leasehold",
+      "q": "What does a buyer of a leasehold strata lot actually acquire?",
+      "choices": [
+        "Fee simple title to the strata lot itself",
+        "An assignment of the strata lot lease",
+        "Shares in a non-profit housing cooperative",
+        "A revocable licence to occupy the unit"
+      ],
+      "answer": 1,
+      "explain": "The buyer takes an assignment of the remaining term of the strata lot lease.",
+      "ref": "Lesson 11 · Leasehold stratas"
+    },
+    {
+      "id": "11-067",
+      "tag": "Co-op",
+      "q": "What does a buyer in a cooperative acquire?",
+      "choices": [
+        "Fee simple in the unit",
+        "Shares and a lease of a unit",
+        "A strata lot lease",
+        "Common property as tenant in common"
+      ],
+      "answer": 1,
+      "explain": "Shares in the co-op corporation, which entitle them to lease a unit.",
+      "ref": "Lesson 11 · Strata vs cooperative"
+    },
+    {
+      "id": "11-068",
+      "tag": "Co-op",
+      "q": "Why is financing a co-op purchase often harder than a strata purchase?",
+      "choices": [
+        "Co-ops are banned from having mortgages",
+        "The buyer has no fee simple to mortgage",
+        "Banks never lend on BC co-op purchases",
+        "Co-op units can never be resold later"
+      ],
+      "answer": 1,
+      "explain": "The buyer can offer only a security interest in shares (and maybe a leasehold mortgage).",
+      "ref": "Lesson 11 · Strata vs cooperative"
+    },
+    {
+      "id": "11-069",
+      "tag": "Co-op",
+      "q": "Which statement about selling a co-op interest is correct?",
+      "choices": [
+        "Owners can sell to anyone they choose",
+        "The board usually must approve the buyer",
+        "The strata council must approve the buyer",
+        "Only the original developer can sell"
+      ],
+      "answer": 1,
+      "explain": "Co-op boards usually approve buyers and have wide discretion.",
+      "ref": "Lesson 11 · Strata vs cooperative"
+    }
+  ]
+}

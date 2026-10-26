@@ -67,13 +67,13 @@
     },
     {
       "id": "10", "num": 10, "block": "D", "title": "Commercial and Residential Tenancies", "chapters": ["Ch 6"], "estHours": 5,
-      "status": "coming_soon",
+      "status": "ready", "quiz": true, "cheatsheet": true,
       "summary": "Two completely different rulebooks: freely negotiated commercial leases, and the heavily regulated residential tenancy regime.",
       "topics": ["Lease vs licence", "Commercial vs residential tenancies", "Fixed-term and periodic tenancies", "Ending a residential tenancy", "Rent increases", "Residential tenancy arbitration", "Security deposits, repairs, privacy", "Assignment and subletting"]
     },
     {
       "id": "11", "num": 11, "block": "D", "title": "Strata Properties and Cooperatives", "chapters": ["Ch 7"], "estHours": 6,
-      "status": "coming_soon",
+      "status": "ready", "quiz": true, "cheatsheet": true,
       "summary": "How condos are governed and financed, and how cooperatives differ from them.",
       "topics": ["Strata corporation vs strata council", "Governance and meetings", "Finances, contingency reserve, special levies", "Bylaws and rules", "Repairs", "Legal proceedings", "Leasehold stratas", "Strata vs cooperative", "Forms B, F and K"]
     },

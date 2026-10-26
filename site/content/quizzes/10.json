@@ -1,0 +1,845 @@
+{
+  "lessonId": "10",
+  "questions": [
+    {
+      "id": "10-001",
+      "tag": "Lease vs licence",
+      "q": "What's the most important factor in deciding whether an agreement is a lease or a licence?",
+      "choices": [
+        "What the parties chose to call the document",
+        "Whether the occupier has exclusive possession",
+        "Whether the rent is paid monthly or yearly",
+        "Whether the agreement was ever registered"
+      ],
+      "answer": 1,
+      "explain": "Ocean Harvesters v. Quinlan Bros.: it's about intention, and exclusive possession is the key evidence. Labels don't decide it.",
+      "ref": "Lesson 10 · Lease or licence?"
+    },
+    {
+      "id": "10-002",
+      "tag": "Lease vs licence",
+      "q": "An owner who holds a licence over part of their land sells the land. What happens to the licence?",
+      "choices": [
+        "The buyer takes subject to it",
+        "It doesn't bind the buyer",
+        "It converts into a lease",
+        "It continues for one more year"
+      ],
+      "answer": 1,
+      "explain": "A licence is a personal contractual permission, not an interest in land, so it doesn't run with the land.",
+      "ref": "Lesson 10 · Lease or licence?"
+    },
+    {
+      "id": "10-003",
+      "tag": "Lease vs licence",
+      "q": "A landlord provides daily meals and a housekeeper who enters the room at will. This suggests what?",
+      "choices": [
+        "A periodic tenancy",
+        "A licence",
+        "A tenancy at will",
+        "A fixed term lease"
+      ],
+      "answer": 1,
+      "explain": "The occupier lacks exclusive possession, which points to a licence.",
+      "ref": "Lesson 10 · Lease or licence?"
+    },
+    {
+      "id": "10-004",
+      "tag": "Which Act",
+      "q": "Which arrangement IS covered by the Residential Tenancy Act?",
+      "choices": [
+        "A room sharing a kitchen with the owner",
+        "A caretaker's suite in an apartment block",
+        "A furnished vacation rental for a week",
+        "A 25-year lease of a house"
+      ],
+      "answer": 1,
+      "explain": "Caretakers' and employees' units are included. Shared kitchen/bathroom with the owner, vacation rentals and terms over 20 years are excluded.",
+      "ref": "Lesson 10 · Commercial vs residential: which rulebook?"
+    },
+    {
+      "id": "10-005",
+      "tag": "Which Act",
+      "q": "A florist rents a shop with an apartment above it under a single lease. Which law mainly governs?",
+      "choices": [
+        "The Residential Tenancy Act",
+        "The common law and the lease",
+        "The Strata Property Act",
+        "The Manufactured Home Park Tenancy Act"
+      ],
+      "answer": 1,
+      "explain": "Business premises with an attached dwelling under one lease are excluded from the RTA, so it's a commercial tenancy.",
+      "ref": "Lesson 10 · Commercial vs residential: which rulebook?"
+    },
+    {
+      "id": "10-006",
+      "tag": "Agreement",
+      "q": "How soon must a residential landlord give the tenant a copy of the signed tenancy agreement?",
+      "choices": [
+        "Within 7 days",
+        "Within 21 days",
+        "Within 30 days",
+        "Only on request"
+      ],
+      "answer": 1,
+      "explain": "Promptly, and in any event within 21 days.",
+      "ref": "Lesson 10 · What must be in the agreement"
+    },
+    {
+      "id": "10-007",
+      "tag": "Agreement",
+      "q": "Which commercial lease must be in writing to be enforceable?",
+      "choices": [
+        "Any lease over 1 year",
+        "A lease over 3 years",
+        "Only leases over 20 years",
+        "Every commercial lease"
+      ],
+      "answer": 1,
+      "explain": "Law and Equity Act s.59 requires writing for leases over 3 years.",
+      "ref": "Lesson 10 · What must be in the agreement"
+    },
+    {
+      "id": "10-008",
+      "tag": "Fixed term",
+      "q": "A one-year commercial lease expires and nobody says anything. The tenant leaves on the last day. Was notice needed?",
+      "choices": [
+        "Yes, one month's notice",
+        "No, it ended automatically",
+        "Yes, six months' notice",
+        "Yes, reasonable notice"
+      ],
+      "answer": 1,
+      "explain": "A commercial fixed term ends automatically at the end of the term.",
+      "ref": "Lesson 10 · Fixed term tenancies"
+    },
+    {
+      "id": "10-009",
+      "tag": "Fixed term",
+      "q": "A one-year residential tenancy expires with no vacate clause and no new agreement. What happens?",
+      "choices": [
+        "The tenancy simply ends automatically",
+        "It becomes month-to-month on the same terms",
+        "It renews automatically for another full year",
+        "The tenant must move out within 30 days"
+      ],
+      "answer": 1,
+      "explain": "Under s.44(3), it's deemed renewed as a month-to-month tenancy on the same terms.",
+      "ref": "Lesson 10 · Fixed term tenancies"
+    },
+    {
+      "id": "10-010",
+      "tag": "Fixed term",
+      "q": "When can a residential tenancy agreement validly require the tenant to move out at the end of a fixed term?",
+      "choices": [
+        "Whenever both parties have agreed to it in writing",
+        "For a sublease, or if the landlord's family moves in",
+        "Whenever the landlord is planning to sell the home",
+        "Only for fixed terms that are 6 months or shorter"
+      ],
+      "answer": 1,
+      "explain": "Vacate clauses are limited to subleases and the circumstances in Regulation s.13.1 (landlord or close family occupying).",
+      "ref": "Lesson 10 · Fixed term tenancies"
+    },
+    {
+      "id": "10-011",
+      "tag": "Periodic",
+      "q": "A commercial tenant overholds after a 3-year lease at \"$24,000 per year, payable $2,000 monthly\". The landlord accepts rent. What tenancy probably arises?",
+      "choices": [
+        "Month-to-month",
+        "Year-to-year",
+        "A tenancy at will",
+        "A new 3-year term"
+      ],
+      "answer": 1,
+      "explain": "An original term of a year or more with rent stated yearly usually implies a yearly tenancy (unless the lease says otherwise).",
+      "ref": "Lesson 10 · Periodic tenancies"
+    },
+    {
+      "id": "10-012",
+      "tag": "Periodic",
+      "q": "With no lease clause, what's the usual reasonable notice to end a yearly commercial periodic tenancy?",
+      "choices": [
+        "One month",
+        "Six months",
+        "One year",
+        "Three months"
+      ],
+      "answer": 1,
+      "explain": "Usually six months for a yearly tenancy, and one full period for weekly or monthly ones, though it's flexible.",
+      "ref": "Lesson 10 · Periodic tenancies"
+    },
+    {
+      "id": "10-013",
+      "tag": "Periodic",
+      "q": "In Union Properties v. Johnston Terminals, what notice was found reasonable for a monthly commercial tenancy?",
+      "choices": [
+        "7 days",
+        "28 days",
+        "60 days",
+        "90 days"
+      ],
+      "answer": 1,
+      "explain": "28 days. What's reasonable depends on the circumstances.",
+      "ref": "Lesson 10 · Periodic tenancies"
+    },
+    {
+      "id": "10-014",
+      "tag": "At will",
+      "q": "A seller lets the buyer move in two weeks before completion, with nothing agreed about rent. What is this?",
+      "choices": [
+        "A periodic tenancy",
+        "A tenancy at will",
+        "A licence to occupy",
+        "A fixed term tenancy"
+      ],
+      "answer": 1,
+      "explain": "A tenancy at will. The seller can still claim compensation for use and occupation unless it was agreed to be rent-free.",
+      "ref": "Lesson 10 · Tenancy at will"
+    },
+    {
+      "id": "10-015",
+      "tag": "Ending",
+      "q": "What is \"security of tenure\" under the Residential Tenancy Act?",
+      "choices": [
+        "The tenant's right to renew any lease",
+        "Tenancies end only on grounds the Act allows",
+        "The landlord's right to collect a deposit",
+        "Protection from all future rent increases"
+      ],
+      "answer": 1,
+      "explain": "Landlords can end a tenancy only on grounds the Act permits; complaining about repairs isn't one.",
+      "ref": "Lesson 10 · Ending a residential tenancy"
+    },
+    {
+      "id": "10-016",
+      "tag": "Non-payment",
+      "q": "A tenant gets a notice for unpaid rent. How can they cancel it?",
+      "choices": [
+        "Pay within 10 days",
+        "Pay within 5 days",
+        "Apologize in writing",
+        "Pay before the effective date"
+      ],
+      "answer": 1,
+      "explain": "Paying the overdue rent within 5 days of receiving the notice makes it of no effect (or they can dispute within 5 days).",
+      "ref": "Lesson 10 · The landlord's notices at a glance"
+    },
+    {
+      "id": "10-017",
+      "tag": "Non-payment",
+      "q": "How soon can a notice for non-payment of rent take effect?",
+      "choices": [
+        "Immediately",
+        "At least 10 days after receipt",
+        "At least one month after receipt",
+        "At the end of the rental period"
+      ],
+      "answer": 1,
+      "explain": "Not earlier than 10 days after the tenant receives it.",
+      "ref": "Lesson 10 · The landlord's notices at a glance"
+    },
+    {
+      "id": "10-018",
+      "tag": "Cause",
+      "q": "How much notice must a landlord give when ending a tenancy for cause?",
+      "choices": [
+        "10 days' notice",
+        "At least one month",
+        "Two months' notice",
+        "Three months' notice"
+      ],
+      "answer": 1,
+      "explain": "At least one month, effective on the last day of a rental period.",
+      "ref": "Lesson 10 · The landlord's notices at a glance"
+    },
+    {
+      "id": "10-019",
+      "tag": "Cause",
+      "q": "Which is NOT a ground to end a residential tenancy for cause?",
+      "choices": [
+        "Repeatedly paying rent late",
+        "Complaining about needed repairs",
+        "Subletting without written consent",
+        "Giving false information to a buyer"
+      ],
+      "answer": 1,
+      "explain": "Complaining about repairs isn't cause. The Act protects security of tenure.",
+      "ref": "Lesson 10 · The landlord's notices at a glance"
+    },
+    {
+      "id": "10-020",
+      "tag": "Dispute",
+      "q": "A tenant receives a Three Month Notice for landlord's use. How long do they have to dispute it?",
+      "choices": [
+        "5 days",
+        "21 days",
+        "10 days",
+        "30 days"
+      ],
+      "answer": 1,
+      "explain": "5 days (rent), 10 (cause), 15 (two-month), 21 (three-month), 30 (four-month).",
+      "ref": "Lesson 10 · The landlord's notices at a glance"
+    },
+    {
+      "id": "10-021",
+      "tag": "Dispute",
+      "q": "What happens if a tenant doesn't dispute a valid notice in time?",
+      "choices": [
+        "The notice expires",
+        "They're deemed to accept it",
+        "The landlord must serve it again",
+        "An arbitrator reviews it anyway"
+      ],
+      "answer": 1,
+      "explain": "They're conclusively presumed to accept the end of tenancy and must leave by the effective date.",
+      "ref": "Lesson 10 · The landlord's notices at a glance"
+    },
+    {
+      "id": "10-022",
+      "tag": "Purchaser's use",
+      "q": "Which is NOT required before a seller must give a Three Month Notice for a buyer's use?",
+      "choices": [
+        "All subjects in the sale have been removed",
+        "The buyer has already completed the purchase",
+        "The buyer intends in good faith to occupy",
+        "The buyer asks the seller in writing"
+      ],
+      "answer": 1,
+      "explain": "The notice is given before completion, once subjects are removed and the buyer asks in writing.",
+      "ref": "Lesson 10 · Landlord's and purchaser's use (s.49)"
+    },
+    {
+      "id": "10-023",
+      "tag": "Purchaser's use",
+      "q": "Who counts as a \"close family member\" for landlord's or purchaser's use?",
+      "choices": [
+        "A brother or sister",
+        "A parent, spouse or child",
+        "A cousin of the landlord",
+        "A business partner"
+      ],
+      "answer": 1,
+      "explain": "Parent, spouse or child, or the spouse's parent or child. Not siblings.",
+      "ref": "Lesson 10 · Landlord's and purchaser's use (s.49)"
+    },
+    {
+      "id": "10-024",
+      "tag": "Purchaser's use",
+      "q": "A buyer wants vacant possession of a unit with a fixed term ending in 8 months. Can a Three Month Notice end it sooner?",
+      "choices": [
+        "Yes, if three months' notice is given",
+        "No, not before the fixed term ends",
+        "Yes, with one month's compensation",
+        "Yes, if the buyer pays the tenant"
+      ],
+      "answer": 1,
+      "explain": "Landlord's or purchaser's use notices can't take effect before the fixed term ends.",
+      "ref": "Lesson 10 · Landlord's and purchaser's use (s.49)"
+    },
+    {
+      "id": "10-025",
+      "tag": "Purchaser's use",
+      "q": "In which building can a landlord NOT end a tenancy for their own or a purchaser's use?",
+      "choices": [
+        "A house with one basement suite",
+        "A non-strata building with 5+ rental units",
+        "A strata condo owned by a single individual",
+        "A duplex that is owned entirely by one person"
+      ],
+      "answer": 1,
+      "explain": "s.49(6.1): not in buildings with 5+ rental units that are non-strata or stratified but all owned by one owner.",
+      "ref": "Lesson 10 · Landlord's and purchaser's use (s.49)"
+    },
+    {
+      "id": "10-026",
+      "tag": "Purchaser's use",
+      "q": "In the 2016 discipline case, why was the buyer's licensee suspended?",
+      "choices": [
+        "They refused to show the property to buyers",
+        "The contract gave far too little notice",
+        "They lied about the rental income",
+        "They kept the tenant's security deposit"
+      ],
+      "answer": 1,
+      "explain": "The contract set vacant possession on June 14 (formed May 7) with no tenancy details or notice clause: 7 days, $1,250 and a course.",
+      "ref": "Lesson 10 · Landlord's and purchaser's use (s.49)"
+    },
+    {
+      "id": "10-027",
+      "tag": "Compensation",
+      "q": "What must a landlord pay a tenant who receives a s.49 landlord's use notice?",
+      "choices": [
+        "Nothing",
+        "One month's rent",
+        "Two months' rent",
+        "Their moving costs"
+      ],
+      "answer": 1,
+      "explain": "One month's rent, on or before the effective date. The tenant can withhold the last month's rent.",
+      "ref": "Lesson 10 · Compensation"
+    },
+    {
+      "id": "10-028",
+      "tag": "Compensation",
+      "q": "A buyer has the seller evict a tenant for the buyer's use, then rents the home out instead. What can the tenant claim?",
+      "choices": [
+        "Nothing more",
+        "12 months' rent",
+        "3 months' rent",
+        "Their legal fees"
+      ],
+      "answer": 1,
+      "explain": "s.51(2): 12 months' rent if the stated purpose isn't carried out (on top of the one month already paid).",
+      "ref": "Lesson 10 · Compensation"
+    },
+    {
+      "id": "10-029",
+      "tag": "Renovation",
+      "q": "How does a landlord end a tenancy to renovate?",
+      "choices": [
+        "Serve a Two Month Notice",
+        "Apply to the RTB for an order",
+        "Serve a Four Month Notice",
+        "Reach mutual agreement only"
+      ],
+      "answer": 1,
+      "explain": "s.49.2 requires an RTB order first; the landlord must prove permits, necessity and vacancy.",
+      "ref": "Lesson 10 · Demolition, conversion, renovation"
+    },
+    {
+      "id": "10-030",
+      "tag": "Demolition",
+      "q": "Which notice applies when a landlord has permits to demolish a rental unit?",
+      "choices": [
+        "Two Month Notice",
+        "Four Month Notice",
+        "Three Month Notice",
+        "One Month Notice"
+      ],
+      "answer": 1,
+      "explain": "Demolition or conversion: Four Month Notice (dispute within 30 days).",
+      "ref": "Lesson 10 · Demolition, conversion, renovation"
+    },
+    {
+      "id": "10-031",
+      "tag": "Tenant",
+      "q": "After receiving a landlord's use notice, how much notice must the tenant give to leave early?",
+      "choices": [
+        "One month",
+        "10 days",
+        "24 hours",
+        "None"
+      ],
+      "answer": 1,
+      "explain": "s.50: at least 10 days' written notice. They pay rent only for days occupied and keep the compensation.",
+      "ref": "Lesson 10 · The tenant's side"
+    },
+    {
+      "id": "10-032",
+      "tag": "Notices",
+      "q": "A landlord gives notice to end a tenancy on a home-made form. Is it valid?",
+      "choices": [
+        "Yes, if it's signed and dated",
+        "No, it's void",
+        "Yes, if the tenant received it",
+        "Only for non-payment of rent"
+      ],
+      "answer": 1,
+      "explain": "A landlord's notice is void unless it uses the approved form. A tenant's notice can be any written form.",
+      "ref": "Lesson 10 · Form and delivery of notices"
+    },
+    {
+      "id": "10-033",
+      "tag": "Notices",
+      "q": "A landlord mails a notice on March 1. When is it deemed received?",
+      "choices": [
+        "March 1",
+        "March 6",
+        "March 4",
+        "March 11"
+      ],
+      "answer": 1,
+      "explain": "Mail is deemed received on the 5th day after mailing. Email, fax and door posting: the 3rd day.",
+      "ref": "Lesson 10 · Form and delivery of notices"
+    },
+    {
+      "id": "10-034",
+      "tag": "Notices",
+      "q": "When is a notice taped to the tenant's door deemed received?",
+      "choices": [
+        "Immediately",
+        "On the 3rd day after",
+        "On the 5th day after",
+        "On the next business day"
+      ],
+      "answer": 1,
+      "explain": "Attaching to a door or leaving in a mailbox: the 3rd day after.",
+      "ref": "Lesson 10 · Form and delivery of notices"
+    },
+    {
+      "id": "10-035",
+      "tag": "RTB",
+      "q": "Which statement about RTB arbitrators is correct?",
+      "choices": [
+        "They must follow court precedent",
+        "They're not bound by legal precedent",
+        "Their decisions can't be enforced",
+        "They accept only sworn evidence"
+      ],
+      "answer": 1,
+      "explain": "They decide on the merits, aren't bound by precedent, can accept any evidence, and their decisions can be enforced as Supreme Court orders.",
+      "ref": "Lesson 10 · Residential tenancy disputes"
+    },
+    {
+      "id": "10-036",
+      "tag": "RTB",
+      "q": "Within what time must an RTB arbitrator give a written decision?",
+      "choices": [
+        "7 days",
+        "30 days",
+        "60 days",
+        "90 days"
+      ],
+      "answer": 1,
+      "explain": "Within 30 days of the hearing. The decision is final and binding.",
+      "ref": "Lesson 10 · Residential tenancy disputes"
+    },
+    {
+      "id": "10-037",
+      "tag": "Rent",
+      "q": "Which lease makes the tenant pay base rent plus taxes, insurance and repairs?",
+      "choices": [
+        "Gross lease",
+        "Triple net lease",
+        "Single net lease",
+        "Percentage lease"
+      ],
+      "answer": 1,
+      "explain": "Triple net: the tenant pays base rent plus all operating costs. A gross lease includes them in the rent.",
+      "ref": "Lesson 10 · Rent"
+    },
+    {
+      "id": "10-038",
+      "tag": "Rent",
+      "q": "From a commercial tenant's point of view, which lease best protects against rising operating costs?",
+      "choices": [
+        "A triple net lease",
+        "A gross lease",
+        "A double net lease",
+        "A single net lease"
+      ],
+      "answer": 1,
+      "explain": "In a gross lease the landlord bears increases in operating costs until a rent review.",
+      "ref": "Lesson 10 · Rent"
+    },
+    {
+      "id": "10-039",
+      "tag": "Rent",
+      "q": "How often can a residential landlord raise the same tenant's rent?",
+      "choices": [
+        "Every 6 months",
+        "Once every 12 months",
+        "Whenever the lease renews",
+        "Only at the end of a fixed term"
+      ],
+      "answer": 1,
+      "explain": "At least 12 months after the last increase or the start of the tenancy, with 3 months' notice on the prescribed form.",
+      "ref": "Lesson 10 · Rent"
+    },
+    {
+      "id": "10-040",
+      "tag": "Rent",
+      "q": "A new owner buys a rental building and wants to raise the existing tenants' rent right away. Can they?",
+      "choices": [
+        "Yes, a sale resets the 12 months",
+        "No, a new landlord gets no reset",
+        "Yes, by up to 5%",
+        "Only with RTB approval"
+      ],
+      "answer": 1,
+      "explain": "A change of landlord doesn't create a right to raise rent.",
+      "ref": "Lesson 10 · Rent"
+    },
+    {
+      "id": "10-041",
+      "tag": "Rent",
+      "q": "How much notice is needed for a residential rent increase?",
+      "choices": [
+        "One month",
+        "Three months",
+        "Two months",
+        "Six months"
+      ],
+      "answer": 1,
+      "explain": "At least three months' written notice on the prescribed form.",
+      "ref": "Lesson 10 · Rent"
+    },
+    {
+      "id": "10-042",
+      "tag": "Rent",
+      "q": "Which is no longer a ground for a residential landlord to seek an additional rent increase?",
+      "choices": [
+        "Major repairs or renovations",
+        "Rent far below similar local units",
+        "An extraordinary rise in operating costs",
+        "A financial loss on operating costs"
+      ],
+      "answer": 1,
+      "explain": "Landlords can no longer apply on the basis that rent is significantly below market.",
+      "ref": "Lesson 10 · Rent"
+    },
+    {
+      "id": "10-043",
+      "tag": "Deposit",
+      "q": "What's the maximum residential security deposit?",
+      "choices": [
+        "One month's rent",
+        "Half of one month's rent",
+        "Two full months' rent",
+        "Any amount the parties agree"
+      ],
+      "answer": 1,
+      "explain": "Half a month's rent, collected only when the agreement is made. A pet damage deposit can be another half month.",
+      "ref": "Lesson 10 · Security deposits"
+    },
+    {
+      "id": "10-044",
+      "tag": "Deposit",
+      "q": "A residential landlord neither returns the deposit nor applies to the RTB within 15 days after the tenancy ends. What may they owe?",
+      "choices": [
+        "The deposit only",
+        "Double the deposit",
+        "The deposit plus 10%",
+        "Three times the deposit"
+      ],
+      "answer": 1,
+      "explain": "s.38(6): double the deposit (and pet deposit).",
+      "ref": "Lesson 10 · Security deposits"
+    },
+    {
+      "id": "10-045",
+      "tag": "Deposit",
+      "q": "Who must return a residential tenant's deposit after the building is sold?",
+      "choices": [
+        "The former landlord",
+        "The buyer, as the new landlord",
+        "The listing brokerage",
+        "The Residential Tenancy Branch"
+      ],
+      "answer": 1,
+      "explain": "Under s.93, the deposit obligation runs with the land, so buyers must collect deposits and interest from the seller.",
+      "ref": "Lesson 10 · Security deposits"
+    },
+    {
+      "id": "10-046",
+      "tag": "Deposit",
+      "q": "What's the default position on a commercial security deposit when the building is sold?",
+      "choices": [
+        "It passes to the buyer automatically by law",
+        "It's the old landlord's personal obligation",
+        "It's held in trust by the RTB until the end",
+        "It's forfeited to the buyer on completion"
+      ],
+      "answer": 1,
+      "explain": "At common law it's personal to the landlord, unless the sale contract transfers it (usually with a credit on the adjustments).",
+      "ref": "Lesson 10 · Security deposits"
+    },
+    {
+      "id": "10-047",
+      "tag": "Distress",
+      "q": "Can a residential landlord seize a tenant's belongings to cover unpaid rent?",
+      "choices": [
+        "Yes, after 10 days",
+        "No, distress is abolished",
+        "Yes, with an RTB order",
+        "Only for commercial tenants' goods"
+      ],
+      "answer": 1,
+      "explain": "Distress is abolished for residential tenancies (s.26(3)). It remains available to commercial landlords.",
+      "ref": "Lesson 10 · Distress"
+    },
+    {
+      "id": "10-048",
+      "tag": "Mitigation",
+      "q": "A commercial tenant abandons, and the landlord re-lets without telling the tenant it's on their account. What's the risk?",
+      "choices": [
+        "The landlord breaches the covenant of quiet enjoyment",
+        "It may be a surrender, ending future rent claims",
+        "The landlord must refund the tenant's deposit",
+        "The tenant can then reclaim possession of it"
+      ],
+      "answer": 1,
+      "explain": "Re-letting inconsistent with the tenancy can be a surrender by operation of law. Highway Properties lets a landlord terminate and claim damages if it gives notice.",
+      "ref": "Lesson 10 · Mitigation"
+    },
+    {
+      "id": "10-049",
+      "tag": "Mitigation",
+      "q": "Which landlords have a statutory duty to mitigate when a tenant leaves early?",
+      "choices": [
+        "Commercial landlords only",
+        "Residential landlords",
+        "All landlords under the CTA",
+        "No landlords"
+      ],
+      "answer": 1,
+      "explain": "s.7(2) of the RTA requires both residential landlords and tenants to mitigate.",
+      "ref": "Lesson 10 · Mitigation"
+    },
+    {
+      "id": "10-050",
+      "tag": "Quiet enjoyment",
+      "q": "What does the covenant of quiet enjoyment mainly protect?",
+      "choices": [
+        "Freedom from every kind of noise at all times",
+        "Possession free from title claims and interference",
+        "The tenant's right to sublet the premises freely",
+        "Protection from any increases in the rent"
+      ],
+      "answer": 1,
+      "explain": "It protects against defects in title and substantial interference with use, not just noise.",
+      "ref": "Lesson 10 · Quiet enjoyment and privacy"
+    },
+    {
+      "id": "10-051",
+      "tag": "Entry",
+      "q": "Without the tenant's consent, what written notice does a residential landlord need to enter?",
+      "choices": [
+        "12 hours' notice",
+        "At least 24 hours",
+        "48 hours' notice",
+        "7 days' notice"
+      ],
+      "answer": 1,
+      "explain": "At least 24 hours and not more than 30 days before, with a reasonable purpose and a time between 8 a.m. and 9 p.m.",
+      "ref": "Lesson 10 · Quiet enjoyment and privacy"
+    },
+    {
+      "id": "10-052",
+      "tag": "Entry",
+      "q": "Between what hours may a residential landlord schedule entry (unless the tenant agrees otherwise)?",
+      "choices": [
+        "7 a.m. and 10 p.m.",
+        "8 a.m. and 9 p.m.",
+        "9 a.m. and 5 p.m.",
+        "Any time"
+      ],
+      "answer": 1,
+      "explain": "8 a.m. to 9 p.m.",
+      "ref": "Lesson 10 · Quiet enjoyment and privacy"
+    },
+    {
+      "id": "10-053",
+      "tag": "Possession",
+      "q": "A commercial landlord refuses to let a new tenant in at the start of the lease. What's the tenant's remedy?",
+      "choices": [
+        "An order of possession",
+        "Damages only",
+        "Specific performance",
+        "Distress against the landlord"
+      ],
+      "answer": 1,
+      "explain": "Interesse termini: the commercial tenant can only sue for damages. A residential tenant can get an order of possession.",
+      "ref": "Lesson 10 · Getting possession at the start (interesse termini)"
+    },
+    {
+      "id": "10-054",
+      "tag": "Repairs",
+      "q": "What does caveat lessee mean in commercial leasing?",
+      "choices": [
+        "The landlord must keep premises fit",
+        "No implied landlord duty to repair",
+        "The tenant must make all repairs",
+        "Repairs are shared equally"
+      ],
+      "answer": 1,
+      "explain": "Let the tenant beware: absent a lease term, the landlord needn't repair unfurnished premises.",
+      "ref": "Lesson 10 · Repairs"
+    },
+    {
+      "id": "10-055",
+      "tag": "Repairs",
+      "q": "A residential tenant knew the heating was faulty when they signed. Is the landlord still obliged to repair it?",
+      "choices": [
+        "The landlord must keep premises fit",
+        "No implied landlord duty to repair",
+        "The tenant must make all the repairs",
+        "All repairs are shared equally"
+      ],
+      "answer": 1,
+      "explain": "s.32: the duty applies whether or not the tenant knew of the problem, and can't be contracted out of.",
+      "ref": "Lesson 10 · Repairs"
+    },
+    {
+      "id": "10-056",
+      "tag": "Repairs",
+      "q": "When can a residential tenant pay for emergency repairs and deduct the cost?",
+      "choices": [
+        "No, because the tenant accepted it",
+        "Yes, regardless of what they knew",
+        "Only if the tenancy agreement says so",
+        "Only if the fault counts as an emergency"
+      ],
+      "answer": 1,
+      "explain": "If repairs aren't made within a reasonable time after two or more attempts to reach the emergency contact. Receipts required.",
+      "ref": "Lesson 10 · Repairs"
+    },
+    {
+      "id": "10-057",
+      "tag": "Assignment",
+      "q": "A commercial lease says only \"the Tenant shall not assign.\" Can the tenant sublet?",
+      "choices": [
+        "Any time any repair is needed",
+        "After trying the contact at least twice",
+        "After giving 30 days' written notice",
+        "Only once they have an RTB order"
+      ],
+      "answer": 1,
+      "explain": "Courts read restrictions narrowly; a ban on assignment doesn't stop a sublease.",
+      "ref": "Lesson 10 · Assignment and subletting"
+    },
+    {
+      "id": "10-058",
+      "tag": "Assignment",
+      "q": "What makes an arrangement a sublease rather than an assignment?",
+      "choices": [
+        "Landlord's consent",
+        "The tenant keeps a reversion",
+        "It covers the whole space",
+        "It's registered on title"
+      ],
+      "answer": 1,
+      "explain": "The tenant must keep part of the term (typically at least the last day); otherwise it's an assignment.",
+      "ref": "Lesson 10 · Assignment and subletting"
+    },
+    {
+      "id": "10-059",
+      "tag": "Assignment",
+      "q": "Can a residential landlord charge a fee to consent to a sublet?",
+      "choices": [
+        "Yes, up to half a month's rent",
+        "No, never",
+        "Yes, if the term is 6+ months",
+        "Only for fixed terms"
+      ],
+      "answer": 1,
+      "explain": "A residential landlord can never charge for consent, and can't unreasonably withhold it for fixed terms of 6 months or more.",
+      "ref": "Lesson 10 · Assignment and subletting"
+    },
+    {
+      "id": "10-060",
+      "tag": "Cannabis",
+      "q": "A tenancy agreement from 2016 bans tobacco smoking and says nothing about cannabis. What applies?",
+      "choices": [
+        "Yes, cannabis smoking is allowed",
+        "Cannabis smoking is restricted the same way",
+        "Cannabis smoking needs the landlord's approval",
+        "The whole tenancy agreement is void"
+      ],
+      "answer": 1,
+      "explain": "For agreements before Oct 17, 2018, tobacco restrictions are deemed to cover cannabis.",
+      "ref": "Lesson 10 · Cannabis and tenancies"
+    }
+  ]
+}
