@@ -1,0 +1,901 @@
+{
+  "lessonId": "09",
+  "questions": [
+    {
+      "id": "09-001",
+      "tag": "Basics",
+      "q": "An agent signs a contract with a third party \"as agent for\" the principal. Who are the parties to that contract?",
+      "choices": [
+        "The agent and the third party",
+        "The principal and the third party",
+        "The agent, principal and third party",
+        "The agent and the principal"
+      ],
+      "answer": 1,
+      "explain": "The agent isn't normally a party; the contract binds the principal and the third party.",
+      "ref": "Lesson 9 · The agency relationship"
+    },
+    {
+      "id": "09-002",
+      "tag": "Basics",
+      "q": "What is the warranty of authority?",
+      "choices": [
+        "The principal's promise to pay the agent's fee",
+        "The agent's implied promise they have authority",
+        "A brokerage's guarantee of all its licensees",
+        "A seller's written warranty about the property"
+      ],
+      "answer": 1,
+      "explain": "Dealing with third parties, an agent impliedly promises they're acting within their authority. Breach makes them personally liable.",
+      "ref": "Lesson 9 · The agency relationship"
+    },
+    {
+      "id": "09-003",
+      "tag": "History",
+      "q": "Before 1994, who did the licensee working with a buyer legally represent?",
+      "choices": [
+        "The buyer",
+        "The seller, as sub-agent",
+        "Both parties equally",
+        "Neither party"
+      ],
+      "answer": 1,
+      "explain": "Under seller sub-agency, all duties ran to the seller, though buyers often assumed otherwise.",
+      "ref": "Lesson 9 · How real estate agency evolved in BC"
+    },
+    {
+      "id": "09-004",
+      "tag": "History",
+      "q": "When did designated agency come into force in BC?",
+      "choices": [
+        "January 1994",
+        "June 2012",
+        "January 2018",
+        "March 2009"
+      ],
+      "answer": 1,
+      "explain": "June 2012. Dual agency was then banned in 2018.",
+      "ref": "Lesson 9 · How real estate agency evolved in BC"
+    },
+    {
+      "id": "09-005",
+      "tag": "Designated agency",
+      "q": "Under designated agency, who owes the client full agency duties?",
+      "choices": [
+        "Every licensee in the brokerage",
+        "The designated licensee(s) only",
+        "The managing broker alone",
+        "The cooperating brokerage"
+      ],
+      "answer": 1,
+      "explain": "Only the designated licensee(s) are the client's agents; the brokerage still supervises and protects confidences (s.32).",
+      "ref": "Lesson 9 · Designated agency today"
+    },
+    {
+      "id": "09-006",
+      "tag": "Designated agency",
+      "q": "Which is NOT a duty of a brokerage offering designated agency under Rules s.32?",
+      "choices": [
+        "Supervising its designated agents",
+        "Sharing client files among all its licensees",
+        "Protecting each client's confidential information",
+        "Treating all clients even-handedly"
+      ],
+      "answer": 1,
+      "explain": "s.32 requires supervision, confidentiality and even-handed treatment.",
+      "ref": "Lesson 9 · Designated agency today"
+    },
+    {
+      "id": "09-007",
+      "tag": "Designated agency",
+      "q": "Which brokerages must still use brokerage agency?",
+      "choices": [
+        "Brokerages with fewer than five licensees",
+        "Those doing only rental and/or strata management",
+        "Brokerages that work only in remote areas",
+        "Brokerages that handle only commercial deals"
+      ],
+      "answer": 1,
+      "explain": "Brokerage agency is the only model allowed for rental-only or strata-management-only brokerages.",
+      "ref": "Lesson 9 · Designated agency today"
+    },
+    {
+      "id": "09-008",
+      "tag": "Dual agency",
+      "q": "Which is NOT dual agency?",
+      "choices": [
+        "One licensee acting for buyer and seller in one trade",
+        "Two designated agents at one brokerage acting for opposite sides",
+        "One licensee acting for two buyers wanting the same property",
+        "One licensee acting for both landlord and tenant"
+      ],
+      "answer": 1,
+      "explain": "Different designated agents in the same brokerage acting for each side isn't dual agency.",
+      "ref": "Lesson 9 · The ban on dual agency"
+    },
+    {
+      "id": "09-009",
+      "tag": "Dual agency",
+      "q": "An unrepresented buyer at your open house asks you, the seller's designated agent, to represent them. Which is NOT an option?",
+      "choices": [
+        "Another designated agent at your brokerage",
+        "You representing both buyer and seller",
+        "Staying unrepresented with limited help",
+        "Hiring a licensee at another brokerage"
+      ],
+      "answer": 1,
+      "explain": "Acting for both would be prohibited dual agency.",
+      "ref": "Lesson 9 · The ban on dual agency"
+    },
+    {
+      "id": "09-010",
+      "tag": "Dual agency",
+      "q": "Which report led to the 2018 ban on dual agency?",
+      "choices": [
+        "The Cullen Commission report",
+        "The Independent Advisory Group report",
+        "The Expert Panel on Money Laundering",
+        "The BCFSA annual report"
+      ],
+      "answer": 1,
+      "explain": "The Independent Advisory Group's 2016 report found dual agents can't be fully loyal or keep both sides' confidences.",
+      "ref": "Lesson 9 · The ban on dual agency"
+    },
+    {
+      "id": "09-011",
+      "tag": "Dual agency",
+      "q": "What must be true for the s.64 dual agency exception to apply?",
+      "choices": [
+        "The parties are related to each other",
+        "Remote, under-served and impracticable",
+        "Both clients consent in writing",
+        "The property is commercial land"
+      ],
+      "answer": 1,
+      "explain": "All three elements must be met; consent alone isn't enough. \"Impracticable\" means not capable of being done.",
+      "ref": "Lesson 9 · The narrow exception (Rules s.64)"
+    },
+    {
+      "id": "09-012",
+      "tag": "Dual agency",
+      "q": "Who must sign the Disclosure of Risks Associated with Dual Agency form?",
+      "choices": [
+        "The buyer's lawyer",
+        "The managing broker",
+        "A BCFSA officer",
+        "The seller's lender"
+      ],
+      "answer": 1,
+      "explain": "The managing broker signs and explains how each element is met; copies go to BCFSA.",
+      "ref": "Lesson 9 · The narrow exception (Rules s.64)"
+    },
+    {
+      "id": "09-013",
+      "tag": "Forms",
+      "q": "Which form is a BCFSA prescribed form that can't be altered?",
+      "choices": [
+        "The BCREA Multiple Listing Contract",
+        "DORTS (Disclosure of Representation)",
+        "The BCREA Buyer Agency Acknowledgement",
+        "The standard Contract of Purchase and Sale"
+      ],
+      "answer": 1,
+      "explain": "DORTS is prescribed (s.54). The others are BCREA standard forms.",
+      "ref": "Lesson 9 · Standard forms: prescribed vs other"
+    },
+    {
+      "id": "09-014",
+      "tag": "Forms",
+      "q": "Which BCFSA disclosure form is optional, as long as the required content is given?",
+      "choices": [
+        "Disclosure of Interest in Trade (s.53)",
+        "Disclosure of Remuneration (s.56)",
+        "Disclosure of Risks to Unrepresented Parties (s.55)",
+        "Disclosure to Sellers of Expected Remuneration (s.57)"
+      ],
+      "answer": 1,
+      "explain": "The s.56 form is non-mandatory; the others are prescribed.",
+      "ref": "Lesson 9 · Standard forms: prescribed vs other"
+    },
+    {
+      "id": "09-015",
+      "tag": "Capacity",
+      "q": "In Travelers Guarantee v. Farajollahi, a father had his 14-year-old daughter sign a loan for him. Was he bound?",
+      "choices": [
+        "No, minors can't act as agents",
+        "Yes, a minor can be an agent",
+        "No, unless she was licensed",
+        "Only if a witness was present"
+      ],
+      "answer": 1,
+      "explain": "Anyone of sound mind can be an agent, because the agent isn't a party to the principal's contract.",
+      "ref": "Lesson 9 · Who can be an agent?"
+    },
+    {
+      "id": "09-016",
+      "tag": "Creating",
+      "q": "Under Rules s.43, which agreement must be in writing (unless the client waives it)?",
+      "choices": [
+        "A buyer's agency agreement",
+        "A service agreement with an owner/seller",
+        "A referral fee agreement with another agent",
+        "An agreement with a cooperating brokerage"
+      ],
+      "answer": 1,
+      "explain": "s.43 requires a written service agreement for owners/sellers; buyer agreements are prudent but not required by s.43.",
+      "ref": "Lesson 9 · 1. Express contract (the normal way)"
+    },
+    {
+      "id": "09-017",
+      "tag": "Creating",
+      "q": "Under Rules s.44, when must the client get a copy of the service agreement?",
+      "choices": [
+        "Within 7 days of signing",
+        "Immediately on signing",
+        "At completion of the sale",
+        "Only if the client asks"
+      ],
+      "answer": 1,
+      "explain": "Give each client (each co-owner) a copy immediately.",
+      "ref": "Lesson 9 · 1. Express contract (the normal way)"
+    },
+    {
+      "id": "09-018",
+      "tag": "Creating",
+      "q": "Under a standard exclusive right to sell listing, the owner finds their own buyer during the term. Is commission payable?",
+      "choices": [
+        "No, the brokerage didn't find the buyer",
+        "Yes, on any sale during the term",
+        "Only if the buyer saw the MLS® listing",
+        "Only half the agreed commission"
+      ],
+      "answer": 1,
+      "explain": "An exclusive right to sell pays commission on any sale during the term. Only a true \"exclusive listing\" amended to exempt the owner changes that.",
+      "ref": "Lesson 9 · 1. Express contract (the normal way)"
+    },
+    {
+      "id": "09-019",
+      "tag": "Creating",
+      "q": "Under an open listing, who earns the commission?",
+      "choices": [
+        "Every listing brokerage, shared equally",
+        "Only the brokerage that's the effective cause",
+        "The first brokerage to sign a listing with them",
+        "The brokerage with the highest commission rate"
+      ],
+      "answer": 1,
+      "explain": "Only the effective cause is paid. An owner's own sale pays nobody and ends all the listings.",
+      "ref": "Lesson 9 · 1. Express contract (the normal way)"
+    },
+    {
+      "id": "09-020",
+      "tag": "Implied agency",
+      "q": "Which action with an unrepresented buyer most risks creating an implied agency?",
+      "choices": [
+        "Handing them a standard form",
+        "Advising them what price to offer",
+        "Presenting their offer to the seller",
+        "Giving general market statistics"
+      ],
+      "answer": 1,
+      "explain": "Advising or negotiating for them, or revealing your client's secrets, crosses the line into implied agency.",
+      "ref": "Lesson 9 · 2. Implied agency (by conduct)"
+    },
+    {
+      "id": "09-021",
+      "tag": "Estoppel",
+      "q": "Which is NOT required for agency by estoppel?",
+      "choices": [
+        "A representation by the principal",
+        "A signed written agency agreement",
+        "Reliance by the third party",
+        "A change of position by the third party"
+      ],
+      "answer": 1,
+      "explain": "Estoppel arises from the principal's words or conduct; no written agreement is needed.",
+      "ref": "Lesson 9 · 3. Agency by estoppel"
+    },
+    {
+      "id": "09-022",
+      "tag": "Ratification",
+      "q": "A licensee acts without authority, and the principal later refuses to ratify. Who may be liable?",
+      "choices": [
+        "Nobody, since no contract formed",
+        "The licensee personally",
+        "The third party",
+        "The principal regardless"
+      ],
+      "answer": 1,
+      "explain": "Without ratification the principal isn't bound, and the agent may be liable for breach of warranty of authority.",
+      "ref": "Lesson 9 · 4. Agency by ratification"
+    },
+    {
+      "id": "09-023",
+      "tag": "Authority",
+      "q": "Holding an open house when the listing only says \"show the property\" is an example of what?",
+      "choices": [
+        "Apparent authority",
+        "Implied authority",
+        "Ratified authority",
+        "No authority at all"
+      ],
+      "answer": 1,
+      "explain": "Implied authority covers what's necessary and incidental to the express authority (and open houses are also customary).",
+      "ref": "Lesson 9 · How much authority does the agent have?"
+    },
+    {
+      "id": "09-024",
+      "tag": "Authority",
+      "q": "Which type of authority arises from the principal's conduct toward a third party, rather than from the agency agreement?",
+      "choices": [
+        "Express authority",
+        "Apparent authority",
+        "Implied authority",
+        "Customary authority"
+      ],
+      "answer": 1,
+      "explain": "Apparent authority is based on estoppel: what a reasonable third party believes from the principal's conduct.",
+      "ref": "Lesson 9 · How much authority does the agent have?"
+    },
+    {
+      "id": "09-025",
+      "tag": "Signing",
+      "q": "Your client is overseas and asks you to sign a contract amendment for them. What do you need first?",
+      "choices": [
+        "Their verbal instruction over the phone",
+        "Separate written authority (Rules s.45)",
+        "Nothing, the listing agreement is enough",
+        "Your managing broker's countersignature"
+      ],
+      "answer": 1,
+      "explain": "The listing or buyer agency agreement doesn't authorize signing. Get separate written authority, then sign your own name \"as agent for\" the client.",
+      "ref": "Lesson 9 · Signing for a client"
+    },
+    {
+      "id": "09-026",
+      "tag": "Signing",
+      "q": "A licensee copied a client's signature onto an addendum without written authority. What was the result?",
+      "choices": [
+        "A reprimand only",
+        "A 7-day suspension and $750 expenses",
+        "Licence cancellation",
+        "No penalty, since the client agreed"
+      ],
+      "answer": 1,
+      "explain": "7-day suspension plus $750 enforcement expenses.",
+      "ref": "Lesson 9 · Signing for a client"
+    },
+    {
+      "id": "09-027",
+      "tag": "Ending",
+      "q": "Which ends an agency relationship by operation of law?",
+      "choices": [
+        "The seller firing the agent by email",
+        "The death of the principal",
+        "The property selling mid-listing",
+        "The agent's vacation"
+      ],
+      "answer": 1,
+      "explain": "Death, mental incapacity or bankruptcy of either side ends agency by operation of law.",
+      "ref": "Lesson 9 · Ending an agency relationship"
+    },
+    {
+      "id": "09-028",
+      "tag": "Ending",
+      "q": "Which is NOT a way the Multiple Listing Contract (s.14) ends?",
+      "choices": [
+        "Expiry of the term",
+        "The seller receiving a low offer",
+        "A completed sale",
+        "The brokerage's licence being suspended"
+      ],
+      "answer": 1,
+      "explain": "It ends on expiry, mutual written agreement, completed sale, licence suspension or cancellation, brokerage bankruptcy, or a s.65 conflict.",
+      "ref": "Lesson 9 · Ending an agency relationship"
+    },
+    {
+      "id": "09-029",
+      "tag": "Third parties",
+      "q": "Al buys land in his own name for Sam without disclosing Sam's role. Sam goes bankrupt. Who can the seller sue?",
+      "choices": [
+        "Only Sam's estate",
+        "Al, as an undisclosed agent",
+        "Nobody, the contract is void",
+        "Only Al's brokerage"
+      ],
+      "answer": 1,
+      "explain": "With an undisclosed agency, the third party can sue the agent (or the principal once revealed).",
+      "ref": "Lesson 9 · The agent and third parties"
+    },
+    {
+      "id": "09-030",
+      "tag": "Third parties",
+      "q": "A seller tells their agent to hide a leaky basement, and the agent tells a buyer there are no leaks. Who can the buyer sue?",
+      "choices": [
+        "Only the seller",
+        "Both the agent and the seller",
+        "Only the agent's brokerage",
+        "Nobody, after completion"
+      ],
+      "answer": 1,
+      "explain": "The agent is personally liable for fraud (\"my client told me\" is no defence), and the principal is liable too.",
+      "ref": "Lesson 9 · The agent and third parties"
+    },
+    {
+      "id": "09-031",
+      "tag": "Duties",
+      "q": "Which duty requires a seller's agent to advise whether an offer is the best reasonably obtainable?",
+      "choices": [
+        "The duty of confidentiality to the client",
+        "The duty of reasonable care and skill",
+        "The duty of personal performance",
+        "The duty to obey lawful instructions"
+      ],
+      "answer": 1,
+      "explain": "In tort, a competent agent seeks fair market value and advises on offers.",
+      "ref": "Lesson 9 · Tort duty: reasonable care and skill"
+    },
+    {
+      "id": "09-032",
+      "tag": "Duties",
+      "q": "An agent hands a listing to a colleague without the client's permission. Which duty is breached?",
+      "choices": [
+        "The duty of confidentiality",
+        "The duty of personal performance",
+        "The duty to account for money",
+        "The duty of honesty to all"
+      ],
+      "answer": 1,
+      "explain": "The client chose that agent; work can't be delegated without permission (standard forms allow a replacement in limited cases).",
+      "ref": "Lesson 9 · Agency duty: do it yourself"
+    },
+    {
+      "id": "09-033",
+      "tag": "Fiduciary",
+      "q": "A client sues alleging breach of fiduciary duty. Who bears the burden of proof?",
+      "choices": [
+        "The client",
+        "The agent",
+        "The managing broker",
+        "BCFSA"
+      ],
+      "answer": 1,
+      "explain": "In fiduciary claims, the agent must show they met their duties.",
+      "ref": "Lesson 9 · Fiduciary duties"
+    },
+    {
+      "id": "09-034",
+      "tag": "Fiduciary",
+      "q": "Which fiduciary duty continues after the agency relationship ends?",
+      "choices": [
+        "Loyalty",
+        "Confidentiality",
+        "Obedience",
+        "Full disclosure"
+      ],
+      "answer": 1,
+      "explain": "Most duties end with the relationship, but confidentiality continues indefinitely.",
+      "ref": "Lesson 9 · Fiduciary duties"
+    },
+    {
+      "id": "09-035",
+      "tag": "Conflicts",
+      "q": "Under Galambos v. Perez, when does a conflict of interest exist?",
+      "choices": [
+        "Whenever an agent is paid by commission",
+        "A substantial risk of material, adverse effect",
+        "Only when the agent owns the property in question",
+        "Only if the client actually complains about it"
+      ],
+      "answer": 1,
+      "explain": "A substantial risk that representation will be materially and adversely affected by the agent's interests or duties to others.",
+      "ref": "Lesson 9 · 2. Avoid conflicts of interest"
+    },
+    {
+      "id": "09-036",
+      "tag": "Conflicts",
+      "q": "Two of your buyer clients want to make offers on the same property. Under Rules s.65, what are your options?",
+      "choices": [
+        "Represent both and stay strictly neutral",
+        "Stop for both, or keep one with both signing",
+        "Keep whichever client called you first",
+        "Let the sellers pick which buyer you keep"
+      ],
+      "answer": 1,
+      "explain": "Stop acting for both, or continue for one only if both sign the Agreement Regarding Conflict of Interest Between Clients.",
+      "ref": "Lesson 9 · 2. Avoid conflicts of interest"
+    },
+    {
+      "id": "09-037",
+      "tag": "Conflicts",
+      "q": "When is the Agreement Regarding Conflict of Interest Between Clients signed?",
+      "choices": [
+        "In advance, at the start of the agency",
+        "When the conflict actually arises",
+        "After the trade completes",
+        "Whenever BCFSA requests it"
+      ],
+      "answer": 1,
+      "explain": "It must be signed when the conflict arises, not in advance.",
+      "ref": "Lesson 9 · 2. Avoid conflicts of interest"
+    },
+    {
+      "id": "09-038",
+      "tag": "Conflicts",
+      "q": "What does the Released Client keep under a s.65 agreement?",
+      "choices": [
+        "Full advice from you",
+        "Confidentiality of their information",
+        "A share of your commission",
+        "A right to veto the other's offer"
+      ],
+      "answer": 1,
+      "explain": "The Released Client gets no further advice, but you still can't disclose their confidential information.",
+      "ref": "Lesson 9 · 2. Avoid conflicts of interest"
+    },
+    {
+      "id": "09-039",
+      "tag": "Conflicts",
+      "q": "Your buyer client wants to see one of your own listings. What does BCFSA allow?",
+      "choices": [
+        "Nothing; you must refer the buyer elsewhere",
+        "Showing it and giving facts, after disclosure",
+        "Writing an offer while acting for both sides",
+        "Advising the buyer on what price to offer"
+      ],
+      "answer": 1,
+      "explain": "You can show it and give general factual information after disclosing the conflict. An offer or advice triggers s.65.",
+      "ref": "Lesson 9 · 2. Avoid conflicts of interest"
+    },
+    {
+      "id": "09-040",
+      "tag": "Disclosure",
+      "q": "What does \"be a conduit, not a filter\" mean?",
+      "choices": [
+        "Share only good news with clients",
+        "Pass on all material information",
+        "Filter offers below list price",
+        "Speak only through lawyers"
+      ],
+      "answer": 1,
+      "explain": "Don't decide for the client what's important. When in doubt, disclose.",
+      "ref": "Lesson 9 · 3. Full disclosure"
+    },
+    {
+      "id": "09-041",
+      "tag": "Disclosure",
+      "q": "In Baillie v. Charman, what did the agent have to pay after steering the property to a friend at $270,000?",
+      "choices": [
+        "Only the commission on this one sale",
+        "Both commissions plus the $47,000 profit",
+        "A $5,000 administrative penalty to BCFSA",
+        "Nothing, because the friend paid fair value"
+      ],
+      "answer": 1,
+      "explain": "The property was resold for $317,000. Breach of fiduciary duty: both commissions plus the profit.",
+      "ref": "Lesson 9 · 3. Full disclosure"
+    },
+    {
+      "id": "09-042",
+      "tag": "Disclosure",
+      "q": "In Ocean City Realty, a licensee secretly agreed to share commission with the buyer. What did the brokerage lose?",
+      "choices": [
+        "Half its commission",
+        "Its entire commission",
+        "Its licence",
+        "Nothing; the managing broker knew"
+      ],
+      "answer": 1,
+      "explain": "The seller wasn't told, so the brokerage forfeited the entire commission.",
+      "ref": "Lesson 9 · 3. Full disclosure"
+    },
+    {
+      "id": "09-043",
+      "tag": "Confidentiality",
+      "q": "After a listing expired, the former agent emailed buyers that the sellers would take far less than appraisal. What was breached?",
+      "choices": [
+        "Nothing, because the agency had ended",
+        "The continuing duty of confidentiality",
+        "Only the s.57 remuneration disclosure rule",
+        "The duty of personal performance to them"
+      ],
+      "answer": 1,
+      "explain": "Confidentiality survives the relationship: 7-day suspension, $1,000 expenses and a remedial course.",
+      "ref": "Lesson 9 · 4. Confidentiality"
+    },
+    {
+      "id": "09-044",
+      "tag": "Confidentiality",
+      "q": "A seller tells you about an unpermitted basement suite and says \"don't tell buyers.\" What must you do?",
+      "choices": [
+        "Keep it confidential, as a fiduciary",
+        "Disclose it, or stop acting if refused",
+        "Tell only buyers who ask about it",
+        "Mention it after completion"
+      ],
+      "answer": 1,
+      "explain": "It's a material latent defect under s.59; confidentiality doesn't override it. If the seller insists, stop acting.",
+      "ref": "Lesson 9 · Other disclosures"
+    },
+    {
+      "id": "09-045",
+      "tag": "Instructions",
+      "q": "A seller says \"don't show the home to families with young children.\" How should you respond?",
+      "choices": [
+        "Follow it, since the seller decides",
+        "Refuse; it's unlawful discrimination",
+        "Follow it for this listing only",
+        "Ask the managing broker to show it"
+      ],
+      "answer": 1,
+      "explain": "Only lawful instructions are obeyed. Family status is a protected ground; if the seller insists, stop acting.",
+      "ref": "Lesson 9 · 5. Obey lawful instructions"
+    },
+    {
+      "id": "09-046",
+      "tag": "Rules",
+      "q": "Which Rules section requires licensees to act honestly toward everyone, clients and non-clients alike?",
+      "choices": [
+        "s.30",
+        "s.33",
+        "s.45",
+        "s.60"
+      ],
+      "answer": 1,
+      "explain": "s.33: honesty. s.34: reasonable care and skill.",
+      "ref": "Lesson 9 · The Rules: s.30, s.33, s.34"
+    },
+    {
+      "id": "09-047",
+      "tag": "Rules",
+      "q": "A licensee copied 2,097 sq ft from an old listing; the home was really 1,672 sq ft. Which Rule was breached?",
+      "choices": [
+        "s.33, the duty of honesty to all",
+        "s.34 reasonable care and skill",
+        "s.53 disclosure of interest in trade",
+        "s.57 disclosure of remuneration"
+      ],
+      "answer": 1,
+      "explain": "Reprimand, remedial course and $1,250 expenses under s.34.",
+      "ref": "Lesson 9 · The Rules: s.30, s.33, s.34"
+    },
+    {
+      "id": "09-048",
+      "tag": "Pay",
+      "q": "Under RESA s.4, who can't sue for remuneration?",
+      "choices": [
+        "A licensee whose client cancelled",
+        "Someone unlicensed when services were given",
+        "A brokerage on an open listing",
+        "A licensee paid by a cooperating brokerage"
+      ],
+      "answer": 1,
+      "explain": "You must have been licensed (or exempt) when providing the services.",
+      "ref": "Lesson 9 · The principal's duties to the agent"
+    },
+    {
+      "id": "09-049",
+      "tag": "Pay",
+      "q": "A buyer introduced during the listing buys 45 days after it expires. Is commission payable under the standard MLC?",
+      "choices": [
+        "No, the listing has expired",
+        "Yes, within the 60-day holdover",
+        "Only if the seller agrees",
+        "Only at a reduced rate"
+      ],
+      "answer": 1,
+      "explain": "Commission is payable if the buyer was introduced during the term and the contract is made within 60 days after expiry.",
+      "ref": "Lesson 9 · The principal's duties to the agent"
+    },
+    {
+      "id": "09-050",
+      "tag": "Pay",
+      "q": "A buyer validly rescinds under the HBRP. Is commission payable under the standard listing?",
+      "choices": [
+        "Yes, because the contract was signed",
+        "No, not under the standard listing",
+        "Only half the agreed commission",
+        "Yes, paid out of the 0.25% fee"
+      ],
+      "answer": 1,
+      "explain": "The Multiple Listing Contract says no commission is payable when the buyer rescinds under the HBRP.",
+      "ref": "Lesson 9 · The principal's duties to the agent"
+    },
+    {
+      "id": "09-051",
+      "tag": "Pay",
+      "q": "Who is legally entitled to the commission under a listing contract?",
+      "choices": [
+        "The listing licensee",
+        "The brokerage",
+        "The managing broker",
+        "The licensee's personal company"
+      ],
+      "answer": 1,
+      "explain": "The brokerage signed the contract. RESA s.7: licensees accept pay only from their own brokerage.",
+      "ref": "Lesson 9 · The principal's duties to the agent"
+    },
+    {
+      "id": "09-052",
+      "tag": "Pay",
+      "q": "A seller agrees to pay the licensee whatever the price exceeds $375,000. What's wrong?",
+      "choices": [
+        "Nothing, as long as it's in writing",
+        "It's a prohibited net listing (s.60)",
+        "It must first be filed with BCFSA",
+        "It needs the buyer's written consent"
+      ],
+      "answer": 1,
+      "explain": "Net listings are prohibited. The licensee was reprimanded, fined $5,000, sent on a course and paid $1,250 expenses.",
+      "ref": "Lesson 9 · The principal's duties to the agent"
+    },
+    {
+      "id": "09-053",
+      "tag": "Pay",
+      "q": "An Alberta licensee refers a buyer to you. Can your brokerage pay them a referral fee?",
+      "choices": [
+        "No, never under any circumstances",
+        "Yes, out-of-province licensees can be paid",
+        "Only if they first become licensed in BC",
+        "Only by routing it through the buyer"
+      ],
+      "answer": 1,
+      "explain": "s.66 bars paying people who should be licensed, but out-of-province licensees are an exception.",
+      "ref": "Lesson 9 · The principal's duties to the agent"
+    },
+    {
+      "id": "09-054",
+      "tag": "DORTS",
+      "q": "When is a DORTS NOT required?",
+      "choices": [
+        "At a listing presentation to an owner",
+        "Hosting an open house, without discussing needs",
+        "Before writing an offer for a buyer client",
+        "Before you start representing a new seller"
+      ],
+      "answer": 1,
+      "explain": "The open-house and general-question exceptions apply only if you don't ask about or receive motivation, finances or needs.",
+      "ref": "Lesson 9 · Relationship disclosures"
+    },
+    {
+      "id": "09-055",
+      "tag": "DORTS",
+      "q": "You give a listing presentation but don't get the listing. Did you need a DORTS?",
+      "choices": [
+        "No, no agency was formed",
+        "Yes, give one and keep a copy",
+        "Only if the owner signed it",
+        "Only for commercial listings"
+      ],
+      "answer": 1,
+      "explain": "You'll hear the owner's motivations, so give it; the brokerage keeps a record (s.83).",
+      "ref": "Lesson 9 · Relationship disclosures"
+    },
+    {
+      "id": "09-056",
+      "tag": "s.55",
+      "q": "What are the purposes of the Disclosure of Risks to Unrepresented Parties form?",
+      "choices": [
+        "To create a limited agency with that party",
+        "Explain risks, limit services, urge representation",
+        "To set the commission the unrepresented party pays",
+        "To replace parts of the contract of purchase and sale"
+      ],
+      "answer": 1,
+      "explain": "It explains you're loyal to your client, lists the limited services you can offer, and encourages getting their own agent.",
+      "ref": "Lesson 9 · Relationship disclosures"
+    },
+    {
+      "id": "09-057",
+      "tag": "s.56",
+      "q": "A home inspector pays you $100 per referral. When must you disclose it to your client?",
+      "choices": [
+        "Never, if it's under $500",
+        "When you recommend the inspector",
+        "At completion of the purchase",
+        "Only if the client asks you"
+      ],
+      "answer": 1,
+      "explain": "Disclose source and amount promptly when recommending (s.56), and give your honest opinion of the inspector.",
+      "ref": "Lesson 9 · Remuneration disclosures"
+    },
+    {
+      "id": "09-058",
+      "tag": "s.56",
+      "q": "A developer tells you, after several sales, that you've earned a bonus. What must you do?",
+      "choices": [
+        "Nothing, since the bonus is already earned",
+        "Give s.56 disclosure to each client involved",
+        "Return the bonus to the developer at once",
+        "Disclose it to BCFSA, not to the clients"
+      ],
+      "answer": 1,
+      "explain": "Go back and give s.56 disclosure to each client whose purchase counted. A potential bonus is disclosed up front under s.30(f).",
+      "ref": "Lesson 9 · Remuneration disclosures"
+    },
+    {
+      "id": "09-059",
+      "tag": "s.57",
+      "q": "When must the seller's licensee give the s.57 Disclosure to Sellers of Expected Remuneration?",
+      "choices": [
+        "When the listing is signed",
+        "When presenting each offer",
+        "At completion",
+        "Only if the buyer is unrepresented"
+      ],
+      "answer": 1,
+      "explain": "With each offer, in dollars: gross, co-op share, net to the listing brokerage, and any other remuneration.",
+      "ref": "Lesson 9 · Remuneration disclosures"
+    },
+    {
+      "id": "09-060",
+      "tag": "s.57",
+      "q": "Commission is 7% on the first $100,000 and 3.5% on the balance. What's the gross on $745,000?",
+      "choices": [
+        "$22,575",
+        "$29,575",
+        "$26,075",
+        "$52,150"
+      ],
+      "answer": 1,
+      "explain": "$7,000 + 3.5% × $645,000 ($22,575) = $29,575.",
+      "ref": "Lesson 9 · Remuneration disclosures"
+    },
+    {
+      "id": "09-061",
+      "tag": "s.57",
+      "q": "Why does s.57 matter most when one offer comes from an unrepresented buyer?",
+      "choices": [
+        "The seller pays no commission then",
+        "The listing brokerage may double-end",
+        "The HBRP doesn't apply then",
+        "The offer must be rejected"
+      ],
+      "answer": 1,
+      "explain": "With no cooperating brokerage, the listing brokerage keeps the whole commission, a conflict the seller should see in dollars.",
+      "ref": "Lesson 9 · Remuneration disclosures"
+    },
+    {
+      "id": "09-062",
+      "tag": "s.53",
+      "q": "Which person is an \"associate\" for Rules s.53?",
+      "choices": [
+        "Your sister who lives elsewhere",
+        "Your spouse",
+        "Your former client",
+        "Your managing broker"
+      ],
+      "answer": 1,
+      "explain": "Associates include your spouse, a trust or estate you benefit from substantially, and a corporation where you or your spouse hold 5%+.",
+      "ref": "Lesson 9 · Other disclosures"
+    },
+    {
+      "id": "09-063",
+      "tag": "s.53",
+      "q": "When must the Disclosure of Interest in Trade be delivered?",
+      "choices": [
+        "At completion",
+        "Before any agreement is signed",
+        "Within 24 hours of acceptance",
+        "Only if the other side asks"
+      ],
+      "answer": 1,
+      "explain": "Before any agreement. Late disclosure has led to discipline, and Compar v. Foss shows the contract may be voidable.",
+      "ref": "Lesson 9 · Other disclosures"
+    },
+    {
+      "id": "09-064",
+      "tag": "s.53",
+      "q": "Why is buying a client's property through your own company especially risky?",
+      "choices": [
+        "It automatically doubles the commission",
+        "E&O excludes ownership-interest claims",
+        "The HBRP doesn't apply to such purchases",
+        "Title can't be registered in a company name"
+      ],
+      "answer": 1,
+      "explain": "The Indemnity Plan excludes claims where the insured has an ownership interest.",
+      "ref": "Lesson 9 · Other disclosures"
+    }
+  ]
+}

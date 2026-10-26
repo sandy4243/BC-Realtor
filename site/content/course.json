@@ -55,13 +55,13 @@
     },
     {
       "id": "08", "num": 8, "block": "C", "title": "Contracts for Real Estate Transactions", "chapters": ["Ch 11"], "estHours": 10,
-      "status": "coming_soon",
+      "status": "ready", "quiz": true, "cheatsheet": true,
       "summary": "The documents you'll actually draft: listing contracts, the contract of purchase and sale, subject clauses and the property disclosure statement.",
       "topics": ["Requirement of writing", "Listing contracts", "Legal descriptions", "Contract of purchase and sale", "Conditions precedent (subjects)", "Assigning a contract", "Effective negotiation", "Risk management", "Property disclosure statements"]
     },
     {
       "id": "09", "num": 9, "block": "C", "title": "The Law of Agency", "chapters": ["Ch 12"], "estHours": 9,
-      "status": "coming_soon",
+      "status": "ready", "quiz": true, "cheatsheet": true,
       "summary": "Who you work for, what you owe them, and the disclosure forms BC requires before you start.",
       "topics": ["The agency relationship", "Agency in BC real estate", "Appointment and authority", "Termination of authority", "Agents and third parties", "Duties of the agent", "Duties of the principal", "Agency disclosure forms"]
     },

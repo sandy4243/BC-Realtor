@@ -1,0 +1,859 @@
+{
+  "lessonId": "08",
+  "questions": [
+    {
+      "id": "08-001",
+      "tag": "Writing",
+      "q": "Under the Law and Equity Act s.59, which contract does NOT need writing to be enforceable?",
+      "choices": [
+        "A contract to buy a strata lot",
+        "A 2-year lease of a retail unit",
+        "A 5-year lease of a warehouse",
+        "An option to purchase farmland"
+      ],
+      "answer": 1,
+      "explain": "s.59 doesn't apply to leases (or agreements to lease) of 3 years or less.",
+      "ref": "Lesson 8 · The requirement of writing"
+    },
+    {
+      "id": "08-002",
+      "tag": "Writing",
+      "q": "Only the buyer signed a written note agreeing to buy a lot. Who can enforce it?",
+      "choices": [
+        "Either party, against the other",
+        "The seller, against the buyer",
+        "The buyer, against the seller",
+        "Neither party, it's void"
+      ],
+      "answer": 1,
+      "explain": "Writing binds the signer (the party to be charged). The seller can enforce against the buyer, not the reverse (absent conduct or reliance).",
+      "ref": "Lesson 8 · The requirement of writing"
+    },
+    {
+      "id": "08-003",
+      "tag": "Writing",
+      "q": "Apart from signed writing, which can make an oral land contract enforceable under s.59?",
+      "choices": [
+        "The licensee's own file notes on it",
+        "Accepting a deposit or part payment",
+        "A witness who overheard the deal",
+        "Registering a caveat on title later"
+      ],
+      "answer": 1,
+      "explain": "Conduct (paying or accepting a deposit or part of the price) and reliance (changing position) are the other two routes.",
+      "ref": "Lesson 8 · The requirement of writing"
+    },
+    {
+      "id": "08-004",
+      "tag": "Writing",
+      "q": "In Pepper's Produce v. Medallion Realty, why was the licensee liable?",
+      "choices": [
+        "They failed to deposit the buyer's cheque",
+        "They advised removing a subject on a verbal lease promise",
+        "They listed the grocery store without the owner's consent",
+        "They misstated the store's annual revenue"
+      ],
+      "answer": 1,
+      "explain": "A lease over 3 years needs writing; the licensee should have known not to rely on the landlord's verbal yes.",
+      "ref": "Lesson 8 · The requirement of writing"
+    },
+    {
+      "id": "08-005",
+      "tag": "Writing",
+      "q": "A seller's signature arrives on a contract by email. Can you sign as witness?",
+      "choices": [
+        "Yes, if you recognize the signature",
+        "No, a witness must actually see them sign",
+        "Yes, if the seller confirms it by phone",
+        "Only if your managing broker agrees to it"
+      ],
+      "answer": 1,
+      "explain": "A witness must be 19+ and actually see the person sign. A licensee who witnessed remotely was disciplined.",
+      "ref": "Lesson 8 · The requirement of writing"
+    },
+    {
+      "id": "08-006",
+      "tag": "Listing",
+      "q": "In Brian Fisher Realty v. Emerald Park Lodge, why was no commission payable on a full-price cash offer?",
+      "choices": [
+        "The licensee wasn't licensed at the time",
+        "It didn't match the listing's financing terms",
+        "The seller had already sold privately",
+        "The offer arrived after the listing expired"
+      ],
+      "answer": 1,
+      "explain": "The listing asked for $30,000 down with vendor financing. An all-cash offer didn't strictly comply.",
+      "ref": "Lesson 8 · Listing contracts"
+    },
+    {
+      "id": "08-007",
+      "tag": "Listing",
+      "q": "Who are the parties to a listing contract?",
+      "choices": [
+        "The buyer and the seller",
+        "The seller and the brokerage",
+        "The seller and the licensee personally",
+        "The brokerage and the buyer"
+      ],
+      "answer": 1,
+      "explain": "The listing is between the seller and the brokerage. The buyer isn't a party and can't rely on its terms.",
+      "ref": "Lesson 8 · Listing contracts"
+    },
+    {
+      "id": "08-008",
+      "tag": "Listing facts",
+      "q": "In Bouskill v. Campea, a lot listed as 172 feet deep \"more or less\" was really 161 feet. Result?",
+      "choices": [
+        "The buyer got a price reduction",
+        "The contract was unenforceable",
+        "\"More or less\" covered the gap",
+        "The seller had to buy more land"
+      ],
+      "answer": 1,
+      "explain": "An 11-foot shortfall was too big for \"more or less\" to cover. Measure, or say how you know.",
+      "ref": "Lesson 8 · Get the facts right at listing time"
+    },
+    {
+      "id": "08-009",
+      "tag": "Listing facts",
+      "q": "A contract says the buyer will assume a mortgage of \"approx. $20,000\". Whose figure should you rely on?",
+      "choices": [
+        "The seller's recollection",
+        "The lender's confirmation",
+        "The previous listing's figure",
+        "The buyer's estimate"
+      ],
+      "answer": 1,
+      "explain": "Confirm the balance, rate, term, penalty and assumability with the lender. \"The seller told me\" is no defence.",
+      "ref": "Lesson 8 · Get the facts right at listing time"
+    },
+    {
+      "id": "08-010",
+      "tag": "Listing facts",
+      "q": "In Jung v. Ip, what share of the buyers' damages fell on the listing licensee?",
+      "choices": [
+        "Nothing at all",
+        "20%",
+        "50%",
+        "All of it"
+      ],
+      "answer": 1,
+      "explain": "A 15-minute inspection and \"move-in condition\" in a known termite area: the licensee bore 20%, and the employer also had a duty to verify.",
+      "ref": "Lesson 8 · Get the facts right at listing time"
+    },
+    {
+      "id": "08-011",
+      "tag": "Listing facts",
+      "q": "Which case shows why a title search matters, where \"clear title\" was promised despite two registered easements?",
+      "choices": [
+        "Bouskill v. Campea",
+        "Price v. Malais",
+        "Jung v. Ip",
+        "Lee v. Skalbania"
+      ],
+      "answer": 1,
+      "explain": "The buyers walked away and the brokerage breached its duty to the seller.",
+      "ref": "Lesson 8 · Get the facts right at listing time"
+    },
+    {
+      "id": "08-012",
+      "tag": "Competition",
+      "q": "Which is most likely a criminal conspiracy under Competition Act s.45?",
+      "choices": [
+        "Two agents agreeing the split on one sale",
+        "Brokerages agreeing a minimum commission rate",
+        "A brokerage choosing its own commission rate",
+        "A board publishing average sale prices"
+      ],
+      "answer": 1,
+      "explain": "Fixing commission rates or splits among competitors is a classic s.45 conspiracy. Agreeing a split on a particular sale is fine.",
+      "ref": "Lesson 8 · Criminal provisions"
+    },
+    {
+      "id": "08-013",
+      "tag": "Competition",
+      "q": "What's the maximum prison term for a s.45 conspiracy?",
+      "choices": [
+        "2 years",
+        "14 years",
+        "5 years",
+        "1 year"
+      ],
+      "answer": 1,
+      "explain": "Up to 14 years and/or a fine at the court's discretion.",
+      "ref": "Lesson 8 · Criminal provisions"
+    },
+    {
+      "id": "08-014",
+      "tag": "Competition",
+      "q": "What must the Crown prove for a s.45 conspiracy conviction?",
+      "choices": [
+        "That competition was actually harmed",
+        "An agreement, which may be implied",
+        "That the agreement was carried out",
+        "That consumers paid higher prices"
+      ],
+      "answer": 1,
+      "explain": "No proof of harm or performance is needed, and an agreement can be inferred from circumstances.",
+      "ref": "Lesson 8 · Criminal provisions"
+    },
+    {
+      "id": "08-015",
+      "tag": "Competition",
+      "q": "Which statement about s.52 (misleading advertising) is correct?",
+      "choices": [
+        "Puffery like \"best view in town\" is an offence",
+        "Nobody needs to have actually been misled",
+        "It only applies to printed advertising",
+        "Only a literal falsehood can be misleading"
+      ],
+      "answer": 1,
+      "explain": "Courts consider literal meaning and general impression; actual deception isn't required. Puffery isn't material.",
+      "ref": "Lesson 8 · Criminal provisions"
+    },
+    {
+      "id": "08-016",
+      "tag": "Competition",
+      "q": "Why do most misleading-advertising cases go under s.74.01 rather than s.52?",
+      "choices": [
+        "It carries longer prison terms",
+        "It doesn't require proof of intent",
+        "It only applies to licensees",
+        "It's heard by the criminal courts"
+      ],
+      "answer": 1,
+      "explain": "s.74.01 is civil and needs no intent; first-time AMPs reach $750,000 for individuals and $10 million for corporations.",
+      "ref": "Lesson 8 · Civil provisions (heard by the Competition Tribunal)"
+    },
+    {
+      "id": "08-017",
+      "tag": "Competition",
+      "q": "Under s.74.05, who is NOT exempt from the ban on selling above the advertised price?",
+      "choices": [
+        "A licensee selling a resale home for an owner",
+        "A licensee selling units for a developer",
+        "A licensee selling a commercial building for an owner",
+        "A licensee leasing an office for an owner"
+      ],
+      "answer": 1,
+      "explain": "Owners' licensees are exempt (getting the best price is the job). Developers' licensees aren't.",
+      "ref": "Lesson 8 · Civil provisions (heard by the Competition Tribunal)"
+    },
+    {
+      "id": "08-018",
+      "tag": "Competition",
+      "q": "A board refuses to list properties whose commission is \"too low\". Which provision is most relevant?",
+      "choices": [
+        "s.52 misleading advertising",
+        "s.76 price maintenance",
+        "s.74.05 sale above advertised price",
+        "s.90.1 lease exclusivity"
+      ],
+      "answer": 1,
+      "explain": "Punishing someone for low pricing is price maintenance.",
+      "ref": "Lesson 8 · Civil provisions (heard by the Competition Tribunal)"
+    },
+    {
+      "id": "08-019",
+      "tag": "CPS",
+      "q": "Under CPS clause 16, when does risk of loss pass to the buyer?",
+      "choices": [
+        "When the contract is accepted by both",
+        "At 12:01 a.m. on the Completion Date",
+        "When all subjects have been removed",
+        "On the Possession Date in the contract"
+      ],
+      "answer": 1,
+      "explain": "The property stays at the seller's risk until 12:01 a.m. on the Completion Date, reversing the equitable default.",
+      "ref": "Lesson 8 · The contract of purchase and sale"
+    },
+    {
+      "id": "08-020",
+      "tag": "CPS",
+      "q": "The house burns down between subject removal and completion. Is the contract frustrated?",
+      "choices": [
+        "Yes, fire always frustrates a sale contract",
+        "No, the CPS provides for it (seller's risk)",
+        "Yes, unless the buyer had arranged insurance",
+        "No, the buyer must complete it as is"
+      ],
+      "answer": 1,
+      "explain": "Because the contract allocates the risk, frustration doesn't apply. The property is at the seller's risk.",
+      "ref": "Lesson 8 · The contract of purchase and sale"
+    },
+    {
+      "id": "08-021",
+      "tag": "Parties",
+      "q": "Two buyers don't say how they'll hold title. What do BC courts presume?",
+      "choices": [
+        "Joint tenancy",
+        "Tenancy in common",
+        "Ownership by the first-named buyer",
+        "A trust for both buyers"
+      ],
+      "answer": 1,
+      "explain": "Tenancy in common is presumed. Explain the options, but don't advise which to pick.",
+      "ref": "Lesson 8 · The three P's: parties, property, price"
+    },
+    {
+      "id": "08-022",
+      "tag": "Parties",
+      "q": "Under the federal ban, what fine can a licensee face for helping a non-Canadian buy residential property?",
+      "choices": [
+        "Up to $1,000",
+        "Up to $10,000",
+        "Up to $100,000",
+        "Up to $250,000"
+      ],
+      "answer": 1,
+      "explain": "Anyone who helps break the ban faces up to $10,000, plus BCFSA discipline.",
+      "ref": "Lesson 8 · The three P's: parties, property, price"
+    },
+    {
+      "id": "08-023",
+      "tag": "Parties",
+      "q": "Which purchase is NOT caught by the non-Canadian ban?",
+      "choices": [
+        "A condo in a census metropolitan area",
+        "Vacant residentially zoned land",
+        "A townhouse in a census agglomeration",
+        "A detached home in Metro Vancouver"
+      ],
+      "answer": 1,
+      "explain": "Vacant land isn't \"residential property\" under the Act, and buying for development is exempt.",
+      "ref": "Lesson 8 · The three P's: parties, property, price"
+    },
+    {
+      "id": "08-024",
+      "tag": "Property",
+      "q": "How should you describe part of a parcel that hasn't yet been subdivided?",
+      "choices": [
+        "By civic address alone",
+        "By metes and bounds with a sketch",
+        "By the whole parcel's PID",
+        "By the seller's verbal description"
+      ],
+      "answer": 1,
+      "explain": "Use metes and bounds with landmarks and an attached sketch, or risk the contract being void for uncertainty.",
+      "ref": "Lesson 8 · The three P's: parties, property, price"
+    },
+    {
+      "id": "08-025",
+      "tag": "Financing",
+      "q": "In Block Bros. v. Occidental Hotel, what killed the contract?",
+      "choices": [
+        "The buyer's deposit cheque bounced",
+        "\"And/or\" financing wording was uncertain",
+        "The buyer was under 19 at signing",
+        "The listing had already expired by then"
+      ],
+      "answer": 1,
+      "explain": "The two financing methods are completely different. No contract, so no commission.",
+      "ref": "Lesson 8 · The three P's: parties, property, price"
+    },
+    {
+      "id": "08-026",
+      "tag": "Financing",
+      "q": "A buyer's offer says the balance is payable by agreement for sale \"under the usual terms\". What happened in Buyers v. Begg?",
+      "choices": [
+        "The court supplied standard terms",
+        "Too vague; the buyer got the deposit back",
+        "The seller kept the deposit",
+        "The court ordered specific performance"
+      ],
+      "answer": 1,
+      "explain": "There are no \"usual\" terms, so there was no enforceable contract and the deposit was returned.",
+      "ref": "Lesson 8 · The three P's: parties, property, price"
+    },
+    {
+      "id": "08-027",
+      "tag": "HBRP",
+      "q": "An offer is accepted on Thursday, July 6. When does the HBRP end?",
+      "choices": [
+        "End of Sunday, July 9",
+        "End of Tuesday, July 11",
+        "End of Monday, July 10",
+        "End of Wednesday, July 12"
+      ],
+      "answer": 1,
+      "explain": "The period starts the next business day (Friday) and skips Saturday and Sunday: Friday, Monday, Tuesday.",
+      "ref": "Lesson 8 · The Home Buyer Rescission Period (HBRP)"
+    },
+    {
+      "id": "08-028",
+      "tag": "HBRP",
+      "q": "A buyer rescinds a $1,200,000 purchase under the HBRP. What do they owe the seller?",
+      "choices": [
+        "Nothing",
+        "$3,000",
+        "$12,000",
+        "$30,000"
+      ],
+      "answer": 1,
+      "explain": "0.25% of the price: $250 per $100,000, so $3,000.",
+      "ref": "Lesson 8 · The Home Buyer Rescission Period (HBRP)"
+    },
+    {
+      "id": "08-029",
+      "tag": "HBRP",
+      "q": "Which purchase is NOT covered by the HBRP?",
+      "choices": [
+        "A residential strata lot",
+        "A home bought at auction",
+        "A semi-detached house",
+        "A manufactured home on owned land"
+      ],
+      "answer": 1,
+      "explain": "Auction, court-ordered, leasehold and REDMA development unit sales are excluded.",
+      "ref": "Lesson 8 · The Home Buyer Rescission Period (HBRP)"
+    },
+    {
+      "id": "08-030",
+      "tag": "HBRP",
+      "q": "A rescission notice is sent by registered mail. When is it deemed delivered?",
+      "choices": [
+        "When the seller signs for it",
+        "When it's sent",
+        "Three days after mailing",
+        "When the seller's agent opens it"
+      ],
+      "answer": 1,
+      "explain": "Registered mail: when sent. Fax or email with read receipt requested: when transmitted.",
+      "ref": "Lesson 8 · The Home Buyer Rescission Period (HBRP)"
+    },
+    {
+      "id": "08-031",
+      "tag": "HBRP",
+      "q": "Your brokerage holds the deposit and the buyer validly rescinds under the HBRP. What do you do?",
+      "choices": [
+        "Wait for both parties to sign a release",
+        "Pay the seller 0.25% and return the rest",
+        "Pay the whole deposit into court",
+        "Hold it until the completion date passes"
+      ],
+      "answer": 1,
+      "explain": "No release is needed: pay the 0.25% to the seller and promptly return the balance to the buyer.",
+      "ref": "Lesson 8 · The Home Buyer Rescission Period (HBRP)"
+    },
+    {
+      "id": "08-032",
+      "tag": "HBRP",
+      "q": "How long must a brokerage keep HBRP rescission notices?",
+      "choices": [
+        "1 year",
+        "7 years",
+        "3 years",
+        "5 years"
+      ],
+      "answer": 1,
+      "explain": "They're trading records: kept 7 years and reported in the annual activity report.",
+      "ref": "Lesson 8 · The Home Buyer Rescission Period (HBRP)"
+    },
+    {
+      "id": "08-033",
+      "tag": "Deposit",
+      "q": "What is the consideration in a contract of purchase and sale?",
+      "choices": [
+        "The deposit",
+        "The exchange of promises",
+        "The commission",
+        "The title transfer fee"
+      ],
+      "answer": 1,
+      "explain": "The promises to transfer title and to pay are the consideration. A contract can be binding before any deposit is paid.",
+      "ref": "Lesson 8 · Terms, conditions and the deposit"
+    },
+    {
+      "id": "08-034",
+      "tag": "Deposit",
+      "q": "Unless agreed otherwise, when must the deposit be paid under CPS clause 2?",
+      "choices": [
+        "On completion",
+        "Within 24 hours of acceptance",
+        "Within 3 business days",
+        "Within 7 days of acceptance"
+      ],
+      "answer": 1,
+      "explain": "Within 24 hours of acceptance. Failing to pay lets the seller terminate.",
+      "ref": "Lesson 8 · Terms, conditions and the deposit"
+    },
+    {
+      "id": "08-035",
+      "tag": "Stakeholder",
+      "q": "A deal collapses. The buyer demands their deposit back; the seller says nothing. What can the brokerage do?",
+      "choices": [
+        "Return it to the buyer, since they paid it",
+        "Only release it with all parties' signed release",
+        "Give it all to the seller as liquidated damages",
+        "Split it equally between buyer and seller"
+      ],
+      "answer": 1,
+      "explain": "As stakeholder (RESA s.28), release requires all parties' agreement, HBRP rescission, or payment into court.",
+      "ref": "Lesson 8 · The brokerage as stakeholder (RESA s.28)"
+    },
+    {
+      "id": "08-036",
+      "tag": "Stakeholder",
+      "q": "The buyer says \"I've stopped payment on the deposit cheque, give it back.\" What do you do?",
+      "choices": [
+        "Return the cheque to the buyer",
+        "Deposit it and tell the seller's side",
+        "Shred it and record the event",
+        "Hold it until the buyer calms down"
+      ],
+      "answer": 1,
+      "explain": "Stakeholder rules apply even to an undeposited cheque. Deposit it and notify the seller's side immediately.",
+      "ref": "Lesson 8 · The brokerage as stakeholder (RESA s.28)"
+    },
+    {
+      "id": "08-037",
+      "tag": "Stakeholder",
+      "q": "In Lee v. Skalbania, could the seller keep the $50,000 deposit after reselling for $31,000 more?",
+      "choices": [
+        "No, the profit offset the loss",
+        "Yes, the deposit was reasonable",
+        "No, deposits are always refunded",
+        "Only half of it"
+      ],
+      "answer": 1,
+      "explain": "5–10% deposits are reasonable; relief under LEA s.24 needs an unreasonable deposit and unconscionability.",
+      "ref": "Lesson 8 · The brokerage as stakeholder (RESA s.28)"
+    },
+    {
+      "id": "08-038",
+      "tag": "Stakeholder",
+      "q": "By default, who gets interest earned on deposits held in a brokerage trust account?",
+      "choices": [
+        "The buyer who paid the deposit",
+        "The Real Estate Foundation",
+        "The seller receiving the deposit",
+        "The brokerage holding the funds"
+      ],
+      "answer": 1,
+      "explain": "Unless the parties agree otherwise (which needs a separate trust account), interest goes to the Real Estate Foundation.",
+      "ref": "Lesson 8 · The brokerage as stakeholder (RESA s.28)"
+    },
+    {
+      "id": "08-039",
+      "tag": "Merger",
+      "q": "What does the doctrine of merger mean for a buyer after completion?",
+      "choices": [
+        "They can sue on any promise in the CPS",
+        "Most contract promises can't be sued on",
+        "They get a 2-year warranty period",
+        "They can reopen the price within 30 days"
+      ],
+      "answer": 1,
+      "explain": "The contract merges into the transfer; buyers must check things before completing. CPS clause 18 preserves written warranties.",
+      "ref": "Lesson 8 · Warranties and the doctrine of merger"
+    },
+    {
+      "id": "08-040",
+      "tag": "Merger",
+      "q": "Which is NOT an exception to the doctrine of merger?",
+      "choices": [
+        "Fraud",
+        "A licensee's verbal assurance",
+        "A collateral warranty meant to survive",
+        "A statutory warranty"
+      ],
+      "answer": 1,
+      "explain": "Verbal assurances aren't an exception. Put relied-on assurances into the CPS as express warranties.",
+      "ref": "Lesson 8 · Warranties and the doctrine of merger"
+    },
+    {
+      "id": "08-041",
+      "tag": "Merger",
+      "q": "In Olszewski v. Trapman, why did the buyer get the $100,000 deposit back?",
+      "choices": [
+        "The seller had committed fraud",
+        "They refused to complete before closing",
+        "The lot turned out larger than described",
+        "The licensee was not licensed at the time"
+      ],
+      "answer": 1,
+      "explain": "A 1.15-acre lot sold as approx. 1.5 acres: innocent misrepresentation can support rescission while the contract is still executory.",
+      "ref": "Lesson 8 · Warranties and the doctrine of merger"
+    },
+    {
+      "id": "08-042",
+      "tag": "Liens",
+      "q": "When buying a strata lot from the owner developer, what holdback is required by law?",
+      "choices": [
+        "10% of the price",
+        "7% of the gross price",
+        "5% of the deposit",
+        "None"
+      ],
+      "answer": 1,
+      "explain": "Strata Property Act s.88 and Regulation s.5.2 require a 7% holdback, released at the earlier of the last lien-filing date or 55 days.",
+      "ref": "Lesson 8 · Builders liens and Norfolk & Aikens"
+    },
+    {
+      "id": "08-043",
+      "tag": "Liens",
+      "q": "What does the Norfolk & Aikens procedure allow?",
+      "choices": [
+        "Builders to file liens after 55 days",
+        "Registration on lawyers' undertakings",
+        "Buyers to skip the holdback",
+        "Sellers to keep the deposit"
+      ],
+      "answer": 1,
+      "explain": "CPS clauses 13–14 let transfers and mortgages register on lawyers' and notaries' undertakings, so both sides can use the proceeds.",
+      "ref": "Lesson 8 · Builders liens and Norfolk & Aikens"
+    },
+    {
+      "id": "08-044",
+      "tag": "Subjects",
+      "q": "Under CPS clause 3, how must a subject be removed?",
+      "choices": [
+        "Verbally, by either of the parties",
+        "By written notice from the benefiting party",
+        "Automatically when the subject date arrives",
+        "By the licensees acting on either side"
+      ],
+      "answer": 1,
+      "explain": "Written notice, on or before the date. Otherwise the contract terminates.",
+      "ref": "Lesson 8 · Removing subjects"
+    },
+    {
+      "id": "08-045",
+      "tag": "Subjects",
+      "q": "Under LEA s.54, which is NOT required to waive a true condition precedent?",
+      "choices": [
+        "It benefits only the waiving party",
+        "The other party's written consent",
+        "The contract can be performed without it",
+        "Waiver before the deadline"
+      ],
+      "answer": 1,
+      "explain": "s.54 lets the sole beneficiary waive without the other side's consent.",
+      "ref": "Lesson 8 · Removing subjects"
+    },
+    {
+      "id": "08-046",
+      "tag": "Subjects",
+      "q": "\"Subject to approval by the buyer company's president\" is best described as what?",
+      "choices": [
+        "Wholly objective",
+        "Wholly subjective",
+        "Partly objective",
+        "A covenant"
+      ],
+      "answer": 1,
+      "explain": "Pure whim and fancy: probably no binding contract yet, just a revocable offer.",
+      "ref": "Lesson 8 · Subjective vs objective subjects"
+    },
+    {
+      "id": "08-047",
+      "tag": "Subjects",
+      "q": "In Harris v. Wang, why were the buyers liable for $274,000?",
+      "choices": [
+        "They forgot to pay the deposit on time",
+        "They stopped trying to satisfy their subjects",
+        "They removed subjects too early",
+        "They assigned the contract without consent"
+      ],
+      "answer": 1,
+      "explain": "After learning of a natural death in the house, they simply stopped arranging financing and inspection: no good faith.",
+      "ref": "Lesson 8 · Trying in good faith to satisfy a subject"
+    },
+    {
+      "id": "08-048",
+      "tag": "Subjects",
+      "q": "Per Gordon Nelson v. Cameron, what does \"in their sole discretion\" do to a financing subject?",
+      "choices": [
+        "Makes the whole subject void",
+        "Lowers the standard to honest efforts",
+        "Raises the standard to best efforts",
+        "Converts the subject into a covenant"
+      ],
+      "answer": 1,
+      "explain": "Without those words, Griffin v. Martens requires best efforts. The exact wording matters.",
+      "ref": "Lesson 8 · Trying in good faith to satisfy a subject"
+    },
+    {
+      "id": "08-049",
+      "tag": "Drafting",
+      "q": "In Gulston v. Aldred, \"the Seller shall remedy the contamination by May 29\" was treated as what?",
+      "choices": [
+        "A condition precedent",
+        "A covenant",
+        "A collateral warranty",
+        "A time clause"
+      ],
+      "answer": 1,
+      "explain": "\"Shall\" made it an unconditional promise. The late certificate didn't let the buyer walk; only damages.",
+      "ref": "Lesson 8 · Seven drafting best practices"
+    },
+    {
+      "id": "08-050",
+      "tag": "Drafting",
+      "q": "What does a time clause let a seller with a backup offer do?",
+      "choices": [
+        "Cancel the first contract whenever it likes",
+        "Force the first buyer to remove subjects quickly",
+        "Raise the price payable by the first buyer",
+        "Accept both offers and pick one later"
+      ],
+      "answer": 1,
+      "explain": "Written notice requires removal within a set time (typically 24–72 hours) or the contract ends.",
+      "ref": "Lesson 8 · Seven drafting best practices"
+    },
+    {
+      "id": "08-051",
+      "tag": "Amend",
+      "q": "What wording should you add when changing a completion date?",
+      "choices": [
+        "\"All prior dates are cancelled\"",
+        "\"Time remains of the essence\"",
+        "\"Subject to the buyer's approval\"",
+        "\"This replaces the original contract\""
+      ],
+      "answer": 1,
+      "explain": "Clause 12 makes time of the essence; restate it: \"All other terms and conditions remain the same and time remains of the essence.\"",
+      "ref": "Lesson 8 · Amending a contract"
+    },
+    {
+      "id": "08-052",
+      "tag": "Assignment",
+      "q": "Why avoid naming the buyer as \"John Smith and/or nominee\"?",
+      "choices": [
+        "It doubles the property transfer tax owed",
+        "It may make the buyer's identity uncertain",
+        "It is expressly prohibited under RESA",
+        "It automatically triggers the buyer's HBRP"
+      ],
+      "answer": 1,
+      "explain": "Dunbar v. Dayson Holdings: it can make the contract uncertain.",
+      "ref": "Lesson 8 · Assigning a contract of purchase and sale"
+    },
+    {
+      "id": "08-053",
+      "tag": "Assignment",
+      "q": "Which developments does CSAIR reporting apply to?",
+      "choices": [
+        "Any commercial strata development in BC",
+        "Residential strata developments of 5+ lots",
+        "All new single-family home subdivisions",
+        "Bare land strata developments of 10+ lots"
+      ],
+      "answer": 1,
+      "explain": "Residential strata developments of 5 or more lots; developers collect and report the assignment data.",
+      "ref": "Lesson 8 · CSAIR (Condo and Strata Assignment Integrity Register)"
+    },
+    {
+      "id": "08-054",
+      "tag": "Negotiation",
+      "q": "What's your BATNA?",
+      "choices": [
+        "The first offer you put on the table",
+        "Your best alternative if no deal is made",
+        "The highest target you aspire to reach",
+        "The other side's walk-away bottom line"
+      ],
+      "answer": 1,
+      "explain": "A strong BATNA gives you power and calm; your resistance point is your bottom line.",
+      "ref": "Lesson 8 · Preparation (the single biggest improvement)"
+    },
+    {
+      "id": "08-055",
+      "tag": "Negotiation",
+      "q": "A buyer insists on a June 17 completion. What's the integrative response?",
+      "choices": [
+        "Hold firm on the opposite date",
+        "Ask why, to find the interest behind it",
+        "Split the difference on the date",
+        "Threaten to walk away from the deal"
+      ],
+      "answer": 1,
+      "explain": "The position may hide an interest (e.g. can't carry two mortgages) that other solutions could meet.",
+      "ref": "Lesson 8 · Preparation (the single biggest improvement)"
+    },
+    {
+      "id": "08-056",
+      "tag": "Negotiation",
+      "q": "The other side keeps saying \"my partner won't approve that.\" What tactic is this?",
+      "choices": [
+        "Anchoring",
+        "False authority",
+        "Eleventh-hour throw-in",
+        "Reciprocal concession"
+      ],
+      "answer": 1,
+      "explain": "Confirm up front who decides, and treat any deal as tentative until they agree.",
+      "ref": "Lesson 8 · Dirty tactics, and how to respond"
+    },
+    {
+      "id": "08-057",
+      "tag": "Risk",
+      "q": "What's the coverage limit of the mandatory E&O Indemnity Plan?",
+      "choices": [
+        "$1,000,000",
+        "$2,000,000",
+        "$5,000,000",
+        "$500,000"
+      ],
+      "answer": 1,
+      "explain": "$2,000,000. It excludes prior acts and property management.",
+      "ref": "Lesson 8 · 1. Shift the risk"
+    },
+    {
+      "id": "08-058",
+      "tag": "PDS",
+      "q": "Which statement about the Property Disclosure Statement is correct?",
+      "choices": [
+        "BC law requires every seller to give one",
+        "Its answers are not a warranty",
+        "It replaces the licensee's s.59 duty entirely",
+        "It was created by BCFSA in 2018"
+      ],
+      "answer": 1,
+      "explain": "BCREA created it in 1992. It's not legally required, and answers reflect only the seller's current knowledge.",
+      "ref": "Lesson 8 · The Property Disclosure Statement (PDS)"
+    },
+    {
+      "id": "08-059",
+      "tag": "PDS",
+      "q": "In Sewell v. Abadian (2025 BCCA), why did the buyer get its $300,000 deposit back?",
+      "choices": [
+        "The seller never gave the buyer a PDS at all",
+        "A crossed-out PDS still implied no known issues",
+        "The licensee forgot to incorporate the PDS",
+        "The home turned out to be in a flood zone"
+      ],
+      "answer": 1,
+      "explain": "The seller knew of an unpermitted addition. Read as a whole, the crossed-out form still misled. This prompted the PNDS.",
+      "ref": "Lesson 8 · The Property Disclosure Statement (PDS)"
+    },
+    {
+      "id": "08-060",
+      "tag": "PDS",
+      "q": "Why incorporate the PDS into the CPS?",
+      "choices": [
+        "To avoid paying property transfer tax",
+        "So the buyer can sue on false answers",
+        "To extend the HBRP by 3 days",
+        "Because RESA requires it"
+      ],
+      "answer": 1,
+      "explain": "The entire agreement clause otherwise blocks most claims on non-fraudulent PDS answers.",
+      "ref": "Lesson 8 · The Property Disclosure Statement (PDS)"
+    },
+    {
+      "id": "08-061",
+      "tag": "Environmental",
+      "q": "Since when must BC home inspectors be licensed?",
+      "choices": [
+        "January 1, 2023",
+        "March 31, 2009",
+        "June 2012",
+        "January 1, 1992"
+      ],
+      "answer": 1,
+      "explain": "Since March 31, 2009, under the Business Practices and Consumer Protection Act. Check the licence before referring.",
+      "ref": "Lesson 8 · Environmental risk"
+    }
+  ]
+}

@@ -7,6 +7,7 @@
 | 2026-10-25 | 02, 03 | Preface, Ch 3, Ch 4 | Lessons 2 and 3 published: notes, cheat sheets, quizzes (41 + 42 Qs), glossary now 101 terms. Live on GitHub Pages (commit 93654b5). |
 | 2026-10-25 | 04, 05 | Ch 2 (RESA, Rules, REDMA) | Lessons 4 and 5 published: notes, cheat sheets, quizzes (42 + 45 Qs), glossary now 147 terms. Also: name-only profiles (dates optional), cache fix, full-width layout. |
 | 2026-10-25 | 06, 07 | Ch 5, 9, 10 (liability, FINTRAC, ethics, contract law) | Lessons 6 and 7 published: notes, cheat sheets, quizzes (49 + 55 Qs), glossary now 220 terms. Also fixed table spacing in cheat sheets 01–05. |
+| 2026-10-25 | 08, 09 | Ch 11, 12 (real estate contracts, law of agency) | Lessons 8 and 9 published: notes, cheat sheets, quizzes (61 + 64 Qs), glossary now 270 terms. Also: "On this page" highlights the section being read. |
 
 ## Weak spots to revisit
 _(populated as we go)_

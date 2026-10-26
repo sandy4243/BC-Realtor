@@ -15,6 +15,11 @@
     "lesson": "01"
   },
   {
+    "term": "Actual authority",
+    "def": "Authority the principal has really given: express (in words), implied (needed to carry out the express authority) or usual/customary.",
+    "lesson": "09"
+  },
+  {
     "term": "Administrative monetary penalty (AMP)",
     "def": "A FINTRAC fine for non-compliance: up to $100,000 per violation for individuals and $500,000 for entities, published publicly.",
     "lesson": "06"
@@ -30,14 +35,34 @@
     "lesson": "01"
   },
   {
+    "term": "Agency",
+    "def": "A relationship in which one person (the agent) is authorized to act for another (the principal) in dealings with third parties.",
+    "lesson": "09"
+  },
+  {
+    "term": "Agent",
+    "def": "The person authorized to represent and act for a principal.",
+    "lesson": "09"
+  },
+  {
     "term": "Ameliorating waste",
     "def": "A change by a life tenant that improves the property, such as adding a deck. Technically waste, but usually no damages are awarded.",
     "lesson": "02"
   },
   {
+    "term": "Anchoring",
+    "def": "The pull a first number (list price or first offer) exerts on the rest of a negotiation.",
+    "lesson": "08"
+  },
+  {
     "term": "Anticipatory breach",
     "def": "Announcing before the performance date that you won't perform. The other side can sue right away or wait.",
     "lesson": "07"
+  },
+  {
+    "term": "Apparent authority",
+    "def": "Authority a third party reasonably believes an agent has because of the principal's conduct. Based on estoppel.",
+    "lesson": "09"
   },
   {
     "term": "Appellant",
@@ -60,6 +85,11 @@
     "lesson": "07"
   },
   {
+    "term": "Associate",
+    "def": "For Rules s.53: a licensee's spouse, a trust or estate they substantially benefit from, or a corporation or partnership where they or their spouse hold 5%+.",
+    "lesson": "09"
+  },
+  {
     "term": "Associate broker",
     "def": "A licensee qualified to be a managing broker who works under the brokerage's managing broker.",
     "lesson": "04"
@@ -70,6 +100,11 @@
     "lesson": "03"
   },
   {
+    "term": "Backup offer",
+    "def": "A second offer accepted subject to the seller being released from the first contract.",
+    "lesson": "08"
+  },
+  {
     "term": "Balance of probabilities",
     "def": "The civil standard of proof: more likely than not. A tie means the plaintiff loses.",
     "lesson": "01"
@@ -78,6 +113,11 @@
     "term": "Bare land strata",
     "def": "A strata development where land, rather than a building, is divided into strata lots. Roads and amenities are usually common property paid for by the owners.",
     "lesson": "03"
+  },
+  {
+    "term": "BATNA",
+    "def": "Best alternative to a negotiated agreement: what you'll do if no deal is made. The source of negotiating power.",
+    "lesson": "08"
   },
   {
     "term": "BCFSA",
@@ -103,6 +143,11 @@
     "term": "Brokerage",
     "def": "The licensed business through which all real estate services are provided. Clients contract with the brokerage, not the individual licensee.",
     "lesson": "04"
+  },
+  {
+    "term": "Brokerage agency",
+    "def": "The model where the whole brokerage, and every licensee in it, is the client's agent. Now only for rental-only or strata-management-only brokerages.",
+    "lesson": "09"
   },
   {
     "term": "Builders lien",
@@ -175,6 +220,11 @@
     "lesson": "04"
   },
   {
+    "term": "Collateral warranty",
+    "def": "A separate binding promise made alongside the main contract, which can survive completion. Hard to prove.",
+    "lesson": "08"
+  },
+  {
     "term": "Committee",
     "def": "A person appointed by the court to manage the affairs of an adult who can't manage them. The adult can no longer contract.",
     "lesson": "07"
@@ -195,6 +245,11 @@
     "lesson": "03"
   },
   {
+    "term": "Competition Act",
+    "def": "Federal law against anti-competitive agreements (e.g. fixing commissions) and misleading advertising, enforced by the Competition Bureau.",
+    "lesson": "08"
+  },
+  {
     "term": "Compliance program",
     "def": "The five-part PCMLTFA program every brokerage needs: compliance officer, written policies, documented risk assessment, written training, and a review every 2 years.",
     "lesson": "06"
@@ -208,6 +263,11 @@
     "term": "Condition precedent",
     "def": "A \"subject\": an event that must happen before the contract becomes binding. Only a party for whose sole benefit it exists can waive it.",
     "lesson": "07"
+  },
+  {
+    "term": "Condition subsequent",
+    "def": "An event that ends obligations already in place (e.g. \"if no occupancy permit by (date), this contract terminates\").",
+    "lesson": "08"
   },
   {
     "term": "Conduct unbecoming",
@@ -230,9 +290,24 @@
     "lesson": "07"
   },
   {
+    "term": "Continuing / Released Client",
+    "def": "The two roles under a Rules s.65 conflict agreement: the licensee keeps acting for the Continuing Client; the Released Client gets no further advice but keeps confidentiality.",
+    "lesson": "09"
+  },
+  {
     "term": "Contract",
     "def": "An agreement between two or more people that creates a legal obligation to do, or not do, something.",
     "lesson": "01"
+  },
+  {
+    "term": "Contract of purchase and sale (CPS)",
+    "def": "The BC standard form contract between buyer and seller, created by BCREA and the Canadian Bar Association (BC Branch).",
+    "lesson": "08"
+  },
+  {
+    "term": "Cooperating brokerage",
+    "def": "The brokerage working with the buyer, which usually shares in the listing brokerage's commission.",
+    "lesson": "09"
   },
   {
     "term": "Cooperative interest",
@@ -250,9 +325,19 @@
     "lesson": "01"
   },
   {
+    "term": "Covenant",
+    "def": "An unconditional promise. Breaking it gives damages, but doesn't let the other party walk away.",
+    "lesson": "08"
+  },
+  {
     "term": "CREA",
     "def": "Canadian Real Estate Association: the national organization that owns the REALTOR® and MLS® trademarks and the REALTOR® Code.",
     "lesson": "04"
+  },
+  {
+    "term": "CSAIR",
+    "def": "Condo and Strata Assignment Integrity Register: the provincial database of assignments of purchase agreements for residential strata lots in developments of 5+ lots, reported by developers.",
+    "lesson": "08"
   },
   {
     "term": "Damages",
@@ -270,6 +355,16 @@
     "lesson": "01"
   },
   {
+    "term": "Deposit",
+    "def": "Good-faith money the buyer pays (usually within 24 hours of acceptance), held in trust by the brokerage as stakeholder. It isn't the consideration.",
+    "lesson": "08"
+  },
+  {
+    "term": "Designated agency",
+    "def": "BC's model since June 2012: the brokerage names specific licensee(s) as the client's sole agents; the rest of the brokerage isn't the client's agent.",
+    "lesson": "09"
+  },
+  {
     "term": "Development property",
     "def": "Under REDMA, land divided or to be divided into 5 or more units (2 or more for cooperative or shared interests), unless exempt.",
     "lesson": "05"
@@ -278,6 +373,11 @@
     "term": "Discipline penalty",
     "def": "A fine imposed after a discipline hearing or consent order: up to $500,000 for a brokerage or $250,000 for anyone else, per contravention.",
     "lesson": "05"
+  },
+  {
+    "term": "Disclosure of Interest in Trade",
+    "def": "The prescribed Rules s.53 form a licensee gives before any agreement when they or an associate will acquire or dispose of real estate.",
+    "lesson": "09"
   },
   {
     "term": "Disclosure statement",
@@ -295,9 +395,29 @@
     "lesson": "01"
   },
   {
+    "term": "Doctrine of merger",
+    "def": "On completion, the contract merges into the transfer, so most pre-completion promises can no longer be sued on (with exceptions such as fraud and surviving written warranties).",
+    "lesson": "08"
+  },
+  {
     "term": "Dominant / servient tenement",
     "def": "In an easement, the dominant tenement is the land that benefits; the servient tenement is the land that carries the burden.",
     "lesson": "02"
+  },
+  {
+    "term": "DORTS",
+    "def": "Disclosure of Representation in Trading Services (Rules s.54): the prescribed form telling a consumer whether you'll represent them as a client.",
+    "lesson": "09"
+  },
+  {
+    "term": "Double-ending",
+    "def": "The listing brokerage keeping the whole commission because the buyer has no agent. A conflict the s.57 disclosure exposes.",
+    "lesson": "09"
+  },
+  {
+    "term": "Dual agency",
+    "def": "Representing clients with conflicting interests in the same trade. Banned in BC since 2018, except in remote, under-served areas where it's impracticable otherwise (Rules s.64).",
+    "lesson": "09"
   },
   {
     "term": "Duplicate certificate of title",
@@ -325,6 +445,11 @@
     "lesson": "02"
   },
   {
+    "term": "Effective cause",
+    "def": "The brokerage whose efforts actually brought about the sale. Relevant to open listings and to sales after a listing expires.",
+    "lesson": "09"
+  },
+  {
     "term": "Encumbrance",
     "def": "A claim or burden registered against title, such as a mortgage, lien or judgment.",
     "lesson": "03"
@@ -350,6 +475,11 @@
     "lesson": "01"
   },
   {
+    "term": "Error in substantialibus",
+    "def": "A mistake about the fundamental identity or character of what was sold. One of the exceptions to the doctrine of merger.",
+    "lesson": "08"
+  },
+  {
     "term": "Escheat",
     "def": "When a person dies with no will and no heirs, their land goes to the Crown.",
     "lesson": "02"
@@ -365,9 +495,19 @@
     "lesson": "02"
   },
   {
+    "term": "Estoppel",
+    "def": "A rule that stops someone denying a state of affairs their own words or conduct led others to rely on.",
+    "lesson": "08"
+  },
+  {
     "term": "Ethics",
     "def": "Moral principles about right and wrong conduct. For licensees, following the spirit of the rules, not just the letter.",
     "lesson": "06"
+  },
+  {
+    "term": "Exclusive right to sell",
+    "def": "The usual BC listing: commission is payable on any sale during the term, even if the owner finds the buyer.",
+    "lesson": "09"
   },
   {
     "term": "Execution",
@@ -430,6 +570,11 @@
     "lesson": "06"
   },
   {
+    "term": "Holdback",
+    "def": "Money kept back from a payment to protect against builders liens: 10% for 55 days, or 7% when buying a strata lot from the owner developer.",
+    "lesson": "08"
+  },
+  {
     "term": "Home Buyer Rescission Period (HBRP)",
     "def": "A 3-business-day right for buyers of most BC residential property to cancel an accepted offer, paying a 0.25% fee. Doesn't apply to REDMA sales.",
     "lesson": "05"
@@ -438,6 +583,11 @@
     "term": "IC&I",
     "def": "Industrial, Commercial and Investment real estate: offices, retail, industrial, apartments, hotels, development land and businesses.",
     "lesson": "02"
+  },
+  {
+    "term": "Implied agency",
+    "def": "An agency created by conduct, e.g. by advising or negotiating for an unrepresented party, even without a written agreement.",
+    "lesson": "09"
   },
   {
     "term": "Indefeasibility",
@@ -535,9 +685,19 @@
     "lesson": "01"
   },
   {
+    "term": "Limited dual agency",
+    "def": "The pre-2018 arrangement where a licensee or brokerage represented both sides under an agreement limiting their duties. No longer allowed.",
+    "lesson": "09"
+  },
+  {
     "term": "Liquidated damages",
     "def": "An amount agreed in the contract as compensation for breach. Enforced only if a genuine pre-estimate of loss; otherwise an unenforceable penalty.",
     "lesson": "07"
+  },
+  {
+    "term": "Listing contract",
+    "def": "The agreement between a seller and a brokerage: the brokerage markets the property, and the seller pays commission if a sale results. The buyer isn't a party.",
+    "lesson": "08"
   },
   {
     "term": "LOTA",
@@ -568,6 +728,11 @@
     "term": "Mediation",
     "def": "A process where a neutral mediator helps the parties reach their own settlement. The mediator doesn't decide anything.",
     "lesson": "01"
+  },
+  {
+    "term": "Metes and bounds",
+    "def": "Describing land by measurements, directions and landmarks. Used when part of an unsubdivided parcel is sold.",
+    "lesson": "08"
   },
   {
     "term": "Misrepresentation",
@@ -625,9 +790,19 @@
     "lesson": "03"
   },
   {
+    "term": "Net listing",
+    "def": "An arrangement where the licensee keeps whatever the sale price exceeds a set figure. Prohibited by Rules s.60.",
+    "lesson": "09"
+  },
+  {
     "term": "Non est factum",
     "def": "\"Not my deed.\" A defence that a signer didn't understand the basic nature of what they signed, making the document void.",
     "lesson": "03"
+  },
+  {
+    "term": "Norfolk & Aikens",
+    "def": "The 1989 BCCA decision behind the CPS clauses that let transfers and mortgages register on lawyers' and notaries' undertakings.",
+    "lesson": "08"
   },
   {
     "term": "Nuisance (private)",
@@ -650,9 +825,19 @@
     "lesson": "07"
   },
   {
+    "term": "Open listing",
+    "def": "A listing given to several brokerages at once. Only the brokerage that's the effective cause of the sale is paid, and the owner can sell commission-free.",
+    "lesson": "09"
+  },
+  {
     "term": "Option agreement",
     "def": "A contract where the offeror receives separate consideration to keep an offer open for a set time.",
     "lesson": "07"
+  },
+  {
+    "term": "Party to be charged",
+    "def": "The person a contract is being enforced against. Under LEA s.59, their signature on the writing is the one that matters.",
+    "lesson": "08"
   },
   {
     "term": "Past consideration",
@@ -730,6 +915,11 @@
     "lesson": "01"
   },
   {
+    "term": "Price maintenance",
+    "def": "Pressuring others to keep prices up, or punishing someone for low pricing. A civil matter under Competition Act s.76.",
+    "lesson": "08"
+  },
+  {
     "term": "Principal",
     "def": "The person an agent acts for, such as the seller or buyer client of a brokerage.",
     "lesson": "04"
@@ -755,6 +945,16 @@
     "lesson": "02"
   },
   {
+    "term": "Property Disclosure Statement (PDS)",
+    "def": "BCREA's form (since 1992) recording the seller's answers about the property. Not legally required and not a warranty unless incorporated into the contract.",
+    "lesson": "08"
+  },
+  {
+    "term": "Property No-Disclosure Statement (PNDS)",
+    "def": "BCREA's 2025 form for sellers who choose to disclose nothing beyond what the law requires. Replaced crossing out the PDS.",
+    "lesson": "08"
+  },
+  {
     "term": "Public law",
     "def": "Law involving the state: criminal, tax and constitutional law.",
     "lesson": "01"
@@ -763,6 +963,11 @@
     "term": "Quantum meruit",
     "def": "\"As much as is deserved\": a reasonable payment for work when no price was agreed or a contract fails.",
     "lesson": "07"
+  },
+  {
+    "term": "Ratification",
+    "def": "A principal approving, after the fact, an act done without authority, binding them as if it had been authorized from the start.",
+    "lesson": "09"
   },
   {
     "term": "Real Estate Foundation of BC (REFBC)",
@@ -840,6 +1045,11 @@
     "lesson": "01"
   },
   {
+    "term": "Resistance point",
+    "def": "Your bottom line in a negotiation, set in advance, beyond which you walk away.",
+    "lesson": "08"
+  },
+  {
     "term": "Restrictive covenant",
     "def": "A registered promise not to do something on your land (e.g. not build above 15 feet) for the benefit of neighbouring land. Must be negative in effect.",
     "lesson": "02"
@@ -870,9 +1080,19 @@
     "lesson": "07"
   },
   {
+    "term": "Secret profit",
+    "def": "Any undisclosed benefit an agent gets from acting for the principal. It must be handed over to the principal.",
+    "lesson": "09"
+  },
+  {
     "term": "Section 219 covenant",
     "def": "A covenant registered under LTA s.219 in favour of the province or a local government. Unlike common law restrictive covenants, it can be positive or negative.",
     "lesson": "03"
+  },
+  {
+    "term": "Seller sub-agency",
+    "def": "The pre-1994 system in which a licensee working with a buyer was legally the seller's sub-agent.",
+    "lesson": "09"
   },
   {
     "term": "Shared interest in land",
@@ -883,6 +1103,11 @@
     "term": "Smurfing",
     "def": "Breaking up cash into many small deposits to avoid reporting thresholds. A placement technique.",
     "lesson": "06"
+  },
+  {
+    "term": "Sole agency",
+    "def": "Representing one party as a client in a trade, with no one else in that trade. The usual relationship under designated agency.",
+    "lesson": "09"
   },
   {
     "term": "Special Compensation Fund",
@@ -965,6 +1190,11 @@
     "lesson": "02"
   },
   {
+    "term": "Time clause",
+    "def": "A term letting a seller with a backup offer require the first buyer to remove all subjects within a set time (typically 24–72 hours) or the contract ends.",
+    "lesson": "08"
+  },
+  {
     "term": "Time is of the essence",
     "def": "Wording that makes deadlines essential, so missing one is a fundamental breach.",
     "lesson": "07"
@@ -1015,6 +1245,11 @@
     "lesson": "01"
   },
   {
+    "term": "True condition precedent",
+    "def": "A subject that depends entirely on a third party (e.g. a municipality). Waivable only under LEA s.54 by its sole beneficiary before the deadline.",
+    "lesson": "08"
+  },
+  {
     "term": "Trust account",
     "def": "An interest-bearing account at a BC savings institution where a brokerage holds other people's money, such as deposits, separate from its own funds.",
     "lesson": "05"
@@ -1040,6 +1275,11 @@
     "lesson": "05"
   },
   {
+    "term": "Undisclosed principal",
+    "def": "A principal whose existence or identity the agent hides from the third party. The agent can then be personally liable on the contract.",
+    "lesson": "09"
+  },
+  {
     "term": "Undue influence",
     "def": "Using a dominant relationship to push someone into a contract. Makes it voidable.",
     "lesson": "07"
@@ -1058,6 +1298,11 @@
     "term": "Unlicensed assistant",
     "def": "Staff who may do administrative tasks such as filing, witnessing signatures and placing signs, but may not show property, host open houses, advise or negotiate.",
     "lesson": "04"
+  },
+  {
+    "term": "Unrepresented party",
+    "def": "A consumer a licensee helps in a limited way without being their agent. Must receive the DORTS and the Disclosure of Risks to Unrepresented Parties.",
+    "lesson": "09"
   },
   {
     "term": "Urgent order",
@@ -1093,6 +1338,11 @@
     "term": "Warranty (contract term)",
     "def": "A minor term. A breach gives damages only; the contract continues.",
     "lesson": "07"
+  },
+  {
+    "term": "Warranty of authority",
+    "def": "An agent's implied promise to third parties that they have the authority they're using. Breaching it makes the agent personally liable.",
+    "lesson": "09"
   },
   {
     "term": "Water licence",
