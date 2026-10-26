@@ -1,0 +1,127 @@
+# Lesson 1 Cheat Sheet — Ch 1: Fundamentals of Law
+
+## Two sources of law
+- **Common law** — judge-made, from written decisions. Origin: post-1066 England, imported at colonization.
+  - **stare decisis** = "let the former decision stand". Gives law **security and certainty**.
+  - **Distinguishing** = judge finds a **crucial fact differs** → earlier case NOT binding.
+  - Binding order: **SCC** > provincial Courts of Appeal (binding in-province, persuasive elsewhere) > provincial trial courts. English/Commonwealth = persuasive only, **not binding until adopted by a Canadian court**.
+- **Equity** — arose because common law became rigid/unfair; petitions to the King → chancellor → courts of chancery.
+  - Equity **corrects** the common law; discretionary; relieves harshness.
+  - Equitable remedies: **specific performance**, **injunction**, **mandatory injunction**. Common law remedy = **damages**.
+  - **Judicature Acts (1870s)** fused the systems. All provinces except **Quebec**.
+  - 🔴 **Conflict → EQUITY WINS.**
+- **Statute law** — Parliament / legislature / municipal council.
+
+## Division of powers
+| Level | Power from | Covers |
+|---|---|---|
+| Federal | Constitution | banking, bankruptcy, currency, postal, marriage/divorce, **criminal**, patents, copyright, shipping, fisheries, defence |
+| Provincial | Constitution | **property & civil rights**, municipal institutions, administration of justice, education, local matters |
+| Municipal | ❗**carved out of PROVINCIAL power**, not the Constitution | zoning, building bylaws, streets/traffic, licensing |
+
+- **Residual power = FEDERAL.**
+- Statute's main job = **change the common law**. Ex: no licence needed at common law → **RESA created it**.
+- Judge's order of operations: **statute first** (interpreted per stare decisis) → then case law.
+
+## Public vs private law
+- **Private/civil** — individual v individual; contract, tort, divorce. ⭐ your world.
+- **Public** — Constitution, govt bodies, individual v state; tax, constitutional, criminal.
+
+## Feudal origin → BC today
+1066 William the Conqueror owns all England → grants land for **services** → tenants-in-chief → middle lords → peasantry. Services later commuted to money (**scutage**). Rights held = **estates**.
+🔑 Still the theoretical basis in BC: **Crown holds underlying title to ALL land.** Service → property tax. Reversion → tax sale / expropriation.
+Property = provincial → BC & west use **Torrens**; most eastern provinces less comprehensive.
+
+## Courts & tribunals
+**Administrative tribunals are NOT courts.** Reviewable for (1) breach of **natural justice**, (2) challenge to **power/jurisdiction**.
+
+**CRT** (Civil Resolution Tribunal Act) — online, faster, cheaper.
+| Dispute | Limit |
+|---|---|
+| **Strata** | ⭐ **NO monetary limit** |
+| Small claims | **$5,000** (❗excess must be **abandoned**, cannot be claimed elsewhere) |
+| Motor vehicle accident | **$50,000** |
+| Housing co-ops | — (contact person must be director/officer/authorized employee) |
+
+CRT **cannot**: libel, slander, malicious prosecution, claims for/against government, constitutional questions. **BC disputes only.**
+Stages: **Application → Negotiation → Facilitation → Final decision** (binding, enforceable). Settle at any stage. No response → possible **default decision**.
+Disagree → **judicial review at BC Supreme Court within 60 DAYS** (standard: reasonable or correct).
+
+**Trial courts (original jurisdiction)** — where evidence is heard.
+| | Small Claims | BC Supreme Court |
+|---|---|---|
+| Money | **$5,001–$35,000** | **none** |
+| Territory | ❗**yes** — cause of action arose there OR defendant lives/carries on business there | none within BC |
+| Parties | **claimant** / defendant | **plaintiff** / defendant |
+
+Over $35,000 → reduce the claim, or go to Supreme Court.
+**Money ladder:** ≤$5,000 CRT · $5,001–$35,000 Small Claims · >$35,000 BC Supreme Court · strata = CRT any amount · MVA ≤$50,000 CRT.
+
+**Appeals** — appellate courts review **legal principles applied**, do NOT rehear evidence. Appellant = person appealing.
+- Small Claims → **BC Supreme Court**. Not automatically a new trial; argue legal/factual error first; if allowed, **new trial may be ordered** (evidence reheard).
+- BC Supreme Court → **BC Court of Appeal**. **Panel**, majority decides (3 judges, 2–1 overturns). ⭐ **Usually 3; FIVE where an important precedent may be overturned.**
+- Court of Appeal → **SCC**, needs **leave**. ⭐ **SCC CAN REFUSE** → CA decision stands. Panel **min 5, commonly 7 or 9**.
+
+**Your discipline path:** BCFSA disciplinary order → **Financial Services Tribunal** → judicial review at **BC Supreme Court**.
+
+## Lawsuit lifecycle
+Adversarial system; impartial trier of fact.
+1. **Cause of action arises**
+2. **Pleadings** — notice of civil claim → response to civil claim → (reply) → (counterclaim → response to counterclaim). Must be **served**. Purpose: **narrow and define the disputed issues**.
+3. **Discovery** — **examination for discovery** (mini-trial, no judge, under oath, court reporter, transcripts usable at trial esp. in cross-exam) + **discovery of documents**. ⭐ Most actions settle here.
+4. **Trial** — plaintiff bears **burden of proof**, standard = **balance of probabilities** (more likely than not). ❗Tie or defendant more likely → **action dismissed**. Plaintiff's witnesses (+cross) → defendant's witnesses (+cross) → summations.
+5. **Judgment** — sets out duties/liabilities, may order a remedy.
+
+**Court costs ≠ legal fees.** Tariff-based, per-step, **partial** reimbursement, **at the court's discretion**. Two purposes: partially reimburse the winner + **discourage weak cases**. Ex: $60,000 + $3,500 costs = $63,500. Reversed on appeal → costs usually reversed too.
+**Why cases settle:** pre-trial narrows/exposes weakness + costs risk + delay.
+
+## Enforcing a judgment (judgment debtor / judgment creditor)
+- **Searches:** land title, ICBC vehicle registration, personal property registry → then **examine debtor under oath** re assets/income/liabilities/expenses; may get **installment payment order**.
+- **Execution** — court issues **writ of execution** to **sheriff**; seize & sell assets to cover judgment **+ seizure costs**. No assets → writ returned ***nulla bona*** ("no goods").
+- **Remedies against land** — register judgment as a **charge** in the land title office. ⭐ Must be satisfied before anyone takes an interest free of it. ❗**Renew every SECOND YEAR.** Also **judicial sale** — prior financial charges paid first, balance to creditor.
+- **Garnishing order** — served on a third party owing the debtor money (wages, bank). Pay **into court**. Third party who disobeys is **personally liable**.
+  - ⭐ **70% of wages exempt**; never less than **$100/mo single**, **$200/mo married with dependents**. ❗Exemption doesn't apply for **lodging** debts, or where a judge finds it unnecessary for family support.
+- **No imprisonment for mere non-payment of debt** (needs something more, e.g. contempt).
+
+## ADR
+| | Mediation | Arbitration |
+|---|---|---|
+| Third party | **facilitates** | **decides** |
+| Decision? | ❌ no — parties must agree | ✅ **binding award** |
+| Nature | collaborative, interests/needs | adjudicative |
+| Why | cheap, private, informal, high satisfaction | flexibility, privacy, speed, **choose decision-maker by expertise** |
+
+- Mediation usually voluntary BUT: **Notice to Mediate (General) Regulation** under the ***Law and Equity Act*** — **any one party** to a BC Supreme Court action forces all others in. **Small Claims Rule 7.3** — claims **$10,000–$35,000**.
+- Parties jointly agree on mediator; deadlock → apply to **ADRBC** to appoint. Attendance typically **mandatory**; refusal → **court sanctions**.
+- Arbitration governed by the ***Arbitration Act*** (formerly *Commercial Arbitration Act*) unless parties agree otherwise. Negotiable: appointment, procedures, cost allocation. Award **private, final, typically binding**; limited appeals.
+- 🏢 **Commercial leases often include an arbitration clause.**
+
+## Limitation periods
+***Limitation Act* is a DEFAULT statute** — doesn't apply where another statute sets its own period.
+| | Length | Runs from |
+|---|---|---|
+| **Basic** | **2 years** | day the claim is **discovered** |
+| **Ultimate (ULP)** | **15 years** (down from 30) | usually day the **act/omission** occurred |
+
+Basic period **removed the tort/contract distinction**. ❗Expiry of **either** kills the claim.
+**Discovery** = knew or **reasonably ought to have known**: (1) the injury/loss/damage; (2) that it was caused by an act or omission of the defendant; (3) that a **court proceeding would be an appropriate means** to seek a remedy.
+🔴 **Acknowledgement of liability RESETS BOTH periods** to the acknowledgement date. Counts: **partial payment** on a liquidated sum, or **written confirmation of liability**.
+**In equity:** must be within the legal limitation period **AND** a reasonable time. ⭐ *"fast feet."*
+
+## 🚨 The two ALERTS
+1. **Registered mail** — ⭐ **nobody signs except the named recipient** (signature = proof of receipt). Receive court docs → **tell your managing broker ASAP** (reply prepared + E&O claim filed); know brokerage policy. Missing court time limits → **default judgment**; appealing may be **at your own expense** under brokerage policy.
+2. **Don't accidentally acknowledge liability** — consult a lawyer early or you reset the limitation periods. And as a **condition of E&O coverage**, give **written notice as soon as practicable** to the Real Estate E&O Insurance Corporation of any error or circumstance ⭐ **"however unmeritorious"** that could reasonably be expected to form the basis of a claim.
+
+## Top 12 traps
+1. Distinguish = **crucial fact differs**, precedent not binding
+2. **Equity beats common law** on conflict
+3. **Municipal power from the province**, not the Constitution
+4. **Residual power = federal**
+5. **Costs ≠ legal fees**; tariff-based, partial, discretionary
+6. **CRT strata = no limit**; CRT small claims $5,000 and **excess abandoned forever**
+7. Small Claims $5,001–$35,000 **+ territorial limit**; Supreme Court neither
+8. **BCCA must hear; SCC can refuse** (then CA stands)
+9. **CA usually 3, five if overturning an important precedent**; SCC min 5, commonly 7 or 9
+10. **Balance of probabilities**; **tie → dismissed**
+11. **2 yrs from discovery / 15 yr ULP; acknowledgement resets both**
+12. **E&O notice required "however unmeritorious"**

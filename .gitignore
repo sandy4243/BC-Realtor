@@ -1,0 +1,9 @@
+# ── Copyrighted UBC course material — NEVER commit or publish ──
+*.pdf
+*.epub
+Course material*/
+study/_text/
+
+# OS / editor
+.DS_Store
+*.swp

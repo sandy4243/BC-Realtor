@@ -1,0 +1,111 @@
+{
+  "title": "BC Real Estate Trading Services — Study Companion",
+  "edition": "Based on the UBC Sauder Trading Services Licensing Course, 2026 edition",
+  "blocks": [
+    { "id": "A", "title": "Legal foundation", "blurb": "Where law comes from, what you actually own, and how title works." },
+    { "id": "B", "title": "Regulation & conduct", "blurb": "The rules of your licence: RESA, BCFSA, liability, money laundering, ethics." },
+    { "id": "C", "title": "Contracts & agency", "blurb": "The documents you draft and the duties you owe while drafting them." },
+    { "id": "D", "title": "Occupancy & shared ownership", "blurb": "Tenancies, strata corporations and cooperatives." },
+    { "id": "E", "title": "Finance & mortgages", "blurb": "Interest math, mortgage law and how lenders decide to lend." },
+    { "id": "F", "title": "Land, buildings & value", "blurb": "Zoning, property taxes, construction and the three approaches to value." },
+    { "id": "G", "title": "Business, closing & practice", "blurb": "Financial statements, completion, adjustments, marketing and technology." }
+  ],
+  "lessons": [
+    {
+      "id": "01", "num": 1, "block": "A", "title": "Fundamentals of Law", "chapters": ["Ch 1"], "estHours": 3,
+      "status": "ready", "quiz": true, "cheatsheet": true,
+      "summary": "The operating system the rest of the course runs on: where law comes from, how BC's courts and tribunals fit together, how a lawsuit runs, and the deadlines that can wipe out a claim.",
+      "topics": ["Common law, equity and statute", "Division of powers", "Public vs private law", "Feudal origins of land law", "BC courts and the Civil Resolution Tribunal", "Lifecycle of a lawsuit", "Enforcing a judgment", "Mediation and arbitration", "Limitation periods"]
+    },
+    {
+      "id": "02", "num": 2, "block": "A", "title": "Estates and Interests in Land", "chapters": ["Preface", "Ch 3"], "estHours": 5,
+      "status": "coming_soon",
+      "summary": "What a buyer actually acquires. The bundle of rights you're selling, the smaller rights other people can hold over the same land, and the ways people co-own it.",
+      "topics": ["Land ownership and the Crown", "First Nations land rights", "Characteristics of real property", "Fee simple, life estate, estate pur autre vie", "Leasehold estates", "Interests less than estates", "Fixtures vs chattels", "Joint tenancy vs tenancy in common", "Torts affecting land (trespass, nuisance and more)"]
+    },
+    {
+      "id": "03", "num": 3, "block": "A", "title": "Subdivision and Title Registration", "chapters": ["Ch 4"], "estHours": 6,
+      "status": "coming_soon",
+      "summary": "How land is carved into parcels, and how BC's Torrens system guarantees who owns what. Learning to read a title search starts here.",
+      "topics": ["Crown, private and treaty settlement lands", "Traditional, strata and air space parcel subdivisions", "How a strata development is created", "Torrens: indefeasibility, registration, no doctrine of notice, assurance fund", "Searching title", "First Nations land registration", "Contaminated sites", "Manufactured homes"]
+    },
+    {
+      "id": "04", "num": 4, "block": "B", "title": "RESA I — Licensing and the Regulator", "chapters": ["Ch 2 (part 1)"], "estHours": 5,
+      "status": "coming_soon",
+      "summary": "The statute that created your profession. What needs a licence, who is exempt, the levels of licence, and who regulates you.",
+      "topics": ["Purpose of RESA", "Trading, rental property management and strata management services", "Exemptions from licensing", "Levels and categories of licence", "BCFSA and the Superintendent", "Real Estate Foundation, E&O Insurance Corporation, Compensation Fund", "Industry organizations"]
+    },
+    {
+      "id": "05", "num": 5, "block": "B", "title": "RESA II — Trust, Rules, Discipline, REDMA", "chapters": ["Ch 2 (part 2)"], "estHours": 5,
+      "status": "coming_soon",
+      "summary": "Handling other people's money, the day-to-day Rules, what happens when licensees break them, and the special regime for pre-sale developments.",
+      "topics": ["Trust accounts", "Property management by trading licensees", "The Real Estate Services Rules", "Discipline and enforcement", "The Real Estate Development Marketing Act", "Pre-sale disclosure and buyer rights"]
+    },
+    {
+      "id": "06", "num": 6, "block": "B", "title": "Liability, FINTRAC and Ethics", "chapters": ["Ch 5", "Ch 9"], "estHours": 8,
+      "status": "coming_soon",
+      "summary": "How licensees get sued and disciplined, your anti-money-laundering obligations, and the professional standard you're held to.",
+      "topics": ["Negligence", "Misrepresentation and deceit", "Errors in drafting", "Breach of fiduciary duty", "Money laundering and FINTRAC obligations", "Climate change risk", "Professionalism, trust and honesty", "Duties to clients and third parties", "Duty to report misconduct", "Ethical decision-making"]
+    },
+    {
+      "id": "07", "num": 7, "block": "C", "title": "The Law of Contract", "chapters": ["Ch 10"], "estHours": 6,
+      "status": "coming_soon",
+      "summary": "What turns a conversation into a binding contract, what makes one fail, and what happens when it's broken.",
+      "topics": ["Void, voidable, illegal and unenforceable contracts", "Offer and acceptance", "Consideration", "Legal intention", "Capacity", "Legal object", "Genuine consent", "Termination", "Remedies"]
+    },
+    {
+      "id": "08", "num": 8, "block": "C", "title": "Contracts for Real Estate Transactions", "chapters": ["Ch 11"], "estHours": 10,
+      "status": "coming_soon",
+      "summary": "The documents you'll actually draft: listing contracts, the contract of purchase and sale, subject clauses and the property disclosure statement.",
+      "topics": ["Requirement of writing", "Listing contracts", "Legal descriptions", "Contract of purchase and sale", "Conditions precedent (subjects)", "Assigning a contract", "Effective negotiation", "Risk management", "Property disclosure statements"]
+    },
+    {
+      "id": "09", "num": 9, "block": "C", "title": "The Law of Agency", "chapters": ["Ch 12"], "estHours": 9,
+      "status": "coming_soon",
+      "summary": "Who you work for, what you owe them, and the disclosure forms BC requires before you start.",
+      "topics": ["The agency relationship", "Agency in BC real estate", "Appointment and authority", "Termination of authority", "Agents and third parties", "Duties of the agent", "Duties of the principal", "Agency disclosure forms"]
+    },
+    {
+      "id": "10", "num": 10, "block": "D", "title": "Commercial and Residential Tenancies", "chapters": ["Ch 6"], "estHours": 5,
+      "status": "coming_soon",
+      "summary": "Two completely different rulebooks: freely negotiated commercial leases, and the heavily regulated residential tenancy regime.",
+      "topics": ["Lease vs licence", "Commercial vs residential tenancies", "Fixed-term and periodic tenancies", "Ending a residential tenancy", "Rent increases", "Residential tenancy arbitration", "Security deposits, repairs, privacy", "Assignment and subletting"]
+    },
+    {
+      "id": "11", "num": 11, "block": "D", "title": "Strata Properties and Cooperatives", "chapters": ["Ch 7"], "estHours": 6,
+      "status": "coming_soon",
+      "summary": "How condos are governed and financed, and how cooperatives differ from them.",
+      "topics": ["Strata corporation vs strata council", "Governance and meetings", "Finances, contingency reserve, special levies", "Bylaws and rules", "Repairs", "Legal proceedings", "Leasehold stratas", "Strata vs cooperative", "Forms B, F and K"]
+    },
+    {
+      "id": "12", "num": 12, "block": "E", "title": "Mortgage Finance and Interest Math", "chapters": ["Ch 13", "Ch 14"], "estHours": 10,
+      "status": "coming_soon",
+      "summary": "The first calculator chapters. How interest really works, and how to compute payments and balances on the HP 10bII+.",
+      "topics": ["Role of financing", "Capital markets", "Classifying mortgage loans", "Repayment plans", "The federal Interest Act", "HP 10bII+ setup", "Future and present value", "Annuities and payments", "Equivalent interest rates", "Constant payment mortgage analysis"]
+    },
+    {
+      "id": "13", "num": 13, "block": "E", "title": "Mortgage Law, Analysis and Underwriting", "chapters": ["Ch 15", "Ch 16", "Ch 17"], "estHours": 12,
+      "status": "coming_soon",
+      "summary": "The legal side of mortgages, how financing changes a deal, and how lenders decide whether to lend to a home buyer or a commercial borrower.",
+      "topics": ["Legal and equitable mortgages", "Express and implied terms", "Assignment, assumption, novation", "Priorities and further advances", "Foreclosure in BC", "Agreements for sale", "Impact of financing on deals", "Prepayment penalties", "Residential underwriting (GDS/TDS)", "Commercial underwriting"]
+    },
+    {
+      "id": "14", "num": 14, "block": "F", "title": "Local Government Law and Property Taxes", "chapters": ["Ch 18", "Ch 19"], "estHours": 8,
+      "status": "coming_soon",
+      "summary": "What can be built where, and every tax that touches buying, holding and selling property in BC.",
+      "topics": ["Official community plans", "Zoning", "Non-conforming use", "Board of variance", "Permits and subdivision approval", "Building bylaws", "Taxes on purchase and sale", "Taxes while holding property", "Assessment and tax notices"]
+    },
+    {
+      "id": "15", "num": 15, "block": "F", "title": "Construction and Appraisal", "chapters": ["Ch 20", "Ch 21", "Ch 22", "Ch 23"], "estHours": 14,
+      "status": "coming_soon",
+      "summary": "How buildings are put together, and how value is estimated using the direct comparison, cost and income approaches.",
+      "topics": ["Building standards and measurement", "Building systems and inspection", "Green and energy-efficient housing", "The appraisal process", "Direct comparison approach and CMAs", "Cost approach and depreciation", "Net operating income", "Capitalization rates and value"]
+    },
+    {
+      "id": "16", "num": 16, "block": "G", "title": "Financials, Completion, Marketing and Technology", "chapters": ["Ch 8", "Ch 24", "Ch 25", "Ch 26"], "estHours": 12,
+      "status": "coming_soon",
+      "summary": "Reading business financial statements, getting a deal from contract to completion, statements of adjustments, and running your practice.",
+      "topics": ["Forms of business organization", "Balance sheet, income statement, tax return", "Information needed for completion", "Closing procedures", "Statements of adjustments", "Marketing theory and advertising", "Listing presentations", "Competition Act", "Technology, privacy and security"]
+    }
+  ]
+}
