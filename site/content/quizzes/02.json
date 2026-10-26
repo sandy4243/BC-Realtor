@@ -1,0 +1,333 @@
+{
+  "lessonId": "02",
+  "questions": [
+    {
+      "id": "02-001", "tag": "Land ownership",
+      "q": "In BC, who holds absolute title to all land?",
+      "choices": ["The registered fee simple owner", "The Crown", "The local municipality", "The Land Title and Survey Authority"],
+      "answer": 1,
+      "explain": "Only the Crown holds absolute title. Private owners hold estates granted out of the Crown's title; the largest of these is the fee simple.",
+      "ref": "Lesson 2 · Who really owns land in BC"
+    },
+    {
+      "id": "02-002", "tag": "Land ownership",
+      "q": "Which of these is NOT one of the limits on a fee simple owner's rights?",
+      "choices": ["The Crown's power of expropriation and tax sale", "Land use and building regulations", "Other people's common law rights", "The right of the previous owner to buy the land back"],
+      "answer": 3,
+      "explain": "A fee simple is limited only by expropriation and tax sale, land use and building regulation, and other people's common law rights. A previous owner has no general buy-back right.",
+      "ref": "Lesson 2 · Who really owns land in BC"
+    },
+    {
+      "id": "02-003", "tag": "First Nations land",
+      "q": "Who owns Indian Act reserve land?",
+      "choices": ["The First Nation, in fee simple", "The provincial Crown", "The federal government, with the First Nation holding a collective right to use and occupy it", "Individual band members"],
+      "answer": 2,
+      "explain": "Reserve land is owned by the federal government. The First Nation has a collective right to use and occupy the land set aside for it.",
+      "ref": "Lesson 2 · First Nations land rights"
+    },
+    {
+      "id": "02-004", "tag": "First Nations land",
+      "q": "Aboriginal title can be transferred to whom?",
+      "choices": ["Anyone, like a fee simple", "Only to other members of the same First Nation", "Only to the Crown", "Only to a corporation owned by the First Nation"],
+      "answer": 2,
+      "explain": "Aboriginal title is held collectively for present and future generations and can be alienated only to the Crown. That's one reason it isn't an estate in the ordinary sense.",
+      "ref": "Lesson 2 · First Nations land rights"
+    },
+    {
+      "id": "02-005", "tag": "Characteristics of real property",
+      "q": "A new waste-transfer station opens next to a residential street and nearby house values fall. Which characteristic of real property does this illustrate?",
+      "choices": ["Durability", "Immobility (externalities)", "Divisibility of ownership", "Indivisibility of services"],
+      "answer": 1,
+      "explain": "Because land can't be moved, it's exposed to whatever happens next door. Effects from outside the property's boundaries are called externalities, a consequence of immobility.",
+      "ref": "Lesson 2 · What makes land different"
+    },
+    {
+      "id": "02-006", "tag": "Characteristics of real property",
+      "q": "Why is the claim \"they're not making any more land\" misleading for urban markets?",
+      "choices": ["The physical surface of the earth is growing", "The supply of usable urban land grows through farm conversion, rezoning, intensification and better transport", "Land values never rise", "Zoning has no effect on supply"],
+      "answer": 1,
+      "explain": "The physical surface is fixed, but the supply of usable urban land is not: farmland converts, zoning changes allow more density, sites intensify, and transport makes distant land usable.",
+      "ref": "Lesson 2 · What makes land different"
+    },
+    {
+      "id": "02-007", "tag": "Characteristics of real property",
+      "q": "A sound 1970s office building is demolished to build a 30-storey tower. Which concept explains this?",
+      "choices": ["Its physical life ended", "Its economic life ended before its physical life", "Escheat", "Permissive waste"],
+      "answer": 1,
+      "explain": "A building's economic life ends when the site is worth more redeveloped. That usually happens long before the building physically wears out.",
+      "ref": "Lesson 2 · What makes land different"
+    },
+    {
+      "id": "02-008", "tag": "Market participants",
+      "q": "In a mortgage, who is the mortgagor?",
+      "choices": ["The lender", "The borrower who grants the mortgage", "The mortgage broker", "The mortgage insurer"],
+      "answer": 1,
+      "explain": "The mortgagor is the borrower, who gives (grants) the mortgage to the lender as security. The lender is the mortgagee.",
+      "ref": "Lesson 2 · Who's in the market"
+    },
+    {
+      "id": "02-009", "tag": "Market participants",
+      "q": "A buyer borrows 85% of the purchase price from a federally regulated bank. What is required, and whom does it protect?",
+      "choices": ["Title insurance, protecting the buyer", "Mortgage default insurance, protecting the lender", "Life insurance, protecting the buyer's family", "Nothing; only loans above 95% need insurance"],
+      "answer": 1,
+      "explain": "Loans above 80% of value are high-ratio loans. The borrower must buy mortgage default insurance (CMHC, Sagen or Canada Guaranty), which protects the lender if the borrower defaults.",
+      "ref": "Lesson 2 · Who's in the market"
+    },
+    {
+      "id": "02-010", "tag": "Market participants",
+      "q": "A seller wants to list at their BC Assessment value because \"that's what the government says it's worth.\" What's the best response?",
+      "choices": ["Agree; assessed value is market value", "Explain that assessed value is a mass-valuation figure from a fixed date and isn't the same as market value", "List at double the assessed value", "Refuse the listing"],
+      "answer": 1,
+      "explain": "BC Assessment sets values for taxation using mass appraisal at a fixed date. It's useful context, but assessed value is not market value.",
+      "ref": "Lesson 2 · Who's in the market"
+    },
+    {
+      "id": "02-011", "tag": "Residential vs IC&I",
+      "q": "Which is typical of the IC&I market compared with residential?",
+      "choices": ["More transactions per year, mostly on standard forms", "Fewer, larger, more analytical deals with custom lawyer-drafted contracts", "Decisions made emotionally by the occupants", "Almost all properties marketed on MLS®"],
+      "answer": 1,
+      "explain": "IC&I deals are fewer and larger, decided analytically (often by several people or a board), financed in complex ways and documented with long custom contracts.",
+      "ref": "Lesson 2 · Residential vs IC&I"
+    },
+    {
+      "id": "02-012", "tag": "Estates",
+      "q": "Under the Law and Equity Act, English law as of what date applies in BC unless changed or locally inapplicable?",
+      "choices": ["1 July 1867", "19 November 1858", "20 July 1871", "14 October 1066"],
+      "answer": 1,
+      "explain": "English law as it stood on 19 November 1858 applies in BC, which is why medieval concepts like the doctrine of estates still govern BC land.",
+      "ref": "Lesson 2 · Estates"
+    },
+    {
+      "id": "02-013", "tag": "Estates",
+      "q": "A landowner dies with no will and no heirs. What happens to the land?",
+      "choices": ["It goes to the nearest neighbour", "It escheats to the Crown", "It's sold and the money goes to charity", "The municipality takes it for back taxes"],
+      "answer": 1,
+      "explain": "Escheat: when an owner dies without a will and without heirs, the land goes to the Crown.",
+      "ref": "Lesson 2 · Estates"
+    },
+    {
+      "id": "02-014", "tag": "Life estates",
+      "q": "\"To my sister Meera for life, then to my nephew Dev.\" What is Dev?",
+      "choices": ["The reversioner", "The remainderman", "The life tenant", "A joint tenant"],
+      "answer": 1,
+      "explain": "Dev receives the fee simple after Meera's life estate ends, so he's the remainderman. If the property went back to the grantor instead, the grantor would be the reversioner.",
+      "ref": "Lesson 2 · Estates"
+    },
+    {
+      "id": "02-015", "tag": "Life estates",
+      "q": "A life tenant sells her life estate to a buyer. When does the buyer's estate end?",
+      "choices": ["On the buyer's death", "On the original life tenant's death", "After 99 years", "When the remainderman decides"],
+      "answer": 1,
+      "explain": "The buyer holds an estate pur autre vie, measured by the life of the original life tenant. It ends when she dies, not when the buyer dies.",
+      "ref": "Lesson 2 · Estates"
+    },
+    {
+      "id": "02-016", "tag": "Life estates",
+      "q": "A property subject to a life estate has a mortgage. Who pays the mortgage principal?",
+      "choices": ["The life tenant", "The remainderman (or reversioner)", "They split it equally", "The lender writes it off"],
+      "answer": 1,
+      "explain": "The life tenant pays running costs, taxes and mortgage interest. The remainderman or reversioner pays the principal and insurance premiums.",
+      "ref": "Lesson 2 · Estates"
+    },
+    {
+      "id": "02-017", "tag": "Waste",
+      "q": "A life tenant lets the roof deteriorate and does nothing about it. What kind of waste is this, and is the life tenant generally liable?",
+      "choices": ["Voluntary waste; liable", "Permissive waste; generally not liable", "Ameliorating waste; liable but no damages", "Equitable waste; liable"],
+      "answer": 1,
+      "explain": "Allowing property to deteriorate through inaction is permissive waste. A life tenant is generally not liable for it.",
+      "ref": "Lesson 2 · Waste"
+    },
+    {
+      "id": "02-018", "tag": "Waste",
+      "q": "A life estate is granted \"without impeachment for waste.\" The life tenant deliberately burns the house down. Is the life tenant liable?",
+      "choices": ["No; the phrase excuses all waste", "Yes; the phrase excuses only the three common law types, not equitable waste", "Only if the house was insured", "Only if the remainderman lives on the property"],
+      "answer": 1,
+      "explain": "\"Without impeachment for waste\" excuses voluntary, permissive and ameliorating waste. Equitable (malicious) waste is excused only if the document says so expressly.",
+      "ref": "Lesson 2 · Waste"
+    },
+    {
+      "id": "02-019", "tag": "Leasehold",
+      "q": "A buyer completes a purchase. A tenant is in occupation under an unregistered 2-year lease. Is the buyer bound by the lease?",
+      "choices": ["No; unregistered interests never bind a buyer", "Yes; leases of 3 years or less with actual occupation bind a buyer even if unregistered", "Only if the buyer was told about it in writing", "Only for residential tenancies"],
+      "answer": 1,
+      "explain": "Land Title Act s.23 makes a lease of 3 years or less, with actual occupation, binding on a buyer even though it isn't registered. Always investigate who's in possession.",
+      "ref": "Lesson 2 · Estates"
+    },
+    {
+      "id": "02-020", "tag": "Easements",
+      "q": "Lot A has a registered right of way over a driveway on Lot B. Which is the servient tenement?",
+      "choices": ["Lot A", "Lot B", "Both", "Neither; it's an easement in gross"],
+      "answer": 1,
+      "explain": "The servient tenement carries the burden (Lot B, which must allow passage). The dominant tenement benefits (Lot A).",
+      "ref": "Lesson 2 · Interests less than an estate"
+    },
+    {
+      "id": "02-021", "tag": "Easements",
+      "q": "A neighbour has used a path across your seller's land openly for 30 years. In BC, has an easement been created by prescription?",
+      "choices": ["Yes, after 20 years of use", "Yes, after 30 years of use", "No; prescriptive easements have been abolished in BC", "Only if the neighbour paid property taxes"],
+      "answer": 2,
+      "explain": "Easements by prescription (long use) are abolished in BC. Easements arise by statute, express grant or, in limited cases, implication.",
+      "ref": "Lesson 2 · Interests less than an estate"
+    },
+    {
+      "id": "02-022", "tag": "Easements",
+      "q": "BC Hydro holds a right of way for a power line across a farm, but owns no neighbouring land. What allows this?",
+      "choices": ["A profit à prendre", "A statutory right of way under Land Title Act s.218, which doesn't need a dominant tenement", "A licence", "A building scheme"],
+      "answer": 1,
+      "explain": "Ordinary easements need a dominant tenement. A statutory right of way under LTA s.218 is the exception, used by utilities, governments and others.",
+      "ref": "Lesson 2 · Interests less than an estate"
+    },
+    {
+      "id": "02-023", "tag": "Covenants",
+      "q": "Which is NOT a requirement for a restrictive covenant to run with the land?",
+      "choices": ["It must be negative in substance", "It must benefit the covenantee's land", "It must be signed by every owner in the neighbourhood", "The person bound must have notice (registration is notice)"],
+      "answer": 2,
+      "explain": "The requirements are: negative; benefits the covenantee's land; both lands precisely identified; intended to bind the land; notice. There's no need for every neighbour to sign.",
+      "ref": "Lesson 2 · Interests less than an estate"
+    },
+    {
+      "id": "02-024", "tag": "Covenants",
+      "q": "What did the Supreme Court of Canada decide in Crystal Square (2020)?",
+      "choices": ["Positive covenants always run with the land", "Positive covenants never bind later owners in any circumstances", "Positive covenants generally don't run with the land, but a later owner who voluntarily paid for years was bound by a new contract formed through conduct", "Restrictive covenants must be renewed every 20 years"],
+      "answer": 2,
+      "explain": "The court confirmed the general rule that positive covenants don't run with the land, but found the strata had become bound by its conduct of paying maintenance fees for years in exchange for parking.",
+      "ref": "Lesson 2 · Interests less than an estate"
+    },
+    {
+      "id": "02-025", "tag": "Covenants",
+      "q": "A developer wants identical design restrictions on every lot in a new subdivision. What does the developer register?",
+      "choices": ["A statutory right of way", "A Declaration of Creation of Building Scheme under LTA s.220", "A profit à prendre", "A caveat"],
+      "answer": 1,
+      "explain": "A building scheme imposes a common set of restrictive covenants on lots sold by a common vendor. It's created by registering a declaration under LTA s.220(1).",
+      "ref": "Lesson 2 · Interests less than an estate"
+    },
+    {
+      "id": "02-026", "tag": "Covenants",
+      "q": "Which statement about a profit à prendre is correct?",
+      "choices": ["It must be attached to a dominant tenement", "It can be held in gross and can't be implied", "It must be for a fixed term", "It's the same as a licence"],
+      "answer": 1,
+      "explain": "A profit à prendre (a right to take minerals, timber, fish and so on) can exist in gross, doesn't need a fixed term, and can't be created by implication.",
+      "ref": "Lesson 2 · Interests less than an estate"
+    },
+    {
+      "id": "02-027", "tag": "Covenants",
+      "q": "An old covenant limits a lot to single-family use in an area since rezoned for high-rise towers. Which provision lets a court cancel or modify it?",
+      "choices": ["Land Title Act s.23", "Property Law Act s.35", "Partition of Property Act s.6", "Occupiers Liability Act s.3"],
+      "answer": 1,
+      "explain": "PLA s.35 lets the BC Supreme Court cancel or modify easements, SRWs, building schemes and restrictive covenants that are obsolete, block reasonable use without benefit, or that the beneficiary has agreed to release.",
+      "ref": "Lesson 2 · Interests less than an estate"
+    },
+    {
+      "id": "02-028", "tag": "Covenants",
+      "q": "Which statement about a licence is correct?",
+      "choices": ["It's an interest in land that runs with the land", "It's a personal contractual permission; it can't be registered and doesn't bind a buyer", "It's a registered easement for a fixed term", "It's created automatically after 10 years of use"],
+      "answer": 1,
+      "explain": "A licence is personal permission to do something on another's land. It isn't an interest in land, can't be registered and doesn't run with the land.",
+      "ref": "Lesson 2 · Interests less than an estate"
+    },
+    {
+      "id": "02-029", "tag": "Air, subsurface and water",
+      "q": "How far into the airspace does a BC landowner's ownership extend today?",
+      "choices": ["To the heavens", "100 metres", "As far as the owner can make effective use of it", "Only to the height of existing buildings"],
+      "answer": 2,
+      "explain": "The old \"to the heavens\" rule has been modified: an owner owns the airspace only to the extent they can effectively use it, and federal law lets aircraft pass overhead.",
+      "ref": "Lesson 2 · Above, below and around"
+    },
+    {
+      "id": "02-030", "tag": "Air, subsurface and water",
+      "q": "Which is true about water licences in BC?",
+      "choices": ["They're registered on title in the land title office", "They're held by the province and can be cancelled after 3 consecutive years of non-use or non-payment", "A household well always needs a licence", "Unpaid fees are wiped out on a sale"],
+      "answer": 1,
+      "explain": "Under the Water Sustainability Act, water belongs to the province. Licences aren't in the land title office, can be cancelled after 3 consecutive years of non-use or non-payment, and pass to a buyer with any arrears. Domestic groundwater use is the main exception.",
+      "ref": "Lesson 2 · Above, below and around"
+    },
+    {
+      "id": "02-031", "tag": "Air, subsurface and water",
+      "q": "A neighbour excavates to the lot line and both the soil and the house next door slump. What does the natural right of support cover?",
+      "choices": ["Both the land and the house", "The land only; the building needs an easement of support", "The house only", "Nothing; there's no right of support in BC"],
+      "answer": 1,
+      "explain": "Every parcel has a natural right to vertical and lateral support for the land itself. Buildings don't have that natural right; it requires an easement of support.",
+      "ref": "Lesson 2 · Above, below and around"
+    },
+    {
+      "id": "02-032", "tag": "Fixtures vs chattels",
+      "q": "Under the Stack v. T. Eaton test, an item attached to a building, even slightly, is presumed to be what?",
+      "choices": ["A chattel", "A fixture", "A licence", "Neither; it depends only on the price"],
+      "answer": 1,
+      "explain": "Items attached even slightly are presumed fixtures; items resting by their own weight are presumed chattels. Either presumption can be rebutted by the degree and object of the attachment.",
+      "ref": "Lesson 2 · Fixtures vs chattels"
+    },
+    {
+      "id": "02-033", "tag": "Fixtures vs chattels",
+      "q": "A cattle-handling machine is welded to a bracket only so it won't move while in use. How did a BC court treat a similar item?",
+      "choices": ["As a fixture, because it was welded", "As a chattel, because it was attached for the better use of the machine, not to improve the land", "As part of the building scheme", "As an easement"],
+      "answer": 1,
+      "explain": "In Monical (2013 BCSC), the attachment was only to stabilize the machine while in use, which rebutted the fixture presumption. It remained a chattel.",
+      "ref": "Lesson 2 · Fixtures vs chattels"
+    },
+    {
+      "id": "02-034", "tag": "Co-ownership",
+      "q": "What are the four unities required for a joint tenancy?",
+      "choices": ["Time, title, interest, possession", "Time, title, income, price", "Title, tax, interest, possession", "Time, transfer, intention, purchase"],
+      "answer": 0,
+      "explain": "Joint tenants must take at the same time, under the same document, with identical interests, and each must be entitled to possession of the whole.",
+      "ref": "Lesson 2 · Co-ownership"
+    },
+    {
+      "id": "02-035", "tag": "Co-ownership",
+      "q": "A will leaves a building \"equally to my daughters, Ana and Bea.\" How do they hold it?",
+      "choices": ["As joint tenants, because all four unities exist", "As tenants in common, because BC law presumes tenancy in common unless joint tenancy is clearly stated", "As life tenants", "As remaindermen"],
+      "answer": 1,
+      "explain": "Under the Property Law Act, co-owners are presumed to be tenants in common unless the document clearly creates a joint tenancy.",
+      "ref": "Lesson 2 · Co-ownership"
+    },
+    {
+      "id": "02-036", "tag": "Co-ownership",
+      "q": "Two joint tenants own a duplex. One dies with a will leaving everything to his son. Who gets his interest?",
+      "choices": ["The son, under the will", "The surviving joint tenant, by right of survivorship", "It's split between the son and the survivor", "The Crown"],
+      "answer": 1,
+      "explain": "The right of survivorship means a joint tenant's interest passes automatically to the surviving joint tenant(s). It can't be left by will.",
+      "ref": "Lesson 2 · Co-ownership"
+    },
+    {
+      "id": "02-037", "tag": "Co-ownership",
+      "q": "X, Y and Z are joint tenants. X sells her interest to Q. What's the result?",
+      "choices": ["Y, Z and Q are all joint tenants", "Y and Z remain joint tenants between themselves of two-thirds, and are tenants in common with Q", "The sale is void without Y and Z's consent", "The whole joint tenancy becomes a life estate"],
+      "answer": 1,
+      "explain": "The sale severs the joint tenancy as to X's share only. Q holds one-third as a tenant in common; Y and Z remain joint tenants of the other two-thirds.",
+      "ref": "Lesson 2 · Co-ownership"
+    },
+    {
+      "id": "02-038", "tag": "Co-ownership",
+      "q": "Two tenants in common each own 50% of a property and can't agree on selling. What can either of them do?",
+      "choices": ["Nothing; both must agree", "Apply under the Partition of Property Act, and the court must order a sale unless there's good reason not to", "Register a building scheme", "Evict the other"],
+      "answer": 1,
+      "explain": "Under Partition of Property Act s.6, a co-owner holding at least half the interest can obtain a court-ordered sale unless there's good reason to refuse (ter Borg v. Morris, 2012).",
+      "ref": "Lesson 2 · Co-ownership"
+    },
+    {
+      "id": "02-039", "tag": "Torts affecting land",
+      "q": "A trespasser refuses to leave a property. What must the occupier do before using self-help?",
+      "choices": ["Nothing; they may remove them immediately with any force", "Ask them to leave, then use no more force than reasonably necessary", "Get a court order first, always", "Call the land title office"],
+      "answer": 1,
+      "explain": "Self-help is allowed only after asking the trespasser to leave, and only with reasonable force.",
+      "ref": "Lesson 2 · Torts that affect land"
+    },
+    {
+      "id": "02-040", "tag": "Torts affecting land",
+      "q": "In Segal v. Derrick Golf & Winter Club, golf balls repeatedly landed in a family's backyard. On what basis did the family succeed against the club?",
+      "choices": ["Trespass", "Private nuisance", "Occupiers' liability", "Breach of a restrictive covenant"],
+      "answer": 1,
+      "explain": "The club wasn't liable in trespass (its members hit the balls), but it was liable in nuisance for failing to take reasonable steps to stop a serious interference. The family got damages and an injunction.",
+      "ref": "Lesson 2 · Torts that affect land"
+    },
+    {
+      "id": "02-041", "tag": "Torts affecting land",
+      "q": "A visitor trips on a loose stair at an open house you're hosting. Under the Occupiers Liability Act, could you be an occupier?",
+      "choices": ["No; only the registered owner is an occupier", "Yes; there can be more than one occupier, and a licensee hosting an open house can be one", "Only if you own shares in the brokerage", "Only if the visitor paid to enter"],
+      "answer": 1,
+      "explain": "An occupier is anyone in possession or with responsibility for and control over the premises. There can be several, including a licensee running an open house.",
+      "ref": "Lesson 2 · Torts that affect land"
+    }
+  ]
+}

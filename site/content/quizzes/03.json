@@ -1,0 +1,341 @@
+{
+  "lessonId": "03",
+  "questions": [
+    {
+      "id": "03-001", "tag": "Land ownership",
+      "q": "Roughly what share of BC's land is held by the provincial Crown?",
+      "choices": ["About 5%", "About 50%", "About 94%", "About 99%"],
+      "answer": 2,
+      "explain": "About 94% is provincial Crown land, about 1% is federal Crown land, and only about 5% is privately owned.",
+      "ref": "Lesson 3 · Who owns the land in BC?"
+    },
+    {
+      "id": "03-002", "tag": "First Nations land",
+      "q": "What changed on 21 May 2024 for First Nations land holding in BC?",
+      "choices": ["All reserves were transferred into the Land Title Act system", "First Nations recognized as legal entities under federal law can hold and register land in their own name", "Treaty negotiations ended", "Aboriginal title became saleable to private buyers"],
+      "answer": 1,
+      "explain": "Amendments to the Land Title Act and Property Law Act let First Nations such as Indian Act bands acquire and register fee simple and other interests directly, without corporations or trustees.",
+      "ref": "Lesson 3 · Who owns the land in BC?"
+    },
+    {
+      "id": "03-003", "tag": "First Nations land",
+      "q": "To prove Aboriginal title, what must a First Nation show?",
+      "choices": ["Present-day occupation only", "Regular and exclusive use before Crown sovereignty, plus continuity if relying on present use", "A registered Crown grant", "Payment of property taxes for 20 years"],
+      "answer": 1,
+      "explain": "Tsilhqot'in (2014) requires regular and exclusive pre-sovereignty use. If present use is relied on as evidence, continuity with pre-sovereignty occupation must also be shown.",
+      "ref": "Lesson 3 · Who owns the land in BC?"
+    },
+    {
+      "id": "03-004", "tag": "First Nations land",
+      "q": "What was significant about the 2025 Haida Title Lands Agreement?",
+      "choices": ["It was the first court declaration of Aboriginal title", "It was the first time the federal government recognized Aboriginal title through negotiation", "It created the first treaty in BC", "It moved Haida Gwaii into the Indian Land Registry"],
+      "answer": 1,
+      "explain": "The agreement recognized Haida Aboriginal title on Haida Gwaii, the first time Canada did so by negotiation rather than a court order.",
+      "ref": "Lesson 3 · Who owns the land in BC?"
+    },
+    {
+      "id": "03-005", "tag": "Subdivision",
+      "q": "A homeowner wants to sell the back 3 metres of their lot to a neighbour. Which is true?",
+      "choices": ["It's not a subdivision because no new homes are being built", "It's a subdivision and must comply with the Land Title Act", "Owners have a common law right to do this without approval", "Only a strata corporation can approve it"],
+      "answer": 1,
+      "explain": "Any division of land into parcels is a subdivision. LTA s.73 extinguished the common law right to subdivide, so it must comply with the Act and get approval.",
+      "ref": "Lesson 3 · Subdividing land"
+    },
+    {
+      "id": "03-006", "tag": "Strata",
+      "q": "A developer markets units as \"townhouses\" and has filed a strata plan. Legally, what are they?",
+      "choices": ["Townhouses, a separate legal category", "Strata lots, because a strata plan was filed", "Fee simple lots in a traditional subdivision", "Leasehold interests only"],
+      "answer": 1,
+      "explain": "\"Townhouse\" has no legal meaning. If a strata plan is filed, strata lots and common property are created, whatever the buildings look like.",
+      "ref": "Lesson 3 · Strata"
+    },
+    {
+      "id": "03-007", "tag": "Strata",
+      "q": "In a building strata development, what happens to the land under the building?",
+      "choices": ["It's owned by the developer forever", "It becomes common property", "It's divided among the strata lots by area", "It goes to the municipality"],
+      "answer": 1,
+      "explain": "In a building strata, the lots are carved out of the building, and the land becomes part of the common property.",
+      "ref": "Lesson 3 · Strata"
+    },
+    {
+      "id": "03-008", "tag": "Strata",
+      "q": "In a bare land strata development, the internal road needs repaving. Who pays?",
+      "choices": ["The municipality", "The strata lot owners, because the road is common property", "The developer", "The province"],
+      "answer": 1,
+      "explain": "Unlike a traditional subdivision where roads belong to the municipality, a bare land strata's road is usually common property, so the owners pay for it.",
+      "ref": "Lesson 3 · Strata"
+    },
+    {
+      "id": "03-009", "tag": "Strata",
+      "q": "When considering a strata conversion of an existing rental building, which is NOT something the approving council must consider?",
+      "choices": ["Priority of rental housing in the area", "Proposals for relocating current occupants", "The building's life expectancy", "The developer's expected profit margin"],
+      "answer": 3,
+      "explain": "The approving authority must consider rental housing priority, relocation of occupants and the building's life expectancy, among other things. Profit isn't one of the listed considerations.",
+      "ref": "Lesson 3 · Strata"
+    },
+    {
+      "id": "03-010", "tag": "Strata",
+      "q": "Two owners of a duplex strata can't agree on repairs. Which statement is correct?",
+      "choices": ["The Strata Property Act doesn't apply to two-unit properties", "A duplex strata has the same legal fundamentals as a large strata; disputes can go to the CRT", "A government strata inspector will step in", "Only the BC Supreme Court can hear strata disputes"],
+      "answer": 1,
+      "explain": "\"A strata is a strata\": the same legislation applies to a duplex (Whiting v. Peters). Stratas are self-enforcing, and the CRT is usually the preferred forum.",
+      "ref": "Lesson 3 · Strata"
+    },
+    {
+      "id": "03-011", "tag": "Strata",
+      "q": "Does the Strata Property Act apply to developments on Indian Act reserve land?",
+      "choices": ["Yes, always", "No, because reserves are federal; strata-like projects there usually rely on long-term leases (with limited leasehold-landlord exceptions)", "Only for commercial projects", "Only if the First Nation has a land code"],
+      "answer": 1,
+      "explain": "Provincial strata legislation doesn't apply on reserves, except through designated leasehold landlords such as the Sechelt Indian Band. It does apply on treaty lands, which are no longer reserves.",
+      "ref": "Lesson 3 · Strata"
+    },
+    {
+      "id": "03-012", "tag": "Strata",
+      "q": "When must a Schedule of Voting Rights be filed with a strata plan?",
+      "choices": ["Always", "Only if there is at least one non-residential strata lot", "Only for bare land stratas", "Only for leasehold stratas"],
+      "answer": 1,
+      "explain": "The Schedule of Unit Entitlement is always filed; a Schedule of Voting Rights is needed only if at least one strata lot is non-residential.",
+      "ref": "Lesson 3 · Strata"
+    },
+    {
+      "id": "03-013", "tag": "Strata",
+      "q": "In a leasehold strata, what is the minimum term of the ground lease?",
+      "choices": ["25 years", "50 years", "99 years", "There is no minimum"],
+      "answer": 1,
+      "explain": "Leasehold stratas can only be created on land leased for at least 50 years, from leasehold landlords such as governments, certain First Nations and universities.",
+      "ref": "Lesson 3 · Strata"
+    },
+    {
+      "id": "03-014", "tag": "Strata",
+      "q": "Under Strata Property Act s.68, where is the boundary of a strata lot in a building?",
+      "choices": ["The inside face of the walls", "The outside face of the walls", "The centre of the walls, floors and ceilings that separate it", "Wherever the bylaws say"],
+      "answer": 2,
+      "explain": "In a building strata, the boundary is the midpoint of each wall, floor or ceiling separating the lot from another lot, the common property or another parcel.",
+      "ref": "Lesson 3 · Strata"
+    },
+    {
+      "id": "03-015", "tag": "Before Torrens",
+      "q": "What does nemo dat quod non habet mean?",
+      "choices": ["Let the former decision stand", "No one can give what they don't have", "Not my deed", "Buyer beware"],
+      "answer": 1,
+      "explain": "Nemo dat: you can't transfer a better title than you hold. At common law, a forged deed broke the chain of title for everyone after it.",
+      "ref": "Lesson 3 · Before Torrens"
+    },
+    {
+      "id": "03-016", "tag": "Before Torrens",
+      "q": "Why didn't deeds recording systems solve the void deed problem?",
+      "choices": ["They weren't public", "Filing a deed didn't make it valid; a forged deed was still void after recording", "They only recorded mortgages", "They were abolished in 1858"],
+      "answer": 1,
+      "explain": "Recording kept documents safe but didn't change their legal effect. A void deed stayed void, so innocent buyers still bore the risk.",
+      "ref": "Lesson 3 · Before Torrens"
+    },
+    {
+      "id": "03-017", "tag": "Indefeasibility",
+      "q": "Marta forges a transfer of Anton's property to herself, then gives it as a gift to Clara, who knows nothing. Who's entitled to the property?",
+      "choices": ["Clara, because she registered", "Anton, because a gift isn't valuable consideration", "Marta, because she's the registered owner", "The Crown"],
+      "answer": 1,
+      "explain": "LTA s.25.1 protects a transferee under a void instrument only if they acted in good faith and gave valuable consideration. A gift (or $1) doesn't qualify.",
+      "ref": "Lesson 3 · The Torrens system"
+    },
+    {
+      "id": "03-018", "tag": "Indefeasibility",
+      "q": "Marta (a forger) sells Anton's property at market value to Clara, who's honest and registers. What's the outcome?",
+      "choices": ["Anton recovers the property", "Clara keeps the property; Anton may claim from the assurance fund", "The sale is void and the money is returned", "Clara and Anton become tenants in common"],
+      "answer": 1,
+      "explain": "A good-faith purchaser for valuable consideration who registers gets an indefeasible fee simple. Anton's remedy is the assurance fund, if he can't recover from Marta.",
+      "ref": "Lesson 3 · The Torrens system"
+    },
+    {
+      "id": "03-019", "tag": "Indefeasibility",
+      "q": "Which of these binds a buyer even though it does NOT appear on title?",
+      "choices": ["An unregistered 5-year lease", "A mineral reservation in the original Crown grant", "An unregistered private easement", "An unregistered second mortgage"],
+      "answer": 1,
+      "explain": "Reservations in the original Crown grant are an exception to indefeasibility (LTA s.23). An unregistered lease binds only if it's 3 years or less with actual occupation.",
+      "ref": "Lesson 3 · The Torrens system"
+    },
+    {
+      "id": "03-020", "tag": "Indefeasibility",
+      "q": "Which is NOT one of the exceptions to indefeasibility in LTA s.23?",
+      "choices": ["Unpaid municipal charges", "A lease of 3 years or less with actual occupation", "Fraud by the registered owner", "An unregistered agreement to sell signed 10 years ago"],
+      "answer": 3,
+      "explain": "Taxes and municipal charges, short occupied leases and fraud by the registered owner are all s.23 exceptions. An old unregistered agreement is not.",
+      "ref": "Lesson 3 · The Torrens system"
+    },
+    {
+      "id": "03-021", "tag": "Indefeasibility",
+      "q": "What did the BC Court of Appeal decide in Gill v. Bucholtz (2009)?",
+      "choices": ["Registered mortgages are indefeasible like fee simple titles", "Registered charges aren't indefeasible; mortgages from a fraudster were discharged and the lenders couldn't claim from the assurance fund", "The assurance fund must compensate all innocent lenders", "Title insurance is mandatory in BC"],
+      "answer": 1,
+      "explain": "Indefeasibility in BC protects the fee simple, not charges. The rightful owner got clear title back, and the court said lenders, not the public, should bear the cost of fraud.",
+      "ref": "Lesson 3 · The Torrens system"
+    },
+    {
+      "id": "03-022", "tag": "Registration",
+      "q": "Alan gives Royal Bank a mortgage on December 1 (not registered) and CIBC a mortgage on December 4 (registered). Who has priority?",
+      "choices": ["Royal Bank, because its mortgage is older", "CIBC, because it registered", "They share priority equally", "Neither, because both are void"],
+      "answer": 1,
+      "explain": "Under LTA s.20, an unregistered instrument doesn't pass an interest against third parties. CIBC's registered mortgage takes priority, though Royal Bank can still sue Alan.",
+      "ref": "Lesson 3 · The Torrens system"
+    },
+    {
+      "id": "03-023", "tag": "Registration",
+      "q": "Under LTA s.29, when is a buyer who knew about an unregistered interest NOT protected?",
+      "choices": ["Whenever they knew about it at any time", "When the knowledge, gained before contracting, is combined with dishonest conduct amounting to fraud", "Never; s.29 protects all registered buyers", "Only if the interest was a mortgage"],
+      "answer": 1,
+      "explain": "Knowledge alone isn't fraud. Courts look for knowledge plus dishonest conduct, judged at the time the contract is formed (e.g. Woodwest Developments).",
+      "ref": "Lesson 3 · The Torrens system"
+    },
+    {
+      "id": "03-024", "tag": "Assurance fund",
+      "q": "Which is a requirement for a claim against the assurance fund?",
+      "choices": ["The claimant must have title insurance", "The claimant can't recover the interest or compensation by suing someone else", "The claimant must be a lender", "The loss must exceed $100,000"],
+      "answer": 1,
+      "explain": "The fund is a last resort. The claimant must show they lost an interest due to another's registration, would have recovered it at common law, and can't recover by other court action.",
+      "ref": "Lesson 3 · The Torrens system"
+    },
+    {
+      "id": "03-025", "tag": "Assurance fund",
+      "q": "A registered survey plan turns out to show the wrong lot dimensions, and the owner loses part of the expected land. Can they claim from the assurance fund?",
+      "choices": ["Yes, the fund guarantees all plans", "No, the land title office doesn't guarantee the accuracy of plans", "Only if the error is over 10%", "Only for strata plans"],
+      "answer": 1,
+      "explain": "The accuracy of registered plans (boundaries and dimensions) isn't guaranteed, so no claim can be made against the fund for those errors.",
+      "ref": "Lesson 3 · The Torrens system"
+    },
+    {
+      "id": "03-026", "tag": "Title search",
+      "q": "What is a PID?",
+      "choices": ["A strata plan number", "A permanent 9-digit parcel identifier assigned when a title is created", "The property's assessment roll number", "A builders lien number"],
+      "answer": 1,
+      "explain": "The PID is a 9-digit number that stays with the parcel unless it's subdivided or consolidated. It's the best way to search title, and it appears on the property tax notice.",
+      "ref": "Lesson 3 · Searching title"
+    },
+    {
+      "id": "03-027", "tag": "Title search",
+      "q": "The standard BC contract of purchase and sale promises title free and clear EXCEPT for which of these?",
+      "choices": ["Any private easement in favour of a neighbour", "A registered builders lien", "Registered restrictive covenants and rights of way in favour of utilities and public authorities", "A registered judgment against the seller"],
+      "answer": 2,
+      "explain": "The standard Title clause excepts Crown grant reservations, covenants and rights of way for utilities and public authorities, and listed tenancies. Other charges must be cleared or expressly approved by the buyer.",
+      "ref": "Lesson 3 · Searching title"
+    },
+    {
+      "id": "03-028", "tag": "Title search",
+      "q": "A licensee attached a seller-supplied title search that was missing a page with seven charges restricting building. What happened in the 2016 discipline case?",
+      "choices": ["No penalty, because the conveyancer was responsible", "A 14-day suspension, a remedial course and $1,500 in enforcement costs", "Licence cancelled permanently", "A written warning only"],
+      "answer": 1,
+      "explain": "She breached the duties to discover relevant facts and to act with reasonable care. The lesson: get the complete title search yourself.",
+      "ref": "Lesson 3 · Searching title"
+    },
+    {
+      "id": "03-029", "tag": "Items on title",
+      "q": "The title shows a duplicate certificate of title is outstanding. What's the risk?",
+      "choices": ["None; duplicates are just souvenirs", "The registrar won't register a transfer or mortgage until the duplicate is returned, which can delay or sink the sale", "The property can't be insured", "The seller's mortgage is automatically discharged"],
+      "answer": 1,
+      "explain": "With a duplicate out, transfers, mortgages and long-term leases won't be registered until it's returned. Locate it before the contract is written; replacing a lost one is slow.",
+      "ref": "Lesson 3 · Common items on title"
+    },
+    {
+      "id": "03-030", "tag": "Items on title",
+      "q": "How long does a caveat stay on title before lapsing, unless the caveator starts a lawsuit and registers a CPL?",
+      "choices": ["21 days", "2 months", "1 year", "2 years"],
+      "answer": 1,
+      "explain": "A caveat lapses automatically after two months. To keep the claim alive, the caveator must sue and register a certificate of pending litigation within that time.",
+      "ref": "Lesson 3 · Common items on title"
+    },
+    {
+      "id": "03-031", "tag": "Items on title",
+      "q": "An owner paid the general contractor in full, but an unpaid electrical subcontractor files a builders lien. Which is true?",
+      "choices": ["The lien is invalid because the owner never hired the subcontractor", "Subcontractors have lien rights under the Builders Lien Act, so the lien affects the owner's title", "Only general contractors can file liens", "The lien expires on sale of the property"],
+      "answer": 1,
+      "explain": "Contractors, subcontractors and workers all have lien rights. Liens can even be filed after the property is sold, if within the filing deadline.",
+      "ref": "Lesson 3 · Common items on title"
+    },
+    {
+      "id": "03-032", "tag": "Items on title",
+      "q": "An owner serves a Form 6 Notice to Commence Action on a lien claimant. How long does the claimant have to sue and register a CPL?",
+      "choices": ["7 days", "21 days", "45 days", "1 year"],
+      "answer": 1,
+      "explain": "A registered lien normally lasts one year. A Form 6 notice shortens that: the claimant must sue and file a CPL within 21 days or the lien is discharged.",
+      "ref": "Lesson 3 · Common items on title"
+    },
+    {
+      "id": "03-033", "tag": "Items on title",
+      "q": "How is a section 219 covenant different from a common law restrictive covenant?",
+      "choices": ["It can only be held by a neighbour", "It can be positive or negative, and is held by the province or a local government", "It doesn't need to be registered", "It expires after 2 years"],
+      "answer": 1,
+      "explain": "LTA s.219 covenants are registered in favour of government bodies and, unlike common law restrictive covenants, can impose positive obligations.",
+      "ref": "Lesson 3 · Common items on title"
+    },
+    {
+      "id": "03-034", "tag": "Items on title",
+      "q": "What does a Community Charter s.57 notice on title indicate?",
+      "choices": ["The property is a heritage site", "The property may be unsafe because it breaches bylaws or building regulations", "A strata conversion has been approved", "A water licence has been cancelled"],
+      "answer": 1,
+      "explain": "A s.57 notice appears under Legal Notations as a last resort when a property doesn't comply with bylaws or building rules (failed inspections, unpermitted work, former grow-ops). Contact the municipality.",
+      "ref": "Lesson 3 · Common items on title"
+    },
+    {
+      "id": "03-035", "tag": "Registration",
+      "q": "On completion, when does the deposit in the brokerage's trust account become the seller's money and the commission become earned?",
+      "choices": ["When the contract is signed", "When the subjects are removed", "When the transfer documents are submitted to the land title office for registration", "When the new title is issued 7–14 days later"],
+      "answer": 2,
+      "explain": "Once the transfer is submitted for registration, the seller has no further claim to title and the buyer none to the deposit. Commission is earned at that point.",
+      "ref": "Lesson 3 · Registration"
+    },
+    {
+      "id": "03-036", "tag": "Title insurance",
+      "q": "A lender requires title insurance on a purchase. Who does that policy protect?",
+      "choices": ["The owner and the lender equally", "The lender only; the owner needs a separate owner's policy", "The owner only", "The real estate brokerage"],
+      "answer": 1,
+      "explain": "A lender's policy protects the lender. An owner who wants coverage must pay for an owner's policy.",
+      "ref": "Lesson 3 · Title insurance"
+    },
+    {
+      "id": "03-037", "tag": "Title fraud",
+      "q": "Which is the safest way to verify a change in a client's payment instructions received by email?",
+      "choices": ["Reply to the email asking for confirmation", "Call the phone number given in the new email", "Call the client using a number you already had on file", "Proceed if the email has the client's name in it"],
+      "answer": 2,
+      "explain": "Email and text accounts can be hacked. Verify in person or by phone using a trusted number, never one supplied in the instruction itself.",
+      "ref": "Lesson 3 · Title fraud"
+    },
+    {
+      "id": "03-038", "tag": "Title fraud",
+      "q": "Which combination is a classic title fraud red flag?",
+      "choices": ["A local seller who wants a full MLS® listing and a sign", "An overseas owner with new contact details who wants a quick, quiet, below-market sale using scanned ID and a power of attorney", "A seller who shows original photo ID in person", "A seller with a long mortgage history"],
+      "answer": 1,
+      "explain": "Changed contact methods, urgency, unusual listing requests, new or scanned ID and powers of attorney are all key red flags.",
+      "ref": "Lesson 3 · Title fraud"
+    },
+    {
+      "id": "03-039", "tag": "Registries",
+      "q": "Which is true of the Ministry of Environment's Site Registry?",
+      "choices": ["It's part of the land title system", "It's separate from the land title system, and searching it is especially important for commercial property", "It's free and searched automatically with every title", "It lists all heritage sites"],
+      "answer": 1,
+      "explain": "The Site Registry records contaminated site information under the Environmental Management Act. It's entirely separate from title and is key due diligence for commercial deals.",
+      "ref": "Lesson 3 · Contaminated sites"
+    },
+    {
+      "id": "03-040", "tag": "Manufactured homes",
+      "q": "How does the manufactured home registry differ from the Torrens land title system?",
+      "choices": ["It has indefeasibility but no assurance fund", "It has no title, no indefeasibility and no assurance fund; it records registered ownership only", "It's identical to the land title system", "It only records security interests"],
+      "answer": 1,
+      "explain": "The Manufactured Home Act registry is a registration system, not Torrens. It records ownership but doesn't guarantee it.",
+      "ref": "Lesson 3 · Manufactured homes"
+    },
+    {
+      "id": "03-041", "tag": "Manufactured homes",
+      "q": "Before offering a used manufactured home for sale, which sticker must you confirm is present?",
+      "choices": ["The MHR registration sticker only", "A valid CSA (or equivalent) electrical certification label, or a silver label for alterations", "A municipal business licence sticker", "A home inspector's sticker"],
+      "answer": 1,
+      "explain": "BCFSA warns that a manufactured home can't be offered for sale without a valid electrical certification label. The MHR sticker is only an ID number, like a VIN.",
+      "ref": "Lesson 3 · Manufactured homes"
+    },
+    {
+      "id": "03-042", "tag": "Manufactured homes",
+      "q": "A seller asks the park landlord for consent to assign their pad tenancy to the buyer. The landlord doesn't reply within 10 days. What's the result?",
+      "choices": ["Consent is deemed refused", "The landlord is deemed to have consented", "The buyer must move the home", "The tenancy ends automatically"],
+      "answer": 1,
+      "explain": "Under the Manufactured Home Park Tenancy Regulation, the landlord must respond in writing within 10 days (unless extended by agreement), or is deemed to consent.",
+      "ref": "Lesson 3 · Manufactured homes"
+    }
+  ]
+}

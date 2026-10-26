@@ -19,13 +19,13 @@
     },
     {
       "id": "02", "num": 2, "block": "A", "title": "Estates and Interests in Land", "chapters": ["Preface", "Ch 3"], "estHours": 5,
-      "status": "coming_soon",
+      "status": "ready", "quiz": true, "cheatsheet": true,
       "summary": "What a buyer actually acquires. The bundle of rights you're selling, the smaller rights other people can hold over the same land, and the ways people co-own it.",
       "topics": ["Land ownership and the Crown", "First Nations land rights", "Characteristics of real property", "Fee simple, life estate, estate pur autre vie", "Leasehold estates", "Interests less than estates", "Fixtures vs chattels", "Joint tenancy vs tenancy in common", "Torts affecting land (trespass, nuisance and more)"]
     },
     {
       "id": "03", "num": 3, "block": "A", "title": "Subdivision and Title Registration", "chapters": ["Ch 4"], "estHours": 6,
-      "status": "coming_soon",
+      "status": "ready", "quiz": true, "cheatsheet": true,
       "summary": "How land is carved into parcels, and how BC's Torrens system guarantees who owns what. Learning to read a title search starts here.",
       "topics": ["Crown, private and treaty settlement lands", "Traditional, strata and air space parcel subdivisions", "How a strata development is created", "Torrens: indefeasibility, registration, no doctrine of notice, assurance fund", "Searching title", "First Nations land registration", "Contaminated sites", "Manufactured homes"]
     },
