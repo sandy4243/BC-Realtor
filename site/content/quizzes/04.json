@@ -48,10 +48,10 @@
       "tag": "What needs a licence",
       "q": "Under RESA s.3, which combination requires a licence (unless exempt)?",
       "choices": [
-        "Any real estate advice, paid or not",
-        "Real estate services, to or on behalf of another, for or in expectation of remuneration",
-        "Buying property for yourself",
-        "Owning more than one property"
+        "Any real estate advice given to anyone, whether paid or not",
+        "Real estate services, for another, for actual or expected pay",
+        "Buying or selling property for yourself as an investor",
+        "Owning more than one property at the same time"
       ],
       "answer": 1,
       "explain": "All three elements must be present: real estate services, for another, for pay or expected pay.",
@@ -76,10 +76,10 @@
       "tag": "What needs a licence",
       "q": "Is negotiating a commercial lease for a tenant a \"trade in real estate\"?",
       "choices": [
-        "No, only sales are trades",
-        "Yes, a trade in real estate includes leasing and assignments of leases",
-        "Only if the lease exceeds 3 years",
-        "Only if the property is residential"
+        "No; only sales are trades, so leasing needs no licence",
+        "Yes; trades include leasing and assigning leases",
+        "Only if the lease is for a term of more than 3 years",
+        "Only if the property is residential, not commercial"
       ],
       "answer": 1,
       "explain": "A trade in real estate includes purchase, sale, leasing and other acquisitions or dispositions, plus assignments of purchase, sale or lease contracts.",
@@ -90,10 +90,10 @@
       "tag": "What needs a licence",
       "q": "Selling a time share interest on behalf of another person for a fee:",
       "choices": [
-        "Never requires a licence, because it's not land",
-        "Requires a licence, because RESA's definition of real estate includes time share, co-op and shared interests",
-        "Only requires a licence if the buyer is in BC",
-        "Is regulated by securities law only"
+        "Never needs a licence, since a time share isn't land",
+        "Needs a licence; RESA's real estate includes time shares",
+        "Needs a licence only if the buyer lives in BC",
+        "Is regulated only under securities law, not RESA"
       ],
       "answer": 1,
       "explain": "RESA defines real estate to include cooperative interests, shared interests in land and time share interests, even if they aren't interests in land.",
@@ -104,10 +104,10 @@
       "tag": "Once a licensee",
       "q": "A licensee helps their sister buy a condo for free. Does RESA apply?",
       "choices": [
-        "No, because there's no remuneration",
-        "No, because it's family",
-        "Yes; once licensed, RESA applies to all real estate services, paid or unpaid, and they must go through the brokerage",
-        "Only if the sister signs a service agreement"
+        "No, because there's no remuneration involved at all",
+        "No, because services for family members are always exempt",
+        "Yes; RESA covers unpaid services, so use the brokerage",
+        "Only if the sister signs a written service agreement"
       ],
       "answer": 2,
       "explain": "\"Once a licensee, always a licensee\": RESA covers services for yourself, unpaid services and otherwise exempt services. Everything goes through the brokerage.",
@@ -118,10 +118,10 @@
       "tag": "Once a licensee",
       "q": "Why is it risky for a licensee to list their own property themselves?",
       "choices": [
-        "It's always illegal",
-        "Deals where the licensee has an ownership interest aren't covered by the E&O Indemnity Plan, and buyers may claim the licensee took advantage",
-        "Brokerages can't list a licensee's property",
-        "The licensee loses their licence automatically"
+        "It's illegal for a licensee to list their own property",
+        "Own-interest deals aren't covered by the E&O Indemnity Plan",
+        "Brokerages aren't allowed to list a licensee's property",
+        "The licensee's licence automatically becomes inoperative"
       ],
       "answer": 1,
       "explain": "Own-interest deals are excluded from E&O coverage, and an unrepresented buyer may allege abuse of position. Better to have another licensee act.",
@@ -132,10 +132,10 @@
       "tag": "Once a licensee",
       "q": "A developer offers to pay a licensee directly for selling units. What does RESA s.7 say?",
       "choices": [
-        "That's fine if disclosed",
-        "Licensees may only provide services on behalf of their brokerage and accept remuneration only from it",
-        "It's fine for commercial projects",
-        "It's fine if the developer is a family member"
+        "It's fine as long as the payment is disclosed to buyers",
+        "Services only through the brokerage, paid only by it",
+        "It's fine for commercial projects but not residential ones",
+        "It's fine if the developer is a close family member"
       ],
       "answer": 1,
       "explain": "Managing brokers, associate brokers and representatives must provide services only for their brokerage and must not accept pay from anyone else.",
@@ -146,10 +146,10 @@
       "tag": "Exemptions",
       "q": "Which is exempt from licensing under RESA itself (s.3)?",
       "choices": [
-        "A notary",
+        "A notary public preparing the transfer documents",
         "An executor dealing with the estate's real estate",
-        "An auctioneer",
-        "An appraiser"
+        "An auctioneer selling land at a public auction",
+        "An appraiser who values the property for a fee"
       ],
       "answer": 1,
       "explain": "RESA s.3 exempts court-authorized persons, insolvency officials, executors/administrators, trustees, trust companies and practising lawyers. Notaries, auctioneers and appraisers are exempt under the Regulation.",
@@ -160,10 +160,10 @@
       "tag": "Exemptions",
       "q": "An accountant is paid to help a client sell a small business. Do they need a licence?",
       "choices": [
-        "Yes, always",
-        "No; the Regulation exempts accountants in relation to the purchase and sale of a business",
-        "Only if the business owns land",
-        "Only if they advertise"
+        "Yes; anyone paid to help sell a business needs a licence",
+        "No; the Regulation exempts accountants on business sales",
+        "Only if the business owns land or a building",
+        "Only if the accountant advertises the business for sale"
       ],
       "answer": 1,
       "explain": "The Regulation's trading services exemptions include accountants acting on the purchase and sale of a business.",
@@ -174,10 +174,10 @@
       "tag": "Exemptions",
       "q": "An unlicensed salaried employee of a developer sells the developer's strata units. What must they do?",
       "choices": [
-        "Nothing",
-        "Promptly disclose in writing, before any agreement and separately from it, that they're unlicensed, employed by the developer and acting for the developer",
-        "Get a temporary licence",
-        "Have a licensee co-sign every contract"
+        "Nothing, as long as they're on the developer's payroll",
+        "Disclose in writing, separately and before any agreement",
+        "Get a temporary licence from BCFSA within 30 days",
+        "Have a licensee review and co-sign every contract"
       ],
       "answer": 1,
       "explain": "Developer employees are exempt only if they make this separate written disclosure before any agreement is entered into.",
@@ -188,10 +188,10 @@
       "tag": "Exemptions",
       "q": "A licensee who owns a strata lot wants to sit on strata council under Rules s.96. Which is a condition?",
       "choices": [
-        "They may be paid the usual management fee",
-        "They must have sole signing authority",
-        "They must disclose in writing that they're not acting as a licensee, copy their managing broker, and not have sole signing authority or be paid",
-        "They must act through their brokerage"
+        "They may be paid the usual strata management fee",
+        "They must have sole signing authority over strata funds",
+        "Disclose in writing, copy the MB, no sole signing, no pay",
+        "They must provide the services through their brokerage"
       ],
       "answer": 2,
       "explain": "Section 96 requires written disclosure to the strata (copied to the managing broker), no sole signing or spending authority, and no remuneration.",
@@ -216,10 +216,10 @@
       "tag": "Unlicensed assistants",
       "q": "Who may show rental properties to prospective tenants without a licence?",
       "choices": [
-        "Anyone",
-        "An unlicensed assistant of a rental property management licensee",
-        "An unlicensed assistant of a trading licensee",
-        "No one"
+        "Anyone, since showing a rental isn't a regulated service",
+        "An unlicensed assistant of a property management licensee",
+        "An unlicensed assistant of a trading services licensee",
+        "No one; only licensees may ever show any property"
       ],
       "answer": 1,
       "explain": "There's a specific allowance for unlicensed assistants of property management licensees to show rentals to prospective tenants.",
@@ -230,10 +230,10 @@
       "tag": "Fiduciary duties",
       "q": "Which is the overarching fiduciary duty?",
       "choices": [
-        "Duty to maximize price",
-        "Duty of loyalty: act solely for the client's benefit",
+        "Duty to get the highest possible price",
+        "Loyalty: act solely for the client",
         "Duty to obey all instructions, lawful or not",
-        "Duty to the other party"
+        "Duty of fairness to the other party"
       ],
       "answer": 1,
       "explain": "Loyalty is the overarching duty. The others are avoiding conflicts, full disclosure, confidentiality and obeying lawful instructions.",
@@ -258,10 +258,10 @@
       "tag": "Protection bodies",
       "q": "Where does the interest on a brokerage's general trust account go?",
       "choices": [
-        "The brokerage",
-        "The licensee",
-        "The Real Estate Foundation of BC",
-        "BCFSA"
+        "The brokerage, as income",
+        "The licensee on the file",
+        "The Real Estate Foundation",
+        "BCFSA, to fund regulation"
       ],
       "answer": 2,
       "explain": "Interest on general trust accounts goes to REFBC, except client-requested separate accounts and accounts holding tenants' deposits.",
@@ -286,10 +286,10 @@
       "tag": "Protection bodies",
       "q": "A licensee and their brokerage are both found liable and damages are paid. What deductible applies?",
       "choices": [
-        "None",
-        "$2,000 total",
-        "$2,000 each, so $4,000 total",
-        "$5,000 each"
+        "None, because the brokerage is insured",
+        "$2,000 in total, shared between them",
+        "$2,000 each, so $4,000 in total",
+        "$5,000 each, so $10,000 in total"
       ],
       "answer": 2,
       "explain": "Each insured licensee pays a $2,000 deductible when damages are paid.",
@@ -300,10 +300,10 @@
       "tag": "Protection bodies",
       "q": "A claim against a licensee is dismissed at trial after the insurer spent $80,000 defending it. What deductible does the licensee pay?",
       "choices": [
-        "$2,000",
-        "$80,000",
-        "None, because of first-dollar defence",
-        "$4,000"
+        "$2,000, the standard deductible",
+        "$80,000, the full defence cost",
+        "None, due to first-dollar defence",
+        "$4,000, double the deductible"
       ],
       "answer": 2,
       "explain": "First-dollar defence means no deductible where only defence costs were incurred and nothing was paid to the claimant.",
@@ -316,8 +316,8 @@
       "choices": [
         "A $10,000 BCFSA discipline penalty",
         "A commission dispute with another brokerage",
-        "A negligent misstatement about a property's square footage",
-        "A claim involving the licensee's own property sale"
+        "A negligent misstatement of square footage",
+        "A claim over the licensee's own property sale"
       ],
       "answer": 2,
       "explain": "The plan covers negligent errors and omissions in providing real estate services. Penalties, commission disputes and own-interest deals are excluded.",
@@ -356,10 +356,10 @@
       "tag": "Organizations",
       "q": "Which statement about realtor.ca is correct?",
       "choices": [
-        "It's the MLS® system",
-        "It's CREA's advertising website showing listing content from the MLS®; it isn't the MLS® itself",
-        "It's run by BCFSA",
-        "It's only for commercial listings"
+        "It's the MLS® system that boards use for cooperation",
+        "It's CREA's ad site showing MLS® listings, not the MLS®",
+        "It's run by BCFSA to show licensed brokerages' listings",
+        "It's a site used only for commercial listings in Canada"
       ],
       "answer": 1,
       "explain": "realtor.ca is a public advertising site created by CREA. The MLS® is the cooperative system run by boards for members.",
@@ -370,10 +370,10 @@
       "tag": "Organizations",
       "q": "Is membership in a local real estate board required to hold a licence?",
       "choices": [
-        "Yes",
-        "No, but it's needed to use the MLS® and the REALTOR® trademark",
-        "Only for managing brokers",
-        "Only in Greater Vancouver"
+        "Yes, every licensee must join a local real estate board",
+        "No, but it's needed for the MLS® and REALTOR® mark",
+        "Only managing brokers must join a board",
+        "Only licensees working in Greater Vancouver must join"
       ],
       "answer": 1,
       "explain": "Board membership is voluntary for licensing purposes but required for MLS® access and the REALTOR® mark.",
@@ -398,10 +398,10 @@
       "tag": "Licence levels",
       "q": "A brokerage's managing broker is licensed for trading and rental property management. Can a licensee at that brokerage provide strata management?",
       "choices": [
-        "Yes, if the licensee holds a strata licence",
-        "No; the managing broker's licence category limits what the brokerage can do",
-        "Yes, through a team",
-        "Only with BCFSA's written permission"
+        "Yes, if the licensee personally holds a strata licence",
+        "No; the managing broker's category limits the brokerage",
+        "Yes, as long as it's done through a registered team",
+        "Only with BCFSA's written permission for each strata"
       ],
       "answer": 1,
       "explain": "A brokerage may only provide services permitted by its managing broker's licence category.",
@@ -412,10 +412,10 @@
       "tag": "Licence levels",
       "q": "The managing broker's licence is suspended. What happens to the representatives' licences at that brokerage?",
       "choices": [
-        "Nothing",
-        "The brokerage licence and all related licences become inoperative",
-        "They transfer automatically to another brokerage",
-        "They're cancelled permanently"
+        "Nothing; their licences are separate from the managing broker's",
+        "The brokerage and all related licences become inoperative",
+        "They transfer automatically to the nearest other brokerage",
+        "They're cancelled permanently and must be reapplied for"
       ],
       "answer": 1,
       "explain": "If the managing broker's licence is inoperative, suspended or cancelled, the brokerage licence becomes inoperative, and so do the licences of everyone engaged there.",
@@ -440,10 +440,10 @@
       "tag": "Teams",
       "q": "Two licensees regularly act as designated agents for the same clients but don't advertise as a team. Must they register as a team?",
       "choices": [
-        "No, only advertising triggers registration",
-        "Yes, regularly being designated agents of the same client triggers registration",
-        "Only if they share commissions",
-        "Only if their managing broker requires it"
+        "No; only advertising as a team triggers registration",
+        "Yes; regularly acting for the same clients triggers it",
+        "Only if they share commissions under a written agreement",
+        "Only if their managing broker decides to require it"
       ],
       "answer": 1,
       "explain": "Registration is required if licensees present as a single entity, are regularly designated agents of the same client, or regularly work like implied agents of the same party.",
@@ -454,10 +454,10 @@
       "tag": "Teams",
       "q": "Can one team member represent the seller while another represents the buyer in the same deal?",
       "choices": [
-        "Yes, with written consent",
-        "No; the whole team is the client's designated agent",
-        "Yes, if they're at different branch offices",
-        "Only in commercial deals"
+        "Yes, if both clients consent in writing",
+        "No; the whole team is the designated agent",
+        "Yes, if they work from different branch offices",
+        "Only in commercial deals, with disclosure"
       ],
       "answer": 1,
       "explain": "Teams can't separate agency relationships. The team collectively is the agent, and all members' names go on the contracts.",
@@ -482,10 +482,10 @@
       "tag": "PREC",
       "q": "What protection does a personal real estate corporation give the licensee from third-party liability?",
       "choices": [
-        "Full protection, like any corporation",
-        "None; it doesn't shield the controlling individual from liability",
-        "Protection up to $2 million",
-        "Protection only for commercial deals"
+        "Full protection, the same as any other corporation",
+        "None; it doesn't shield the licensee from liability",
+        "Protection up to the $2 million E&O limit only",
+        "Protection only for commercial transactions"
       ],
       "answer": 1,
       "explain": "A PREC is mainly for tax planning. It doesn't shield the licensee from liability, and misconduct by the PREC is treated as the individual's.",
@@ -524,10 +524,10 @@
       "tag": "Qualifications",
       "q": "What experience does a first-time associate or managing broker applicant need?",
       "choices": [
-        "None",
-        "At least 2 years as a licensee in the 5 years before applying",
-        "5 years in the past 10",
-        "10 completed transactions"
+        "None, if they've passed the Broker's Licensing Course",
+        "2 years as a licensee in the 5 years before applying",
+        "5 years as a licensee in the past 10 years",
+        "At least 10 completed transactions as a representative"
       ],
       "answer": 1,
       "explain": "Two years of licensed experience in the previous five years, in BC or an equivalent jurisdiction (waivable in some cases).",
@@ -538,10 +538,10 @@
       "tag": "Qualifications",
       "q": "After passing the licensing exam, what must a new trading services applicant complete?",
       "choices": [
-        "Nothing more",
-        "A Residential or Commercial Trading Services Applied Practice Course",
-        "The Broker's Licensing Course",
-        "A two-year apprenticeship"
+        "Nothing more; the licence is issued after the exam",
+        "An Applied Practice Course (Residential or Commercial)",
+        "The Broker's Licensing Course and a broker's exam",
+        "A two-year apprenticeship with a managing broker"
       ],
       "answer": 1,
       "explain": "New trading licensees must complete one of BCFSA's Applied Practice Courses (about five months). A temporary licence is issued early in the course.",
@@ -552,10 +552,10 @@
       "tag": "Licence term",
       "q": "How long is a licence term, and when must you apply to renew?",
       "choices": [
-        "1 year; 10 days before expiry",
-        "2 years; at least 30 days before expiry",
-        "3 years; 60 days before expiry",
-        "5 years; any time"
+        "1 year; apply 10 days before expiry",
+        "2 years; apply 30+ days before expiry",
+        "3 years; apply 60 days before expiry",
+        "5 years; apply any time before expiry"
       ],
       "answer": 1,
       "explain": "Licences run for two years. Apply at least 30 days before expiry; the licence then continues until BCFSA decides.",
@@ -566,10 +566,10 @@
       "tag": "Licence term",
       "q": "A licensee is charged (not convicted) with a criminal offence. Must they tell BCFSA?",
       "choices": [
-        "No, only convictions must be reported",
-        "Yes; Rules s.23 requires prompt written notice of charges and convictions (excluding minor traffic tickets), copied to the managing broker",
-        "Only if the charge relates to real estate",
-        "Only at renewal"
+        "No; only convictions need to be reported to BCFSA",
+        "Yes; charges must be reported promptly, in writing",
+        "Only if the charge relates to a real estate transaction",
+        "Only at renewal, on the licence renewal application"
       ],
       "answer": 1,
       "explain": "Charges must be reported too. A licensee who thought only convictions counted was reprimanded and ordered to pay $1,500.",

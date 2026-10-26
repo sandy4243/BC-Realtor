@@ -1,6 +1,6 @@
-import { store } from './store.js?v=3';
-import { buildPlan, pace, streak, tagStats } from './plan.js?v=3';
-import { todayStr, addDays, fmt, fmtLong, daysBetween, isoToLocalDay } from './dates.js?v=3';
+import { store } from './store.js?v=4';
+import { buildPlan, pace, streak, tagStats } from './plan.js?v=4';
+import { todayStr, addDays, fmt, fmtLong, daysBetween, isoToLocalDay } from './dates.js?v=4';
 
 const app = document.getElementById('app');
 const nav = document.getElementById('nav');
@@ -42,6 +42,12 @@ function md(text) {
     w.appendChild(t);
   });
   wrap.querySelectorAll('h2, h3').forEach((h) => (h.id = 'sec-' + slug(h.textContent)));
+  // Colour-code callouts by their leading emoji (alert, tip, commercial, memory aid).
+  const tones = [[/^(🚨|⚠️|🔴)/u, 'bq-alert'], [/^(💡|🔑|⭐|🎯)/u, 'bq-tip'], [/^🏢/u, 'bq-commercial'], [/^(🧠|🧮|🧭|🔎|✅)/u, 'bq-memory']];
+  wrap.querySelectorAll('blockquote').forEach((b) => {
+    const tone = tones.find(([re]) => re.test(b.textContent.trim()));
+    if (tone) b.classList.add(tone[1]);
+  });
   return wrap;
 }
 
@@ -272,7 +278,7 @@ function viewCourse() {
     ${course.blocks.map((b) => {
       const ls = course.lessons.filter((l) => l.block === b.id);
       return `
-      <section class="block">
+      <section class="block" data-b="${b.id}">
         <h2><span class="block-id">${b.id}</span> ${esc(b.title)}</h2>
         <p class="muted">${esc(b.blurb)}</p>
         <div class="lesson-rows">

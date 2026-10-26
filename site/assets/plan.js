@@ -6,7 +6,7 @@
 // - Lessons are spread across the learner's chosen study weekdays in
 //   proportion to each lesson's estimated hours.
 
-import { addDays, daysBetween, todayStr, weekday, isoToLocalDay } from './dates.js?v=3';
+import { addDays, daysBetween, todayStr, weekday, isoToLocalDay } from './dates.js?v=4';
 
 export function buildPlan(course, profile) {
   const { courseStart, courseEnd, examDate } = profile.dates;

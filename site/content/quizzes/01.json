@@ -2,265 +2,463 @@
   "lessonId": "01",
   "questions": [
     {
-      "id": "01-001", "tag": "Sources of law",
+      "id": "01-001",
+      "tag": "Sources of law",
       "q": "What does the doctrine of stare decisis require?",
-      "choices": ["Statutes must always be interpreted literally", "Courts follow earlier decisions on substantially the same facts", "Judges may decide each case purely on fairness", "Appeal courts must rehear all the evidence"],
+      "choices": [
+        "Statutes must always be interpreted literally, word for word",
+        "Courts follow earlier decisions on substantially the same facts",
+        "Judges may decide each case purely on what seems fair to them",
+        "Appeal courts must rehear all the evidence from the trial"
+      ],
       "answer": 1,
       "explain": "Stare decisis (\"let the former decision stand\") means courts follow precedent when the facts are substantially the same. It gives the law predictability and certainty.",
       "ref": "Lesson 1 · Where laws come from"
     },
     {
-      "id": "01-002", "tag": "Sources of law",
+      "id": "01-002",
+      "tag": "Sources of law",
       "q": "A judge decides an earlier case is not binding because one crucial fact is different. What is the judge doing?",
-      "choices": ["Overruling the case", "Appealing the case", "Distinguishing the case", "Adopting the case"],
+      "choices": [
+        "Overruling the case",
+        "Appealing the case",
+        "Distinguishing the case",
+        "Adopting the case"
+      ],
       "answer": 2,
       "explain": "\"Distinguishing\" is the technical term for treating a precedent as inapplicable because a material fact differs.",
       "ref": "Lesson 1 · Where laws come from"
     },
     {
-      "id": "01-003", "tag": "Sources of law",
+      "id": "01-003",
+      "tag": "Sources of law",
       "q": "How does a BC court treat a decision of the Ontario Court of Appeal?",
-      "choices": ["Binding on all BC courts", "Binding on BC trial courts only", "Persuasive but not binding", "Irrelevant, because it's from another province"],
+      "choices": [
+        "Binding on all BC courts",
+        "Binding on BC trial courts only",
+        "Persuasive but not binding",
+        "Irrelevant, because it's from another province"
+      ],
       "answer": 2,
       "explain": "A provincial Court of Appeal binds the lower courts of its own province. Elsewhere its decisions are persuasive only.",
       "ref": "Lesson 1 · Which courts bind which"
     },
     {
-      "id": "01-004", "tag": "Sources of law",
+      "id": "01-004",
+      "tag": "Sources of law",
       "q": "An English decision is directly on point and no Canadian court has ruled on the issue. What is its status in BC?",
-      "choices": ["Binding, because Canadian law came from England", "Persuasive, but not binding until adopted by a Canadian court", "Binding only in the BC Court of Appeal", "It can't be considered at all"],
+      "choices": [
+        "Binding, because Canadian law came from England",
+        "Persuasive, but not binding on a BC court",
+        "Binding only on the BC Court of Appeal, not lower courts",
+        "It can't be considered by a Canadian court at all"
+      ],
       "answer": 1,
       "explain": "English and Commonwealth decisions can be referred to, but they aren't binding until a Canadian court adopts them.",
       "ref": "Lesson 1 · Which courts bind which"
     },
     {
-      "id": "01-005", "tag": "Equity & remedies",
+      "id": "01-005",
+      "tag": "Equity & remedies",
       "q": "When a principle of common law conflicts with a principle of equity, which prevails?",
-      "choices": ["Common law", "Equity", "Whichever is older", "The judge must refer the question to the legislature"],
+      "choices": [
+        "Common law",
+        "Equity",
+        "Whichever is older",
+        "The judge must refer the question to the legislature"
+      ],
       "answer": 1,
       "explain": "Since the Judicature Acts fused the two systems, judges apply both, and where they conflict, equity takes priority.",
       "ref": "Lesson 1 · The fusion"
     },
     {
-      "id": "01-006", "tag": "Equity & remedies",
+      "id": "01-006",
+      "tag": "Equity & remedies",
       "q": "A seller refuses to complete and the buyer wants a court order forcing the transfer of the property. What remedy is this?",
-      "choices": ["Damages", "Specific performance", "Garnishment", "Execution"],
+      "choices": [
+        "Damages for the loss of bargain",
+        "Specific performance",
+        "A garnishing order against the seller",
+        "Execution against the seller's assets"
+      ],
       "answer": 1,
       "explain": "Specific performance is an equitable remedy ordering the defaulting party to carry out the contract. It's common in real estate because land is treated as unique.",
       "ref": "Lesson 1 · Equity"
     },
     {
-      "id": "01-007", "tag": "Equity & remedies",
+      "id": "01-007",
+      "tag": "Equity & remedies",
       "q": "A buyer with a strong case for specific performance waits a long time before suing. What's the risk?",
-      "choices": ["None, as long as she's within the 2-year limitation period", "The court may refuse the equitable remedy because of the delay", "The case automatically moves to Small Claims Court", "She loses the right to damages as well"],
+      "choices": [
+        "None, as long as she's within the 2-year limitation period",
+        "The court may refuse the equitable remedy because of the delay",
+        "The case automatically moves to Small Claims Court",
+        "She loses the right to damages as well"
+      ],
       "answer": 1,
       "explain": "Equitable remedies are discretionary. Even within the legal limitation period, unreasonable delay can cost you equitable relief. You need \"fast feet\".",
       "ref": "Lesson 1 · Equity; Limitation periods"
     },
     {
-      "id": "01-008", "tag": "Division of powers",
+      "id": "01-008",
+      "tag": "Division of powers",
       "q": "Where do BC municipalities get their power to pass bylaws?",
-      "choices": ["Directly from the Constitution", "From powers delegated by the federal government", "From powers carved out of provincial power", "From the common law"],
+      "choices": [
+        "Directly from the Constitution",
+        "From powers delegated by the federal government",
+        "From powers carved out of provincial power",
+        "From the common law"
+      ],
       "answer": 2,
       "explain": "Municipalities have no constitutional standing of their own. The province hands them specific powers, such as zoning and building bylaws.",
       "ref": "Lesson 1 · Statute law"
     },
     {
-      "id": "01-009", "tag": "Division of powers",
+      "id": "01-009",
+      "tag": "Division of powers",
       "q": "Which level of government holds the residual power over matters the Constitution doesn't specifically assign?",
-      "choices": ["Federal", "Provincial", "Municipal", "It's shared equally"],
+      "choices": [
+        "Federal",
+        "Provincial",
+        "Municipal",
+        "It's shared equally"
+      ],
       "answer": 0,
       "explain": "The residual power to legislate over unassigned areas is federal.",
       "ref": "Lesson 1 · Statute law"
     },
     {
-      "id": "01-010", "tag": "Division of powers",
+      "id": "01-010",
+      "tag": "Division of powers",
       "q": "Why is almost all real estate law in BC provincial?",
-      "choices": ["Because the federal government delegated it in 1990", "Because the Constitution gives the provinces jurisdiction over property and civil rights", "Because municipalities asked for it", "Because real estate is a criminal law matter"],
+      "choices": [
+        "The federal government delegated real estate to the provinces in 1990",
+        "The Constitution gives provinces power over property and civil rights",
+        "Municipalities asked the province to take over land regulation",
+        "Real estate is treated as a branch of criminal law, which provinces run"
+      ],
       "answer": 1,
       "explain": "\"Property and civil rights\" is a provincial head of power, which is why RESA, the Land Title Act and the Strata Property Act are all provincial statutes.",
       "ref": "Lesson 1 · Statute law"
     },
     {
-      "id": "01-011", "tag": "Division of powers",
+      "id": "01-011",
+      "tag": "Division of powers",
       "q": "Before the Real Estate Services Act, did a person acting as a real estate agent need a licence at common law?",
-      "choices": ["Yes, the common law always required a licence", "No. The licensing requirement was created by statute", "Only for commercial transactions", "Only in Vancouver"],
+      "choices": [
+        "Yes, the common law always required agents to be licensed",
+        "No; licensing was created by statute",
+        "Only for commercial transactions over a set value",
+        "Only in Vancouver, under a city bylaw"
+      ],
       "answer": 1,
       "explain": "This is the course's own example of statute changing the common law: the common law had no licensing requirement, and RESA created one.",
       "ref": "Lesson 1 · Statute law"
     },
     {
-      "id": "01-012", "tag": "Public vs private law",
+      "id": "01-012",
+      "tag": "Public vs private law",
       "q": "Which of these is a public law matter?",
-      "choices": ["A tenant suing a landlord for an unreturned deposit", "A buyer suing for breach of contract", "A prosecution for fraud", "A negligence claim against a licensee"],
+      "choices": [
+        "A tenant suing a landlord for an unreturned deposit",
+        "A buyer suing for breach of contract",
+        "A prosecution for fraud",
+        "A negligence claim against a licensee"
+      ],
       "answer": 2,
       "explain": "Criminal law is public law: the state is a party. The other three are private (civil) disputes between individuals.",
       "ref": "Lesson 1 · Public vs private law"
     },
     {
-      "id": "01-013", "tag": "Feudal origins",
+      "id": "01-013",
+      "tag": "Feudal origins",
       "q": "Under BC's estates system, who holds the underlying title to all land?",
-      "choices": ["The registered fee simple owner", "The municipality", "The Crown", "The Land Title Office"],
+      "choices": [
+        "The registered fee simple owner",
+        "The municipality",
+        "The Crown",
+        "The Land Title Office"
+      ],
       "answer": 2,
       "explain": "BC still rests on the feudal estates system: the Crown holds underlying title, and a fee simple owner holds the largest estate available under it.",
       "ref": "Lesson 1 · Why you don't actually own your land"
     },
     {
-      "id": "01-014", "tag": "Tribunals & CRT",
+      "id": "01-014",
+      "tag": "Tribunals & CRT",
       "q": "A strata corporation is owed $85,000 in unpaid strata fees. Can the Civil Resolution Tribunal hear the claim?",
-      "choices": ["No, the CRT's limit is $5,000", "No, the CRT's limit is $35,000", "Yes. Strata disputes have no monetary limit at the CRT", "Only if the owner agrees"],
+      "choices": [
+        "No, the CRT's limit is $5,000 for every type of claim",
+        "No, the CRT's limit is $35,000 even for strata claims",
+        "Yes. Strata disputes have no monetary limit at the CRT",
+        "Only if the owner agrees in writing to the CRT hearing it"
+      ],
       "answer": 2,
       "explain": "The CRT can decide most strata disputes with no monetary limit. The $5,000 cap applies only to its small claims category.",
       "ref": "Lesson 1 · The Civil Resolution Tribunal"
     },
     {
-      "id": "01-015", "tag": "Tribunals & CRT",
+      "id": "01-015",
+      "tag": "Tribunals & CRT",
       "q": "Someone files a $7,500 small claim at the CRT. What happens to the $2,500 above the CRT's limit?",
-      "choices": ["It's transferred to Small Claims Court", "It must be abandoned and can't be claimed anywhere else", "It's added to the next claim", "The CRT can award it at its discretion"],
+      "choices": [
+        "It's transferred to Small Claims Court for a separate hearing",
+        "It's abandoned and can't be claimed anywhere else",
+        "It's carried forward and added to the claimant's next claim",
+        "The CRT can award it at its discretion if the case is strong"
+      ],
       "answer": 1,
       "explain": "You may file above $5,000 at the CRT, but the excess is given up permanently.",
       "ref": "Lesson 1 · The Civil Resolution Tribunal"
     },
     {
-      "id": "01-016", "tag": "Tribunals & CRT",
+      "id": "01-016",
+      "tag": "Tribunals & CRT",
       "q": "How long does a party have to seek judicial review of a CRT final decision in the BC Supreme Court?",
-      "choices": ["14 days", "30 days", "60 days", "2 years"],
+      "choices": [
+        "14 days",
+        "30 days",
+        "60 days",
+        "2 years"
+      ],
       "answer": 2,
       "explain": "Judicial review of a CRT final decision must be sought within 60 days.",
       "ref": "Lesson 1 · The Civil Resolution Tribunal"
     },
     {
-      "id": "01-017", "tag": "Trial courts",
+      "id": "01-017",
+      "tag": "Trial courts",
       "q": "A buyer wants to sue for $28,000 and no arbitration clause applies. Which court fits the claim?",
-      "choices": ["Civil Resolution Tribunal", "Small Claims Court", "BC Court of Appeal", "Supreme Court of Canada"],
+      "choices": [
+        "Civil Resolution Tribunal",
+        "Small Claims Court",
+        "BC Court of Appeal",
+        "Supreme Court of Canada"
+      ],
       "answer": 1,
       "explain": "Small Claims Court hears most claims from $5,001 to $35,000 (subject to its territorial limit). Above $35,000, go to the BC Supreme Court or reduce the claim.",
       "ref": "Lesson 1 · Trial courts"
     },
     {
-      "id": "01-018", "tag": "Appeals",
+      "id": "01-018",
+      "tag": "Appeals",
       "q": "What is the main difference between a trial court and an appeal court?",
-      "choices": ["Appeal courts hear new witnesses", "Trial courts decide the facts; appeal courts review the legal principles applied", "Appeal courts only hear criminal cases", "Trial courts always sit with three judges"],
+      "choices": [
+        "Appeal courts hear new witnesses and redo the trial from scratch",
+        "Trial courts decide facts; appeal courts review the law applied",
+        "Appeal courts only hear criminal cases, never civil disputes",
+        "Trial courts always sit with three judges, appeal courts with one"
+      ],
       "answer": 1,
       "explain": "Trial courts hear the evidence and find the facts. Appeal courts generally don't rehear evidence. They look for errors in how the law was applied.",
       "ref": "Lesson 1 · Appeals"
     },
     {
-      "id": "01-019", "tag": "Appeals",
+      "id": "01-019",
+      "tag": "Appeals",
       "q": "When might the BC Court of Appeal sit with five judges instead of three?",
-      "choices": ["When the claim is over $1 million", "When an important precedent may be overturned", "When the appeal comes from Small Claims Court", "When a jury was used at trial"],
+      "choices": [
+        "When the claim is over $1 million",
+        "When an important precedent may be overturned",
+        "When the appeal comes from Small Claims Court",
+        "When a jury was used at trial"
+      ],
       "answer": 1,
       "explain": "The usual panel is three judges, but five may sit where an important precedent may be overturned.",
       "ref": "Lesson 1 · Appeals"
     },
     {
-      "id": "01-020", "tag": "Appeals",
+      "id": "01-020",
+      "tag": "Appeals",
       "q": "A party applies for leave to appeal to the Supreme Court of Canada and the Court declines to hear it. What happens?",
-      "choices": ["The case goes back for a new trial", "The BC Court of Appeal's decision stands", "The appeal is heard by the BC Supreme Court instead", "The original trial decision is restored"],
+      "choices": [
+        "The case goes back for a new trial",
+        "The BC Court of Appeal's decision stands",
+        "The appeal is heard by the BC Supreme Court instead",
+        "The original trial decision is restored"
+      ],
       "answer": 1,
       "explain": "Unlike the BC Court of Appeal, the Supreme Court of Canada chooses which appeals it hears. If it refuses, the Court of Appeal's decision stands.",
       "ref": "Lesson 1 · Appeals"
     },
     {
-      "id": "01-021", "tag": "Lawsuit process",
+      "id": "01-021",
+      "tag": "Lawsuit process",
       "q": "At trial, the judge finds the plaintiff's and defendant's versions of events equally likely. What is the result?",
-      "choices": ["The plaintiff wins half the claim", "A new trial is ordered", "The claim is dismissed", "The judge sends it to mediation"],
+      "choices": [
+        "The plaintiff wins half the claim",
+        "A new trial is ordered",
+        "The claim is dismissed",
+        "The judge sends it to mediation"
+      ],
       "answer": 2,
       "explain": "The plaintiff bears the burden of proving the case on a balance of probabilities (more likely than not). A tie means the burden wasn't met.",
       "ref": "Lesson 1 · Stage 4: Trial"
     },
     {
-      "id": "01-022", "tag": "Lawsuit process",
+      "id": "01-022",
+      "tag": "Lawsuit process",
       "q": "What is the main purpose of the pleadings stage?",
-      "choices": ["To let the judge hear witnesses early", "To narrow and define the issues the court needs to decide", "To calculate court costs", "To choose a jury"],
+      "choices": [
+        "To let the judge hear the key witnesses early in the case",
+        "To narrow and define the issues the court must decide",
+        "To calculate the court costs each side will have to pay",
+        "To choose a jury and agree on the length of the trial"
+      ],
       "answer": 1,
       "explain": "Pleadings (notice of civil claim, response, reply, counterclaim) set out each side's position so the real points in dispute are clear.",
       "ref": "Lesson 1 · Stage 2: Pleadings"
     },
     {
-      "id": "01-023", "tag": "Court costs",
+      "id": "01-023",
+      "tag": "Court costs",
       "q": "Which statement about court costs is correct?",
-      "choices": ["They equal the winner's full legal fees", "They are set by a tariff, cover only part of legal expenses, and are at the court's discretion", "They are always paid by the plaintiff", "They're only awarded in Small Claims Court"],
+      "choices": [
+        "They equal the winner's full legal fees, paid by the loser",
+        "They follow a tariff and cover only part of legal expenses",
+        "They're always paid by the plaintiff, whoever wins the case",
+        "They're only awarded in Small Claims Court, never higher courts"
+      ],
       "answer": 1,
       "explain": "Costs are not legal fees. They follow a tariff in the court rules, partially reimburse the winner, discourage weak cases, and are discretionary.",
       "ref": "Lesson 1 · Court costs"
     },
     {
-      "id": "01-024", "tag": "Enforcing judgments",
+      "id": "01-024",
+      "tag": "Enforcing judgments",
       "q": "A sheriff can't find any assets to seize under a writ of execution. How is the writ returned?",
-      "choices": ["Marked nulla bona", "Marked res judicata", "Marked stare decisis", "Marked ultra vires"],
+      "choices": [
+        "Marked nulla bona",
+        "Marked res judicata",
+        "Marked stare decisis",
+        "Marked ultra vires"
+      ],
       "answer": 0,
       "explain": "Nulla bona means \"no goods\". It records that there was nothing to seize.",
       "ref": "Lesson 1 · Winning isn't getting paid"
     },
     {
-      "id": "01-025", "tag": "Enforcing judgments",
+      "id": "01-025",
+      "tag": "Enforcing judgments",
       "q": "A judgment creditor registers the judgment against the debtor's land. How often must the registration be renewed?",
-      "choices": ["Every year", "Every second year", "Every five years", "Never"],
+      "choices": [
+        "Every year",
+        "Every second year",
+        "Every five years",
+        "Never"
+      ],
       "answer": 1,
       "explain": "A registered judgment must be renewed every second year to remain valid.",
       "ref": "Lesson 1 · Winning isn't getting paid"
     },
     {
-      "id": "01-026", "tag": "Enforcing judgments",
+      "id": "01-026",
+      "tag": "Enforcing judgments",
       "q": "Under a garnishing order against wages, what portion of a debtor's wages is generally exempt?",
-      "choices": ["30%", "50%", "70%", "100% if the debtor has dependants"],
+      "choices": [
+        "30%",
+        "50%",
+        "70%",
+        "100% if the debtor has dependants"
+      ],
       "answer": 2,
       "explain": "70% of wages are exempt, and never less than $100/month (single) or $200/month (married with dependants). The exemption doesn't apply to debts for lodging.",
       "ref": "Lesson 1 · Winning isn't getting paid"
     },
     {
-      "id": "01-027", "tag": "Mediation & arbitration",
+      "id": "01-027",
+      "tag": "Mediation & arbitration",
       "q": "What is the key difference between a mediator and an arbitrator?",
-      "choices": ["A mediator decides the dispute; an arbitrator only advises", "A mediator helps the parties reach their own agreement; an arbitrator makes a binding decision", "Only arbitration is private", "Mediation is only used for criminal cases"],
+      "choices": [
+        "A mediator decides the dispute; an arbitrator only advises",
+        "A mediator helps parties agree; an arbitrator decides",
+        "Only arbitration is private; mediation is always held in public",
+        "Mediation is only used for criminal cases, arbitration for civil"
+      ],
       "answer": 1,
       "explain": "A mediator helps you agree. An arbitrator tells you the answer, in an award that is usually binding and final.",
       "ref": "Lesson 1 · Staying out of court"
     },
     {
-      "id": "01-028", "tag": "Mediation & arbitration",
+      "id": "01-028",
+      "tag": "Mediation & arbitration",
       "q": "In a BC Supreme Court action, who can require all the parties to attend mediation under the Notice to Mediate (General) Regulation?",
-      "choices": ["Only the judge", "Only the plaintiff", "Any one party to the action", "All parties must agree first"],
+      "choices": [
+        "Only the judge",
+        "Only the plaintiff",
+        "Any one party to the action",
+        "All parties must agree first"
+      ],
       "answer": 2,
       "explain": "Any single party can deliver a Notice to Mediate and require the others to participate. Refusing can lead to court sanctions.",
       "ref": "Lesson 1 · Mediation can be forced on you"
     },
     {
-      "id": "01-029", "tag": "Limitation periods",
+      "id": "01-029",
+      "tag": "Limitation periods",
       "q": "Under BC's Limitation Act, when does the basic 2-year limitation period usually start?",
-      "choices": ["On the date of the wrongful act", "On the date the claim is discovered", "On the date a lawyer is hired", "On January 1 of the following year"],
+      "choices": [
+        "On the date of the wrongful act",
+        "On the date the claim is discovered",
+        "On the date a lawyer is hired",
+        "On January 1 of the following year"
+      ],
       "answer": 1,
       "explain": "The basic period runs from discovery: when the claimant knew or reasonably ought to have known of the loss, that the defendant caused it, and that court was an appropriate remedy.",
       "ref": "Lesson 1 · Limitation periods"
     },
     {
-      "id": "01-030", "tag": "Limitation periods",
+      "id": "01-030",
+      "tag": "Limitation periods",
       "q": "What is the length of the ultimate limitation period?",
-      "choices": ["2 years", "6 years", "15 years", "30 years"],
+      "choices": [
+        "2 years",
+        "6 years",
+        "15 years",
+        "30 years"
+      ],
       "answer": 2,
       "explain": "The ultimate limitation period was reduced from 30 to 15 years and usually runs from the day of the act or omission.",
       "ref": "Lesson 1 · Limitation periods"
     },
     {
-      "id": "01-031", "tag": "Limitation periods",
+      "id": "01-031",
+      "tag": "Limitation periods",
       "q": "A defendant makes a partial payment on a fixed-sum claim. What effect can that have?",
-      "choices": ["None", "It ends the claim", "It restarts both limitation periods from the date of payment", "It extends the basic period by 6 months only"],
+      "choices": [
+        "None, because part payment has no legal effect on the claim",
+        "It ends the claim, because the debt is treated as settled",
+        "It restarts both limitation periods from the payment date",
+        "It extends the basic limitation period by 6 months only"
+      ],
       "answer": 2,
       "explain": "Acknowledging liability, by partial payment or written confirmation, restarts both the basic and ultimate limitation periods.",
       "ref": "Lesson 1 · Acknowledgement resets everything"
     },
     {
-      "id": "01-032", "tag": "Licensee alerts",
+      "id": "01-032",
+      "tag": "Licensee alerts",
       "q": "A registered letter arrives at the brokerage addressed to another licensee who's out. What should you do?",
-      "choices": ["Sign for it so it isn't returned", "Sign and email them a photo", "Not sign. Only the named recipient should sign for registered mail", "Sign using the managing broker's name"],
+      "choices": [
+        "Sign for it so it isn't returned to the sender",
+        "Sign for it and email the licensee a photo of the letter",
+        "Don't sign; only the named recipient should sign",
+        "Sign using the managing broker's name as an authorized agent"
+      ],
       "answer": 2,
       "explain": "The signature is proof of receipt and can start court deadlines running. Only the person it's addressed to should sign.",
       "ref": "Lesson 1 · Alert 1"
     },
     {
-      "id": "01-033", "tag": "Licensee alerts",
+      "id": "01-033",
+      "tag": "Licensee alerts",
       "q": "A client complains about something you're sure has no merit. Do you need to notify the E&O insurer?",
-      "choices": ["No, only if a lawsuit is filed", "No, only if your managing broker agrees it has merit", "Yes, in writing as soon as practicable, for any circumstance that could reasonably lead to a claim, however unmeritorious", "Only if the amount is over $5,000"],
+      "choices": [
+        "No, you only need to notify the insurer once a lawsuit is filed",
+        "No, only if your managing broker agrees the complaint has merit",
+        "Yes, in writing as soon as practicable, even if it lacks merit",
+        "Only if the amount claimed is over the $5,000 deductible threshold"
+      ],
       "answer": 2,
       "explain": "Notice is a condition of coverage, and it's triggered by the possibility of a claim, not your opinion of its merit.",
       "ref": "Lesson 1 · Alert 2"
