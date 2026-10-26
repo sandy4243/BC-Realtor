@@ -1,0 +1,2371 @@
+{
+  "lessonId": "16",
+  "questions": [
+    {
+      "id": "16-001",
+      "tag": "Business forms",
+      "q": "Who pays income tax on a sole proprietorship's profits?",
+      "choices": [
+        "The business, at corporate rates",
+        "The owner, on their personal return",
+        "Nobody until the business is sold",
+        "The bank that finances the business"
+      ],
+      "answer": 1,
+      "explain": "A proprietorship isn't a separate entity; the owner reports the profit personally.",
+      "ref": "Lesson 16 · Forms of business organization"
+    },
+    {
+      "id": "16-002",
+      "tag": "Business forms",
+      "q": "What liability does a general partner have?",
+      "choices": [
+        "Only up to their capital contribution",
+        "Unlimited, for all ordinary-course debts",
+        "Only for debts they personally signed",
+        "None, if the firm is registered"
+      ],
+      "answer": 1,
+      "explain": "General partners are jointly liable for all debts incurred in the ordinary course of business.",
+      "ref": "Lesson 16 · Forms of business organization"
+    },
+    {
+      "id": "16-003",
+      "tag": "Business forms",
+      "q": "A junior partner signs a supply contract the agreement says only the senior partner may sign. Is the partnership bound?",
+      "choices": [
+        "No, the agreement makes it void",
+        "Yes, every partner is an agent of the rest",
+        "Only if the supplier was told in writing",
+        "Only if all partners later ratify it"
+      ],
+      "answer": 1,
+      "explain": "Each partner is an agent of the others; the partnership is bound, though partners can pursue the junior partner.",
+      "ref": "Lesson 16 · Forms of business organization"
+    },
+    {
+      "id": "16-004",
+      "tag": "Business forms",
+      "q": "What risk does a limited partner take by managing the business day to day?",
+      "choices": [
+        "Losing their right to any profits",
+        "Being treated as a general partner",
+        "Being fined by the Registrar",
+        "Having the partnership dissolved"
+      ],
+      "answer": 1,
+      "explain": "Taking part in management can cost a limited partner their limited liability.",
+      "ref": "Lesson 16 · Forms of business organization"
+    },
+    {
+      "id": "16-005",
+      "tag": "Business forms",
+      "q": "In an LLP, a partner is personally liable for whose negligence?",
+      "choices": [
+        "Every partner's, without limit",
+        "Their own (or that they knew of)",
+        "Only the managing partner's",
+        "Nobody's; LLPs have no liability"
+      ],
+      "answer": 1,
+      "explain": "LLP partners are liable for their own wrongs and ones they knew of and failed to prevent, not other partners'.",
+      "ref": "Lesson 16 · Forms of business organization"
+    },
+    {
+      "id": "16-006",
+      "tag": "Business forms",
+      "q": "Which professionals mainly use LLPs in BC?",
+      "choices": [
+        "Real estate brokerages",
+        "Lawyers, notaries, accountants",
+        "Strata management firms",
+        "Mortgage brokers and banks"
+      ],
+      "answer": 1,
+      "explain": "LLPs are used mostly by law, notary and accounting firms.",
+      "ref": "Lesson 16 · Forms of business organization"
+    },
+    {
+      "id": "16-007",
+      "tag": "Business forms",
+      "q": "Which business form is a separate legal entity?",
+      "choices": [
+        "A general partnership",
+        "A corporation",
+        "A sole proprietorship",
+        "A limited partnership"
+      ],
+      "answer": 1,
+      "explain": "Only a corporation is a separate legal entity distinct from its owners.",
+      "ref": "Lesson 16 · Forms of business organization"
+    },
+    {
+      "id": "16-008",
+      "tag": "Business forms",
+      "q": "What do a corporation's shareholders own?",
+      "choices": [
+        "The corporation's buildings and land",
+        "Shares in the corporation",
+        "A share of each of its assets",
+        "The corporation's bank accounts"
+      ],
+      "answer": 1,
+      "explain": "Shareholders own shares, not the company's assets.",
+      "ref": "Lesson 16 · Forms of business organization"
+    },
+    {
+      "id": "16-009",
+      "tag": "Business forms",
+      "q": "Why might a small-company shareholder still be personally liable for a loan?",
+      "choices": [
+        "Shareholders are always fully liable",
+        "The lender required a personal guarantee",
+        "Corporate loans pass to the directors",
+        "Corporations can't legally borrow money"
+      ],
+      "answer": 1,
+      "explain": "Lenders to small corporations often demand personal guarantees, which bypass limited liability.",
+      "ref": "Lesson 16 · Forms of business organization"
+    },
+    {
+      "id": "16-010",
+      "tag": "Business forms",
+      "q": "What happens to a corporation when a shareholder dies?",
+      "choices": [
+        "It's dissolved by law",
+        "It carries on; shares pass on",
+        "It becomes a partnership",
+        "Its assets go to the Crown"
+      ],
+      "answer": 1,
+      "explain": "A corporation never dies; it carries on as shares change hands.",
+      "ref": "Lesson 16 · Forms of business organization"
+    },
+    {
+      "id": "16-011",
+      "tag": "Business forms",
+      "q": "Four partners each invest $25,000. A $250,000 judgment leaves a $150,000 shortfall. In a limited partnership with one general partner, who owes the $150,000?",
+      "choices": [
+        "All four partners equally",
+        "The general partner",
+        "The three limited partners",
+        "Nobody; the debt is cancelled"
+      ],
+      "answer": 1,
+      "explain": "Limited partners lose only their investment; the general partner has unlimited liability.",
+      "ref": "Lesson 16 · Forms of business organization"
+    },
+    {
+      "id": "16-012",
+      "tag": "Investing",
+      "q": "How are a REIT's earnings generally taxed if CRA's rules are met?",
+      "choices": [
+        "Twice: in the trust and in unitholders' hands",
+        "Not in the trust; unitholders pay",
+        "Only at the corporate tax rate",
+        "They are completely tax-free"
+      ],
+      "answer": 1,
+      "explain": "A qualifying REIT isn't taxed itself; unitholders pay tax on distributions.",
+      "ref": "Lesson 16 · Other ways to invest together"
+    },
+    {
+      "id": "16-013",
+      "tag": "Investing",
+      "q": "Which is a key advantage of REIT units?",
+      "choices": [
+        "Owners control each building directly",
+        "Liquidity: they trade on exchanges",
+        "Guaranteed rent for every unitholder",
+        "No market price risk at all"
+      ],
+      "answer": 1,
+      "explain": "REITs combine limited liability, flow-through taxation and liquidity.",
+      "ref": "Lesson 16 · Other ways to invest together"
+    },
+    {
+      "id": "16-014",
+      "tag": "Investing",
+      "q": "What decides the liability and taxation of a joint venture?",
+      "choices": [
+        "Its total size",
+        "Its legal form",
+        "Its location",
+        "Its lender"
+      ],
+      "answer": 1,
+      "explain": "A joint venture's liability and tax treatment depend on whether it's a partnership or corporation.",
+      "ref": "Lesson 16 · Other ways to invest together"
+    },
+    {
+      "id": "16-015",
+      "tag": "Investing",
+      "q": "Who holds trust assets for beneficiaries?",
+      "choices": [
+        "A settlor",
+        "A trustee",
+        "A guarantor",
+        "A receiver"
+      ],
+      "answer": 1,
+      "explain": "The trustee holds and manages assets for the beneficiaries.",
+      "ref": "Lesson 16 · Other ways to invest together"
+    },
+    {
+      "id": "16-016",
+      "tag": "PREC",
+      "q": "Does a PREC shield the licensee from liability for their real estate services?",
+      "choices": [
+        "Yes, the corporation bears it all",
+        "No, the licensee stays liable",
+        "Only if the PREC has E&O cover",
+        "Only for commercial transactions"
+      ],
+      "answer": 1,
+      "explain": "The licensee remains personally liable for real estate services provided.",
+      "ref": "Lesson 16 · Personal real estate corporations"
+    },
+    {
+      "id": "16-017",
+      "tag": "PREC",
+      "q": "Which is a benefit of earning commission through a PREC?",
+      "choices": [
+        "No licence fees for the licensee",
+        "Tax deferral at a lower rate",
+        "No need for E&O insurance",
+        "Freedom from BCFSA oversight"
+      ],
+      "answer": 1,
+      "explain": "A PREC can defer tax and benefit from a lower corporate rate.",
+      "ref": "Lesson 16 · Personal real estate corporations"
+    },
+    {
+      "id": "16-018",
+      "tag": "PREC",
+      "q": "Which cost goes up with a PREC?",
+      "choices": [
+        "The brokerage's commission split",
+        "Licence and E&O, as both need them",
+        "The buyer's property transfer tax",
+        "The seller's listing commission"
+      ],
+      "answer": 1,
+      "explain": "Both the licensee and the PREC must be licensed and carry E&O insurance.",
+      "ref": "Lesson 16 · Personal real estate corporations"
+    },
+    {
+      "id": "16-019",
+      "tag": "PREC",
+      "q": "How must a PREC appear in advertising?",
+      "choices": [
+        "As \"PREC\" right after the licensee name",
+        "With \"Personal Real Estate Corporation\"",
+        "By the licensee's first name only",
+        "As \"Realty Corp.\" following the name"
+      ],
+      "answer": 1,
+      "explain": "The full words are required; the acronym \"PREC\" isn't permitted.",
+      "ref": "Lesson 16 · Personal real estate corporations"
+    },
+    {
+      "id": "16-020",
+      "tag": "PREC",
+      "q": "Who can a PREC share income with through non-voting shares?",
+      "choices": [
+        "Any client or business associate",
+        "A spouse or adult children (limited)",
+        "Other licensees at the brokerage",
+        "Nobody; PRECs can't issue shares"
+      ],
+      "answer": 1,
+      "explain": "Limited income splitting is possible with a spouse or adult children through non-voting shares.",
+      "ref": "Lesson 16 · Personal real estate corporations"
+    },
+    {
+      "id": "16-021",
+      "tag": "GAAP",
+      "q": "Which standard must Canadian public companies use?",
+      "choices": [
+        "ASPE",
+        "IFRS",
+        "CUSPAP",
+        "GST"
+      ],
+      "answer": 1,
+      "explain": "Since 2011, public companies must use International Financial Reporting Standards.",
+      "ref": "Lesson 16 · Accounting principles (GAAP)"
+    },
+    {
+      "id": "16-022",
+      "tag": "GAAP",
+      "q": "Under ASPE, how is real estate usually shown?",
+      "choices": [
+        "At current market value",
+        "At cost less depreciation",
+        "At its assessed value",
+        "At replacement cost new"
+      ],
+      "answer": 1,
+      "explain": "ASPE keeps assets at historical cost less depreciation; IFRS allows fair value.",
+      "ref": "Lesson 16 · Accounting principles (GAAP)"
+    },
+    {
+      "id": "16-023",
+      "tag": "GAAP",
+      "q": "Under the revenue recognition principle, when is a commission usually recognized?",
+      "choices": [
+        "When the listing is signed",
+        "When title transfers",
+        "When the buyer first views it",
+        "When the cheque clears the bank"
+      ],
+      "answer": 1,
+      "explain": "Revenue is recorded when earned, usually on transfer of title (or subject removal, depending on the contract).",
+      "ref": "Lesson 16 · Accounting principles (GAAP)"
+    },
+    {
+      "id": "16-024",
+      "tag": "GAAP",
+      "q": "A year's insurance paid in January is spread over 12 months. Which principle is this?",
+      "choices": [
+        "Materiality",
+        "Matching",
+        "Objectivity",
+        "Consistency"
+      ],
+      "answer": 1,
+      "explain": "Matching records expenses in the same periods as the revenue they help earn.",
+      "ref": "Lesson 16 · Accounting principles (GAAP)"
+    },
+    {
+      "id": "16-025",
+      "tag": "GAAP",
+      "q": "Expensing a box of pens immediately instead of spreading it is allowed under which principle?",
+      "choices": [
+        "Matching",
+        "Materiality",
+        "Consistency",
+        "Revenue recognition"
+      ],
+      "answer": 1,
+      "explain": "Materiality lets small items be expensed at once; it's an exception to matching.",
+      "ref": "Lesson 16 · Accounting principles (GAAP)"
+    },
+    {
+      "id": "16-026",
+      "tag": "GAAP",
+      "q": "What is the longest a fiscal year can be?",
+      "choices": [
+        "12 months",
+        "53 weeks",
+        "18 months",
+        "2 years"
+      ],
+      "answer": 1,
+      "explain": "A fiscal year can't exceed 53 weeks.",
+      "ref": "Lesson 16 · Accounting principles (GAAP)"
+    },
+    {
+      "id": "16-027",
+      "tag": "GAAP",
+      "q": "Which accounting basis records rent when earned rather than when collected?",
+      "choices": [
+        "Cash basis",
+        "Accrual basis",
+        "Tax basis",
+        "Cost basis"
+      ],
+      "answer": 1,
+      "explain": "The accrual basis records revenue when earned and expenses when incurred.",
+      "ref": "Lesson 16 · Accounting principles (GAAP)"
+    },
+    {
+      "id": "16-028",
+      "tag": "GAAP",
+      "q": "Is recoverable GST part of an asset's recorded cost?",
+      "choices": [
+        "Yes, it is always included",
+        "No, it is recovered as an ITC",
+        "Only when buying vacant land",
+        "Only when buying a building"
+      ],
+      "answer": 1,
+      "explain": "GST that's recovered as an input tax credit isn't part of the asset's cost.",
+      "ref": "Lesson 16 · Accounting principles (GAAP)"
+    },
+    {
+      "id": "16-029",
+      "tag": "Balance sheet",
+      "q": "Which equation is the basis of the balance sheet?",
+      "choices": [
+        "Revenue − Expenses = Profit",
+        "Assets = Liabilities + Equity",
+        "Assets + Liabilities = Equity",
+        "NOI = Value × Cap rate"
+      ],
+      "answer": 1,
+      "explain": "Assets equal liabilities plus owner's equity.",
+      "ref": "Lesson 16 · The balance sheet"
+    },
+    {
+      "id": "16-030",
+      "tag": "Balance sheet",
+      "q": "A balance sheet shows a business's position:",
+      "choices": [
+        "Over a full year",
+        "On a single date",
+        "Over a quarter",
+        "Since it opened"
+      ],
+      "answer": 1,
+      "explain": "The balance sheet is a snapshot at one point in time.",
+      "ref": "Lesson 16 · The balance sheet"
+    },
+    {
+      "id": "16-031",
+      "tag": "Balance sheet",
+      "q": "Which is a current liability?",
+      "choices": [
+        "The mortgage beyond this year",
+        "Tenants' security deposits",
+        "Land held for the long term",
+        "Retained earnings"
+      ],
+      "answer": 1,
+      "explain": "Tenants' deposits are owed within the year; long-term mortgage debt is non-current.",
+      "ref": "Lesson 16 · The balance sheet"
+    },
+    {
+      "id": "16-032",
+      "tag": "Balance sheet",
+      "q": "Which is a current asset?",
+      "choices": [
+        "The building",
+        "Rent receivable",
+        "The land under it",
+        "Goodwill paid"
+      ],
+      "answer": 1,
+      "explain": "Receivables convert to cash within the year.",
+      "ref": "Lesson 16 · The balance sheet"
+    },
+    {
+      "id": "16-033",
+      "tag": "Balance sheet",
+      "q": "What does a balance sheet NOT show reliably?",
+      "choices": [
+        "The amount of debt still owing",
+        "The market value of the business",
+        "The cash held in the bank account",
+        "The owners' capital contributions"
+      ],
+      "answer": 1,
+      "explain": "Long-term assets appear at cost less depreciation, not market value.",
+      "ref": "Lesson 16 · The balance sheet"
+    },
+    {
+      "id": "16-034",
+      "tag": "Balance sheet",
+      "q": "In a corporation, equity consists of:",
+      "choices": [
+        "Each owner's personal capital account",
+        "Share capital and retained earnings",
+        "Each partner's capital account balance",
+        "Accounts payable and accrued wages"
+      ],
+      "answer": 1,
+      "explain": "Corporate equity is share capital plus retained earnings.",
+      "ref": "Lesson 16 · The balance sheet"
+    },
+    {
+      "id": "16-035",
+      "tag": "Balance sheet",
+      "q": "What is net book value?",
+      "choices": [
+        "Market value less selling costs",
+        "Cost less accumulated depreciation",
+        "Assessed value less exemptions",
+        "Price less the down payment"
+      ],
+      "answer": 1,
+      "explain": "Net book value is historical cost less accumulated depreciation.",
+      "ref": "Lesson 16 · The balance sheet"
+    },
+    {
+      "id": "16-036",
+      "tag": "Balance sheet",
+      "q": "Priya invests $150,000 and buys a $600,000 building with $120,000 down and a $480,000 mortgage. What are total assets?",
+      "choices": [
+        "$600,000",
+        "$630,000",
+        "$750,000",
+        "$480,000"
+      ],
+      "answer": 1,
+      "explain": "$30,000 cash left + $600,000 property = $630,000, balanced by $480,000 debt + $150,000 equity.",
+      "ref": "Lesson 16 · The balance sheet"
+    },
+    {
+      "id": "16-037",
+      "tag": "Balance sheet",
+      "q": "What is the \"corporate veil\"?",
+      "choices": [
+        "A secret bank account",
+        "Owners' names aren't on the statements",
+        "A tax on retained earnings",
+        "A lender's priority over shareholders"
+      ],
+      "answer": 1,
+      "explain": "A corporation's statements show shares, not owners' names: the corporate veil.",
+      "ref": "Lesson 16 · The balance sheet"
+    },
+    {
+      "id": "16-038",
+      "tag": "Income statement",
+      "q": "An income statement covers:",
+      "choices": [
+        "A single date",
+        "A period of time",
+        "The life of the business",
+        "Only the cash in the bank"
+      ],
+      "answer": 1,
+      "explain": "The income statement shows revenue and expenses over a period.",
+      "ref": "Lesson 16 · The income statement"
+    },
+    {
+      "id": "16-039",
+      "tag": "Income statement",
+      "q": "Which is NOT an expense on the income statement?",
+      "choices": [
+        "Mortgage interest",
+        "Mortgage principal",
+        "Property taxes",
+        "Depreciation"
+      ],
+      "answer": 1,
+      "explain": "Principal reduces a liability; only interest is an expense.",
+      "ref": "Lesson 16 · The income statement"
+    },
+    {
+      "id": "16-040",
+      "tag": "Income statement",
+      "q": "Which asset is never depreciated?",
+      "choices": [
+        "The building",
+        "The land",
+        "The equipment",
+        "The furniture"
+      ],
+      "answer": 1,
+      "explain": "Land doesn't wear out and isn't depreciated.",
+      "ref": "Lesson 16 · The income statement"
+    },
+    {
+      "id": "16-041",
+      "tag": "Income statement",
+      "q": "A building costs $350,000, salvage value $50,000, life 25 years. What's straight-line depreciation?",
+      "choices": [
+        "$14,000",
+        "$12,000",
+        "$10,000",
+        "$16,000"
+      ],
+      "answer": 1,
+      "explain": "($350,000 − $50,000) ÷ 25 = $12,000 a year.",
+      "ref": "Lesson 16 · The income statement"
+    },
+    {
+      "id": "16-042",
+      "tag": "Income statement",
+      "q": "Opening inventory $50,000, purchases $200,000, closing inventory $60,000. Cost of goods sold?",
+      "choices": [
+        "$310,000",
+        "$190,000",
+        "$210,000",
+        "$150,000"
+      ],
+      "answer": 1,
+      "explain": "$50,000 + $200,000 − $60,000 = $190,000.",
+      "ref": "Lesson 16 · The income statement"
+    },
+    {
+      "id": "16-043",
+      "tag": "Income statement",
+      "q": "Why does a proprietorship's income statement show no income tax?",
+      "choices": [
+        "Proprietorships are tax-exempt",
+        "The owner pays it personally",
+        "CRA collects it from the bank",
+        "It's paid by the customers"
+      ],
+      "answer": 1,
+      "explain": "The proprietor reports the business income on their personal return.",
+      "ref": "Lesson 16 · The income statement"
+    },
+    {
+      "id": "16-044",
+      "tag": "Income statement",
+      "q": "Which is a non-cash expense?",
+      "choices": [
+        "Wages",
+        "Depreciation",
+        "Utilities",
+        "Insurance"
+      ],
+      "answer": 1,
+      "explain": "Depreciation reduces income without any cash leaving the business.",
+      "ref": "Lesson 16 · The income statement"
+    },
+    {
+      "id": "16-045",
+      "tag": "Income statement",
+      "q": "Net income links the income statement to which balance sheet item?",
+      "choices": [
+        "Accounts payable",
+        "Owner's equity",
+        "Current assets",
+        "Long-term debt"
+      ],
+      "answer": 1,
+      "explain": "Net income increases owner's equity (retained earnings in a corporation).",
+      "ref": "Lesson 16 · The income statement"
+    },
+    {
+      "id": "16-046",
+      "tag": "Goodwill",
+      "q": "Assets worth $650,000 at market, debts $250,000, price $520,000. What's goodwill?",
+      "choices": [
+        "$270,000",
+        "$120,000",
+        "$130,000",
+        "$400,000"
+      ],
+      "answer": 1,
+      "explain": "Net assets $400,000; $520,000 − $400,000 = $120,000.",
+      "ref": "Lesson 16 · Goodwill"
+    },
+    {
+      "id": "16-047",
+      "tag": "Goodwill",
+      "q": "Goodwill is the amount paid above:",
+      "choices": [
+        "The assessed value of the land",
+        "The market value of net assets",
+        "The book value of the building",
+        "The total of all liabilities"
+      ],
+      "answer": 1,
+      "explain": "Goodwill = price − market value of net assets.",
+      "ref": "Lesson 16 · Goodwill"
+    },
+    {
+      "id": "16-048",
+      "tag": "CCA",
+      "q": "For tax purposes, CRA allows:",
+      "choices": [
+        "Any depreciation method",
+        "Capital cost allowance only",
+        "Straight-line only",
+        "No deduction for buildings"
+      ],
+      "answer": 1,
+      "explain": "CRA requires capital cost allowance at prescribed rates, not accounting depreciation.",
+      "ref": "Lesson 16 · The tax return and capital cost allowance"
+    },
+    {
+      "id": "16-049",
+      "tag": "CCA",
+      "q": "What's the CCA rate for many Class 1 buildings?",
+      "choices": [
+        "10%",
+        "4%",
+        "20%",
+        "30%"
+      ],
+      "answer": 1,
+      "explain": "Class 1 buildings are 4% on a declining balance.",
+      "ref": "Lesson 16 · The tax return and capital cost allowance"
+    },
+    {
+      "id": "16-050",
+      "tag": "CCA",
+      "q": "What does the half-year rule do?",
+      "choices": [
+        "Doubles the CCA in the year of sale",
+        "Halves the rate in the year acquired",
+        "Halves the capital gain on a sale",
+        "Splits the CCA between spouses"
+      ],
+      "answer": 1,
+      "explain": "In the year of acquisition, only 50% of the normal rate can be claimed.",
+      "ref": "Lesson 16 · The tax return and capital cost allowance"
+    },
+    {
+      "id": "16-051",
+      "tag": "CCA",
+      "q": "How much CCA can be claimed in the year an asset is sold?",
+      "choices": [
+        "The full rate",
+        "None",
+        "Half the rate",
+        "Double the rate"
+      ],
+      "answer": 1,
+      "explain": "No CCA is allowed in the year of disposal.",
+      "ref": "Lesson 16 · The tax return and capital cost allowance"
+    },
+    {
+      "id": "16-052",
+      "tag": "CCA",
+      "q": "An owner skips CCA one year. Can they claim double next year?",
+      "choices": [
+        "Yes, unused CCA accumulates",
+        "No, they can't double up",
+        "Only with CRA's approval",
+        "Only for Class 1 buildings"
+      ],
+      "answer": 1,
+      "explain": "CCA is optional, but unused amounts can't be doubled up later.",
+      "ref": "Lesson 16 · The tax return and capital cost allowance"
+    },
+    {
+      "id": "16-053",
+      "tag": "CCA",
+      "q": "What is recapture?",
+      "choices": [
+        "A lender's right to seize property",
+        "CCA added back to income on sale",
+        "A refund of overpaid property tax",
+        "A seller's right to repurchase"
+      ],
+      "answer": 1,
+      "explain": "If an asset sells above its UCC, excess CCA claimed is added back to taxable income.",
+      "ref": "Lesson 16 · The tax return and capital cost allowance"
+    },
+    {
+      "id": "16-054",
+      "tag": "CCA",
+      "q": "Year-one CCA on a $350,000 Class 1 building (4%, half-year rule)?",
+      "choices": [
+        "$14,000",
+        "$7,000",
+        "$3,500",
+        "$12,000"
+      ],
+      "answer": 1,
+      "explain": "$350,000 × 4% × 50% = $7,000.",
+      "ref": "Lesson 16 · The tax return and capital cost allowance"
+    },
+    {
+      "id": "16-055",
+      "tag": "CCA",
+      "q": "Why is CCA called a tax shelter?",
+      "choices": [
+        "It cancels capital gains tax",
+        "It defers tax without spending cash",
+        "It exempts rent from income tax",
+        "It removes GST from the sale"
+      ],
+      "answer": 1,
+      "explain": "CCA is a non-cash deduction that defers tax, paid later in cheaper dollars.",
+      "ref": "Lesson 16 · The tax return and capital cost allowance"
+    },
+    {
+      "id": "16-056",
+      "tag": "CCA",
+      "q": "Which businesses file their own business tax return?",
+      "choices": [
+        "Sole proprietorships",
+        "Corporations",
+        "General partnerships",
+        "Limited partnerships"
+      ],
+      "answer": 1,
+      "explain": "Proprietors and partners report on personal returns; corporations file their own.",
+      "ref": "Lesson 16 · The tax return and capital cost allowance"
+    },
+    {
+      "id": "16-057",
+      "tag": "Business sale",
+      "q": "Do you need a real estate licence to sell a business that owns no real estate?",
+      "choices": [
+        "Yes, always",
+        "No",
+        "Only if it has staff",
+        "Only in Vancouver"
+      ],
+      "answer": 1,
+      "explain": "No real estate means no trade in real estate.",
+      "ref": "Lesson 16 · Selling a business: do you need a licence?"
+    },
+    {
+      "id": "16-058",
+      "tag": "Business sale",
+      "q": "A business sale includes the assignment of its lease. Is a licence needed?",
+      "choices": [
+        "No, a lease isn't real estate",
+        "Yes, a lease is an interest in land",
+        "Only if the lease is over 3 years",
+        "Only if the landlord consents"
+      ],
+      "answer": 1,
+      "explain": "Assigning a lease is a trade in real estate.",
+      "ref": "Lesson 16 · Selling a business: do you need a licence?"
+    },
+    {
+      "id": "16-059",
+      "tag": "Business sale",
+      "q": "Selling 60% of the shares of a company that owns a warehouse is:",
+      "choices": [
+        "A trade in real estate",
+        "A securities trade",
+        "A business asset sale",
+        "A lease assignment"
+      ],
+      "answer": 1,
+      "explain": "Less than 100% of shares is a securities trade, possibly under the Securities Act.",
+      "ref": "Lesson 16 · Selling a business: do you need a licence?"
+    },
+    {
+      "id": "16-060",
+      "tag": "Business sale",
+      "q": "Selling 100% of the shares of a company that owns real estate:",
+      "choices": [
+        "Needs a securities licence only",
+        "Needs a real estate licence",
+        "Needs no licence at all",
+        "Needs only a lawyer"
+      ],
+      "answer": 1,
+      "explain": "Selling all the shares of a real-estate-holding company is a trade in real estate.",
+      "ref": "Lesson 16 · Selling a business: do you need a licence?"
+    },
+    {
+      "id": "16-061",
+      "tag": "Business sale",
+      "q": "The income statement given to a business buyer should cover 12 months ending no more than how many days before signing?",
+      "choices": [
+        "60",
+        "120",
+        "180",
+        "365"
+      ],
+      "answer": 1,
+      "explain": "12 months ending not more than 120 days before the agreement is signed.",
+      "ref": "Lesson 16 · Selling a business: do you need a licence?"
+    },
+    {
+      "id": "16-062",
+      "tag": "Business sale",
+      "q": "Which document should a business buyer get along with the statements?",
+      "choices": [
+        "The seller's personal tax return",
+        "A list of excluded assets",
+        "The landlord's mortgage terms",
+        "The staff's personnel files"
+      ],
+      "answer": 1,
+      "explain": "Buyers need the income statement, balance sheet and a list of excluded fixtures, chattels and assets.",
+      "ref": "Lesson 16 · Selling a business: do you need a licence?"
+    },
+    {
+      "id": "16-063",
+      "tag": "Completion",
+      "q": "Who can do conveyancing for a fee in BC?",
+      "choices": [
+        "Any licensee",
+        "Lawyers and notaries",
+        "Any brokerage",
+        "Land title clerks"
+      ],
+      "answer": 1,
+      "explain": "Only lawyers and notaries can convey for a fee.",
+      "ref": "Lesson 16 · After the subjects come off"
+    },
+    {
+      "id": "16-064",
+      "tag": "Completion",
+      "q": "Who usually chooses the conveyancer?",
+      "choices": [
+        "The seller",
+        "The buyer",
+        "The listing licensee",
+        "The lender always"
+      ],
+      "answer": 1,
+      "explain": "The buyer usually pays for the conveyance, so the buyer chooses.",
+      "ref": "Lesson 16 · After the subjects come off"
+    },
+    {
+      "id": "16-065",
+      "tag": "Completion",
+      "q": "Which document transfers title in BC?",
+      "choices": [
+        "Form B",
+        "Form A",
+        "Form F",
+        "Form C"
+      ],
+      "answer": 1,
+      "explain": "The Form A Freehold Transfer transfers title.",
+      "ref": "Lesson 16 · After the subjects come off"
+    },
+    {
+      "id": "16-066",
+      "tag": "Completion",
+      "q": "When does the buyer's conveyancer pay out the sale funds?",
+      "choices": [
+        "After final registration, weeks later",
+        "Once filings show as pending",
+        "Before the buyer signs anything",
+        "On the day of subject removal"
+      ],
+      "answer": 1,
+      "explain": "Payment is made once the documents appear as pending applications on title.",
+      "ref": "Lesson 16 · After the subjects come off"
+    },
+    {
+      "id": "16-067",
+      "tag": "Completion",
+      "q": "Which document is needed for a strata lot sale?",
+      "choices": [
+        "Form B",
+        "Form F",
+        "Form K",
+        "Form P"
+      ],
+      "answer": 1,
+      "explain": "A Form F shows strata fees are paid.",
+      "ref": "Lesson 16 · After the subjects come off"
+    },
+    {
+      "id": "16-068",
+      "tag": "Title",
+      "q": "Which is NOT an automatic exception in the standard title clause?",
+      "choices": [
+        "Utility rights-of-way",
+        "A private easement",
+        "Crown grant reservations",
+        "Listed tenancies"
+      ],
+      "answer": 1,
+      "explain": "Private easements and covenants must be added to the clause.",
+      "ref": "Lesson 16 · Your contract has to be right"
+    },
+    {
+      "id": "16-069",
+      "tag": "Title",
+      "q": "In JBP Developments v. Li, what happened to the deposit?",
+      "choices": [
+        "It was forfeited to the seller",
+        "It was returned to the buyer",
+        "It went to the brokerage",
+        "It was split evenly"
+      ],
+      "answer": 1,
+      "explain": "An unlisted restrictive covenant meant the seller couldn't give the promised title; the buyer got the deposit back.",
+      "ref": "Lesson 16 · Your contract has to be right"
+    },
+    {
+      "id": "16-070",
+      "tag": "Title",
+      "q": "Title terms in a contract are:",
+      "choices": [
+        "Warranties",
+        "Conditions",
+        "Representations",
+        "Puffery"
+      ],
+      "answer": 1,
+      "explain": "Title terms are essential conditions; breach lets the buyer terminate.",
+      "ref": "Lesson 16 · Your contract has to be right"
+    },
+    {
+      "id": "16-071",
+      "tag": "Title",
+      "q": "What can a licensee lose if a title error lets the buyer walk away?",
+      "choices": [
+        "Their licence automatically",
+        "Their commission",
+        "Their brokerage's trust account",
+        "Nothing at all"
+      ],
+      "answer": 1,
+      "explain": "With no enforceable contract, commission may not be earned, and the licensee may be liable.",
+      "ref": "Lesson 16 · Your contract has to be right"
+    },
+    {
+      "id": "16-072",
+      "tag": "Dates",
+      "q": "When are taxes and rent switched to the buyer?",
+      "choices": [
+        "The completion date",
+        "The adjustment date",
+        "The acceptance date",
+        "The subject removal date"
+      ],
+      "answer": 1,
+      "explain": "The adjustment date allocates costs and income between the parties.",
+      "ref": "Lesson 16 · Three dates"
+    },
+    {
+      "id": "16-073",
+      "tag": "Dates",
+      "q": "What's the safest possession timing?",
+      "choices": [
+        "Noon on completion day",
+        "The day after completion",
+        "The day before completion",
+        "The day subjects are removed"
+      ],
+      "answer": 1,
+      "explain": "Closing can take hours; possession the day after completion avoids problems.",
+      "ref": "Lesson 16 · Three dates"
+    },
+    {
+      "id": "16-074",
+      "tag": "Dates",
+      "q": "A licensee handed buyers keys a day early and they set off an alarm. Result?",
+      "choices": [
+        "No penalty, as no harm was done",
+        "A reprimand and $1,500 in costs",
+        "Licence cancelled",
+        "A $25,000 fine"
+      ],
+      "answer": 1,
+      "explain": "The licensee was reprimanded and ordered to pay $1,500 for failing to use reasonable care.",
+      "ref": "Lesson 16 · Three dates"
+    },
+    {
+      "id": "16-075",
+      "tag": "Dates",
+      "q": "The adjustment date is usually the same as:",
+      "choices": [
+        "The acceptance date",
+        "The possession date",
+        "The listing date",
+        "The deposit date"
+      ],
+      "answer": 1,
+      "explain": "Adjustment usually matches possession.",
+      "ref": "Lesson 16 · Three dates"
+    },
+    {
+      "id": "16-076",
+      "tag": "Title insurance",
+      "q": "How can title insurance help when a survey reveals an encroachment?",
+      "choices": [
+        "It moves the property line",
+        "Lender may advance despite it",
+        "It removes the structure",
+        "It voids the sale"
+      ],
+      "answer": 1,
+      "explain": "Title insurance can let a lender advance funds despite an encroachment, or replace a survey.",
+      "ref": "Lesson 16 · Survey and title insurance"
+    },
+    {
+      "id": "16-077",
+      "tag": "Title insurance",
+      "q": "Which two types of title insurance policy are there?",
+      "choices": [
+        "Fire and flood",
+        "Owner's and lender's",
+        "Seller's and buyer's",
+        "Land and building"
+      ],
+      "answer": 1,
+      "explain": "Owner's policies (for buyers) and lender's policies.",
+      "ref": "Lesson 16 · Survey and title insurance"
+    },
+    {
+      "id": "16-078",
+      "tag": "Undertakings",
+      "q": "Why does the seller hand over the signed transfer before being paid?",
+      "choices": [
+        "Sellers are always paid last",
+        "They rely on the lawyer's undertaking",
+        "The law requires it of all sellers",
+        "The brokerage guarantees payment"
+      ],
+      "answer": 1,
+      "explain": "A conveyancer's undertaking is a binding professional promise to pay.",
+      "ref": "Lesson 16 · Undertakings"
+    },
+    {
+      "id": "16-079",
+      "tag": "Costs",
+      "q": "Which closing cost can't be added to the mortgage?",
+      "choices": [
+        "Legal fees",
+        "PST on default insurance",
+        "The default premium itself",
+        "The appraisal fee"
+      ],
+      "answer": 1,
+      "explain": "PST on mortgage default insurance must be paid in cash at closing.",
+      "ref": "Lesson 16 · Costs that surprise buyers"
+    },
+    {
+      "id": "16-080",
+      "tag": "Costs",
+      "q": "An interest adjustment covers interest from:",
+      "choices": [
+        "The listing date to the sale date",
+        "Advance to first payment period",
+        "Acceptance date to completion date",
+        "Completion date to possession date"
+      ],
+      "answer": 1,
+      "explain": "It covers interest from the advance date to the start of the first regular payment period.",
+      "ref": "Lesson 16 · Costs that surprise buyers"
+    },
+    {
+      "id": "16-081",
+      "tag": "SOA",
+      "q": "What does the buyer's statement of adjustments show as its bottom line?",
+      "choices": [
+        "Cash proceeds of sale",
+        "Balance due to complete",
+        "Commission payable",
+        "Net operating income"
+      ],
+      "answer": 1,
+      "explain": "The buyer's statement shows the balance due to complete.",
+      "ref": "Lesson 16 · Statements of adjustments"
+    },
+    {
+      "id": "16-082",
+      "tag": "SOA",
+      "q": "On a statement of adjustments, a credit to a party means:",
+      "choices": [
+        "They must pay this amount",
+        "They paid it or are owed it",
+        "It's excluded from the deal",
+        "It's held by the brokerage"
+      ],
+      "answer": 1,
+      "explain": "A credit is already paid by, or owed to, that party.",
+      "ref": "Lesson 16 · Statements of adjustments"
+    },
+    {
+      "id": "16-083",
+      "tag": "SOA",
+      "q": "If an item appears on both statements, it appears:",
+      "choices": [
+        "On the same side of both",
+        "On opposite sides",
+        "Only as a note",
+        "Only on the buyer's"
+      ],
+      "answer": 1,
+      "explain": "An item on both statements is a debit on one and a credit on the other.",
+      "ref": "Lesson 16 · Statements of adjustments"
+    },
+    {
+      "id": "16-084",
+      "tag": "SOA",
+      "q": "Are the buyer's and seller's statements mirror images?",
+      "choices": [
+        "Yes, they always match exactly",
+        "No, items can be on one only",
+        "Only in sales of strata lots",
+        "Only when there is a VTB"
+      ],
+      "answer": 1,
+      "explain": "Items like the deposit, commission and PTT appear on only one statement.",
+      "ref": "Lesson 16 · Statements of adjustments"
+    },
+    {
+      "id": "16-085",
+      "tag": "Items",
+      "q": "Where does a deposit held by the brokerage appear?",
+      "choices": [
+        "Debit on the buyer's statement",
+        "Credit on the buyer's only",
+        "Credit on the seller's only",
+        "Debit on both statements"
+      ],
+      "answer": 1,
+      "explain": "The deposit is a credit to the buyer and doesn't appear on the seller's statement.",
+      "ref": "Lesson 16 · Where each item goes"
+    },
+    {
+      "id": "16-086",
+      "tag": "Items",
+      "q": "Where does the commission appear?",
+      "choices": [
+        "Credit on the seller's",
+        "Debit on the seller's only",
+        "Debit on the buyer's",
+        "On both statements"
+      ],
+      "answer": 1,
+      "explain": "Commission is the seller's debt; it's a debit on the seller's statement only.",
+      "ref": "Lesson 16 · Where each item goes"
+    },
+    {
+      "id": "16-087",
+      "tag": "Items",
+      "q": "A new first mortgage from a bank appears:",
+      "choices": [
+        "Debit to buyer and credit to seller",
+        "As a credit to the buyer only",
+        "As a debit to the seller only",
+        "On neither statement"
+      ],
+      "answer": 1,
+      "explain": "New third-party financing is a credit on the buyer's statement only.",
+      "ref": "Lesson 16 · Where each item goes"
+    },
+    {
+      "id": "16-088",
+      "tag": "Items",
+      "q": "A vendor take-back mortgage appears:",
+      "choices": [
+        "As a credit to the buyer only",
+        "Credit buyer, debit seller",
+        "Debit buyer, credit seller",
+        "As a debit to the seller only"
+      ],
+      "answer": 1,
+      "explain": "The seller takes back part of the price as a mortgage: credit buyer, debit seller.",
+      "ref": "Lesson 16 · Where each item goes"
+    },
+    {
+      "id": "16-089",
+      "tag": "Items",
+      "q": "The seller's mortgage being paid off appears:",
+      "choices": [
+        "As a credit to the buyer only",
+        "As a debit to the seller only",
+        "On both statements, as debits",
+        "On neither of the statements"
+      ],
+      "answer": 1,
+      "explain": "The payout is a debit on the seller's statement only.",
+      "ref": "Lesson 16 · Where each item goes"
+    },
+    {
+      "id": "16-090",
+      "tag": "Items",
+      "q": "Property transfer tax appears:",
+      "choices": [
+        "As a debit to the seller",
+        "As a debit to the buyer only",
+        "Split between both",
+        "On neither statement"
+      ],
+      "answer": 1,
+      "explain": "PTT is the buyer's cost: a debit on the buyer's statement only.",
+      "ref": "Lesson 16 · Where each item goes"
+    },
+    {
+      "id": "16-091",
+      "tag": "Items",
+      "q": "Tenants' security deposits plus interest appear as:",
+      "choices": [
+        "A debit to the buyer",
+        "A credit to the buyer",
+        "A credit to the seller",
+        "Nothing; tenants get them back"
+      ],
+      "answer": 1,
+      "explain": "The new owner must repay them, so they're credited to the buyer and debited to the seller.",
+      "ref": "Lesson 16 · Where each item goes"
+    },
+    {
+      "id": "16-092",
+      "tag": "Deposit",
+      "q": "In what capacity does the brokerage hold the deposit?",
+      "choices": [
+        "As the seller's agent",
+        "As stakeholder",
+        "As the buyer's lender",
+        "As a trustee for the city"
+      ],
+      "answer": 1,
+      "explain": "The brokerage holds the deposit as stakeholder until completion.",
+      "ref": "Lesson 16 · The deposit and the commission are separate"
+    },
+    {
+      "id": "16-093",
+      "tag": "Deposit",
+      "q": "The deposit is $45,000 and commission $31,500. Where does the extra $13,500 go?",
+      "choices": [
+        "Back to the buyer",
+        "To the conveyancer",
+        "To the listing licensee",
+        "To BCFSA"
+      ],
+      "answer": 1,
+      "explain": "The brokerage keeps the commission and sends the excess to the conveyancer.",
+      "ref": "Lesson 16 · The deposit and the commission are separate"
+    },
+    {
+      "id": "16-094",
+      "tag": "Taxes",
+      "q": "The buyer is responsible for property taxes from:",
+      "choices": [
+        "The day after the adjustment date",
+        "And including the adjustment date",
+        "The completion date of the sale",
+        "July 1 of the tax year"
+      ],
+      "answer": 1,
+      "explain": "The buyer pays from and including the adjustment date.",
+      "ref": "Lesson 16 · Property tax adjustments"
+    },
+    {
+      "id": "16-095",
+      "tag": "Taxes",
+      "q": "Seller prepaid annual taxes of $3,650. Adjustment date September 1. What's the adjustment?",
+      "choices": [
+        "$1,250",
+        "$1,220",
+        "$1,100",
+        "$2,430"
+      ],
+      "answer": 1,
+      "explain": "Sept 1–Dec 31 = 122 days; $3,650 × 122 ÷ 365 = $1,220.",
+      "ref": "Lesson 16 · Property tax adjustments"
+    },
+    {
+      "id": "16-096",
+      "tag": "Taxes",
+      "q": "When the seller has prepaid the taxes, the adjustment is:",
+      "choices": [
+        "Credit buyer, debit seller",
+        "Debit buyer, credit seller",
+        "Debit to both parties",
+        "Credit to both parties"
+      ],
+      "answer": 1,
+      "explain": "The buyer repays the seller for the buyer's share.",
+      "ref": "Lesson 16 · Property tax adjustments"
+    },
+    {
+      "id": "16-097",
+      "tag": "Taxes",
+      "q": "Taxes for the year ($3,650) aren't yet paid. Adjustment date March 1 (non-leap year). Seller's share?",
+      "choices": [
+        "$600",
+        "$590",
+        "$300",
+        "$3,060"
+      ],
+      "answer": 1,
+      "explain": "Jan 1–Feb 28 = 59 days; $3,650 × 59 ÷ 365 = $590.",
+      "ref": "Lesson 16 · Property tax adjustments"
+    },
+    {
+      "id": "16-098",
+      "tag": "Taxes",
+      "q": "When taxes are due but unpaid, who bears the late penalty?",
+      "choices": [
+        "It's split by days owned",
+        "The seller alone",
+        "The buyer alone",
+        "The municipality waives it"
+      ],
+      "answer": 1,
+      "explain": "The full tax and penalty are charged to the seller; the penalty isn't adjusted.",
+      "ref": "Lesson 16 · Property tax adjustments"
+    },
+    {
+      "id": "16-099",
+      "tag": "Taxes",
+      "q": "If either party isn't eligible for the home owner grant, taxes are adjusted on:",
+      "choices": [
+        "The net amount",
+        "The gross amount",
+        "The assessed value",
+        "The grant amount only"
+      ],
+      "answer": 1,
+      "explain": "Gross taxes are used unless both parties qualify for the basic grant.",
+      "ref": "Lesson 16 · Property tax adjustments"
+    },
+    {
+      "id": "16-100",
+      "tag": "Rent",
+      "q": "Rent of $2,400 was collected for September. Adjustment date September 21. Buyer's credit?",
+      "choices": [
+        "$720",
+        "$800",
+        "$880",
+        "$1,600"
+      ],
+      "answer": 1,
+      "explain": "Sept 21–30 = 10 days; $2,400 × 10 ÷ 30 = $800.",
+      "ref": "Lesson 16 · Rent"
+    },
+    {
+      "id": "16-101",
+      "tag": "Rent",
+      "q": "Rent collected in advance by the seller produces:",
+      "choices": [
+        "Debit buyer, credit seller",
+        "Credit buyer, debit seller",
+        "Credit to the seller only",
+        "No adjustment at all"
+      ],
+      "answer": 1,
+      "explain": "The buyer is owed rent from the adjustment date to month-end.",
+      "ref": "Lesson 16 · Rent"
+    },
+    {
+      "id": "16-102",
+      "tag": "Worked example",
+      "q": "Debits on the buyer's statement total $918,420 and credits $765,000. Balance due to complete?",
+      "choices": [
+        "$163,420",
+        "$153,420",
+        "$143,420",
+        "$765,000"
+      ],
+      "answer": 1,
+      "explain": "$918,420 − $765,000 = $153,420.",
+      "ref": "Lesson 16 · Worked example: both statements"
+    },
+    {
+      "id": "16-103",
+      "tag": "Worked example",
+      "q": "What is PTT on a $900,000 home (1% on first $200,000, 2% above)?",
+      "choices": [
+        "$18,000",
+        "$16,000",
+        "$14,000",
+        "$9,000"
+      ],
+      "answer": 1,
+      "explain": "$2,000 + $14,000 = $16,000.",
+      "ref": "Lesson 16 · Worked example: both statements"
+    },
+    {
+      "id": "16-104",
+      "tag": "Worked example",
+      "q": "In the case discussed, how liable was the listing licensee for missing a fraud visible in the statements?",
+      "choices": [
+        "Not liable at all",
+        "15% liable",
+        "50% liable",
+        "Fully liable"
+      ],
+      "answer": 1,
+      "explain": "The listing licensee was held 15% liable.",
+      "ref": "Lesson 16 · Worked example: both statements"
+    },
+    {
+      "id": "16-105",
+      "tag": "Worked example",
+      "q": "How is heating oil left in the tank usually settled?",
+      "choices": [
+        "As a debit to the buyer",
+        "Outside the statements",
+        "As a credit to the seller",
+        "By the conveyancer's fee"
+      ],
+      "answer": 1,
+      "explain": "Items like furnace oil are usually settled outside the statements.",
+      "ref": "Lesson 16 · Worked example: both statements"
+    },
+    {
+      "id": "16-106",
+      "tag": "Marketing",
+      "q": "What does the marketing concept put first?",
+      "choices": [
+        "The licensee's income",
+        "The client's needs",
+        "The brokerage's brand",
+        "The lowest price"
+      ],
+      "answer": 1,
+      "explain": "The marketing concept starts with client needs.",
+      "ref": "Lesson 16 · The marketing concept"
+    },
+    {
+      "id": "16-107",
+      "tag": "Marketing",
+      "q": "What long-term business mix should a licensee aim for?",
+      "choices": [
+        "⅓ repeat/referral, ⅔ new",
+        "⅔ repeat/referral, ⅓ new",
+        "All from new clients",
+        "Half and half"
+      ],
+      "answer": 1,
+      "explain": "About two-thirds repeat and referral, one-third new.",
+      "ref": "Lesson 16 · The marketing concept"
+    },
+    {
+      "id": "16-108",
+      "tag": "Target",
+      "q": "Which marketing strategy best suits an individual licensee?",
+      "choices": [
+        "Undifferentiated",
+        "Niche",
+        "Mass",
+        "Differentiated"
+      ],
+      "answer": 1,
+      "explain": "Niche marketing focuses resources on one small, growing segment.",
+      "ref": "Lesson 16 · Target markets and positioning"
+    },
+    {
+      "id": "16-109",
+      "tag": "Target",
+      "q": "A residential licensee is offered a complex commercial listing. Best response?",
+      "choices": [
+        "Take it and learn as you go",
+        "Refer it to a specialist",
+        "List it at a lower price",
+        "Ask the seller to wait"
+      ],
+      "answer": 1,
+      "explain": "Taking work beyond your competence risks your duty of competence; refer it for a fee.",
+      "ref": "Lesson 16 · Target markets and positioning"
+    },
+    {
+      "id": "16-110",
+      "tag": "Target",
+      "q": "A positioning map plots competitors on:",
+      "choices": [
+        "One price line",
+        "Two attributes",
+        "Five sales stages",
+        "A sales timeline"
+      ],
+      "answer": 1,
+      "explain": "Positioning maps compare competitors on two attributes to find gaps.",
+      "ref": "Lesson 16 · Target markets and positioning"
+    },
+    {
+      "id": "16-111",
+      "tag": "Buyers",
+      "q": "Which three needs does a licensee satisfy?",
+      "choices": [
+        "Speed, price, luck",
+        "Information, skills, trust",
+        "Advice, credit, insurance",
+        "Housing, financing, moving"
+      ],
+      "answer": 1,
+      "explain": "Information; knowledge and skills; trust and confidentiality.",
+      "ref": "Lesson 16 · Understanding buyers and sellers"
+    },
+    {
+      "id": "16-112",
+      "tag": "Buyers",
+      "q": "Real estate services are which kind of good?",
+      "choices": [
+        "Convenience",
+        "Shopping",
+        "Specialty",
+        "Unsought"
+      ],
+      "answer": 1,
+      "explain": "Consumers compare options before buying: shopping goods.",
+      "ref": "Lesson 16 · The shopping behaviour model"
+    },
+    {
+      "id": "16-113",
+      "tag": "Buyers",
+      "q": "Life insurance and fire extinguishers are examples of:",
+      "choices": [
+        "Shopping goods",
+        "Unsought goods",
+        "Specialty goods",
+        "Convenience goods"
+      ],
+      "answer": 1,
+      "explain": "Unsought goods aren't sought until prompted.",
+      "ref": "Lesson 16 · The shopping behaviour model"
+    },
+    {
+      "id": "16-114",
+      "tag": "Buyers",
+      "q": "How many licensees does a seller typically interview?",
+      "choices": [
+        "One",
+        "About three",
+        "About seven",
+        "At least ten"
+      ],
+      "answer": 1,
+      "explain": "Sellers typically interview around three licensees.",
+      "ref": "Lesson 16 · The process model of buying"
+    },
+    {
+      "id": "16-115",
+      "tag": "Buyers",
+      "q": "Most clients decide on a licensee within how long of finishing their research?",
+      "choices": [
+        "One day",
+        "One week",
+        "One month",
+        "Three months"
+      ],
+      "answer": 1,
+      "explain": "Most decide within a week, so stay in touch.",
+      "ref": "Lesson 16 · The process model of buying"
+    },
+    {
+      "id": "16-116",
+      "tag": "Buyers",
+      "q": "Doubt and regret after a purchase is called:",
+      "choices": [
+        "Felt need",
+        "Cognitive dissonance",
+        "Market segmentation",
+        "Prestige pricing"
+      ],
+      "answer": 1,
+      "explain": "Post-purchase cognitive dissonance, or buyer's remorse.",
+      "ref": "Lesson 16 · The process model of buying"
+    },
+    {
+      "id": "16-117",
+      "tag": "Buyers",
+      "q": "In commercial real estate, what matters more to clients than in residential?",
+      "choices": [
+        "The licensee's photo",
+        "The brokerage's name",
+        "The listing sign colour",
+        "The open-house snacks"
+      ],
+      "answer": 1,
+      "explain": "Commercial clients put more weight on the brokerage's reputation.",
+      "ref": "Lesson 16 · The process model of buying"
+    },
+    {
+      "id": "16-118",
+      "tag": "4 Ps",
+      "q": "Which is NOT one of the 4 Ps?",
+      "choices": [
+        "Price",
+        "People",
+        "Place",
+        "Promotion"
+      ],
+      "answer": 1,
+      "explain": "The 4 Ps are product, place, price and promotion.",
+      "ref": "Lesson 16 · The marketing mix"
+    },
+    {
+      "id": "16-119",
+      "tag": "4 Ps",
+      "q": "Which promotional element is least controllable?",
+      "choices": [
+        "Advertising",
+        "Publicity",
+        "Personal selling",
+        "Sales promotion"
+      ],
+      "answer": 1,
+      "explain": "Publicity is unpaid media coverage you can't control.",
+      "ref": "Lesson 16 · The marketing mix"
+    },
+    {
+      "id": "16-120",
+      "tag": "4 Ps",
+      "q": "Pricing low to win market share is called:",
+      "choices": [
+        "Skimming",
+        "Penetration",
+        "Prestige",
+        "Cost-plus"
+      ],
+      "answer": 1,
+      "explain": "Penetration pricing sets a low price to gain share.",
+      "ref": "Lesson 16 · The marketing mix"
+    },
+    {
+      "id": "16-121",
+      "tag": "4 Ps",
+      "q": "Coaching a kids' team or joining a service club is:",
+      "choices": [
+        "Sales promotion",
+        "Public relations",
+        "Advertising",
+        "Personal selling"
+      ],
+      "answer": 1,
+      "explain": "Community involvement builds goodwill: public relations.",
+      "ref": "Lesson 16 · The marketing mix"
+    },
+    {
+      "id": "16-122",
+      "tag": "SMART",
+      "q": "What does the \"M\" in SMART stand for?",
+      "choices": [
+        "Marketable",
+        "Measurable",
+        "Monthly",
+        "Minimal"
+      ],
+      "answer": 1,
+      "explain": "Specific, measurable, achievable, relevant, timely.",
+      "ref": "Lesson 16 · SMART goals and budgets"
+    },
+    {
+      "id": "16-123",
+      "tag": "SMART",
+      "q": "Why is percentage-of-sales budgeting called backwards?",
+      "choices": [
+        "It costs far too much",
+        "Ads should drive sales",
+        "It ignores competitors",
+        "It requires an accountant"
+      ],
+      "answer": 1,
+      "explain": "Spending follows sales, so it falls when sales fall, just when ads are needed.",
+      "ref": "Lesson 16 · SMART goals and budgets"
+    },
+    {
+      "id": "16-124",
+      "tag": "SMART",
+      "q": "Which budget method is considered most logical?",
+      "choices": [
+        "Percentage of sales",
+        "Objective/task",
+        "Follow the competition",
+        "Whatever is left over"
+      ],
+      "answer": 1,
+      "explain": "Set objectives, then cost the tasks needed to reach them.",
+      "ref": "Lesson 16 · SMART goals and budgets"
+    },
+    {
+      "id": "16-125",
+      "tag": "Ads",
+      "q": "What does AIDA stand for?",
+      "choices": [
+        "Ask, Inform, Decide, Advise",
+        "Attention, Interest, Desire, Action",
+        "Advertise, Inspect, Disclose, Agree",
+        "Analyze, Identify, Design, Apply"
+      ],
+      "answer": 1,
+      "explain": "The classic message sequence: attention, interest, desire, action.",
+      "ref": "Lesson 16 · Messages, brands and ads"
+    },
+    {
+      "id": "16-126",
+      "tag": "Ads",
+      "q": "Which sources are seen as more credible?",
+      "choices": [
+        "Formal print ads",
+        "Informal word of mouth",
+        "Paid roadside billboards",
+        "Direct mail flyers"
+      ],
+      "answer": 1,
+      "explain": "Friends, family and word of mouth are more credible than formal ads.",
+      "ref": "Lesson 16 · Messages, brands and ads"
+    },
+    {
+      "id": "16-127",
+      "tag": "Ads",
+      "q": "Where does a reader's eye usually land first on an ad?",
+      "choices": [
+        "Bottom right",
+        "About 10 o'clock",
+        "Dead centre",
+        "Bottom left"
+      ],
+      "answer": 1,
+      "explain": "Eyes land near the 10 o'clock position, so put the headline there.",
+      "ref": "Lesson 16 · Designing an ad"
+    },
+    {
+      "id": "16-128",
+      "tag": "Ads",
+      "q": "What should ad copy end with?",
+      "choices": [
+        "A disclaimer",
+        "A call to action",
+        "The price",
+        "A slogan"
+      ],
+      "answer": 1,
+      "explain": "Good copy ends by telling the reader what to do next.",
+      "ref": "Lesson 16 · Designing an ad"
+    },
+    {
+      "id": "16-129",
+      "tag": "Ads",
+      "q": "Who may NOT do telemarketing for a licensee?",
+      "choices": [
+        "The licensee themself",
+        "An unlicensed assistant",
+        "A licensed teammate",
+        "The managing broker"
+      ],
+      "answer": 1,
+      "explain": "Unlicensed assistants can't telemarket.",
+      "ref": "Lesson 16 · Ad types"
+    },
+    {
+      "id": "16-130",
+      "tag": "Ads",
+      "q": "Google Ads appear as:",
+      "choices": [
+        "Organic search results",
+        "Paid placements",
+        "Government notices",
+        "MLS® listings"
+      ],
+      "answer": 1,
+      "explain": "Google Ads are paid placements, separate from organic results.",
+      "ref": "Lesson 16 · Ad types"
+    },
+    {
+      "id": "16-131",
+      "tag": "Rules",
+      "q": "Which Rules section deals with personal offices?",
+      "choices": [
+        "s.40",
+        "s.37",
+        "s.41",
+        "s.42"
+      ],
+      "answer": 1,
+      "explain": "Section 37 bars signs, phone answering in the brokerage's name and personal office addresses in ads.",
+      "ref": "Lesson 16 · The advertising rules"
+    },
+    {
+      "id": "16-132",
+      "tag": "Rules",
+      "q": "Under s.40, the brokerage's name in an ad must be:",
+      "choices": [
+        "In the smallest print",
+        "Prominent and readable",
+        "Shown as a logo only",
+        "Optional online"
+      ],
+      "answer": 1,
+      "explain": "The licensed brokerage name must be prominent and easily readable; a logo isn't enough.",
+      "ref": "Lesson 16 · The advertising rules"
+    },
+    {
+      "id": "16-133",
+      "tag": "Rules",
+      "q": "Advertising a property for sale without the owner's consent breaches:",
+      "choices": [
+        "s.37",
+        "s.42",
+        "s.40",
+        "s.52"
+      ],
+      "answer": 1,
+      "explain": "Section 42 requires the owner's (or their agent's) consent.",
+      "ref": "Lesson 16 · The advertising rules"
+    },
+    {
+      "id": "16-134",
+      "tag": "Rules",
+      "q": "Which team name is acceptable?",
+      "choices": [
+        "Westside Realty",
+        "Westside Real Estate Group",
+        "Westside Brokerage",
+        "Westside Real Estate Ltd."
+      ],
+      "answer": 1,
+      "explain": "\"Real Estate\" is allowed only as \"Real Estate Team/Group\" at the end.",
+      "ref": "Lesson 16 · The advertising rules"
+    },
+    {
+      "id": "16-135",
+      "tag": "Rules",
+      "q": "In April 2025, BCFSA fines for unqualified \"#1\" claims ranged from:",
+      "choices": [
+        "$500–$1,000",
+        "$4,000–$6,250",
+        "$25,000–$50,000",
+        "$100–$500"
+      ],
+      "answer": 1,
+      "explain": "Four licensees were fined $4,000 to $6,250.",
+      "ref": "Lesson 16 · The advertising rules"
+    },
+    {
+      "id": "16-136",
+      "tag": "Rules",
+      "q": "Which Competition Act section bans charging more than the advertised price?",
+      "choices": [
+        "s.52",
+        "s.74.05",
+        "s.74.01",
+        "s.37"
+      ],
+      "answer": 1,
+      "explain": "Section 74.05 covers sale above the advertised price.",
+      "ref": "Lesson 16 · The advertising rules"
+    },
+    {
+      "id": "16-137",
+      "tag": "Rules",
+      "q": "Which is a common advertising violation BCFSA sees?",
+      "choices": [
+        "Ads that are too colourful",
+        "Missing brokerage names",
+        "Ads in more than one language",
+        "Ads that list too many photos"
+      ],
+      "answer": 1,
+      "explain": "Missing or tiny brokerage names, unregistered teams and personal office signage are most common.",
+      "ref": "Lesson 16 · The advertising rules"
+    },
+    {
+      "id": "16-138",
+      "tag": "Listing pres.",
+      "q": "Why include expired listings in a CMA?",
+      "choices": [
+        "To show that the market is slowing",
+        "To reveal pricing or marketing errors",
+        "To fill out the extra pages",
+        "To discredit the other licensees"
+      ],
+      "answer": 1,
+      "explain": "Expired listings can show properties that were overpriced or poorly marketed.",
+      "ref": "Lesson 16 · The listing presentation"
+    },
+    {
+      "id": "16-139",
+      "tag": "Listing pres.",
+      "q": "How should you deliver the in-person presentation?",
+      "choices": [
+        "Read the document aloud",
+        "Create a dialogue and listen",
+        "Speak only to the main owner",
+        "Use industry jargon to impress"
+      ],
+      "answer": 1,
+      "explain": "Make it a dialogue, avoid jargon and present to all the sellers.",
+      "ref": "Lesson 16 · The listing presentation"
+    },
+    {
+      "id": "16-140",
+      "tag": "Listing pres.",
+      "q": "Any statistics you claim in a listing presentation must be:",
+      "choices": [
+        "Rounded up",
+        "True and verifiable",
+        "From last decade",
+        "Kept confidential"
+      ],
+      "answer": 1,
+      "explain": "Claims must be accurate and verifiable.",
+      "ref": "Lesson 16 · The listing presentation"
+    },
+    {
+      "id": "16-141",
+      "tag": "Listing pres.",
+      "q": "How should you find the listing's key message?",
+      "choices": [
+        "Use a stock slogan",
+        "Ask what the sellers love",
+        "Copy the last ad you ran",
+        "Let the buyer decide"
+      ],
+      "answer": 1,
+      "explain": "Ask what made the sellers fall in love with the property.",
+      "ref": "Lesson 16 · The listing marketing program"
+    },
+    {
+      "id": "16-142",
+      "tag": "Tech",
+      "q": "Who is responsible for the accuracy of MLS® listing data?",
+      "choices": [
+        "CREA itself",
+        "The listing licensee",
+        "The buyer licensee",
+        "BC Assessment"
+      ],
+      "answer": 1,
+      "explain": "The listing licensee is responsible for the data's accuracy.",
+      "ref": "Lesson 16 · Tools of the trade"
+    },
+    {
+      "id": "16-143",
+      "tag": "Tech",
+      "q": "Which photo edit is acceptable?",
+      "choices": [
+        "Removing power lines",
+        "Removing a garbage can",
+        "Adding a pool",
+        "Enlarging the yard"
+      ],
+      "answer": 1,
+      "explain": "Removing temporary items is fine; altering physical features misleads.",
+      "ref": "Lesson 16 · Photos and drones"
+    },
+    {
+      "id": "16-144",
+      "tag": "Tech",
+      "q": "Drones from 250 g to 25 kg require:",
+      "choices": [
+        "Nothing, if flown under 100 m",
+        "Pilot certificate and registration",
+        "Only the property owner's consent",
+        "A municipal business licence"
+      ],
+      "answer": 1,
+      "explain": "Transport Canada requires a pilot certificate and drone registration.",
+      "ref": "Lesson 16 · Photos and drones"
+    },
+    {
+      "id": "16-145",
+      "tag": "Tech",
+      "q": "SEO aims to improve your ranking in:",
+      "choices": [
+        "Paid search ads",
+        "Organic search results",
+        "MLS® listing order",
+        "Newspaper classifieds"
+      ],
+      "answer": 1,
+      "explain": "SEO targets unpaid, organic results.",
+      "ref": "Lesson 16 · Websites, SEO and social media"
+    },
+    {
+      "id": "16-146",
+      "tag": "Tech",
+      "q": "How often should newsletters go out?",
+      "choices": [
+        "Daily",
+        "Weekly to quarterly",
+        "Once a year",
+        "Only at listing time"
+      ],
+      "answer": 1,
+      "explain": "No more than weekly and at least quarterly.",
+      "ref": "Lesson 16 · Websites, SEO and social media"
+    },
+    {
+      "id": "16-147",
+      "tag": "Social",
+      "q": "Where must the brokerage name appear on social media?",
+      "choices": [
+        "In every single post",
+        "On your profile",
+        "Nowhere on social media",
+        "Only in paid ads"
+      ],
+      "answer": 1,
+      "explain": "On the profile; it needn't be in every post.",
+      "ref": "Lesson 16 · Social media rules"
+    },
+    {
+      "id": "16-148",
+      "tag": "Social",
+      "q": "Where does the brokerage name go on YouTube?",
+      "choices": [
+        "Nowhere",
+        "Title or description",
+        "Only the thumbnail",
+        "Only the comments"
+      ],
+      "answer": 1,
+      "explain": "Put it in the title or description (or the video intro).",
+      "ref": "Lesson 16 · Social media rules"
+    },
+    {
+      "id": "16-149",
+      "tag": "Social",
+      "q": "Can you translate your brokerage's name for a Punjabi-language post?",
+      "choices": [
+        "Yes, for clarity",
+        "No",
+        "Only with BCFSA approval",
+        "Only in paid ads"
+      ],
+      "answer": 1,
+      "explain": "Brokerage names must not be translated.",
+      "ref": "Lesson 16 · Social media rules"
+    },
+    {
+      "id": "16-150",
+      "tag": "Social",
+      "q": "On Craigslist and Kijiji, the brokerage name must appear:",
+      "choices": [
+        "Once on your account",
+        "In every posting",
+        "Only in photos",
+        "Nowhere at all"
+      ],
+      "answer": 1,
+      "explain": "Each posting needs the brokerage name.",
+      "ref": "Lesson 16 · Social media rules"
+    },
+    {
+      "id": "16-151",
+      "tag": "CASL",
+      "q": "CASL applies to:",
+      "choices": [
+        "All telephone calls",
+        "Commercial electronic messages",
+        "Printed flyers and postcards",
+        "Billboards and bus benches"
+      ],
+      "answer": 1,
+      "explain": "CASL covers CEMs: emails, texts and similar messages.",
+      "ref": "Lesson 16 · Canada's Anti-Spam Legislation (CASL)"
+    },
+    {
+      "id": "16-152",
+      "tag": "CASL",
+      "q": "Which is NOT valid express consent under CASL?",
+      "choices": [
+        "A clear opt-in with purpose",
+        "A pre-checked box",
+        "A signed consent form",
+        "A recorded verbal yes"
+      ],
+      "answer": 1,
+      "explain": "Pre-checked boxes don't count as express consent.",
+      "ref": "Lesson 16 · Canada's Anti-Spam Legislation (CASL)"
+    },
+    {
+      "id": "16-153",
+      "tag": "CASL",
+      "q": "Implied consent from a business relationship lasts:",
+      "choices": [
+        "6 months",
+        "2 years",
+        "5 years",
+        "Forever"
+      ],
+      "answer": 1,
+      "explain": "Implied consent from a relationship lasts two years.",
+      "ref": "Lesson 16 · Canada's Anti-Spam Legislation (CASL)"
+    },
+    {
+      "id": "16-154",
+      "tag": "CASL",
+      "q": "Maximum CASL penalty for a business?",
+      "choices": [
+        "$100,000",
+        "$10 million",
+        "$1 million",
+        "$50,000"
+      ],
+      "answer": 1,
+      "explain": "Up to $1 million for individuals and $10 million for businesses.",
+      "ref": "Lesson 16 · Canada's Anti-Spam Legislation (CASL)"
+    },
+    {
+      "id": "16-155",
+      "tag": "CASL",
+      "q": "Every CEM must include:",
+      "choices": [
+        "A photo of the licensee",
+        "Sender ID and unsubscribe",
+        "The client's full address",
+        "A legal disclaimer"
+      ],
+      "answer": 1,
+      "explain": "Identification, contact details and a free unsubscribe.",
+      "ref": "Lesson 16 · Canada's Anti-Spam Legislation (CASL)"
+    },
+    {
+      "id": "16-156",
+      "tag": "E-sign",
+      "q": "The Electronic Transactions Act does NOT cover:",
+      "choices": [
+        "Listing agreements",
+        "Registrable land transfers",
+        "Contracts of purchase and sale",
+        "Email correspondence"
+      ],
+      "answer": 1,
+      "explain": "Registrable documents that create or transfer an interest in land are excluded.",
+      "ref": "Lesson 16 · E-signatures and records"
+    },
+    {
+      "id": "16-157",
+      "tag": "E-sign",
+      "q": "Is a sender's name at the bottom of an email a valid signature?",
+      "choices": [
+        "Yes, always",
+        "No",
+        "Only for a listing",
+        "Only if typed in bold"
+      ],
+      "answer": 1,
+      "explain": "BCFSA says a name in an email isn't enough.",
+      "ref": "Lesson 16 · E-signatures and records"
+    },
+    {
+      "id": "16-158",
+      "tag": "E-sign",
+      "q": "What should be kept with a DocuSigned contract?",
+      "choices": [
+        "The licensee's password",
+        "The Certificate of Completion",
+        "A paper copy of each email",
+        "The client's ID photo"
+      ],
+      "answer": 1,
+      "explain": "The Certificate of Completion proves who signed and when.",
+      "ref": "Lesson 16 · E-signatures and records"
+    },
+    {
+      "id": "16-159",
+      "tag": "Records",
+      "q": "How long must brokerage records be kept?",
+      "choices": [
+        "3 years",
+        "7 years",
+        "10 years",
+        "1 year"
+      ],
+      "answer": 1,
+      "explain": "Rules s.92 requires 7 years.",
+      "ref": "Lesson 16 · E-signatures and records"
+    },
+    {
+      "id": "16-160",
+      "tag": "Records",
+      "q": "Where must brokerage records be kept under RESA s.25?",
+      "choices": [
+        "Anywhere in Canada",
+        "In BC",
+        "At the licensee's home",
+        "With CREA"
+      ],
+      "answer": 1,
+      "explain": "Records must be kept in BC.",
+      "ref": "Lesson 16 · E-signatures and records"
+    },
+    {
+      "id": "16-161",
+      "tag": "Copyright",
+      "q": "Copyright protects:",
+      "choices": [
+        "Facts and ideas",
+        "Expression",
+        "Property data",
+        "Street addresses"
+      ],
+      "answer": 1,
+      "explain": "Copyright protects the expression, not the underlying facts.",
+      "ref": "Lesson 16 · E-signatures and records"
+    },
+    {
+      "id": "16-162",
+      "tag": "Security",
+      "q": "Minimum recommended password length?",
+      "choices": [
+        "4 characters",
+        "8 characters",
+        "6 characters",
+        "3 characters"
+      ],
+      "answer": 1,
+      "explain": "At least 8 characters with mixed types.",
+      "ref": "Lesson 16 · Security and AI"
+    },
+    {
+      "id": "16-163",
+      "tag": "Security",
+      "q": "What's the first line of defence against attacks?",
+      "choices": [
+        "The office printer",
+        "The router's firewall",
+        "The computer monitor",
+        "The anti-glare screen"
+      ],
+      "answer": 1,
+      "explain": "Your router's firewall is the first line of defence.",
+      "ref": "Lesson 16 · Security and AI"
+    },
+    {
+      "id": "16-164",
+      "tag": "Security",
+      "q": "Backups should be kept in how many physical locations?",
+      "choices": [
+        "One",
+        "Two",
+        "None",
+        "Five"
+      ],
+      "answer": 1,
+      "explain": "Keep backups in two physical locations.",
+      "ref": "Lesson 16 · Security and AI"
+    },
+    {
+      "id": "16-165",
+      "tag": "AI",
+      "q": "Which is one of BCFSA's AI tips?",
+      "choices": [
+        "Use AI to draft contracts",
+        "Fact-check every output",
+        "Share client data freely",
+        "Skip labelling staging"
+      ],
+      "answer": 1,
+      "explain": "You're responsible for anything AI produces, so fact-check it.",
+      "ref": "Lesson 16 · Security and AI"
+    },
+    {
+      "id": "16-166",
+      "tag": "PIPA",
+      "q": "Which is NOT personal information under PIPA?",
+      "choices": [
+        "A home street address",
+        "Business contact info",
+        "A date of birth",
+        "Personal annual income"
+      ],
+      "answer": 1,
+      "explain": "Business contact information is excluded.",
+      "ref": "Lesson 16 · Privacy: PIPA"
+    },
+    {
+      "id": "16-167",
+      "tag": "PIPA",
+      "q": "When must you state your purpose for collecting personal information?",
+      "choices": [
+        "After the deal closes",
+        "On or before collecting",
+        "Only if the client asks",
+        "Never; it is implied"
+      ],
+      "answer": 1,
+      "explain": "Purpose must be disclosed on or before collection.",
+      "ref": "Lesson 16 · Privacy: PIPA"
+    },
+    {
+      "id": "16-168",
+      "tag": "PIPA",
+      "q": "What should you do with personal information no longer needed?",
+      "choices": [
+        "Sell it to a marketer",
+        "Destroy or anonymize it",
+        "Post it on the website",
+        "Keep it forever in files"
+      ],
+      "answer": 1,
+      "explain": "Destroy it or make it anonymous.",
+      "ref": "Lesson 16 · Privacy: PIPA"
+    },
+    {
+      "id": "16-169",
+      "tag": "PIPA",
+      "q": "Before posting listing details online you need:",
+      "choices": [
+        "The buyer's verbal consent",
+        "The seller's written consent",
+        "Approval from BCFSA",
+        "The neighbours' consent"
+      ],
+      "answer": 1,
+      "explain": "Get the seller's written consent.",
+      "ref": "Lesson 16 · Privacy: PIPA"
+    }
+  ]
+}

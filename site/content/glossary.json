@@ -25,6 +25,11 @@
     "lesson": "07"
   },
   {
+    "term": "Accrual basis",
+    "def": "Recording revenue when earned and expenses when incurred, regardless of when cash changes hands.",
+    "lesson": "16"
+  },
+  {
     "term": "Acknowledgement of liability",
     "def": "Admitting responsibility, for example by a partial payment on a fixed-sum claim or a written confirmation. Restarts both limitation clocks from that date.",
     "lesson": "01"
@@ -43,6 +48,11 @@
     "term": "Adjustment (appraisal)",
     "def": "A dollar change to a comparable's price: subtract if the comparable is superior, add if it's inferior.",
     "lesson": "15"
+  },
+  {
+    "term": "Adjustment date",
+    "def": "The date from which the buyer takes on the property's income and costs, such as taxes and rent; usually the possession date.",
+    "lesson": "16"
   },
   {
     "term": "Administrative monetary penalty (AMP)",
@@ -88,6 +98,11 @@
     "term": "Agricultural Land Reserve (ALR)",
     "def": "About 5 million hectares of BC land reserved for farming. Non-farm use and subdivision need Agricultural Land Commission approval.",
     "lesson": "14"
+  },
+  {
+    "term": "AIDA",
+    "def": "A message sequence: attention, interest, desire, action.",
+    "lesson": "16"
   },
   {
     "term": "Air barrier",
@@ -160,6 +175,11 @@
     "lesson": "01"
   },
   {
+    "term": "ASPE",
+    "def": "Accounting Standards for Private Enterprises: used by most private Canadian companies; keeps real estate at cost less depreciation.",
+    "lesson": "16"
+  },
+  {
     "term": "Assignment",
     "def": "Transferring the benefits (not the burdens) of a contract to someone else.",
     "lesson": "07"
@@ -190,9 +210,19 @@
     "lesson": "08"
   },
   {
+    "term": "Balance due to complete",
+    "def": "The cash the buyer must provide to close, shown at the bottom of the buyer's statement of adjustments.",
+    "lesson": "16"
+  },
+  {
     "term": "Balance of probabilities",
     "def": "The civil standard of proof: more likely than not. A tie means the plaintiff loses.",
     "lesson": "01"
+  },
+  {
+    "term": "Balance sheet",
+    "def": "A statement of assets, liabilities and owner's equity on one date. Assets = Liabilities + Equity.",
+    "lesson": "16"
   },
   {
     "term": "Balloon payment",
@@ -305,14 +335,29 @@
     "lesson": "01"
   },
   {
+    "term": "Call to action",
+    "def": "The part of an ad that tells the reader what to do next.",
+    "lesson": "16"
+  },
+  {
     "term": "Canada Mortgage Bonds (CMB)",
     "def": "Bonds issued by the Canada Housing Trust, funded by NHA MBS, paying interest every six months.",
     "lesson": "12"
   },
   {
+    "term": "Canada's Anti-Spam Legislation (CASL)",
+    "def": "Federal law requiring consent, sender identification and an unsubscribe in commercial electronic messages. Penalties up to $1 million (individuals) and $10 million (businesses).",
+    "lesson": "16"
+  },
+  {
     "term": "Capacity",
     "def": "The legal ability to make a binding contract. Minors and mentally incapable people have limited capacity.",
     "lesson": "07"
+  },
+  {
+    "term": "Capital cost allowance (CCA)",
+    "def": "Depreciation for income tax purposes, claimed at CRA's set rates on a declining balance by asset class.",
+    "lesson": "16"
   },
   {
     "term": "Capital gain",
@@ -328,6 +373,11 @@
     "term": "Capitalization rate (cap rate)",
     "def": "NOI ÷ price: the yield investors accept on a property. Value = NOI ÷ cap rate.",
     "lesson": "15"
+  },
+  {
+    "term": "Cash flow statement",
+    "def": "A statement showing where a business's cash came from and went, separate from its accounting profit.",
+    "lesson": "16"
   },
   {
     "term": "Cash-equivalent price",
@@ -415,9 +465,19 @@
     "lesson": "12"
   },
   {
+    "term": "Cognitive dissonance",
+    "def": "Doubt or regret after a major purchase decision; buyer's remorse.",
+    "lesson": "16"
+  },
+  {
     "term": "Collateral warranty",
     "def": "A separate binding promise made alongside the main contract, which can survive completion. Hard to prove.",
     "lesson": "08"
+  },
+  {
+    "term": "Commercial electronic message (CEM)",
+    "def": "An email, text or similar message that encourages commercial activity; regulated by CASL.",
+    "lesson": "16"
   },
   {
     "term": "Committee",
@@ -468,6 +528,11 @@
     "term": "Competition Act",
     "def": "Federal law against anti-competitive agreements (e.g. fixing commissions) and misleading advertising, enforced by the Competition Bureau.",
     "lesson": "08"
+  },
+  {
+    "term": "Completion date",
+    "def": "The date the seller transfers title and the buyer pays the price.",
+    "lesson": "16"
   },
   {
     "term": "Compliance program",
@@ -555,6 +620,11 @@
     "lesson": "12"
   },
   {
+    "term": "Conveyancer",
+    "def": "The lawyer or notary who prepares and registers the documents that transfer title and handles the closing funds.",
+    "lesson": "16"
+  },
+  {
     "term": "Cooperating brokerage",
     "def": "The brokerage working with the buyer, which usually shares in the listing brokerage's commission.",
     "lesson": "09"
@@ -570,6 +640,11 @@
     "lesson": "05"
   },
   {
+    "term": "Corporation",
+    "def": "A separate legal entity owned by shareholders, whose liability is limited to what they paid for their shares. It pays its own income tax and carries on when owners change.",
+    "lesson": "16"
+  },
+  {
     "term": "Cost approach",
     "def": "Value = site value + replacement cost new − depreciation.",
     "lesson": "15"
@@ -578,6 +653,11 @@
     "term": "Cost of funds advanced (COFA)",
     "def": "The borrower's true interest rate, taking into account fees deducted from or added to the loan.",
     "lesson": "13"
+  },
+  {
+    "term": "Cost of goods sold",
+    "def": "Opening inventory + purchases − closing inventory.",
+    "lesson": "16"
   },
   {
     "term": "Counter-offer",
@@ -615,9 +695,24 @@
     "lesson": "15"
   },
   {
+    "term": "Current assets",
+    "def": "Assets that will turn into cash within a year, such as cash, receivables, inventory and prepaid expenses.",
+    "lesson": "16"
+  },
+  {
+    "term": "Current liabilities",
+    "def": "Debts due within a year, such as payables, wages, property taxes payable, tenants' deposits and the current portion of a mortgage.",
+    "lesson": "16"
+  },
+  {
     "term": "CUSPAP",
     "def": "Canadian Uniform Standards of Professional Appraisal Practice.",
     "lesson": "15"
+  },
+  {
+    "term": "Customer relationship management (CRM)",
+    "def": "Software for tracking contacts, communication and follow-up with clients and prospects.",
+    "lesson": "16"
   },
   {
     "term": "Cyclical repairs",
@@ -653,6 +748,11 @@
     "term": "Deposit",
     "def": "Good-faith money the buyer pays (usually within 24 hours of acceptance), held in trust by the brokerage as stakeholder. It isn't the consideration.",
     "lesson": "08"
+  },
+  {
+    "term": "Depreciation (accounting)",
+    "def": "Spreading an asset's cost over its useful life in the financial statements. Land is never depreciated.",
+    "lesson": "16"
   },
   {
     "term": "Depreciation (appraisal)",
@@ -825,9 +925,19 @@
     "lesson": "11"
   },
   {
+    "term": "Electronic Transactions Act",
+    "def": "BC law letting electronic documents and signatures meet legal requirements for writing and signatures, if the parties intend it. Excludes registrable land transfer documents.",
+    "lesson": "16"
+  },
+  {
     "term": "Empty Homes Tax (EHT)",
     "def": "City of Vancouver tax of 3% of assessed value on homes vacant six months or more.",
     "lesson": "14"
+  },
+  {
+    "term": "Encroachment",
+    "def": "A building or structure that extends over a property line or onto an easement.",
+    "lesson": "16"
   },
   {
     "term": "Encumbrance",
@@ -925,6 +1035,11 @@
     "lesson": "15"
   },
   {
+    "term": "Express consent",
+    "def": "Clear, active permission to receive messages, given after being told the purpose and sender; a pre-checked box doesn't count.",
+    "lesson": "16"
+  },
+  {
     "term": "External depreciation",
     "def": "Loss in value from causes outside the property (noise, a plant closure); always incurable.",
     "lesson": "15"
@@ -933,6 +1048,11 @@
     "term": "Face-sealed wall",
     "def": "A wall that relies on a perfect outer seal to keep water out; widely failed in the leaky condo crisis.",
     "lesson": "15"
+  },
+  {
+    "term": "Fair dealing",
+    "def": "A copyright exception allowing limited copying for research, private study, criticism or review; it doesn't cover commercial use.",
+    "lesson": "16"
   },
   {
     "term": "Fair wear and tear",
@@ -960,6 +1080,11 @@
     "lesson": "06"
   },
   {
+    "term": "Firewall",
+    "def": "Hardware or software that blocks unauthorized access to a network; a router is the first line of defence.",
+    "lesson": "16"
+  },
+  {
     "term": "First Time Home Buyers' Program",
     "def": "PTT exemption on the first $500,000 for eligible first-time buyers of homes up to $835,000.",
     "lesson": "14"
@@ -968,6 +1093,11 @@
     "term": "First-dollar defence",
     "def": "An insurance feature where no deductible applies if the insurer only paid defence costs and nothing went to the claimant.",
     "lesson": "04"
+  },
+  {
+    "term": "Fiscal year",
+    "def": "A business's accounting year; it can't exceed 53 weeks. Individuals use the calendar year.",
+    "lesson": "16"
   },
   {
     "term": "Five Cs of credit",
@@ -1040,9 +1170,24 @@
     "lesson": "01"
   },
   {
+    "term": "General partnership",
+    "def": "Two or more people in business together for profit; each partner is an agent of the others and liable without limit for ordinary-course debts.",
+    "lesson": "16"
+  },
+  {
+    "term": "Generally accepted accounting principles (GAAP)",
+    "def": "The rules for preparing financial statements. In Canada: IFRS for public companies and ASPE for most private ones.",
+    "lesson": "16"
+  },
+  {
     "term": "Goods and Services Tax (GST)",
     "def": "A 5% federal value-added tax. Real property sales are taxable unless exempt under Schedule V of the Excise Tax Act.",
     "lesson": "14"
+  },
+  {
+    "term": "Goodwill",
+    "def": "The amount paid for a business above the market value of its net assets (assets less liabilities).",
+    "lesson": "16"
   },
   {
     "term": "Grant of Probate",
@@ -1090,6 +1235,11 @@
     "lesson": "13"
   },
   {
+    "term": "Half-year rule",
+    "def": "The tax rule allowing only 50% of the normal CCA rate in the year an asset is acquired.",
+    "lesson": "16"
+  },
+  {
     "term": "Headline test",
     "def": "Asking whether you'd be comfortable seeing your decision reported as a news headline. A quick ethics check.",
     "lesson": "06"
@@ -1135,9 +1285,19 @@
     "lesson": "02"
   },
   {
+    "term": "IFRS",
+    "def": "International Financial Reporting Standards: required for Canadian public companies since 2011; allows real estate to be shown at fair value.",
+    "lesson": "16"
+  },
+  {
     "term": "Implied agency",
     "def": "An agency created by conduct, e.g. by advising or negotiating for an unrepresented party, even without a written agreement.",
     "lesson": "09"
+  },
+  {
+    "term": "Implied consent",
+    "def": "Consent CASL presumes from circumstances such as a business relationship within the past two years or a conspicuously published address.",
+    "lesson": "16"
   },
   {
     "term": "Improvement district",
@@ -1148,6 +1308,11 @@
     "term": "Income approach",
     "def": "Valuing income property by converting its income into value, e.g. NOI ÷ cap rate.",
     "lesson": "15"
+  },
+  {
+    "term": "Income statement",
+    "def": "A statement of revenue and expenses over a period, showing net income or loss.",
+    "lesson": "16"
   },
   {
     "term": "Indefeasibility",
@@ -1195,6 +1360,11 @@
     "lesson": "12"
   },
   {
+    "term": "Interest adjustment",
+    "def": "Interest a lender charges from the mortgage advance date to the start of the first regular payment period.",
+    "lesson": "16"
+  },
+  {
     "term": "Interest rate differential (IRD)",
     "def": "A prepayment penalty based on the gap between the contract rate and the lender's current rate for the remaining term.",
     "lesson": "13"
@@ -1228,6 +1398,11 @@
     "term": "Joint tenancy",
     "def": "Co-ownership with a right of survivorship: when one owner dies, their interest passes to the surviving joint tenants. Needs the four unities of time, title, interest and possession.",
     "lesson": "02"
+  },
+  {
+    "term": "Joint venture",
+    "def": "Two or more established parties combining for a single project; its liability and taxation depend on whether it's set up as a partnership or corporation.",
+    "lesson": "16"
   },
   {
     "term": "Judgment debtor / creditor",
@@ -1345,6 +1520,16 @@
     "lesson": "09"
   },
   {
+    "term": "Limited liability partnership (LLP)",
+    "def": "A partnership in which each partner is liable for their own wrongdoing but not for other partners' (unless they knew and didn't act); used mainly by lawyers, notaries and accountants.",
+    "lesson": "16"
+  },
+  {
+    "term": "Limited partnership",
+    "def": "A partnership with at least one general partner (unlimited liability) and limited partners whose liability is capped at their investment, if they stay out of management.",
+    "lesson": "16"
+  },
+  {
     "term": "Liquidated damages",
     "def": "An amount agreed in the contract as compensation for breach. Enforced only if a genuine pre-estimate of loss; otherwise an unenforceable penalty.",
     "lesson": "07"
@@ -1353,6 +1538,11 @@
     "term": "Listing contract",
     "def": "The agreement between a seller and a brokerage: the brokerage markets the property, and the seller pays commission if a sale results. The buyer isn't a party.",
     "lesson": "08"
+  },
+  {
+    "term": "Listing presentation",
+    "def": "A licensee's written and in-person pitch to win a listing, including the marketing plan, CMA and verifiable credentials.",
+    "lesson": "16"
   },
   {
     "term": "Loan-to-value ratio (LTV)",
@@ -1395,9 +1585,29 @@
     "lesson": "15"
   },
   {
+    "term": "Marketing concept",
+    "def": "The approach that puts the client's needs first in everything a business does.",
+    "lesson": "16"
+  },
+  {
+    "term": "Marketing mix (4 Ps)",
+    "def": "Product, place, price and promotion.",
+    "lesson": "16"
+  },
+  {
+    "term": "Matching principle",
+    "def": "Recording expenses in the same period as the revenue they help earn.",
+    "lesson": "16"
+  },
+  {
     "term": "Material latent defect",
     "def": "Under Rules s.59, a hidden defect that makes a property dangerous or unfit, would cost a great deal to fix, is subject to a local government notice, or lacks required permits. The seller's licensee must disclose it in writing before an agreement.",
     "lesson": "07"
+  },
+  {
+    "term": "Materiality",
+    "def": "The accounting principle that small items can be expensed immediately; an exception to matching.",
+    "lesson": "16"
   },
   {
     "term": "Mediation",
@@ -1480,6 +1690,11 @@
     "lesson": "03"
   },
   {
+    "term": "National Do Not Call List (DNCL)",
+    "def": "The federal list of numbers that telemarketers must not call, subject to exceptions such as existing business relationships.",
+    "lesson": "16"
+  },
+  {
     "term": "Natural justice",
     "def": "Basic fair-process rules, such as the right to be heard and an unbiased decision-maker.",
     "lesson": "01"
@@ -1498,6 +1713,11 @@
     "term": "Nemo dat quod non habet",
     "def": "\"No one can give what they don't have.\" At common law, a forged deed broke the chain of title for all later owners.",
     "lesson": "03"
+  },
+  {
+    "term": "Net book value",
+    "def": "An asset's historical cost less accumulated depreciation, as shown on the balance sheet. Not the same as market value.",
+    "lesson": "16"
   },
   {
     "term": "Net listing",
@@ -1523,6 +1743,11 @@
     "term": "New Homes Registry",
     "def": "BC Housing's registry showing whether a new home was built by a licensed builder or owner-builder and whether warranty insurance is in place.",
     "lesson": "15"
+  },
+  {
+    "term": "Niche marketing",
+    "def": "Concentrating all marketing on one small, active, growing market segment; the best fit for most individual licensees.",
+    "lesson": "16"
   },
   {
     "term": "Nominal interest rate",
@@ -1670,6 +1895,21 @@
     "lesson": "02"
   },
   {
+    "term": "Personal guarantee",
+    "def": "An owner's promise to repay a company's debt personally if the company can't, removing limited liability for that debt.",
+    "lesson": "16"
+  },
+  {
+    "term": "Personal information",
+    "def": "Information about an identifiable individual, such as a home address, birth date or income. Excludes business contact information.",
+    "lesson": "16"
+  },
+  {
+    "term": "Personal Information Protection Act (PIPA)",
+    "def": "BC law governing how private organizations collect, use, disclose and protect personal information.",
+    "lesson": "16"
+  },
+  {
     "term": "Personal real estate corporation (PREC)",
     "def": "A corporation a licensee may use to receive their remuneration, mainly for tax planning. It doesn't shield the licensee from liability.",
     "lesson": "04"
@@ -1680,6 +1920,11 @@
     "lesson": "10"
   },
   {
+    "term": "Phishing",
+    "def": "Fake messages that pretend to come from a trusted sender to trick people into revealing information or sending money.",
+    "lesson": "16"
+  },
+  {
     "term": "Physical depreciation",
     "def": "Loss in value from wear and tear.",
     "lesson": "15"
@@ -1688,6 +1933,11 @@
     "term": "PID",
     "def": "Parcel identifier: a permanent 9-digit number for each titled parcel. Found on the property tax notice or BC Assessment.",
     "lesson": "03"
+  },
+  {
+    "term": "PIPEDA",
+    "def": "The federal privacy law for the private sector, which applies where a province (unlike BC, Alberta and Quebec) has no similar law of its own.",
+    "lesson": "16"
   },
   {
     "term": "Placement / layering / integration",
@@ -1718,6 +1968,11 @@
     "term": "Positive covenant",
     "def": "A promise to do something, such as pay for maintenance. Generally doesn't run with the land, though an owner can become bound by conduct (Crystal Square).",
     "lesson": "02"
+  },
+  {
+    "term": "Possession date",
+    "def": "The date (and time) the buyer is entitled to take over the property and receive the keys.",
+    "lesson": "16"
   },
   {
     "term": "Postal rule",
@@ -1785,6 +2040,11 @@
     "lesson": "02"
   },
   {
+    "term": "Promotional mix",
+    "def": "Personal selling, advertising, sales promotion, public relations and publicity.",
+    "lesson": "16"
+  },
+  {
     "term": "Property Assessment Appeal Board (PAAB)",
     "def": "The second level of assessment appeal; notice due by April 30.",
     "lesson": "14"
@@ -1818,6 +2078,11 @@
     "term": "Public law",
     "def": "Law involving the state: criminal, tax and constitutional law.",
     "lesson": "01"
+  },
+  {
+    "term": "Publicity",
+    "def": "Unpaid media coverage a business doesn't control; seen as more credible than advertising.",
+    "lesson": "16"
   },
   {
     "term": "Quantum meruit",
@@ -1865,6 +2130,11 @@
     "lesson": "04"
   },
   {
+    "term": "Real estate investment trust (REIT)",
+    "def": "A trust whose units trade publicly and which owns real estate or mortgages. If it meets CRA rules, the trust isn't taxed; unitholders are.",
+    "lesson": "16"
+  },
+  {
     "term": "Real estate services",
     "def": "Under RESA, trading services, rental property management services or strata management services.",
     "lesson": "04"
@@ -1883,6 +2153,11 @@
     "term": "Reasonable grounds to suspect",
     "def": "The STR threshold: a possibility of money laundering, based on facts a similarly trained person would also find suspicious. Lower than \"reasonable grounds to believe\".",
     "lesson": "06"
+  },
+  {
+    "term": "Recapture",
+    "def": "On selling an asset for more than its UCC, the excess CCA previously claimed is added back to taxable income.",
+    "lesson": "16"
   },
   {
     "term": "Reconciliation",
@@ -1990,6 +2265,11 @@
     "lesson": "02"
   },
   {
+    "term": "Retained earnings",
+    "def": "A corporation's accumulated profits that haven't been paid out as dividends.",
+    "lesson": "16"
+  },
+  {
     "term": "Reverse annuity mortgage (RAM)",
     "def": "A mortgage in which the lender makes payments to the owner, usually an older homeowner, with the debt growing over time.",
     "lesson": "12"
@@ -2038,6 +2318,11 @@
     "term": "Seal",
     "def": "A mark that can replace consideration, but only if the party knowingly adopts it. A corporate seal isn't the same thing.",
     "lesson": "07"
+  },
+  {
+    "term": "Search engine optimization (SEO)",
+    "def": "Improving a website so it ranks higher in organic (unpaid) search results.",
+    "lesson": "16"
   },
   {
     "term": "Secondary intention",
@@ -2095,6 +2380,16 @@
     "lesson": "05"
   },
   {
+    "term": "Shareholder",
+    "def": "An owner of shares in a corporation. Shareholders don't own the company's assets; they earn through dividends, gains on selling shares or a share of the surplus on wind-up.",
+    "lesson": "16"
+  },
+  {
+    "term": "Shopping goods",
+    "def": "Goods or services consumers compare before buying, such as homes and real estate services.",
+    "lesson": "16"
+  },
+  {
     "term": "Short term exclusive use",
     "def": "A personal, cancellable permission to use common property exclusively, for up to 1 year (5 years for an EV-charging stall).",
     "lesson": "11"
@@ -2110,6 +2405,11 @@
     "lesson": "15"
   },
   {
+    "term": "SMART goals",
+    "def": "Goals that are specific, measurable, achievable, relevant and timely.",
+    "lesson": "16"
+  },
+  {
     "term": "Smurfing",
     "def": "Breaking up cash into many small deposits to avoid reporting thresholds. A placement technique.",
     "lesson": "06"
@@ -2118,6 +2418,11 @@
     "term": "Sole agency",
     "def": "Representing one party as a client in a trade, with no one else in that trade. The usual relationship under designated agency.",
     "lesson": "09"
+  },
+  {
+    "term": "Sole proprietorship",
+    "def": "A business owned by one person who is personally liable for all its debts and pays tax on its profit personally.",
+    "lesson": "16"
   },
   {
     "term": "Special Compensation Fund",
@@ -2175,6 +2480,11 @@
     "lesson": "01"
   },
   {
+    "term": "Statement of adjustments",
+    "def": "The closing statement prepared for each party: the buyer's shows the balance due to complete; the seller's shows the cash proceeds of sale.",
+    "lesson": "16"
+  },
+  {
     "term": "Statute",
     "def": "A written law passed by Parliament, a provincial legislature or a municipal council. Also called legislation.",
     "lesson": "01"
@@ -2188,6 +2498,11 @@
     "term": "Stigma",
     "def": "A non-physical feature that may affect a property's appeal, such as a past death or crime. No duty to disclose, but never lie if asked.",
     "lesson": "07"
+  },
+  {
+    "term": "Straight-line depreciation",
+    "def": "Depreciation of an equal amount each year: (cost − salvage value) ÷ useful life.",
+    "lesson": "16"
   },
   {
     "term": "Strata corporation",
@@ -2268,6 +2583,16 @@
     "term": "Suspicious transaction report (STR)",
     "def": "A report to FINTRAC, as soon as practicable, when there are reasonable grounds to suspect money laundering or terrorist financing. No dollar threshold.",
     "lesson": "06"
+  },
+  {
+    "term": "Target market",
+    "def": "A segment of the market with a common need that a business chooses to serve.",
+    "lesson": "16"
+  },
+  {
+    "term": "Team name",
+    "def": "A name used by a group of licensees, which must be approved by BCFSA and can't be confused with a brokerage name.",
+    "lesson": "16"
   },
   {
     "term": "Technical Safety BC",
@@ -2388,6 +2713,11 @@
     "term": "Unconscionable transaction",
     "def": "A deal between unequal parties that is substantially unfair to the weaker one. The court may set it aside.",
     "lesson": "07"
+  },
+  {
+    "term": "Undepreciated capital cost (UCC)",
+    "def": "The remaining balance of an asset class for tax purposes after CCA claimed; the base for the next year's CCA.",
+    "lesson": "16"
   },
   {
     "term": "Undertaking",

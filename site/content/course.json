@@ -103,7 +103,7 @@
     },
     {
       "id": "16", "num": 16, "block": "G", "title": "Financials, Completion, Marketing and Technology", "chapters": ["Ch 8", "Ch 24", "Ch 25", "Ch 26"], "estHours": 12,
-      "status": "coming_soon",
+      "status": "ready", "quiz": true, "cheatsheet": true,
       "summary": "Reading business financial statements, getting a deal from contract to completion, statements of adjustments, and running your practice.",
       "topics": ["Forms of business organization", "Balance sheet, income statement, tax return", "Information needed for completion", "Closing procedures", "Statements of adjustments", "Marketing theory and advertising", "Listing presentations", "Competition Act", "Technology, privacy and security"]
     }

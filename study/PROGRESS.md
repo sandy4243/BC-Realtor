@@ -12,6 +12,7 @@
 | 2026-10-26 | 12, 13 | Ch 13–17 (mortgage finance, law, analysis, underwriting) | Lessons 12 and 13 published: notes, cheat sheets, quizzes (72 + 92 Qs), glossary now 376 terms. |
 | 2026-10-26 | 14 | Ch 18–19 (local government law, taxes on real property) | Lesson 14 published: notes, cheat sheet, quiz (106 Qs), glossary now 422 terms. |
 | 2026-10-26 | 15 | Ch 20–23 (construction, appraisal process, direct comparison and cost approaches, income approach) | Lesson 15 published: notes, cheat sheet, quiz (139 Qs), glossary now 506 terms. |
+| 2026-10-26 | 16 | Ch 8, 24–26 (financial statements, completion, marketing, technology) | Lesson 16 published: notes, cheat sheet, quiz (169 Qs), glossary now 572 terms. Course complete. |
 
 ## Weak spots to revisit
 _(populated as we go)_
