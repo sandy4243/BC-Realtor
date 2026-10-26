@@ -5,9 +5,19 @@
     "lesson": "02"
   },
   {
+    "term": "Acceptance",
+    "def": "Clear, unconditional agreement to all the terms of an offer, communicated to the offeror.",
+    "lesson": "07"
+  },
+  {
     "term": "Acknowledgement of liability",
     "def": "Admitting responsibility, for example by a partial payment on a fixed-sum claim or a written confirmation. Restarts both limitation clocks from that date.",
     "lesson": "01"
+  },
+  {
+    "term": "Administrative monetary penalty (AMP)",
+    "def": "A FINTRAC fine for non-compliance: up to $100,000 per violation for individuals and $500,000 for entities, published publicly.",
+    "lesson": "06"
   },
   {
     "term": "Administrative penalty",
@@ -25,6 +35,11 @@
     "lesson": "02"
   },
   {
+    "term": "Anticipatory breach",
+    "def": "Announcing before the performance date that you won't perform. The other side can sue right away or wait.",
+    "lesson": "07"
+  },
+  {
     "term": "Appellant",
     "def": "The party who brings an appeal.",
     "lesson": "01"
@@ -38,6 +53,11 @@
     "term": "Arbitration",
     "def": "A private process where a neutral arbitrator hears both sides and makes a decision (an award) that is usually binding and final. Common in commercial leases.",
     "lesson": "01"
+  },
+  {
+    "term": "Assignment",
+    "def": "Transferring the benefits (not the burdens) of a contract to someone else.",
+    "lesson": "07"
   },
   {
     "term": "Associate broker",
@@ -70,6 +90,16 @@
     "lesson": "04"
   },
   {
+    "term": "Beneficial owner",
+    "def": "For FINTRAC purposes, a person who directly or indirectly owns or controls 25% or more of an entity.",
+    "lesson": "06"
+  },
+  {
+    "term": "Breach of contract",
+    "def": "Failing to perform a contractual promise, including by refusing in advance (anticipatory breach) or making performance impossible.",
+    "lesson": "07"
+  },
+  {
     "term": "Brokerage",
     "def": "The licensed business through which all real estate services are provided. Clients contract with the brokerage, not the individual licensee.",
     "lesson": "04"
@@ -95,6 +125,11 @@
     "lesson": "01"
   },
   {
+    "term": "Capacity",
+    "def": "The legal ability to make a binding contract. Minors and mentally incapable people have limited capacity.",
+    "lesson": "07"
+  },
+  {
     "term": "Cause of action",
     "def": "The set of facts that gives someone the right to sue.",
     "lesson": "01"
@@ -103,6 +138,11 @@
     "term": "Caveat",
     "def": "A registered warning by someone claiming an interest in land, blocking inconsistent dealings. Lapses after 2 months unless a lawsuit is started and a CPL registered.",
     "lesson": "03"
+  },
+  {
+    "term": "Caveat emptor",
+    "def": "\"Let the buyer beware\": buyers must inspect and take responsibility for what they find, subject to the seller's disclosure duties.",
+    "lesson": "07"
   },
   {
     "term": "Certificate of pending litigation (CPL)",
@@ -135,9 +175,19 @@
     "lesson": "04"
   },
   {
+    "term": "Committee",
+    "def": "A person appointed by the court to manage the affairs of an adult who can't manage them. The adult can no longer contract.",
+    "lesson": "07"
+  },
+  {
     "term": "Common law",
     "def": "Law made by judges through written decisions, built up case by case since medieval England. In the broad sense it includes equity and is contrasted with statute law.",
     "lesson": "01"
+  },
+  {
+    "term": "Common mistake",
+    "def": "Both parties share the same mistaken belief about a fundamental fact, such as the property already being destroyed. The contract is void.",
+    "lesson": "07"
   },
   {
     "term": "Common property",
@@ -145,14 +195,39 @@
     "lesson": "03"
   },
   {
+    "term": "Compliance program",
+    "def": "The five-part PCMLTFA program every brokerage needs: compliance officer, written policies, documented risk assessment, written training, and a review every 2 years.",
+    "lesson": "06"
+  },
+  {
+    "term": "Condition (contract term)",
+    "def": "An essential term. A breach lets the innocent party end the contract and claim damages.",
+    "lesson": "07"
+  },
+  {
+    "term": "Condition precedent",
+    "def": "A \"subject\": an event that must happen before the contract becomes binding. Only a party for whose sole benefit it exists can waive it.",
+    "lesson": "07"
+  },
+  {
     "term": "Conduct unbecoming",
     "def": "Behaviour contrary to the public's best interests, or that undermines confidence in or discredits the real estate industry.",
     "lesson": "05"
   },
   {
+    "term": "Conflict of interest",
+    "def": "A substantial risk that your duty to a client will be affected by your own interests or a duty to someone else. Must be disclosed promptly, fully and in writing.",
+    "lesson": "06"
+  },
+  {
     "term": "Consent order",
     "def": "A discipline outcome agreed to by the licensee, based on their own proposal. It's published and can support a Special Compensation Fund claim.",
     "lesson": "05"
+  },
+  {
+    "term": "Consideration",
+    "def": "Something of value each side gives in exchange for the other's promise. Courts don't review whether it's adequate.",
+    "lesson": "07"
   },
   {
     "term": "Contract",
@@ -163,6 +238,11 @@
     "term": "Cooperative interest",
     "def": "A share or membership in a cooperative association that comes with the right to occupy a unit.",
     "lesson": "05"
+  },
+  {
+    "term": "Counter-offer",
+    "def": "A response that changes the terms of an offer. It rejects and ends the original offer.",
+    "lesson": "07"
   },
   {
     "term": "Court costs",
@@ -178,6 +258,11 @@
     "term": "Damages",
     "def": "Money a court orders one party to pay another as compensation for a wrong.",
     "lesson": "01"
+  },
+  {
+    "term": "Deceit",
+    "def": "Fraudulent misrepresentation: a statement made knowing it's false or recklessly not caring whether it's true. Anyone can commit it.",
+    "lesson": "06"
   },
   {
     "term": "Default judgment",
@@ -220,6 +305,16 @@
     "lesson": "03"
   },
   {
+    "term": "Duress",
+    "def": "Pressure through threats (physical or economic) that forces someone into a contract. Makes it voidable.",
+    "lesson": "07"
+  },
+  {
+    "term": "Duty to report",
+    "def": "Rules s.29: representatives and associate brokers must promptly tell their managing broker about possible misconduct in the brokerage.",
+    "lesson": "06"
+  },
+  {
     "term": "E&O insurance",
     "def": "Errors and omissions insurance: professional liability coverage for licensees' mistakes. Requires written notice of any circumstance that could lead to a claim, however weak.",
     "lesson": "01"
@@ -233,6 +328,16 @@
     "term": "Encumbrance",
     "def": "A claim or burden registered against title, such as a mortgage, lien or judgment.",
     "lesson": "03"
+  },
+  {
+    "term": "Enduring power of attorney",
+    "def": "A power of attorney that continues after the donor loses capacity, and isn't subject to the 3-year limit for land.",
+    "lesson": "07"
+  },
+  {
+    "term": "Entire agreement clause",
+    "def": "A term saying the written contract is the whole deal. It can protect a seller against innocent misrepresentation but never against fraud, and never protects a licensee.",
+    "lesson": "07"
   },
   {
     "term": "Equitable waste",
@@ -260,6 +365,11 @@
     "lesson": "02"
   },
   {
+    "term": "Ethics",
+    "def": "Moral principles about right and wrong conduct. For licensees, following the spirit of the rules, not just the letter.",
+    "lesson": "06"
+  },
+  {
     "term": "Execution",
     "def": "Enforcing a judgment by having the sheriff seize and sell the debtor's assets under a writ of execution.",
     "lesson": "01"
@@ -280,6 +390,11 @@
     "lesson": "05"
   },
   {
+    "term": "FINTRAC",
+    "def": "Financial Transactions and Reports Analysis Centre of Canada: the federal agency that receives PCMLTFA reports, analyzes them and enforces compliance.",
+    "lesson": "06"
+  },
+  {
     "term": "First-dollar defence",
     "def": "An insurance feature where no deductible applies if the insurer only paid defence costs and nothing went to the claimant.",
     "lesson": "04"
@@ -295,9 +410,24 @@
     "lesson": "03"
   },
   {
+    "term": "Frustration",
+    "def": "An outside event after the contract, not provided for, that makes performance fundamentally different. Ends the contract.",
+    "lesson": "07"
+  },
+  {
     "term": "Garnishing order",
     "def": "A court order directing someone who owes the debtor money (an employer or bank) to pay it into court instead. 70% of wages are exempt.",
     "lesson": "01"
+  },
+  {
+    "term": "Grant of Probate",
+    "def": "A court document confirming a will and the executor's authority to deal with the estate, including selling land.",
+    "lesson": "07"
+  },
+  {
+    "term": "Headline test",
+    "def": "Asking whether you'd be comfortable seeing your decision reported as a news headline. A quick ethics check.",
+    "lesson": "06"
   },
   {
     "term": "Home Buyer Rescission Period (HBRP)",
@@ -315,6 +445,11 @@
     "lesson": "03"
   },
   {
+    "term": "Infant (minor)",
+    "def": "A person under 19 in BC. Their contracts are unenforceable against them but enforceable by them (Infants Act).",
+    "lesson": "07"
+  },
+  {
     "term": "Injunction",
     "def": "An equitable court order telling someone to stop doing something. A mandatory injunction orders them to do something.",
     "lesson": "01"
@@ -323,6 +458,11 @@
     "term": "Inoperative licence",
     "def": "A licence that still exists but can't be used, for example when a licensee leaves their brokerage or their managing broker's licence is suspended.",
     "lesson": "04"
+  },
+  {
+    "term": "Invitation to treat",
+    "def": "An invitation for others to make offers, such as an ad, listing or display. Not an offer itself.",
+    "lesson": "07"
   },
   {
     "term": "Joint tenancy",
@@ -345,6 +485,21 @@
     "lesson": "01"
   },
   {
+    "term": "Know your client (KYC)",
+    "def": "Verifying and recording the identity of the people and entities you deal with, as required by the PCMLTFA.",
+    "lesson": "06"
+  },
+  {
+    "term": "Large cash transaction",
+    "def": "Receiving $10,000 or more in cash in one transaction, or in several within 24 hours from or for the same person. Must be reported within 15 calendar days.",
+    "lesson": "06"
+  },
+  {
+    "term": "Latent defect",
+    "def": "A hidden defect not discoverable by a reasonable inspection. A seller must disclose known latent defects that are dangerous or make the property uninhabitable.",
+    "lesson": "07"
+  },
+  {
     "term": "Leasehold strata",
     "def": "A strata created on land leased for at least 50 years from a leasehold landlord (a government, certain First Nations or a university). Buyers get leases, not fee simple.",
     "lesson": "03"
@@ -353,6 +508,11 @@
     "term": "Leave to appeal",
     "def": "Permission to appeal. Required for the Supreme Court of Canada, which can refuse.",
     "lesson": "01"
+  },
+  {
+    "term": "Letters of Administration",
+    "def": "A court document appointing an administrator when there's no valid will. The administrator has no authority before it's granted.",
+    "lesson": "07"
   },
   {
     "term": "Liable",
@@ -375,6 +535,21 @@
     "lesson": "01"
   },
   {
+    "term": "Liquidated damages",
+    "def": "An amount agreed in the contract as compensation for breach. Enforced only if a genuine pre-estimate of loss; otherwise an unenforceable penalty.",
+    "lesson": "07"
+  },
+  {
+    "term": "LOTA",
+    "def": "Land Owner Transparency Act: BC law requiring disclosure of the individuals with indirect interests in land held through corporations, trusts or partnerships.",
+    "lesson": "06"
+  },
+  {
+    "term": "LOTR",
+    "def": "Land Owner Transparency Registry: the searchable registry created by LOTA. Separate from the title register and doesn't confirm ownership.",
+    "lesson": "06"
+  },
+  {
     "term": "LTSA",
     "def": "The Land Title and Survey Authority of BC, which has run the land title and survey systems since 2005.",
     "lesson": "03"
@@ -385,9 +560,24 @@
     "lesson": "04"
   },
   {
+    "term": "Material latent defect",
+    "def": "Under Rules s.59, a hidden defect that makes a property dangerous or unfit, would cost a great deal to fix, is subject to a local government notice, or lacks required permits. The seller's licensee must disclose it in writing before an agreement.",
+    "lesson": "07"
+  },
+  {
     "term": "Mediation",
     "def": "A process where a neutral mediator helps the parties reach their own settlement. The mediator doesn't decide anything.",
     "lesson": "01"
+  },
+  {
+    "term": "Misrepresentation",
+    "def": "A false statement of fact that leads someone into a contract. The most common basis of claims against licensees.",
+    "lesson": "06"
+  },
+  {
+    "term": "Mitigation",
+    "def": "The innocent party's duty to take reasonable steps to limit their losses after a breach.",
+    "lesson": "07"
   },
   {
     "term": "MLS®",
@@ -395,9 +585,19 @@
     "lesson": "04"
   },
   {
+    "term": "Money laundering",
+    "def": "Disguising the criminal origin of money or property so it appears legitimate. A Criminal Code offence, including when done recklessly.",
+    "lesson": "06"
+  },
+  {
     "term": "Mortgagor / mortgagee",
     "def": "The mortgagor is the borrower who grants the mortgage; the mortgagee is the lender who receives it.",
     "lesson": "02"
+  },
+  {
+    "term": "Mutual mistake",
+    "def": "The parties are at cross-purposes about the subject of the contract. Void if no reasonable reading of the contract can be found.",
+    "lesson": "07"
   },
   {
     "term": "myLTSA",
@@ -408,6 +608,16 @@
     "term": "Natural justice",
     "def": "Basic fair-process rules, such as the right to be heard and an unbiased decision-maker.",
     "lesson": "01"
+  },
+  {
+    "term": "Negligence",
+    "def": "Carelessness that causes harm. The plaintiff must prove a duty of care, a breach of the standard of care, and damage that isn't too remote.",
+    "lesson": "06"
+  },
+  {
+    "term": "Negligent misrepresentation",
+    "def": "A careless untrue statement by someone with special skill, reasonably relied on, causing loss (the five-part Queen v. Cognos test).",
+    "lesson": "06"
   },
   {
     "term": "Nemo dat quod non habet",
@@ -435,6 +645,31 @@
     "lesson": "02"
   },
   {
+    "term": "Offer",
+    "def": "A clear proposal that, if accepted, creates a binding contract.",
+    "lesson": "07"
+  },
+  {
+    "term": "Option agreement",
+    "def": "A contract where the offeror receives separate consideration to keep an offer open for a set time.",
+    "lesson": "07"
+  },
+  {
+    "term": "Past consideration",
+    "def": "Something done before a promise was made. It isn't valid consideration.",
+    "lesson": "07"
+  },
+  {
+    "term": "Patent defect",
+    "def": "A defect discoverable by a reasonable inspection. Generally the buyer's responsibility.",
+    "lesson": "07"
+  },
+  {
+    "term": "PCMLTFA",
+    "def": "Proceeds of Crime (Money Laundering) and Terrorist Financing Act: the federal law requiring reporting entities to run compliance programs, verify identity, report and keep records.",
+    "lesson": "06"
+  },
+  {
     "term": "Permissive waste",
     "def": "A life tenant letting the property deteriorate by doing nothing. Generally not liable.",
     "lesson": "02"
@@ -450,6 +685,11 @@
     "lesson": "03"
   },
   {
+    "term": "Placement / layering / integration",
+    "def": "The three stages of money laundering: getting dirty money into the system, hiding its trail with complex transactions, and bringing it back as apparently legitimate wealth.",
+    "lesson": "06"
+  },
+  {
     "term": "Plaintiff / Claimant",
     "def": "The party who sues. \"Plaintiff\" in BC Supreme Court; \"claimant\" in Small Claims Court.",
     "lesson": "01"
@@ -460,9 +700,24 @@
     "lesson": "01"
   },
   {
+    "term": "Politically exposed person (PEP)",
+    "def": "A person holding (or who held) a prominent public position, or their family or close associates. Checked at the start of a relationship and on $100,000+ in cash or virtual currency.",
+    "lesson": "06"
+  },
+  {
     "term": "Positive covenant",
     "def": "A promise to do something, such as pay for maintenance. Generally doesn't run with the land, though an owner can become bound by conduct (Crystal Square).",
     "lesson": "02"
+  },
+  {
+    "term": "Postal rule",
+    "def": "A mailed acceptance takes effect when posted, not when received. It doesn't apply to revocations.",
+    "lesson": "07"
+  },
+  {
+    "term": "Power of attorney (POA)",
+    "def": "A document letting one person (the attorney) act for another (the donor). Ends on death, incapacity or bankruptcy; for land, generally usable for 3 years.",
+    "lesson": "07"
   },
   {
     "term": "Pre-sale",
@@ -485,6 +740,11 @@
     "lesson": "01"
   },
   {
+    "term": "Privity of contract",
+    "def": "The rule that only the parties to a contract can enforce it or be bound by it.",
+    "lesson": "07"
+  },
+  {
     "term": "Professional misconduct",
     "def": "Breaking RESA, its regulations or Rules, deceptive dealing, incompetence, not cooperating with an investigation and similar conduct under RESA s.35.",
     "lesson": "05"
@@ -498,6 +758,11 @@
     "term": "Public law",
     "def": "Law involving the state: criminal, tax and constitutional law.",
     "lesson": "01"
+  },
+  {
+    "term": "Quantum meruit",
+    "def": "\"As much as is deserved\": a reasonable payment for work when no price was agreed or a contract fails.",
+    "lesson": "07"
   },
   {
     "term": "Real Estate Foundation of BC (REFBC)",
@@ -520,6 +785,11 @@
     "lesson": "04"
   },
   {
+    "term": "Reasonable grounds to suspect",
+    "def": "The STR threshold: a possibility of money laundering, based on facts a similarly trained person would also find suspicious. Lower than \"reasonable grounds to believe\".",
+    "lesson": "06"
+  },
+  {
     "term": "REDMA",
     "def": "Real Estate Development Marketing Act: the BC statute that controls how developers market development units, mainly through filed disclosure statements.",
     "lesson": "05"
@@ -538,6 +808,16 @@
     "term": "Rental property management services",
     "def": "Leasing a rental for an owner, collecting rent or security deposits, and managing the property (payments, contracts, contractors, landlord–tenant matters).",
     "lesson": "04"
+  },
+  {
+    "term": "Reporting entity",
+    "def": "A business with PCMLTFA obligations. Includes licensees and brokerages acting in the purchase or sale of real estate, but not pure rental or strata managers.",
+    "lesson": "06"
+  },
+  {
+    "term": "Representation agreement",
+    "def": "A document naming someone to help with personal and health decisions. One made after September 1, 2011 can't be used to sell real estate.",
+    "lesson": "07"
   },
   {
     "term": "Representative",
@@ -570,6 +850,11 @@
     "lesson": "02"
   },
   {
+    "term": "Revocation",
+    "def": "Withdrawing an offer. Allowed any time before acceptance (even if the offer says \"open until\"), but only effective once communicated.",
+    "lesson": "07"
+  },
+  {
     "term": "Right of survivorship",
     "def": "The feature of joint tenancy where a deceased owner's interest passes automatically to the surviving joint tenants, outside the will.",
     "lesson": "02"
@@ -580,6 +865,11 @@
     "lesson": "03"
   },
   {
+    "term": "Seal",
+    "def": "A mark that can replace consideration, but only if the party knowingly adopts it. A corporate seal isn't the same thing.",
+    "lesson": "07"
+  },
+  {
     "term": "Section 219 covenant",
     "def": "A covenant registered under LTA s.219 in favour of the province or a local government. Unlike common law restrictive covenants, it can be positive or negative.",
     "lesson": "03"
@@ -588,6 +878,11 @@
     "term": "Shared interest in land",
     "def": "Co-ownership of land with others, plus an agreement limiting each owner's use to a particular part.",
     "lesson": "05"
+  },
+  {
+    "term": "Smurfing",
+    "def": "Breaking up cash into many small deposits to avoid reporting thresholds. A placement technique.",
+    "lesson": "06"
   },
   {
     "term": "Special Compensation Fund",
@@ -605,6 +900,11 @@
     "lesson": "05"
   },
   {
+    "term": "Standard of care",
+    "def": "How carefully the law expects you to act. For licensees: what a competent real estate professional would do in the circumstances.",
+    "lesson": "06"
+  },
+  {
     "term": "Stare decisis",
     "def": "\"Let the former decision stand.\" Courts follow earlier decisions on substantially the same facts.",
     "lesson": "01"
@@ -618,6 +918,11 @@
     "term": "Statutory right of way (SRW)",
     "def": "A right of way under LTA s.218 held by a government, utility or other authorized body. Unlike an ordinary easement, it needs no dominant tenement.",
     "lesson": "02"
+  },
+  {
+    "term": "Stigma",
+    "def": "A non-physical feature that may affect a property's appeal, such as a past death or crime. No duty to disclose, but never lie if asked.",
+    "lesson": "07"
   },
   {
     "term": "Strata lot",
@@ -635,6 +940,11 @@
     "lesson": "03"
   },
   {
+    "term": "Straw buyer",
+    "def": "Someone who buys property on behalf of another person to hide who really owns or pays for it. Also called a nominee.",
+    "lesson": "06"
+  },
+  {
     "term": "Subdivision",
     "def": "Dividing land into two or more parcels. In BC it requires compliance with the Land Title Act and approval.",
     "lesson": "03"
@@ -645,14 +955,29 @@
     "lesson": "04"
   },
   {
+    "term": "Suspicious transaction report (STR)",
+    "def": "A report to FINTRAC, as soon as practicable, when there are reasonable grounds to suspect money laundering or terrorist financing. No dollar threshold.",
+    "lesson": "06"
+  },
+  {
     "term": "Tenancy in common",
     "def": "Co-ownership where each owner holds a separate share (which can be unequal) that can be sold or left by will. No right of survivorship. Presumed in BC unless joint tenancy is clearly stated.",
     "lesson": "02"
   },
   {
+    "term": "Time is of the essence",
+    "def": "Wording that makes deadlines essential, so missing one is a fundamental breach.",
+    "lesson": "07"
+  },
+  {
     "term": "Time share interest",
     "def": "A right to use a property for recurring periods, such as one week a year, including fractional ownership.",
     "lesson": "05"
+  },
+  {
+    "term": "Tipping off",
+    "def": "Telling someone about a suspicious transaction report with intent to prejudice an investigation. Prohibited.",
+    "lesson": "06"
   },
   {
     "term": "Title insurance",
@@ -705,9 +1030,29 @@
     "lesson": "01"
   },
   {
+    "term": "Unconscionable transaction",
+    "def": "A deal between unequal parties that is substantially unfair to the weaker one. The court may set it aside.",
+    "lesson": "07"
+  },
+  {
     "term": "Undertaking",
     "def": "A written promise a licensee gives BCFSA to fix a minor problem and comply in future. Not published, but breaking it is misconduct.",
     "lesson": "05"
+  },
+  {
+    "term": "Undue influence",
+    "def": "Using a dominant relationship to push someone into a contract. Makes it voidable.",
+    "lesson": "07"
+  },
+  {
+    "term": "Unenforceable contract",
+    "def": "A valid contract that courts won't enforce because of a procedural problem, such as an oral contract for land.",
+    "lesson": "07"
+  },
+  {
+    "term": "Unilateral mistake",
+    "def": "One party is mistaken and the other knows it. The court may correct or set aside the contract.",
+    "lesson": "07"
   },
   {
     "term": "Unlicensed assistant",
@@ -720,14 +1065,34 @@
     "lesson": "05"
   },
   {
+    "term": "Vicarious liability",
+    "def": "Liability for someone else's wrong. A brokerage is liable for its licensees' acts in the ordinary course of their work, even fraud.",
+    "lesson": "06"
+  },
+  {
+    "term": "Void contract",
+    "def": "A contract treated as never having existed, for example due to common mistake or illegality.",
+    "lesson": "07"
+  },
+  {
     "term": "Void deed",
     "def": "A document that looks valid but has no legal effect: a forged deed, one for an illegal purpose, or one subject to non est factum.",
     "lesson": "03"
   },
   {
+    "term": "Voidable contract",
+    "def": "A valid contract that one party may choose to cancel, for example after misrepresentation, duress or undue influence.",
+    "lesson": "07"
+  },
+  {
     "term": "Voluntary waste",
     "def": "A life tenant actively damaging or destroying part of the property, such as demolishing a garage. Liable.",
     "lesson": "02"
+  },
+  {
+    "term": "Warranty (contract term)",
+    "def": "A minor term. A breach gives damages only; the contract continues.",
+    "lesson": "07"
   },
   {
     "term": "Water licence",

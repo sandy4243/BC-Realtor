@@ -1,0 +1,691 @@
+{
+  "lessonId": "06",
+  "questions": [
+    {
+      "id": "06-001",
+      "tag": "Negligence",
+      "q": "Which is NOT one of the three things a plaintiff must prove in negligence?",
+      "choices": [
+        "The defendant owed them a duty of care",
+        "The defendant intended to cause the harm",
+        "The defendant breached the standard of care",
+        "The damage that resulted wasn't too remote"
+      ],
+      "answer": 1,
+      "explain": "Negligence is about carelessness, not intent. The plaintiff proves duty, breach and damage that isn't too remote.",
+      "ref": "Lesson 6 · Negligence: the three-part test"
+    },
+    {
+      "id": "06-002",
+      "tag": "Negligence",
+      "q": "What standard of care are licensees held to?",
+      "choices": [
+        "Perfection in every single transaction",
+        "What a competent real estate professional would do",
+        "What an average member of the public would do",
+        "Whatever the client personally expected of them"
+      ],
+      "answer": 1,
+      "explain": "Licensees are judged against a competent real estate professional. Courts set it close to, but not at, perfection.",
+      "ref": "Lesson 6 · Negligence: the three-part test"
+    },
+    {
+      "id": "06-003",
+      "tag": "Negligence",
+      "q": "A listing says \"information believed accurate but not guaranteed\" and the square footage is wrong. What did Koerber v. Salmon decide?",
+      "choices": [
+        "The disclaimer fully protected the seller's licensee",
+        "The general disclaimer didn't defeat the buyer's claim",
+        "Square footage errors can never ground a claim",
+        "Only the seller can ever be liable for listing errors"
+      ],
+      "answer": 1,
+      "explain": "A general disclaimer was ineffective. Specific disclaimers work better, and none protect a licensee who knows the information is wrong.",
+      "ref": "Lesson 6 · Negligence: the three-part test"
+    },
+    {
+      "id": "06-004",
+      "tag": "Negligence",
+      "q": "A buyer's agent can't verify the seller's figures. What's the best advice?",
+      "choices": [
+        "Tell the buyer the figures are probably fine to rely on",
+        "Send the buyer to experts and consider a subject clause",
+        "Refuse to show the property to the buyer at all",
+        "Have the seller sign a statutory declaration instead"
+      ],
+      "answer": 1,
+      "explain": "Send the buyer to qualified professionals, and consider a subject that shifts the risk of inaccuracy to the seller.",
+      "ref": "Lesson 6 · Negligence: the three-part test"
+    },
+    {
+      "id": "06-005",
+      "tag": "Vicarious liability",
+      "q": "When is a brokerage vicariously liable for a licensee's wrongful act?",
+      "choices": [
+        "Only if the managing broker approved the act first",
+        "When it happens in the ordinary course of their work",
+        "Only for careless acts, and never for deliberate fraud",
+        "Whenever the licensee is licensed with that brokerage"
+      ],
+      "answer": 1,
+      "explain": "Vicarious liability covers acts in the ordinary course of work, even fraud. Courts treat representatives like employees.",
+      "ref": "Lesson 6 · Vicarious liability"
+    },
+    {
+      "id": "06-006",
+      "tag": "Misrepresentation",
+      "q": "What is the most common basis of liability against licensees?",
+      "choices": [
+        "Breach of fiduciary duty",
+        "Misrepresentation",
+        "Errors in drafting",
+        "Trespass to land"
+      ],
+      "answer": 1,
+      "explain": "Misrepresentation, negligent or fraudulent, is the most common basis of liability.",
+      "ref": "Lesson 6 · Part 1: How licensees get sued"
+    },
+    {
+      "id": "06-007",
+      "tag": "Misrepresentation",
+      "q": "Which is one of the five requirements for negligent misrepresentation under Queen v. Cognos?",
+      "choices": [
+        "The defendant intended to deceive the plaintiff",
+        "The plaintiff reasonably relied on the statement",
+        "The statement was made in a signed document",
+        "The plaintiff paid a fee for the advice given"
+      ],
+      "answer": 1,
+      "explain": "The five are: special relationship, untrue statement, negligence, reasonable reliance and resulting damage. Intent isn't required.",
+      "ref": "Lesson 6 · Misrepresentation and deceit"
+    },
+    {
+      "id": "06-008",
+      "tag": "Misrepresentation",
+      "q": "How does deceit differ from negligent misrepresentation?",
+      "choices": [
+        "Deceit requires the statement to be made in writing",
+        "Deceit is a knowing or reckless falsehood, by anyone",
+        "Deceit only applies to licensees and other experts",
+        "Deceit doesn't allow the victim to recover damages"
+      ],
+      "answer": 1,
+      "explain": "Deceit is moral fraud: knowingly or recklessly false. Unlike negligent misrepresentation, the speaker needn't be an expert.",
+      "ref": "Lesson 6 · Misrepresentation and deceit"
+    },
+    {
+      "id": "06-009",
+      "tag": "Misrepresentation",
+      "q": "A seller tells you the lot dimensions; you haven't measured. What's the prudent way to pass them on?",
+      "choices": [
+        "Verbally, presented as a confirmed fact",
+        "In writing, stating where the figures came from",
+        "Don't mention the dimensions to anyone at all",
+        "Round them up by 5% as a safety margin"
+      ],
+      "answer": 1,
+      "explain": "Information not from your own direct knowledge should be given in writing with its source.",
+      "ref": "Lesson 6 · Misrepresentation and deceit"
+    },
+    {
+      "id": "06-010",
+      "tag": "Misrepresentation",
+      "q": "Under Rules ss.49–50, what must accompany a promise like \"I'll sell your property for $500,000 in 3 weeks\"?",
+      "choices": [
+        "Nothing extra, as long as the promise is honest",
+        "A signed written statement giving all the details",
+        "Approval from BCFSA before the promise is made",
+        "A refundable deposit paid by the licensee"
+      ],
+      "answer": 1,
+      "explain": "Inducement promises are allowed only with a signed written statement giving all the details. A licensee was disciplined over an undocumented $500 inspection promise.",
+      "ref": "Lesson 6 · Misrepresentation and deceit"
+    },
+    {
+      "id": "06-011",
+      "tag": "Drafting",
+      "q": "In Russell v. Wispinski, why were the licensees found negligent?",
+      "choices": [
+        "They lost the buyer's deposit cheque before closing",
+        "A vague amendment became a counter-offer and the deal died",
+        "They failed to register the transfer on time",
+        "They didn't disclose a conflict of interest to the seller"
+      ],
+      "answer": 1,
+      "explain": "Unclear drafting turned an amendment into a counter-offer the buyer could reject. Clear drafting would have closed the deal.",
+      "ref": "Lesson 6 · Errors in drafting"
+    },
+    {
+      "id": "06-012",
+      "tag": "Fiduciary",
+      "q": "In Ocean City Realty v. A & M Holdings, what happened to the commission?",
+      "choices": [
+        "It was cut in half as a penalty",
+        "The brokerage lost all of it",
+        "It was paid to the buyer instead",
+        "It was held in trust for a hearing"
+      ],
+      "answer": 1,
+      "explain": "Secretly agreeing to split commission with the buyer, without telling the seller, cost the brokerage its whole commission.",
+      "ref": "Lesson 6 · Breach of fiduciary duty"
+    },
+    {
+      "id": "06-013",
+      "tag": "Fiduciary",
+      "q": "When a client alleges breach of fiduciary duty, who has to prove what?",
+      "choices": [
+        "The client must prove every breach beyond doubt",
+        "The agent must show they fulfilled their duties",
+        "BCFSA must investigate before any lawsuit starts",
+        "Neither side; the judge decides on overall fairness"
+      ],
+      "answer": 1,
+      "explain": "Unusually, the burden is on the agent to show they properly discharged their fiduciary duties.",
+      "ref": "Lesson 6 · Breach of fiduciary duty"
+    },
+    {
+      "id": "06-014",
+      "tag": "Board discipline",
+      "q": "What can a real estate board do to a member who breaches the REALTOR® Code?",
+      "choices": [
+        "Suspend the member's real estate licence",
+        "Expel them, which cuts off MLS® access",
+        "Refer them for a criminal prosecution",
+        "Cancel their brokerage's licence"
+      ],
+      "answer": 1,
+      "explain": "Boards can reprimand, fine, suspend or expel members, but can't touch the licence. Expulsion ends MLS® access.",
+      "ref": "Lesson 6 · Part 1: How licensees get sued"
+    },
+    {
+      "id": "06-015",
+      "tag": "Money laundering",
+      "q": "Which statement about money laundering through real estate is correct?",
+      "choices": [
+        "It almost always involves suitcases of cash",
+        "Most dirty money is already in the system before the deal",
+        "It's only a concern for residential property sales",
+        "It can't happen if a bank mortgage is involved in the deal"
+      ],
+      "answer": 1,
+      "explain": "\"Bags of cash\" is a myth. Most laundered money arrives electronically or through other instruments.",
+      "ref": "Lesson 6 · What it is and why real estate attracts it"
+    },
+    {
+      "id": "06-016",
+      "tag": "Money laundering",
+      "q": "In what order do the three stages of money laundering happen?",
+      "choices": [
+        "Layering, placement, integration",
+        "Placement, layering, integration",
+        "Integration, placement, layering",
+        "Placement, integration, layering"
+      ],
+      "answer": 1,
+      "explain": "Placement (into the system), layering (hide the trail), integration (bring back as legitimate).",
+      "ref": "Lesson 6 · The three stages"
+    },
+    {
+      "id": "06-017",
+      "tag": "Money laundering",
+      "q": "A criminal pays tradespeople in cash to renovate, then sells the house at a big gain. Which stage is this mainly?",
+      "choices": [
+        "Placement",
+        "Integration",
+        "Smurfing",
+        "Structuring"
+      ],
+      "answer": 1,
+      "explain": "Renovating with dirty money and selling creates apparently legitimate profit: integration.",
+      "ref": "Lesson 6 · The three stages"
+    },
+    {
+      "id": "06-018",
+      "tag": "FINTRAC",
+      "q": "Which licensee is NOT a reporting entity under the PCMLTFA?",
+      "choices": [
+        "A representative helping a buyer purchase a condo",
+        "A licensee providing only rental property management",
+        "A managing broker of a trading services brokerage",
+        "An associate broker listing a warehouse for sale"
+      ],
+      "answer": 1,
+      "explain": "Only licensees acting in the purchase or sale of real estate are reporting entities. Pure rental or strata managers aren't.",
+      "ref": "Lesson 6 · The legal framework"
+    },
+    {
+      "id": "06-019",
+      "tag": "FINTRAC",
+      "q": "Which is one of the five required parts of a brokerage compliance program?",
+      "choices": [
+        "An outside audit at least every five years",
+        "A documented risk assessment",
+        "Approval of the program by FINTRAC itself",
+        "A dedicated, full-time compliance officer"
+      ],
+      "answer": 1,
+      "explain": "The five: compliance officer, written policies, documented risk assessment, written training, and a review every 2 years. The officer can be the managing broker.",
+      "ref": "Lesson 6 · Your four key obligations"
+    },
+    {
+      "id": "06-020",
+      "tag": "FINTRAC",
+      "q": "What counts as a large cash transaction?",
+      "choices": [
+        "$5,000 or more in any single payment",
+        "$10,000 or more at once, or in total within 24 hours",
+        "$10,000 or more received within one calendar month",
+        "Any cash payment at all, regardless of the amount"
+      ],
+      "answer": 1,
+      "explain": "$10,000+ in a single transaction or multiple payments within 24 hours from or for the same person.",
+      "ref": "Lesson 6 · Your four key obligations"
+    },
+    {
+      "id": "06-021",
+      "tag": "FINTRAC",
+      "q": "Which way of verifying a client's photo ID is NOT permitted?",
+      "choices": [
+        "Viewing the original ID in person",
+        "Viewing the ID over a video call",
+        "Authenticating it with approved software",
+        "Comparing it to the person presenting it"
+      ],
+      "answer": 1,
+      "explain": "Video-call viewing and photocopies aren't allowed. Remote checks need software that authenticates security features.",
+      "ref": "Lesson 6 · Your four key obligations"
+    },
+    {
+      "id": "06-022",
+      "tag": "FINTRAC",
+      "q": "Using the credit file method, how old must the client's Canadian credit file be?",
+      "choices": [
+        "At least 6 months",
+        "At least 3 years",
+        "At least 1 year",
+        "At least 5 years"
+      ],
+      "answer": 1,
+      "explain": "The credit file must be Canadian and have existed for at least 3 years.",
+      "ref": "Lesson 6 · Your four key obligations"
+    },
+    {
+      "id": "06-023",
+      "tag": "FINTRAC",
+      "q": "For FINTRAC purposes, who is a beneficial owner?",
+      "choices": [
+        "Anyone who owns or controls 10% or more",
+        "Anyone who owns or controls 25% or more",
+        "Only the shareholders named in the register",
+        "Only the directors and senior officers"
+      ],
+      "answer": 1,
+      "explain": "25% or more, directly or indirectly. LOTA uses 10% for corporate interest holders.",
+      "ref": "Lesson 6 · Your four key obligations"
+    },
+    {
+      "id": "06-024",
+      "tag": "FINTRAC",
+      "q": "Rochelle owns 90% of HoldCo, which owns 90% of PropCo. What's her indirect interest in PropCo?",
+      "choices": [
+        "90%",
+        "81%",
+        "45%",
+        "9%"
+      ],
+      "answer": 1,
+      "explain": "90% × 90% = 81%, well above 25%, so she's a beneficial owner of PropCo.",
+      "ref": "Lesson 6 · Your four key obligations"
+    },
+    {
+      "id": "06-025",
+      "tag": "FINTRAC",
+      "q": "Besides the start of a business relationship, when must you check whether someone is a PEP or HIO?",
+      "choices": [
+        "When they pay a deposit of more than $25,000",
+        "When you receive $100,000+ in cash or virtual currency",
+        "Only if they ordinarily live outside of Canada",
+        "Only when you're filing a suspicious transaction report"
+      ],
+      "answer": 1,
+      "explain": "Receiving $100,000+ in cash or virtual currency also triggers the PEP/HIO determination.",
+      "ref": "Lesson 6 · Your four key obligations"
+    },
+    {
+      "id": "06-026",
+      "tag": "FINTRAC",
+      "q": "When must a Large Cash Transaction Report be filed?",
+      "choices": [
+        "Within 30 days of the transaction",
+        "Within 15 calendar days of it",
+        "Within 24 hours of the transaction",
+        "By the end of the calendar year"
+      ],
+      "answer": 1,
+      "explain": "Within 15 calendar days. Many brokerages refuse cash to avoid the obligation.",
+      "ref": "Lesson 6 · Your four key obligations"
+    },
+    {
+      "id": "06-027",
+      "tag": "FINTRAC",
+      "q": "What's the dollar threshold for filing a suspicious transaction report?",
+      "choices": [
+        "$10,000",
+        "There's none",
+        "$3,000",
+        "$100,000"
+      ],
+      "answer": 1,
+      "explain": "STRs have no monetary threshold, and they cover attempted transactions too.",
+      "ref": "Lesson 6 · Your four key obligations"
+    },
+    {
+      "id": "06-028",
+      "tag": "FINTRAC",
+      "q": "What standard triggers the obligation to file an STR?",
+      "choices": [
+        "A gut feeling or hunch",
+        "Reasonable grounds to suspect",
+        "Reasonable grounds to believe",
+        "Proof beyond a reasonable doubt"
+      ],
+      "answer": 1,
+      "explain": "Reasonable grounds to suspect: a possibility, for reasons another trained person would likely share. You don't need proof.",
+      "ref": "Lesson 6 · Your four key obligations"
+    },
+    {
+      "id": "06-029",
+      "tag": "FINTRAC",
+      "q": "Having filed an STR, what must you NOT do?",
+      "choices": [
+        "Discuss it with your compliance officer",
+        "Tip off the client in a way that may harm a probe",
+        "Keep a copy of the report on the client's file",
+        "Continue monitoring the client's account activity"
+      ],
+      "answer": 1,
+      "explain": "Tipping off is prohibited. Talking with your compliance officer or managing broker is fine.",
+      "ref": "Lesson 6 · Your four key obligations"
+    },
+    {
+      "id": "06-030",
+      "tag": "FINTRAC",
+      "q": "Which is a recognized money-laundering red flag?",
+      "choices": [
+        "The buyer's spouse pays the deposit",
+        "An unrelated third party pays the deposit",
+        "The buyer asks for a home inspection",
+        "The buyer gets a mortgage from a major bank"
+      ],
+      "answer": 1,
+      "explain": "A third-party deposit (other than a spouse or parent) is a listed indicator.",
+      "ref": "Lesson 6 · Your four key obligations"
+    },
+    {
+      "id": "06-031",
+      "tag": "FINTRAC",
+      "q": "How long must PCMLTFA records generally be kept?",
+      "choices": [
+        "2 years",
+        "5 years",
+        "7 years",
+        "10 years"
+      ],
+      "answer": 1,
+      "explain": "At least 5 years, and producible to FINTRAC within 30 days of a request.",
+      "ref": "Lesson 6 · Your four key obligations"
+    },
+    {
+      "id": "06-032",
+      "tag": "FINTRAC",
+      "q": "What's the maximum FINTRAC administrative penalty per violation for an entity such as a brokerage?",
+      "choices": [
+        "$100,000",
+        "$500,000",
+        "$250,000",
+        "$2 million"
+      ],
+      "answer": 1,
+      "explain": "$500,000 for entities and $100,000 for individuals, and all are published. Criminal penalties reach $2M and/or 5 years.",
+      "ref": "Lesson 6 · Penalties"
+    },
+    {
+      "id": "06-033",
+      "tag": "LOTA",
+      "q": "Who prepares and files LOTA transparency declarations and reports?",
+      "choices": [
+        "The listing licensee",
+        "The client's lawyer or notary",
+        "The buyer's mortgage lender",
+        "BCFSA licensing staff"
+      ],
+      "answer": 1,
+      "explain": "Licensees don't file them, and shouldn't advise on LOTA. Refer clients to lawyers or notaries.",
+      "ref": "Lesson 6 · Land Owner Transparency Act (LOTA)"
+    },
+    {
+      "id": "06-034",
+      "tag": "LOTA",
+      "q": "Which is true of the Land Owner Transparency Registry?",
+      "choices": [
+        "It confirms legal ownership, like the title register",
+        "It's separate from title and doesn't confirm ownership",
+        "It can only be searched by law enforcement agencies",
+        "It replaces the need for a title search by licensees"
+      ],
+      "answer": 1,
+      "explain": "LOTR is separate from the Land Title Act register, isn't verified by anyone but the filer, and doesn't confirm ownership.",
+      "ref": "Lesson 6 · Land Owner Transparency Act (LOTA)"
+    },
+    {
+      "id": "06-035",
+      "tag": "Climate risk",
+      "q": "Which is good advice to a seller client given climate-related risks?",
+      "choices": [
+        "Cancel the insurance once the contract is signed",
+        "Keep insurance in place until completion",
+        "Remove any s.219 covenants before listing",
+        "Avoid mentioning known hazards to buyers"
+      ],
+      "answer": 1,
+      "explain": "If the deal collapses, the seller still needs coverage. Keep insurance until completion.",
+      "ref": "Lesson 6 · Part 3: Climate risk"
+    },
+    {
+      "id": "06-036",
+      "tag": "Ethics",
+      "q": "What is conduct unbecoming a licensee?",
+      "choices": [
+        "Any technical breach of a specific Rule, however minor it is",
+        "Conduct harming the public interest or trust in the industry",
+        "A minor paperwork error later fixed by an undertaking",
+        "Only misconduct by a licensee during a live transaction"
+      ],
+      "answer": 1,
+      "explain": "It's about public interest, confidence and the industry's reputation, and can include conduct outside work.",
+      "ref": "Lesson 6 · Conduct unbecoming reaches your private life"
+    },
+    {
+      "id": "06-037",
+      "tag": "Ethics",
+      "q": "What is the \"headline test\"?",
+      "choices": [
+        "Checking that a listing headline is accurate",
+        "Imagining your decision reported as news",
+        "Asking BCFSA to review a decision in advance",
+        "Comparing your ad headlines with competitors'"
+      ],
+      "answer": 1,
+      "explain": "If you'd be embarrassed to see it as a headline or viral post, it probably fails honesty and integrity.",
+      "ref": "Lesson 6 · Trust, honesty and integrity"
+    },
+    {
+      "id": "06-038",
+      "tag": "Duties to clients",
+      "q": "How long does the duty of confidentiality to a client last?",
+      "choices": [
+        "Until completion of the transaction",
+        "Indefinitely, even after the relationship ends",
+        "For 7 years, the same as brokerage records",
+        "Until the client lists with another brokerage"
+      ],
+      "answer": 1,
+      "explain": "Confidentiality, unlike most fiduciary duties, survives the end of the relationship.",
+      "ref": "Lesson 6 · Rules s.30: your duties to clients"
+    },
+    {
+      "id": "06-039",
+      "tag": "Duties to clients",
+      "q": "A seller said they won't accept anything below list. An offer arrives below list. What should you do?",
+      "choices": [
+        "Reject it on the seller's behalf without presenting it",
+        "Present it, unless told otherwise (ideally in writing)",
+        "Ask the buyer to raise it before you present it",
+        "Hold it until a better offer comes along"
+      ],
+      "answer": 1,
+      "explain": "Rules s.30(g): communicate all offers promptly unless instructed otherwise. A below-list offer may still lead to a counter-offer.",
+      "ref": "Lesson 6 · Rules s.30: your duties to clients"
+    },
+    {
+      "id": "06-040",
+      "tag": "Duties to clients",
+      "q": "What does a licensee need before signing an agreement on a client's behalf?",
+      "choices": [
+        "Verbal permission from the client",
+        "Written authorization from the client",
+        "The managing broker's approval only",
+        "Nothing, if the terms are standard"
+      ],
+      "answer": 1,
+      "explain": "Rules s.45 requires written authorization to sign for a client.",
+      "ref": "Lesson 6 · Rules s.30: your duties to clients"
+    },
+    {
+      "id": "06-041",
+      "tag": "Conflicts",
+      "q": "How must a conflict of interest be disclosed to a client?",
+      "choices": [
+        "Verbally, at any point before completion",
+        "Promptly, fully, in writing, and separately",
+        "In a clause inside the service agreement",
+        "Only if the client asks about conflicts"
+      ],
+      "answer": 1,
+      "explain": "Rules s.30(i)–(j): avoid conflicts; disclose promptly and fully in writing, separately from service and trade agreements.",
+      "ref": "Lesson 6 · Conflicts of interest"
+    },
+    {
+      "id": "06-042",
+      "tag": "Conflicts",
+      "q": "A licensee lent their buyer client $50,000 so the purchase could close. What was the outcome in 2024 BCSRE 1?",
+      "choices": [
+        "No penalty, because the loan helped the client",
+        "A penalty and costs for an undisclosed conflict",
+        "Licence cancellation for a finding of fraud",
+        "A criminal charge laid under the PCMLTFA"
+      ],
+      "answer": 1,
+      "explain": "$5,000 administrative penalty, $22,958.18 in expenses and two courses. Lending created an undisclosed conflict.",
+      "ref": "Lesson 6 · Conflicts of interest"
+    },
+    {
+      "id": "06-043",
+      "tag": "Conflicts",
+      "q": "After disclosing a conflict and getting the client's consent, can you always continue?",
+      "choices": [
+        "Yes, the client's consent fully cures the conflict",
+        "No; if you can't serve the client loyally, you can't",
+        "Yes, as long as your managing broker approves it",
+        "Only in commercial, not residential, transactions"
+      ],
+      "answer": 1,
+      "explain": "Disclosure and consent don't remove your duty to act in the client's best interests.",
+      "ref": "Lesson 6 · Conflicts of interest"
+    },
+    {
+      "id": "06-044",
+      "tag": "Duty to report",
+      "q": "Under Rules s.29, to whom must a representative report possible misconduct in their brokerage?",
+      "choices": [
+        "The client involved",
+        "Their managing broker",
+        "The local real estate board",
+        "FINTRAC"
+      ],
+      "answer": 1,
+      "explain": "Representatives and associate brokers must promptly notify their managing broker.",
+      "ref": "Lesson 6 · The duty to report misconduct"
+    },
+    {
+      "id": "06-045",
+      "tag": "Duty to report",
+      "q": "When should a licensee go directly to BCFSA rather than their managing broker?",
+      "choices": [
+        "Never; the managing broker must always hear it first",
+        "When the managing broker is the one at fault",
+        "Only after the client has filed a complaint",
+        "Only for misconduct at a different brokerage"
+      ],
+      "answer": 1,
+      "explain": "Direct reporting is appropriate for urgent risks, an unavailable MB, concerns about the MB's handling, or misconduct by the MB.",
+      "ref": "Lesson 6 · The duty to report misconduct"
+    },
+    {
+      "id": "06-046",
+      "tag": "Duty to report",
+      "q": "A managing broker arranges compensation for a client harmed by a licensee's misconduct. Does that end the duty to report?",
+      "choices": [
+        "Yes, the matter has been resolved",
+        "No; compensation is a separate issue",
+        "Yes, if the client agrees in writing",
+        "Only if the amount is under $5,000"
+      ],
+      "answer": 1,
+      "explain": "The decision to report is separate from compensation. Making it right with the client doesn't remove the obligation.",
+      "ref": "Lesson 6 · The duty to report misconduct"
+    },
+    {
+      "id": "06-047",
+      "tag": "Ethics framework",
+      "q": "What's the first step in the ethical decision-making framework?",
+      "choices": [
+        "Make your choice and justify it to others",
+        "Consider the situation and the ethical issues",
+        "Identify the feasible alternatives open to you",
+        "Evaluate the alternatives against the Rules"
+      ],
+      "answer": 1,
+      "explain": "1 Consider the situation, 2 identify stakeholders, 3 list alternatives, 4 evaluate, 5 choose and justify.",
+      "ref": "Lesson 6 · The five-step ethical decision framework"
+    },
+    {
+      "id": "06-048",
+      "tag": "Duties to third parties",
+      "q": "What do you owe a buyer who is not your client?",
+      "choices": [
+        "Nothing; you owe duties only to your own client",
+        "Honesty and reasonable care, but not fiduciary loyalty",
+        "The same fiduciary duties you owe your own client",
+        "Only the duties listed in the PCMLTFA"
+      ],
+      "answer": 1,
+      "explain": "No fiduciary duty to third parties, but you must be honest, take reasonable care and avoid conduct unbecoming.",
+      "ref": "Lesson 6 · Duties to third parties"
+    },
+    {
+      "id": "06-049",
+      "tag": "Reasonableness",
+      "q": "How does BCFSA judge whether a licensee acted \"reasonably\" under s.34?",
+      "choices": [
+        "By what the client felt was reasonable at the time",
+        "Against a competent licensee, e.g. a panel of managing brokers",
+        "By whether the licensee followed their own usual habits",
+        "Only by whether a court has already found them negligent"
+      ],
+      "answer": 1,
+      "explain": "The test is a competent licensee's standard; think of a reasonable informed third party or a panel of five managing brokers.",
+      "ref": "Lesson 6 · s.34 and \"reasonableness\""
+    }
+  ]
+}

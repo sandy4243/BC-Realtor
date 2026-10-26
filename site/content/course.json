@@ -43,13 +43,13 @@
     },
     {
       "id": "06", "num": 6, "block": "B", "title": "Liability, FINTRAC and Ethics", "chapters": ["Ch 5", "Ch 9"], "estHours": 8,
-      "status": "coming_soon",
+      "status": "ready", "quiz": true, "cheatsheet": true,
       "summary": "How licensees get sued and disciplined, your anti-money-laundering obligations, and the professional standard you're held to.",
       "topics": ["Negligence", "Misrepresentation and deceit", "Errors in drafting", "Breach of fiduciary duty", "Money laundering and FINTRAC obligations", "Climate change risk", "Professionalism, trust and honesty", "Duties to clients and third parties", "Duty to report misconduct", "Ethical decision-making"]
     },
     {
       "id": "07", "num": 7, "block": "C", "title": "The Law of Contract", "chapters": ["Ch 10"], "estHours": 6,
-      "status": "coming_soon",
+      "status": "ready", "quiz": true, "cheatsheet": true,
       "summary": "What turns a conversation into a binding contract, what makes one fail, and what happens when it's broken.",
       "topics": ["Void, voidable, illegal and unenforceable contracts", "Offer and acceptance", "Consideration", "Legal intention", "Capacity", "Legal object", "Genuine consent", "Termination", "Remedies"]
     },

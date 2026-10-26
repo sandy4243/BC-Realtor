@@ -1,6 +1,6 @@
-import { store } from './store.js?v=4';
-import { buildPlan, pace, streak, tagStats } from './plan.js?v=4';
-import { todayStr, addDays, fmt, fmtLong, daysBetween, isoToLocalDay } from './dates.js?v=4';
+import { store } from './store.js?v=5';
+import { buildPlan, pace, streak, tagStats } from './plan.js?v=5';
+import { todayStr, addDays, fmt, fmtLong, daysBetween, isoToLocalDay } from './dates.js?v=5';
 
 const app = document.getElementById('app');
 const nav = document.getElementById('nav');
@@ -377,10 +377,39 @@ async function viewLesson(id) {
         const b = e.target.closest('button');
         if (b) document.getElementById(b.dataset.target)?.scrollIntoView({ behavior: 'smooth', block: 'start' });
       });
+      spyToc(toc, heads);
     }
   } catch {
     body.innerHTML = `<div class="callout callout-warn">Couldn't load this lesson file.</div>`;
   }
+}
+
+// Highlight the section being read in the "On this page" panel.
+let tocSpy = null;
+function spyToc(toc, heads) {
+  if (tocSpy) window.removeEventListener('scroll', tocSpy);
+  const buttons = [...toc.querySelectorAll('button')];
+  let current = -1;
+  const update = () => {
+    if (!toc.isConnected) { window.removeEventListener('scroll', tocSpy); tocSpy = null; return; }
+    const atBottom = window.innerHeight + window.scrollY >= document.documentElement.scrollHeight - 4;
+    const i = atBottom ? heads.length - 1 : Math.max(0, heads.findLastIndex((h) => h.getBoundingClientRect().top <= 140));
+    if (i === current) return;
+    buttons[current]?.classList.remove('active');
+    buttons[current]?.removeAttribute('aria-current');
+    current = i;
+    const b = buttons[i];
+    if (!b) return;
+    b.classList.add('active');
+    b.setAttribute('aria-current', 'location');
+    // Keep the active item visible inside the panel without scrolling the page.
+    if (b.offsetTop < toc.scrollTop + 30 || b.offsetTop + b.offsetHeight > toc.scrollTop + toc.clientHeight - 30) {
+      toc.scrollTo({ top: b.offsetTop - toc.clientHeight / 3, behavior: 'smooth' });
+    }
+  };
+  tocSpy = update;
+  window.addEventListener('scroll', tocSpy, { passive: true });
+  update();
 }
 
 async function viewCheatsheet(id) {

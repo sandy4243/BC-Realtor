@@ -1,0 +1,775 @@
+{
+  "lessonId": "07",
+  "questions": [
+    {
+      "id": "07-001",
+      "tag": "Essentials",
+      "q": "Which is NOT one of the seven essentials of a valid contract?",
+      "choices": [
+        "Consideration",
+        "A registered title",
+        "Capacity",
+        "Genuine consent"
+      ],
+      "answer": 1,
+      "explain": "The seven: offer, acceptance, consideration, legal intention, capacity, legal object and genuine consent.",
+      "ref": "Lesson 7 · The seven essentials"
+    },
+    {
+      "id": "07-002",
+      "tag": "Essentials",
+      "q": "Under the Law and Equity Act s.59, what do contracts about land generally need to be enforceable?",
+      "choices": [
+        "A seal",
+        "To be in writing",
+        "A lawyer's signature",
+        "Registration at the LTO"
+      ],
+      "answer": 1,
+      "explain": "Land contracts generally need to be in writing to be enforced.",
+      "ref": "Lesson 7 · The seven essentials"
+    },
+    {
+      "id": "07-003",
+      "tag": "Failed contracts",
+      "q": "A contract signed by a minor is best described as what?",
+      "choices": [
+        "Void from the very start",
+        "Voidable at the minor's option",
+        "Valid and binding on both sides",
+        "Illegal and unenforceable by anyone"
+      ],
+      "answer": 1,
+      "explain": "Under the Infants Act it's unenforceable against the minor but enforceable by them, so effectively voidable at their option.",
+      "ref": "Lesson 7 · Four ways a contract can fail"
+    },
+    {
+      "id": "07-004",
+      "tag": "Failed contracts",
+      "q": "An oral agreement to sell land that both sides intended to be binding is usually what?",
+      "choices": [
+        "Void, as if it never existed at all",
+        "Unenforceable due to a procedural bar",
+        "Illegal, so courts refuse any relief",
+        "Voidable at either party's option"
+      ],
+      "answer": 1,
+      "explain": "It may be a real agreement, but without writing it hits a procedural bar and is unenforceable.",
+      "ref": "Lesson 7 · Four ways a contract can fail"
+    },
+    {
+      "id": "07-005",
+      "tag": "Offer",
+      "q": "A listing on MLS® with an asking price is legally what?",
+      "choices": [
+        "An offer to sell to the first full-price buyer",
+        "An invitation to treat",
+        "A standing offer to the whole public",
+        "A binding option for buyers"
+      ],
+      "answer": 1,
+      "explain": "Ads, listings and displays invite offers; they aren't offers themselves.",
+      "ref": "Lesson 7 · 1. Offer"
+    },
+    {
+      "id": "07-006",
+      "tag": "Offer",
+      "q": "A seller's counter-offer says \"open until 9 p.m. Friday.\" Can the seller revoke it at 3 p.m. Thursday?",
+      "choices": [
+        "No, a stated deadline makes it irrevocable",
+        "Yes, if it's revoked before acceptance",
+        "Only with the buyer's written consent to it",
+        "Only if the seller pays the buyer damages"
+      ],
+      "answer": 1,
+      "explain": "An offer can be revoked any time before acceptance, despite an \"open until\" date, unless an option was paid for. Revocation must be communicated.",
+      "ref": "Lesson 7 · How an offer ends"
+    },
+    {
+      "id": "07-007",
+      "tag": "Offer",
+      "q": "When does revocation of an offer take effect?",
+      "choices": [
+        "When the offeror decides to revoke",
+        "When the offeree actually learns of it",
+        "When it's mailed to the offeree",
+        "When the offer's deadline passes"
+      ],
+      "answer": 1,
+      "explain": "Revocation must be communicated (Byrne v. Van Tienhoven). The postal rule doesn't apply to revocations.",
+      "ref": "Lesson 7 · When does acceptance take effect?"
+    },
+    {
+      "id": "07-008",
+      "tag": "Offer",
+      "q": "Which of these does NOT end an offer?",
+      "choices": [
+        "A counter-offer made by the offeree",
+        "An inquiry about changing the terms",
+        "The offeree's outright rejection of it",
+        "The offeror's death before acceptance"
+      ],
+      "answer": 1,
+      "explain": "A genuine inquiry doesn't kill the offer; a counter-offer or rejection does.",
+      "ref": "Lesson 7 · How an offer ends"
+    },
+    {
+      "id": "07-009",
+      "tag": "Offer",
+      "q": "A seller accidentally accepts two offers on the same property. What's the usual result?",
+      "choices": [
+        "Both buyers must share the property equally",
+        "The first in time wins; the other gets damages",
+        "The higher of the two offers automatically wins",
+        "Both contracts are void for mutual mistake"
+      ],
+      "answer": 1,
+      "explain": "The earlier contract gets the property; the seller is liable in damages to the other buyer.",
+      "ref": "Lesson 7 · How an offer ends"
+    },
+    {
+      "id": "07-010",
+      "tag": "Option",
+      "q": "What makes an option agreement different from an ordinary \"open until\" offer?",
+      "choices": [
+        "It must be registered at the Land Title Office",
+        "Separate consideration keeps the offer open",
+        "It can be revoked at any time before acceptance",
+        "It can only be used in residential transactions"
+      ],
+      "answer": 1,
+      "explain": "Paying separate consideration makes the promise to hold the offer open binding. Options are common in land assembly.",
+      "ref": "Lesson 7 · Option agreements: keeping an offer open"
+    },
+    {
+      "id": "07-011",
+      "tag": "Counter-offer",
+      "q": "In Livingstone v. Evans, why could the buyer still accept after making a counter-offer?",
+      "choices": [
+        "The counter-offer was never sent",
+        "The seller's reply renewed the original offer",
+        "Counter-offers never end the original",
+        "The court found the seller acted in bad faith"
+      ],
+      "answer": 1,
+      "explain": "\"Cannot reduce price\" was read as renewing the original offer, which the buyer then accepted.",
+      "ref": "Lesson 7 · Counter-offers vs inquiries"
+    },
+    {
+      "id": "07-012",
+      "tag": "Acceptance",
+      "q": "Which statement about acceptance is correct?",
+      "choices": [
+        "Silence can be acceptance if the offer says so",
+        "Acceptance must be a clear, positive act",
+        "Acceptance can add new conditions freely",
+        "Acceptance needn't be communicated"
+      ],
+      "answer": 1,
+      "explain": "Silence isn't acceptance, and acceptance must match the offer. New terms make it a counter-offer.",
+      "ref": "Lesson 7 · 2. Acceptance"
+    },
+    {
+      "id": "07-013",
+      "tag": "Acceptance",
+      "q": "Under Rules s.47, what must a licensee do once an offer is accepted?",
+      "choices": [
+        "File a copy of the contract with BCFSA",
+        "Promptly copy it to each party and the brokerage",
+        "Read the full contract aloud to both parties",
+        "Register the contract at the Land Title Office"
+      ],
+      "answer": 1,
+      "explain": "Rules s.47: promptly deliver a copy of the accepted contract to each party and the brokerage.",
+      "ref": "Lesson 7 · 2. Acceptance"
+    },
+    {
+      "id": "07-014",
+      "tag": "Acceptance",
+      "q": "An acceptance is properly mailed Monday and arrives Thursday. When is the contract formed?",
+      "choices": [
+        "Thursday, when it arrives",
+        "Monday, when it's posted",
+        "When the offeror reads it",
+        "Only when the offeror replies"
+      ],
+      "answer": 1,
+      "explain": "Under the postal rule, a non-instantaneous acceptance takes effect when posted.",
+      "ref": "Lesson 7 · When does acceptance take effect?"
+    },
+    {
+      "id": "07-015",
+      "tag": "Acceptance",
+      "q": "When does an acceptance by phone take effect?",
+      "choices": [
+        "When it's spoken",
+        "When it's received by the offeror",
+        "At midnight on that day",
+        "When later confirmed in writing"
+      ],
+      "answer": 1,
+      "explain": "Instantaneous methods take effect on receipt by the offeror.",
+      "ref": "Lesson 7 · When does acceptance take effect?"
+    },
+    {
+      "id": "07-016",
+      "tag": "Consideration",
+      "q": "A neighbour paints your fence as a favour; later you promise $500 for it. Can they enforce the promise?",
+      "choices": [
+        "Yes, the work had real value to you",
+        "No, it's past consideration",
+        "Yes, if the promise was in writing",
+        "Only if the amount is reasonable"
+      ],
+      "answer": 1,
+      "explain": "Consideration must be given in exchange for the promise. Something already done is past consideration.",
+      "ref": "Lesson 7 · 3. Consideration"
+    },
+    {
+      "id": "07-017",
+      "tag": "Consideration",
+      "q": "Will a court set aside a land sale because the price was only $1?",
+      "choices": [
+        "Yes, the price must be fair market value",
+        "Not usually; courts don't review adequacy",
+        "Yes, unless a lawyer approved the deal",
+        "Only if the buyer is a related person"
+      ],
+      "answer": 1,
+      "explain": "Courts don't weigh adequacy, absent fraud, duress or similar problems.",
+      "ref": "Lesson 7 · 3. Consideration"
+    },
+    {
+      "id": "07-018",
+      "tag": "Seal",
+      "q": "What did Pooni v. Storsley lead to on the standard contract form?",
+      "choices": [
+        "The seal was removed from the standard form",
+        "Initial boxes so parties knowingly adopt a seal",
+        "A new requirement for a lawyer's sign-off",
+        "A minimum deposit amount for every contract"
+      ],
+      "answer": 1,
+      "explain": "A seal replaces consideration only if knowingly applied, so the form now has initial boxes beside the seal.",
+      "ref": "Lesson 7 · Seals"
+    },
+    {
+      "id": "07-019",
+      "tag": "Amendments",
+      "q": "What's the safest way to make a binding amendment to a contract of purchase and sale?",
+      "choices": [
+        "Get a verbal agreement from both of the parties",
+        "In writing, with nominal consideration or a seal",
+        "Email the other party's licensee about the change",
+        "Have only the buyer sign the amendment form"
+      ],
+      "answer": 1,
+      "explain": "Rosas v. Toca suggests fresh consideration may not be needed, but writing plus $1 or a seal is safest.",
+      "ref": "Lesson 7 · Amendments"
+    },
+    {
+      "id": "07-020",
+      "tag": "Quantum meruit",
+      "q": "In the Tapestry case, why did the licensee get 7% instead of 10% commission?",
+      "choices": [
+        "The client negotiated it down after the closing",
+        "The 10% wasn't initialled, so a fair rate applied",
+        "BCFSA caps every commission at 7% of the price",
+        "The brokerage chose to waive the remaining 3%"
+      ],
+      "answer": 1,
+      "explain": "No agreed rate was proven, so the court awarded a reasonable amount (quantum meruit): 7%.",
+      "ref": "Lesson 7 · Quantum meruit"
+    },
+    {
+      "id": "07-021",
+      "tag": "Legal intention",
+      "q": "Two strangers sign a commercial lease. What does the law presume about legal intention?",
+      "choices": [
+        "No intention, unless proven",
+        "An intention to be legally bound",
+        "Nothing either way",
+        "Intention only if a lawyer is involved"
+      ],
+      "answer": 1,
+      "explain": "Commercial deals between strangers are presumed intended to be binding; family arrangements are presumed not.",
+      "ref": "Lesson 7 · 4. Legal intention"
+    },
+    {
+      "id": "07-022",
+      "tag": "Minors",
+      "q": "A 17-year-old signs a contract to buy a condo. Which is correct?",
+      "choices": [
+        "The seller can enforce it against the minor",
+        "The minor can enforce it against the seller",
+        "It's automatically void for both sides",
+        "It becomes binding at age 18"
+      ],
+      "answer": 1,
+      "explain": "Under the Infants Act, contracts are unenforceable against minors (under 19) but enforceable by them.",
+      "ref": "Lesson 7 · Minors (\"infants\")"
+    },
+    {
+      "id": "07-023",
+      "tag": "Minors",
+      "q": "Which makes a contract signed as a minor enforceable against them?",
+      "choices": [
+        "Turning 18 before completion",
+        "Affirming it after turning 19",
+        "Signing it in front of a witness",
+        "A parent's verbal approval"
+      ],
+      "answer": 1,
+      "explain": "Exceptions: a statute says so, affirmed after 19, performed within a year, or not repudiated within a year of turning 19.",
+      "ref": "Lesson 7 · Minors (\"infants\")"
+    },
+    {
+      "id": "07-024",
+      "tag": "Mental incapacity",
+      "q": "Under the Adult Guardianship Act s.60.2, when does a transfer by a mentally incapable person stand?",
+      "choices": [
+        "Only if the person's doctor approved the sale beforehand",
+        "If a fair price was paid, or incapacity wasn't knowable",
+        "Never; all such transfers are automatically void",
+        "Only if the buyer is a member of the seller's family"
+      ],
+      "answer": 1,
+      "explain": "A transfer survives if the buyer paid full and fair value, or had no reasonable way to know of the incapacity.",
+      "ref": "Lesson 7 · Mental incapacity"
+    },
+    {
+      "id": "07-025",
+      "tag": "POA",
+      "q": "How long can a non-enduring power of attorney be used for land under the Land Title Act s.56?",
+      "choices": [
+        "1 year",
+        "3 years",
+        "5 years",
+        "Indefinitely"
+      ],
+      "answer": 1,
+      "explain": "Generally 3 years, unless it's an enduring power of attorney.",
+      "ref": "Lesson 7 · Powers of attorney and related documents"
+    },
+    {
+      "id": "07-026",
+      "tag": "POA",
+      "q": "What's special about an enduring power of attorney?",
+      "choices": [
+        "It ends when the donor loses mental capacity",
+        "It continues after the donor loses capacity",
+        "It only covers personal health care decisions",
+        "It can only be granted by a court order"
+      ],
+      "answer": 1,
+      "explain": "An enduring POA survives incapacity and isn't subject to the 3-year land limit.",
+      "ref": "Lesson 7 · Powers of attorney and related documents"
+    },
+    {
+      "id": "07-027",
+      "tag": "POA",
+      "q": "Can a representation agreement made after September 1, 2011 be used to sell real estate?",
+      "choices": [
+        "Yes, always",
+        "No",
+        "Only with a court order",
+        "Only for strata lots"
+      ],
+      "answer": 1,
+      "explain": "Representation agreements made after that date can't authorize real estate sales. Use a POA or committee.",
+      "ref": "Lesson 7 · Powers of attorney and related documents"
+    },
+    {
+      "id": "07-028",
+      "tag": "POA",
+      "q": "Which does NOT end an ordinary power of attorney?",
+      "choices": [
+        "The donor's death",
+        "Using it to pay bills",
+        "The donor's bankruptcy",
+        "The donor's incapacity"
+      ],
+      "answer": 1,
+      "explain": "Death, bankruptcy and incapacity end an ordinary POA (not an enduring one). Paying bills is just using it.",
+      "ref": "Lesson 7 · Powers of attorney and related documents"
+    },
+    {
+      "id": "07-029",
+      "tag": "Capacity",
+      "q": "What does non est factum mean?",
+      "choices": [
+        "\"Let the buyer beware\"",
+        "\"It is not my deed\"",
+        "\"As much as he deserved\"",
+        "\"Things speak for themselves\""
+      ],
+      "answer": 1,
+      "explain": "A defence for someone who signed without knowing the document's fundamental nature, without carelessness.",
+      "ref": "Lesson 7 · Mistake"
+    },
+    {
+      "id": "07-030",
+      "tag": "Estates",
+      "q": "An executor wants to list a deceased owner's house before probate is granted. What's best?",
+      "choices": [
+        "List it, and complete without probate",
+        "List it subject to probate being granted",
+        "Wait until a joint tenant is found",
+        "Have the heirs sign the contract instead"
+      ],
+      "answer": 1,
+      "explain": "The executor can list subject to probate (often 3–6 months). An administrator has no authority before Letters of Administration.",
+      "ref": "Lesson 7 · Estate sales"
+    },
+    {
+      "id": "07-031",
+      "tag": "Legal object",
+      "q": "In Shafazand, why did the court refuse the claim over the illegal suite?",
+      "choices": [
+        "The buyer waited too long to sue the seller",
+        "Courts may refuse relief on an illegal contract",
+        "The suite was disclosed in the PDS",
+        "Damages for suites are capped by statute"
+      ],
+      "answer": 1,
+      "explain": "Hiding an illegal suite tainted the deal; the court denied the $42K claim.",
+      "ref": "Lesson 7 · 6. Legal object"
+    },
+    {
+      "id": "07-032",
+      "tag": "Misrepresentation",
+      "q": "What remedy does an innocent misrepresentation give, generally?",
+      "choices": [
+        "Damages and rescission at any time",
+        "Rescission, but only before completion",
+        "Damages only, but no rescission",
+        "No remedy at all, ever"
+      ],
+      "answer": 1,
+      "explain": "Innocent misrepresentation: rescission before completion, no damages. Fraud: rescission any time plus damages.",
+      "ref": "Lesson 7 · Misrepresentation"
+    },
+    {
+      "id": "07-033",
+      "tag": "Misrepresentation",
+      "q": "Who does an entire agreement clause NOT protect?",
+      "choices": [
+        "A seller who made an innocent misstatement",
+        "A licensee who made the misrepresentation",
+        "Either party, as to pre-contract talk",
+        "A seller as to innocent statements in ads"
+      ],
+      "answer": 1,
+      "explain": "It never protects licensees, and never protects anyone against fraud.",
+      "ref": "Lesson 7 · Misrepresentation"
+    },
+    {
+      "id": "07-034",
+      "tag": "Defects",
+      "q": "A crack in a basement wall is visible on a reasonable inspection. What is it?",
+      "choices": [
+        "A latent defect",
+        "A patent defect",
+        "A stigma",
+        "A material latent defect"
+      ],
+      "answer": 1,
+      "explain": "Patent defects are discoverable by reasonable inspection, so they're generally the buyer's problem.",
+      "ref": "Lesson 7 · Defects: caveat emptor and its limits"
+    },
+    {
+      "id": "07-035",
+      "tag": "Defects",
+      "q": "Under common law, when must a seller disclose a latent defect?",
+      "choices": [
+        "Always, whether or not they know about it",
+        "When known and dangerous, or making it uninhabitable",
+        "Only if the buyer asks them about it directly, in writing",
+        "Never; caveat emptor applies to every kind of defect"
+      ],
+      "answer": 1,
+      "explain": "Known latent defects that are dangerous or make the property uninhabitable must be disclosed.",
+      "ref": "Lesson 7 · Defects: caveat emptor and its limits"
+    },
+    {
+      "id": "07-036",
+      "tag": "Defects",
+      "q": "In Gibb v. Sprague, which defect made the seller liable?",
+      "choices": [
+        "Ants the seller didn't know about",
+        "Mould the seller knew of and hid",
+        "Patent electrical problems",
+        "Old windows needing paint"
+      ],
+      "answer": 1,
+      "explain": "Known, concealed mould: liable. Unknown ants and patent electrical issues: not.",
+      "ref": "Lesson 7 · Defects: caveat emptor and its limits"
+    },
+    {
+      "id": "07-037",
+      "tag": "Rules s.59",
+      "q": "Under Rules s.59, which is a material latent defect the seller's licensee must disclose?",
+      "choices": [
+        "A neighbour's noisy dog",
+        "Work done without the required permits",
+        "A suicide in the home 10 years ago",
+        "An older but working furnace"
+      ],
+      "answer": 1,
+      "explain": "Material latent defects include work without permits, local government notices, danger, unfitness and great expense to fix.",
+      "ref": "Lesson 7 · The licensee's wider duty: Rules s.59"
+    },
+    {
+      "id": "07-038",
+      "tag": "Rules s.59",
+      "q": "Your seller client tells you not to disclose a material latent defect. What must you do?",
+      "choices": [
+        "Follow the instruction; it's lawful",
+        "Stop acting for that client",
+        "Disclose it only if the buyer asks",
+        "Put it in the contract's fine print"
+      ],
+      "answer": 1,
+      "explain": "You can't follow that instruction; you must stop acting for the seller.",
+      "ref": "Lesson 7 · The licensee's wider duty: Rules s.59"
+    },
+    {
+      "id": "07-039",
+      "tag": "Rules s.59",
+      "q": "At what radon level does BCFSA treat it as a material latent defect?",
+      "choices": [
+        "Above 100 Bq/m³",
+        "Above 200 Bq/m³",
+        "Above 400 Bq/m³",
+        "Any detectable radon"
+      ],
+      "answer": 1,
+      "explain": "Radon above 200 Bq/m³ (Health Canada's guideline) is treated as a material latent defect.",
+      "ref": "Lesson 7 · The licensee's wider duty: Rules s.59"
+    },
+    {
+      "id": "07-040",
+      "tag": "Stigma",
+      "q": "A buyer asks whether anyone died in the home. What should you do?",
+      "choices": [
+        "Lie to protect your seller client",
+        "Tell the truth or decline to answer",
+        "Tell them it's illegal to ask that",
+        "Say nothing and change the subject"
+      ],
+      "answer": 1,
+      "explain": "Stigmas aren't defects, so there's no duty to volunteer them; but if asked, never lie. Answer truthfully or decline.",
+      "ref": "Lesson 7 · Defects vs stigmas"
+    },
+    {
+      "id": "07-041",
+      "tag": "Mistake",
+      "q": "Both parties sign a deal for a cabin that, unknown to them, burned down the day before. What's the result?",
+      "choices": [
+        "Voidable at the buyer's option",
+        "Void for common mistake",
+        "Valid; the buyer bears the risk",
+        "Frustrated, so the deposit is kept"
+      ],
+      "answer": 1,
+      "explain": "Common mistake about the existence of the subject matter makes the contract void.",
+      "ref": "Lesson 7 · Mistake"
+    },
+    {
+      "id": "07-042",
+      "tag": "Mistake",
+      "q": "What separates common mistake from frustration?",
+      "choices": [
+        "Common mistake applies only to contracts for land",
+        "Mistake exists before signing; frustration comes after",
+        "Frustration requires fault by one of the parties",
+        "They're simply two names for the same doctrine"
+      ],
+      "answer": 1,
+      "explain": "Common mistake: before the contract. Frustration: an outside event after the contract.",
+      "ref": "Lesson 7 · Frustration"
+    },
+    {
+      "id": "07-043",
+      "tag": "Duress",
+      "q": "An elderly client signs after their caregiver dominates the decision. What's the likely ground?",
+      "choices": [
+        "Duress",
+        "Undue influence",
+        "Frustration",
+        "Common mistake"
+      ],
+      "answer": 1,
+      "explain": "A dominant relationship influencing the weaker party is undue influence, which makes the contract voidable.",
+      "ref": "Lesson 7 · Duress, undue influence and unconscionability"
+    },
+    {
+      "id": "07-044",
+      "tag": "Subjects",
+      "q": "Who can waive a condition precedent under LEA s.54?",
+      "choices": [
+        "Either party, at any time before completion",
+        "The sole beneficiary, before the deadline",
+        "Only the seller, since it's their property",
+        "Only a court, on application by a party"
+      ],
+      "answer": 1,
+      "explain": "Only the party for whose sole benefit it exists can waive it, and only before the deadline.",
+      "ref": "Lesson 7 · Conditions precedent (\"subjects\")"
+    },
+    {
+      "id": "07-045",
+      "tag": "Subjects",
+      "q": "What wording helps make a subject waivable by one party?",
+      "choices": [
+        "\"Subject to approval\"",
+        "\"For the sole benefit of the Buyer\"",
+        "\"Time is of the essence in this contract\"",
+        "\"This is the entire agreement\""
+      ],
+      "answer": 1,
+      "explain": "Saying it's for the sole benefit of one party lets that party waive it.",
+      "ref": "Lesson 7 · Conditions precedent (\"subjects\")"
+    },
+    {
+      "id": "07-046",
+      "tag": "Frustration",
+      "q": "In Capital Quality Homes, what was the effect of rezoning after the contract?",
+      "choices": [
+        "The buyer was required to complete anyway",
+        "It was frustrated and the deposit returned",
+        "The seller had to pay the buyer damages",
+        "It was rescinded for common mistake"
+      ],
+      "answer": 1,
+      "explain": "Rezoning made performance fundamentally different, so the contract was frustrated.",
+      "ref": "Lesson 7 · Frustration"
+    },
+    {
+      "id": "07-047",
+      "tag": "Breach",
+      "q": "What can the innocent party do after a breach of warranty?",
+      "choices": [
+        "End the contract and claim damages",
+        "Claim damages but still perform",
+        "Get specific performance only",
+        "Nothing, as warranties are minor"
+      ],
+      "answer": 1,
+      "explain": "A warranty is a minor term: damages only, and the contract continues.",
+      "ref": "Lesson 7 · Breach"
+    },
+    {
+      "id": "07-048",
+      "tag": "Breach",
+      "q": "In Gill v. Bal, the buyer paid at 5:36 p.m. on a 4 p.m. deadline. What happened?",
+      "choices": [
+        "The court gave the buyer a 24-hour grace period",
+        "The buyer was in breach and the contract ended",
+        "The seller had to accept the late payment",
+        "The deadline was invalid for vagueness"
+      ],
+      "answer": 1,
+      "explain": "Time was of the essence; missing it was a fundamental breach.",
+      "ref": "Lesson 7 · Breach"
+    },
+    {
+      "id": "07-049",
+      "tag": "Breach",
+      "q": "What does Rules s.48 prohibit?",
+      "choices": [
+        "Presenting more than one offer at a time",
+        "Inducing a party to break a contract",
+        "Writing subjects into an offer",
+        "Holding deposits in trust"
+      ],
+      "answer": 1,
+      "explain": "Licensees must never induce a party to breach a contract, e.g. to switch to a better deal.",
+      "ref": "Lesson 7 · Breach"
+    },
+    {
+      "id": "07-050",
+      "tag": "Assignment",
+      "q": "Which is required for a statutory assignment under LEA s.36?",
+      "choices": [
+        "The original promisor's consent",
+        "Written notice to the promisor",
+        "Registration of the assignment at the LTO",
+        "A seal on the assignment document"
+      ],
+      "answer": 1,
+      "explain": "Statutory assignment: in writing, absolute and unconditional, with written notice to the promisor.",
+      "ref": "Lesson 7 · Assignment and privity"
+    },
+    {
+      "id": "07-051",
+      "tag": "Assignment",
+      "q": "Under the standard assignment terms in Regulation s.8.2, who gets any assignment profit?",
+      "choices": [
+        "The buyer who assigns",
+        "The seller",
+        "The brokerage",
+        "The assignee"
+      ],
+      "answer": 1,
+      "explain": "No assignment without the seller's written consent, and the seller gets any profit.",
+      "ref": "Lesson 7 · Assignment and privity"
+    },
+    {
+      "id": "07-052",
+      "tag": "Remedies",
+      "q": "Which remedy is equitable and discretionary?",
+      "choices": [
+        "Damages",
+        "Specific performance",
+        "Liquidated damages",
+        "Interest on deposits"
+      ],
+      "answer": 1,
+      "explain": "Damages are a common law right; specific performance and injunctions are equitable and discretionary.",
+      "ref": "Lesson 7 · Remedies"
+    },
+    {
+      "id": "07-053",
+      "tag": "Remedies",
+      "q": "When will a court treat a liquidated damages clause as a penalty?",
+      "choices": [
+        "When it's a genuine pre-estimate of loss",
+        "When it isn't a genuine pre-estimate of loss",
+        "Whenever the amount exceeds 10%",
+        "Only in residential contracts"
+      ],
+      "answer": 1,
+      "explain": "A genuine pre-estimate is enforced; otherwise it's an unenforceable penalty.",
+      "ref": "Lesson 7 · Remedies"
+    },
+    {
+      "id": "07-054",
+      "tag": "Remedies",
+      "q": "What principle comes from Hadley v. Baxendale?",
+      "choices": [
+        "The duty to act in good faith",
+        "Damages for natural or foreseeable losses only",
+        "Courts don't review adequacy of consideration",
+        "Contracts for land must be in writing"
+      ],
+      "answer": 1,
+      "explain": "Recoverable damages are those arising naturally or reasonably foreseeable at contracting.",
+      "ref": "Lesson 7 · Remedies"
+    },
+    {
+      "id": "07-055",
+      "tag": "Remedies",
+      "q": "After a breach, what must the innocent party do about their losses?",
+      "choices": [
+        "Nothing; the wrongdoer pays for everything",
+        "Take reasonable steps to mitigate them",
+        "Wait for the court to tell them what to do",
+        "Report them to BCFSA before doing anything"
+      ],
+      "answer": 1,
+      "explain": "The innocent party must mitigate; they can't recover losses they could reasonably have avoided.",
+      "ref": "Lesson 7 · Remedies"
+    }
+  ]
+}
