@@ -30,6 +30,11 @@
     "lesson": "09"
   },
   {
+    "term": "Actual value",
+    "def": "Market value of the fee simple, used by BC Assessment; valued as of July 1.",
+    "lesson": "14"
+  },
+  {
     "term": "Administrative monetary penalty (AMP)",
     "def": "A FINTRAC fine for non-compliance: up to $100,000 per violation for individuals and $500,000 for entities, published publicly.",
     "lesson": "06"
@@ -45,6 +50,11 @@
     "lesson": "01"
   },
   {
+    "term": "Advisory planning commission",
+    "def": "Volunteer residents appointed to advise council on planning matters.",
+    "lesson": "14"
+  },
+  {
     "term": "Agency",
     "def": "A relationship in which one person (the agent) is authorized to act for another (the principal) in dealings with third parties.",
     "lesson": "09"
@@ -58,6 +68,11 @@
     "term": "Agreement for sale",
     "def": "A sale in which the seller finances the buyer and stays the registered owner until paid; the buyer's interest is registered as a charge.",
     "lesson": "13"
+  },
+  {
+    "term": "Agricultural Land Reserve (ALR)",
+    "def": "About 5 million hectares of BC land reserved for farming. Non-farm use and subdivision need Agricultural Land Commission approval.",
+    "lesson": "14"
   },
   {
     "term": "Ameliorating waste",
@@ -150,9 +165,19 @@
     "lesson": "03"
   },
   {
+    "term": "Bare trust",
+    "def": "An arrangement where a nominee holds title for the true (beneficial) owner and acts only on their instructions.",
+    "lesson": "14"
+  },
+  {
     "term": "BATNA",
     "def": "Best alternative to a negotiated agreement: what you'll do if no deal is made. The source of negotiating power.",
     "lesson": "08"
+  },
+  {
+    "term": "BC home flipping tax",
+    "def": "A provincial tax (from 2025) of up to 20% on gains from residential property held under 730 days.",
+    "lesson": "14"
   },
   {
     "term": "BCFSA",
@@ -168,6 +193,11 @@
     "term": "Beneficial owner",
     "def": "For FINTRAC purposes, a person who directly or indirectly owns or controls 25% or more of an entity.",
     "lesson": "06"
+  },
+  {
+    "term": "Board of variance",
+    "def": "An appointed body that can grant minor variances to siting, size and dimension rules where compliance would cause undue hardship.",
+    "lesson": "14"
   },
   {
     "term": "Bonus (mortgage)",
@@ -195,6 +225,11 @@
     "lesson": "09"
   },
   {
+    "term": "Builder (GST)",
+    "def": "Anyone who holds property while it's built or substantially renovated, or before it's first occupied. Builders' sales of new housing are taxable.",
+    "lesson": "14"
+  },
+  {
     "term": "Builders lien",
     "def": "A claim registered against land by an unpaid contractor, subcontractor or worker under the Builders Lien Act. Filed within 45 days of trigger dates; lasts 1 year unless enforced.",
     "lesson": "03"
@@ -210,6 +245,11 @@
     "lesson": "01"
   },
   {
+    "term": "Business income",
+    "def": "Profit from an activity carried on for profit; 100% taxable. Includes deemed flips held under 365 days.",
+    "lesson": "14"
+  },
+  {
     "term": "Bylaw",
     "def": "A law passed by a municipality, such as a zoning or building bylaw.",
     "lesson": "01"
@@ -223,6 +263,11 @@
     "term": "Capacity",
     "def": "The legal ability to make a binding contract. Minors and mentally incapable people have limited capacity.",
     "lesson": "07"
+  },
+  {
+    "term": "Capital gain",
+    "def": "Profit on selling a capital asset; usually 50% is taxable. A principal residence is generally exempt.",
+    "lesson": "14"
   },
   {
     "term": "Cash-equivalent price",
@@ -285,6 +330,11 @@
     "lesson": "04"
   },
   {
+    "term": "Clearance certificate",
+    "def": "A CRA certificate for a non-resident seller; without it, the buyer must withhold 25% or 50% of the price.",
+    "lesson": "14"
+  },
+  {
     "term": "Clog on the equity of redemption",
     "def": "A term that prevents the borrower from getting the property back on repayment, such as a lender's option to buy granted with the loan. Void.",
     "lesson": "13"
@@ -330,6 +380,16 @@
     "lesson": "03"
   },
   {
+    "term": "Community amenity contributions (CACs)",
+    "def": "Amenities or payments a developer agrees to provide in exchange for a rezoning. Negotiated, not compulsory.",
+    "lesson": "14"
+  },
+  {
+    "term": "Community Charter",
+    "def": "The BC statute that sets out the core powers of municipalities (other than Vancouver).",
+    "lesson": "14"
+  },
+  {
     "term": "Competition Act",
     "def": "Federal law against anti-competitive agreements (e.g. fixing commissions) and misleading advertising, enforced by the Competition Bureau.",
     "lesson": "08"
@@ -338,6 +398,11 @@
     "term": "Compliance program",
     "def": "The five-part PCMLTFA program every brokerage needs: compliance officer, written policies, documented risk assessment, written training, and a review every 2 years.",
     "lesson": "06"
+  },
+  {
+    "term": "Comprehensive development (CD) zone",
+    "def": "A site-specific zone written for a particular parcel or project.",
+    "lesson": "14"
   },
   {
     "term": "Condition (contract term)",
@@ -500,9 +565,24 @@
     "lesson": "09"
   },
   {
+    "term": "Development cost charges (DCCs)",
+    "def": "Charges set by bylaw and paid by developers to fund infrastructure such as sewers, water and roads.",
+    "lesson": "14"
+  },
+  {
+    "term": "Development permit (DP)",
+    "def": "A permit needed before building or altering land in a development permit area designated in the OCP.",
+    "lesson": "14"
+  },
+  {
     "term": "Development property",
     "def": "Under REDMA, land divided or to be divided into 5 or more units (2 or more for cooperative or shared interests), unless exempt.",
     "lesson": "05"
+  },
+  {
+    "term": "Development variance permit (DVP)",
+    "def": "A council-issued permit varying a bylaw for one property. Can't vary use or density.",
+    "lesson": "14"
   },
   {
     "term": "Discipline penalty",
@@ -603,6 +683,11 @@
     "term": "Electrical planning report",
     "def": "A report on a strata's electrical capacity and future demands (e.g. EV charging), required for stratas of 5+ lots.",
     "lesson": "11"
+  },
+  {
+    "term": "Empty Homes Tax (EHT)",
+    "def": "City of Vancouver tax of 3% of assessed value on homes vacant six months or more.",
+    "lesson": "14"
   },
   {
     "term": "Encumbrance",
@@ -710,6 +795,11 @@
     "lesson": "06"
   },
   {
+    "term": "First Time Home Buyers' Program",
+    "def": "PTT exemption on the first $500,000 for eligible first-time buyers of homes up to $835,000.",
+    "lesson": "14"
+  },
+  {
     "term": "First-dollar defence",
     "def": "An insurance feature where no deductible applies if the insurer only paid defence costs and nothing went to the claimant.",
     "lesson": "04"
@@ -730,9 +820,19 @@
     "lesson": "02"
   },
   {
+    "term": "Floor space ratio (FSR)",
+    "def": "Total building floor area divided by lot area; a common density limit.",
+    "lesson": "14"
+  },
+  {
     "term": "Foreclosure",
     "def": "The court process that ends the borrower's equity of redemption, through an order nisi, then a judicial sale or order absolute.",
     "lesson": "13"
+  },
+  {
+    "term": "Foreign buyers' tax",
+    "def": "An additional 20% PTT on residential property bought by foreign nationals, foreign corporations or taxable trustees in designated areas.",
+    "lesson": "14"
   },
   {
     "term": "Form A",
@@ -755,6 +855,11 @@
     "lesson": "01"
   },
   {
+    "term": "Goods and Services Tax (GST)",
+    "def": "A 5% federal value-added tax. Real property sales are taxable unless exempt under Schedule V of the Excise Tax Act.",
+    "lesson": "14"
+  },
+  {
     "term": "Grant of Probate",
     "def": "A court document confirming a will and the executor's authority to deal with the estate, including selling land.",
     "lesson": "07"
@@ -773,6 +878,11 @@
     "term": "Ground lease",
     "def": "The lease (at least 50 years) under which a developer leases land from a leasehold landlord to build a leasehold strata.",
     "lesson": "11"
+  },
+  {
+    "term": "GST/HST New Housing Rebate",
+    "def": "A rebate of part of the GST paid on a new home bought as a primary residence.",
+    "lesson": "14"
   },
   {
     "term": "Guarantor",
@@ -800,6 +910,11 @@
     "lesson": "05"
   },
   {
+    "term": "Home owner grant",
+    "def": "A provincial reduction of property tax for owner-occupiers of a principal residence ($570 in Metro Vancouver, more in rural areas).",
+    "lesson": "14"
+  },
+  {
     "term": "IC&I",
     "def": "Industrial, Commercial and Investment real estate: offices, retail, industrial, apartments, hotels, development land and businesses.",
     "lesson": "02"
@@ -808,6 +923,11 @@
     "term": "Implied agency",
     "def": "An agency created by conduct, e.g. by advising or negotiating for an unrepresented party, even without a written agreement.",
     "lesson": "09"
+  },
+  {
+    "term": "Improvement district",
+    "def": "A local authority set up to provide specific services (water, sewer, fire) to an area. Has no general land-use planning powers.",
+    "lesson": "14"
   },
   {
     "term": "Indefeasibility",
@@ -833,6 +953,11 @@
     "term": "Inoperative licence",
     "def": "A licence that still exists but can't be used, for example when a licensee leaves their brokerage or their managing broker's licence is suspended.",
     "lesson": "04"
+  },
+  {
+    "term": "Input tax credit (ITC)",
+    "def": "A business's credit for GST paid on purchases used in its commercial activities.",
+    "lesson": "14"
   },
   {
     "term": "Insured mortgage",
@@ -895,6 +1020,11 @@
     "lesson": "06"
   },
   {
+    "term": "Land use contract",
+    "def": "Site-specific zoning by contract (1971–1978). All were terminated by June 30, 2024.",
+    "lesson": "14"
+  },
+  {
     "term": "Large cash transaction",
     "def": "Receiving $10,000 or more in cash in one transaction, or in several within 24 hours from or for the same person. Must be reported within 15 calendar days.",
     "lesson": "06"
@@ -903,6 +1033,11 @@
     "term": "Latent defect",
     "def": "A hidden defect not discoverable by a reasonable inspection. A seller must disclose known latent defects that are dangerous or make the property uninhabitable.",
     "lesson": "07"
+  },
+  {
+    "term": "Lawful non-conforming use",
+    "def": "A use or building that was legal before the zoning changed, allowed to continue. Lost after 6 months' disuse or 75%+ damage.",
+    "lesson": "14"
   },
   {
     "term": "Lease",
@@ -985,6 +1120,11 @@
     "lesson": "13"
   },
   {
+    "term": "Local Government Act",
+    "def": "The BC statute governing regional districts, and planning, land use and elections for all local governments.",
+    "lesson": "14"
+  },
+  {
     "term": "LOTA",
     "def": "Land Owner Transparency Act: BC law requiring disclosure of the individuals with indirect interests in land held through corporations, trusts or partnerships.",
     "lesson": "06"
@@ -1018,6 +1158,11 @@
     "term": "Metes and bounds",
     "def": "Describing land by measurements, directions and landmarks. Used when part of an unsubdivided parcel is sold.",
     "lesson": "08"
+  },
+  {
+    "term": "Mill rate",
+    "def": "Property tax rate per $1,000 of net taxable value.",
+    "lesson": "14"
   },
   {
     "term": "Misrepresentation",
@@ -1115,6 +1260,11 @@
     "lesson": "13"
   },
   {
+    "term": "Net taxable value",
+    "def": "Assessed value less exemptions; multiplied by the mill rate to get the tax.",
+    "lesson": "14"
+  },
+  {
     "term": "Nominal interest rate",
     "def": "An annual rate with a stated compounding frequency, written jₘ (e.g. j₂ = compounded semi-annually). Equals the periodic rate × m.",
     "lesson": "12"
@@ -1158,6 +1308,11 @@
     "term": "Offer",
     "def": "A clear proposal that, if accepted, creates a binding contract.",
     "lesson": "07"
+  },
+  {
+    "term": "Official community plan (OCP)",
+    "def": "A local government's long-range plan for land use and growth. Later bylaws must be consistent with it.",
+    "lesson": "14"
   },
   {
     "term": "Open listing",
@@ -1345,6 +1500,16 @@
     "lesson": "02"
   },
   {
+    "term": "Property Assessment Appeal Board (PAAB)",
+    "def": "The second level of assessment appeal; notice due by April 30.",
+    "lesson": "14"
+  },
+  {
+    "term": "Property Assessment Review Panel (PARP)",
+    "def": "The first level of assessment appeal, sitting February 1 to March 15. Complaints due by January 31.",
+    "lesson": "14"
+  },
+  {
     "term": "Property Disclosure Statement (PDS)",
     "def": "BCREA's form (since 1992) recording the seller's answers about the property. Not legally required and not a warranty unless incorporated into the contract.",
     "lesson": "08"
@@ -1353,6 +1518,16 @@
     "term": "Property No-Disclosure Statement (PNDS)",
     "def": "BCREA's 2025 form for sellers who choose to disclose nothing beyond what the law requires. Replaced crossing out the PDS.",
     "lesson": "08"
+  },
+  {
+    "term": "Property tax deferment",
+    "def": "A provincial low-interest loan to pay property taxes, registered on title and repaid on sale.",
+    "lesson": "14"
+  },
+  {
+    "term": "Property transfer tax (PTT)",
+    "def": "BC tax paid by the buyer on registering a transfer: 1% to $200K, 2% to $2M, 3% above, plus 2% on residential over $3M.",
+    "lesson": "14"
   },
   {
     "term": "Public law",
@@ -1403,6 +1578,11 @@
     "term": "REDMA",
     "def": "Real Estate Development Marketing Act: the BC statute that controls how developers market development units, mainly through filed disclosure statements.",
     "lesson": "05"
+  },
+  {
+    "term": "Regional district",
+    "def": "A local government covering a region, made up of municipalities and electoral areas; acts as the local government in unorganized areas.",
+    "lesson": "14"
   },
   {
     "term": "Remainderman",
@@ -1485,9 +1665,19 @@
     "lesson": "07"
   },
   {
+    "term": "Rezoning",
+    "def": "Amending the zoning bylaw to change what's allowed on a property: three readings plus final adoption.",
+    "lesson": "14"
+  },
+  {
     "term": "Right of survivorship",
     "def": "The feature of joint tenancy where a deceased owner's interest passes automatically to the surviving joint tenants, outside the will.",
     "lesson": "02"
+  },
+  {
+    "term": "Satellite family",
+    "def": "For SVT, a household whose unreported worldwide income exceeds its income reported in Canada.",
+    "lesson": "14"
   },
   {
     "term": "Schedule of Restrictions",
@@ -1503,6 +1693,11 @@
     "term": "Seal",
     "def": "A mark that can replace consideration, but only if the party knowingly adopts it. A corporate seal isn't the same thing.",
     "lesson": "07"
+  },
+  {
+    "term": "Secondary intention",
+    "def": "A test treating a gain as business income if resale for profit was an operating motive when the property was bought.",
+    "lesson": "14"
   },
   {
     "term": "Secret profit",
@@ -1528,6 +1723,16 @@
     "term": "Security of tenure",
     "def": "The residential tenant's protection that a tenancy can end only for reasons the RTA allows.",
     "lesson": "10"
+  },
+  {
+    "term": "Self-assessment (GST)",
+    "def": "A buyer reporting GST on its own return instead of paying it to the seller (e.g. a registered commercial buyer, or a non-resident seller).",
+    "lesson": "14"
+  },
+  {
+    "term": "Self-supply rule",
+    "def": "A builder who occupies or rents out a new home before selling it is deemed to have sold it to themselves, owing GST then.",
+    "lesson": "14"
   },
   {
     "term": "Seller sub-agency",
@@ -1573,6 +1778,16 @@
     "term": "Specific performance",
     "def": "An equitable remedy ordering a party to actually carry out a contract, such as transferring a property. Discretionary and can be lost through delay.",
     "lesson": "01"
+  },
+  {
+    "term": "Speculation and Vacancy Tax (SVT)",
+    "def": "BC annual tax on residential property in designated areas: 3% for foreign owners and satellite families, 1% for Canadians, unless exempt.",
+    "lesson": "14"
+  },
+  {
+    "term": "Split classification",
+    "def": "Dividing a property's assessed value between two or more property classes based on its uses.",
+    "lesson": "14"
   },
   {
     "term": "Stakeholder",
@@ -1673,6 +1888,11 @@
     "term": "Suspicious transaction report (STR)",
     "def": "A report to FINTRAC, as soon as practicable, when there are reasonable grounds to suspect money laundering or terrorist financing. No dollar threshold.",
     "lesson": "06"
+  },
+  {
+    "term": "Temporary use permit (TUP)",
+    "def": "A permit allowing a temporary commercial or industrial use, renewable only once.",
+    "lesson": "14"
   },
   {
     "term": "Tenancy agreement",
@@ -1785,6 +2005,11 @@
     "lesson": "05"
   },
   {
+    "term": "Underused Housing Tax (UHT)",
+    "def": "Federal 1% annual tax on residential property owned mainly by non-Canadians, unless exempt.",
+    "lesson": "14"
+  },
+  {
     "term": "Undisclosed principal",
     "def": "A principal whose existence or identity the agent hides from the third party. The agent can then be personally liable on the contract.",
     "lesson": "09"
@@ -1878,5 +2103,10 @@
     "term": "Winding up (strata)",
     "def": "Cancelling a strata plan and dissolving the corporation, e.g. to sell to a developer. Needs an 80% vote and a court order.",
     "lesson": "11"
+  },
+  {
+    "term": "Zoning",
+    "def": "Dividing an area into zones, each with rules on current land use, building size, siting and density.",
+    "lesson": "14"
   }
 ]

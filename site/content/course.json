@@ -91,7 +91,7 @@
     },
     {
       "id": "14", "num": 14, "block": "F", "title": "Local Government Law and Property Taxes", "chapters": ["Ch 18", "Ch 19"], "estHours": 8,
-      "status": "coming_soon",
+      "status": "ready", "quiz": true, "cheatsheet": true,
       "summary": "What can be built where, and every tax that touches buying, holding and selling property in BC.",
       "topics": ["Official community plans", "Zoning", "Non-conforming use", "Board of variance", "Permits and subdivision approval", "Building bylaws", "Taxes on purchase and sale", "Taxes while holding property", "Assessment and tax notices"]
     },

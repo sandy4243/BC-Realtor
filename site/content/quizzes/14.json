@@ -1,0 +1,1489 @@
+{
+  "lessonId": "14",
+  "questions": [
+    {
+      "id": "14-001",
+      "tag": "Federal",
+      "q": "Which land-use control can the federal government impose?",
+      "choices": [
+        "Zoning rules for a city's downtown",
+        "Height limits near airport flight paths",
+        "Official community plans for suburbs",
+        "Building permits for single houses"
+      ],
+      "answer": 1,
+      "explain": "Ottawa can't zone land directly but can regulate where needed for its own powers, like airports and fisheries.",
+      "ref": "Lesson 14 · The federal government"
+    },
+    {
+      "id": "14-002",
+      "tag": "ALR",
+      "q": "A property near farmland has no ALR notation on title, but the ALC's map shows it in the ALR. Which governs?",
+      "choices": [
+        "The title, because it's registered",
+        "The ALC's records",
+        "Whichever is more recent",
+        "Neither until a court decides"
+      ],
+      "answer": 1,
+      "explain": "The ALC's records take precedence. Always check the ALC's ALR map, not just the title.",
+      "ref": "Lesson 14 · The provincial government"
+    },
+    {
+      "id": "14-003",
+      "tag": "ALR",
+      "q": "The ALC approves a non-farm use on an ALR parcel. What is the land's status afterwards?",
+      "choices": [
+        "It leaves the ALR completely and for good",
+        "It stays in the ALR, subject to the Act",
+        "It becomes Crown land held by the ALC",
+        "It is rezoned for that use automatically"
+      ],
+      "answer": 1,
+      "explain": "Only an exclusion removes land from the ALR. Approved non-farm use or subdivision leaves it in.",
+      "ref": "Lesson 14 · The provincial government"
+    },
+    {
+      "id": "14-004",
+      "tag": "ALR",
+      "q": "What is the maximum floor area for a newly built principal residence on ALR land?",
+      "choices": [
+        "300 m²",
+        "500 m²",
+        "800 m²",
+        "1,000 m²"
+      ],
+      "answer": 1,
+      "explain": "500 m² or less, and a local government can set a lower cap.",
+      "ref": "Lesson 14 · The provincial government"
+    },
+    {
+      "id": "14-005",
+      "tag": "Highways",
+      "q": "Rezoning land near an intersection with a controlled access highway needs provincial approval within what distance?",
+      "choices": [
+        "200 metres",
+        "800 metres",
+        "2 kilometres",
+        "5 kilometres"
+      ],
+      "answer": 1,
+      "explain": "800 metres, under the Transportation Act.",
+      "ref": "Lesson 14 · The provincial government"
+    },
+    {
+      "id": "14-006",
+      "tag": "Contamination",
+      "q": "Under the Environmental Management Act, when must a site disclosure statement be provided?",
+      "choices": [
+        "On every sale of any property in BC",
+        "When seeking approvals for a Schedule 2 site",
+        "Only when a buyer asks for one in writing",
+        "Whenever a new mortgage is registered"
+      ],
+      "answer": 1,
+      "explain": "It's triggered by an application for development approval (rezoning, subdivision, permits, demolition, soil removal) on a site with a past Schedule 2 use.",
+      "ref": "Lesson 14 · The provincial government"
+    },
+    {
+      "id": "14-007",
+      "tag": "Heritage",
+      "q": "What does Mackay v. British Columbia show about heritage sites?",
+      "choices": [
+        "Only designated sites are legally protected",
+        "Undesignated sites can still need permits",
+        "The province pays all of the heritage costs",
+        "Heritage restrictions end on any sale"
+      ],
+      "answer": 1,
+      "explain": "The Heritage Conservation Act protects undesignated sites too. The buyer faced over $51,000 in heritage reports.",
+      "ref": "Lesson 14 · The provincial government"
+    },
+    {
+      "id": "14-008",
+      "tag": "Statutes",
+      "q": "Which statute contains the core powers of BC municipalities other than Vancouver?",
+      "choices": [
+        "The Local Government Act",
+        "The Community Charter",
+        "The Land Title Act",
+        "The Municipal Act"
+      ],
+      "answer": 1,
+      "explain": "Since 2004, the Community Charter. The Local Government Act mainly covers regional districts plus planning rules for all.",
+      "ref": "Lesson 14 · Local government"
+    },
+    {
+      "id": "14-009",
+      "tag": "Council",
+      "q": "How is a BC municipal council made up?",
+      "choices": [
+        "A mayor and 2 to 4 councillors, 2-year terms",
+        "A mayor and 4 to 8 councillors, 4-year terms",
+        "A board of appointed directors",
+        "Elected trustees with 3-year terms"
+      ],
+      "answer": 1,
+      "explain": "An elected mayor plus four to eight councillors, holding office for four years.",
+      "ref": "Lesson 14 · Local government"
+    },
+    {
+      "id": "14-010",
+      "tag": "Improvement",
+      "q": "What power do improvement districts lack?",
+      "choices": [
+        "Levying local taxes",
+        "Land-use planning",
+        "Borrowing money",
+        "Expropriating land"
+      ],
+      "answer": 1,
+      "explain": "They provide specific services (water, sewer, fire) and can tax, borrow and expropriate, but have only an advisory role on planning.",
+      "ref": "Lesson 14 · Local government"
+    },
+    {
+      "id": "14-011",
+      "tag": "Regional",
+      "q": "In an unorganized area with no municipality, who usually acts as the local government?",
+      "choices": [
+        "The provincial cabinet",
+        "The regional district",
+        "An improvement district",
+        "The Islands Trust"
+      ],
+      "answer": 1,
+      "explain": "In unorganized areas, the regional district takes on many municipal roles.",
+      "ref": "Lesson 14 · Local government"
+    },
+    {
+      "id": "14-012",
+      "tag": "Goals",
+      "q": "Requiring landscaping around parking lots serves which planning goal?",
+      "choices": [
+        "Public health and safety of residents",
+        "Efficiency, convenience and appearance",
+        "Conservation of natural resources",
+        "Protection of nearby property values"
+      ],
+      "answer": 1,
+      "explain": "It's about appearance and convenience, one of the four goals of planning controls.",
+      "ref": "Lesson 14 · Why local governments regulate land"
+    },
+    {
+      "id": "14-013",
+      "tag": "Process",
+      "q": "Who usually makes the final decision to adopt a planning bylaw?",
+      "choices": [
+        "Professional planners",
+        "The elected council or board",
+        "The advisory planning commission",
+        "The public by referendum"
+      ],
+      "answer": 1,
+      "explain": "Planners advise, the public is consulted, and elected officials decide.",
+      "ref": "Lesson 14 · The planning process"
+    },
+    {
+      "id": "14-014",
+      "tag": "OCP",
+      "q": "Must every BC municipality adopt an official community plan?",
+      "choices": [
+        "Yes, by provincial law",
+        "No, it's optional",
+        "Only cities over 10,000 people",
+        "Only regional districts"
+      ],
+      "answer": 1,
+      "explain": "OCPs are optional, though most urban areas have one.",
+      "ref": "Lesson 14 · Official community plans"
+    },
+    {
+      "id": "14-015",
+      "tag": "OCP",
+      "q": "An OCP designates land as agricultural. Council wants to rezone it for houses. What must happen first?",
+      "choices": [
+        "Nothing; zoning overrides the OCP",
+        "Amend the OCP",
+        "Get ALC approval only",
+        "Hold a referendum"
+      ],
+      "answer": 1,
+      "explain": "Bylaws must be consistent with the OCP, so the OCP must be amended first.",
+      "ref": "Lesson 14 · Official community plans"
+    },
+    {
+      "id": "14-016",
+      "tag": "OCP",
+      "q": "What does adopting an OCP commit the local government to?",
+      "choices": [
+        "Building every project shown in the plan",
+        "Nothing; it authorizes no projects",
+        "Rezoning all land to match within a year",
+        "Compensating owners whose land loses value"
+      ],
+      "answer": 1,
+      "explain": "An OCP doesn't commit the government to any project, and it isn't a zoning bylaw.",
+      "ref": "Lesson 14 · Official community plans"
+    },
+    {
+      "id": "14-017",
+      "tag": "OCP",
+      "q": "OCP housing policies must address anticipated housing needs over at least what period?",
+      "choices": [
+        "1 year",
+        "5 years",
+        "10 years",
+        "20 years"
+      ],
+      "answer": 1,
+      "explain": "At least five years. OCPs generally must be updated every five years.",
+      "ref": "Lesson 14 · Official community plans"
+    },
+    {
+      "id": "14-018",
+      "tag": "Rural",
+      "q": "What does a rural land use bylaw combine?",
+      "choices": [
+        "Building permits and licensing rules",
+        "OCP-style policy and zoning rules",
+        "Property tax rates and assessments",
+        "Subdivision rules and strata bylaws"
+      ],
+      "answer": 1,
+      "explain": "It combines OCP-type policy and zoning in one simpler, cheaper bylaw, with the same effect.",
+      "ref": "Lesson 14 · Rural land use bylaws"
+    },
+    {
+      "id": "14-019",
+      "tag": "Zoning",
+      "q": "How does a zoning bylaw differ from an OCP?",
+      "choices": [
+        "Zoning covers future land use only",
+        "Zoning regulates current use in detail",
+        "Zoning is optional; OCPs are mandatory",
+        "Zoning overrides the OCP"
+      ],
+      "answer": 1,
+      "explain": "Zoning regulates current use and buildings in detail. The OCP sets current and future policy.",
+      "ref": "Lesson 14 · Zoning"
+    },
+    {
+      "id": "14-020",
+      "tag": "FSR",
+      "q": "A 1,200 m² lot has a floor space ratio of 0.6. What total floor area can be built?",
+      "choices": [
+        "600 m²",
+        "720 m²",
+        "1,200 m²",
+        "2,000 m²"
+      ],
+      "answer": 1,
+      "explain": "1,200 × 0.6 = 720 m², whatever the number of storeys.",
+      "ref": "Lesson 14 · What zoning bylaws usually control"
+    },
+    {
+      "id": "14-021",
+      "tag": "CD zone",
+      "q": "What is a CD zone?",
+      "choices": [
+        "A commercial district for downtown cores",
+        "A site-specific development zone",
+        "A conservation district for parks",
+        "A zone reserved for condominiums"
+      ],
+      "answer": 1,
+      "explain": "Comprehensive Development zones are tailored to a particular parcel or parcels.",
+      "ref": "Lesson 14 · Zoning"
+    },
+    {
+      "id": "14-022",
+      "tag": "Infill",
+      "q": "A coach house is strata titled, separate from the main house. Can it be sold separately?",
+      "choices": [
+        "No, never, as it shares the land",
+        "Yes, as it's a separate strata lot",
+        "Only with a development variance permit",
+        "Only after it is 10 years old"
+      ],
+      "answer": 1,
+      "explain": "The legal structure decides. A strata-titled coach house can be sold separately; a laneway home on the same lot can't.",
+      "ref": "Lesson 14 · What zoning bylaws usually control"
+    },
+    {
+      "id": "14-023",
+      "tag": "Suites",
+      "q": "A listing has an unauthorized suite. What should the listing licensee do?",
+      "choices": [
+        "Advertise it as a handy mortgage helper",
+        "Disclose it; don't promote suite income",
+        "Say nothing about it unless asked",
+        "Have the seller remove it before listing"
+      ],
+      "answer": 1,
+      "explain": "Promoting it as income breaches Rules s.41; missing permits are a material latent defect that must be disclosed (s.59).",
+      "ref": "Lesson 14 · Secondary suites and short-term rentals"
+    },
+    {
+      "id": "14-024",
+      "tag": "STRAA",
+      "q": "Under the 2023 Short-Term Rental Accommodations Act, where can short-term rentals generally operate?",
+      "choices": [
+        "Anywhere the owner chooses to operate",
+        "Host's home plus one suite or ADU",
+        "Only in licensed hotels and motels",
+        "Only in purpose-built strata buildings"
+      ],
+      "answer": 1,
+      "explain": "The principal residence requirement limits them to the host's home plus one secondary suite or accessory dwelling unit.",
+      "ref": "Lesson 14 · Secondary suites and short-term rentals"
+    },
+    {
+      "id": "14-025",
+      "tag": "STRAA",
+      "q": "Can a municipality be stricter than STRAA on short-term rentals?",
+      "choices": [
+        "No, STRAA overrides local rules",
+        "Yes, STRAA sets a baseline",
+        "Only with ALC approval",
+        "Only for commercial zones"
+      ],
+      "answer": 1,
+      "explain": "STRAA is a floor. Municipalities and stratas can impose tighter restrictions (e.g. Vancouver).",
+      "ref": "Lesson 14 · Secondary suites and short-term rentals"
+    },
+    {
+      "id": "14-026",
+      "tag": "Whistler",
+      "q": "In the Whistler rental pool case, why was the zoning bylaw upheld?",
+      "choices": [
+        "Zoning bylaws can never be challenged in court",
+        "It had a land-use purpose, not discriminatory",
+        "The owners had agreed to it in writing",
+        "The province had approved it in advance"
+      ],
+      "answer": 1,
+      "explain": "The court found a valid land-use rationale and no unreasonable discrimination, so regulating users was acceptable.",
+      "ref": "Lesson 14 · Secondary suites and short-term rentals"
+    },
+    {
+      "id": "14-027",
+      "tag": "Rezoning",
+      "q": "How many times must council vote on a rezoning bylaw?",
+      "choices": [
+        "Once, at final adoption",
+        "Four times in total",
+        "Twice, before and after the hearing",
+        "Only once, at the public hearing"
+      ],
+      "answer": 1,
+      "explain": "Three readings plus final adoption: four separate votes.",
+      "ref": "Lesson 14 · Rezoning"
+    },
+    {
+      "id": "14-028",
+      "tag": "Hearing",
+      "q": "When is a public hearing generally prohibited for a rezoning?",
+      "choices": [
+        "For any commercial rezoning project",
+        "Residential projects consistent with the OCP",
+        "For any project of more than four storeys",
+        "For any project once first reading passes"
+      ],
+      "answer": 1,
+      "explain": "Residential projects consistent with the OCP generally don't get a public hearing, though notice is still given.",
+      "ref": "Lesson 14 · Rezoning"
+    },
+    {
+      "id": "14-029",
+      "tag": "Compensation",
+      "q": "Council rezones a client's commercial lot to single-family residential, cutting its value. Can the owner claim compensation?",
+      "choices": [
+        "Yes, at market value",
+        "No, the Act bars compensation",
+        "Yes, but only half the loss",
+        "Only through the board of variance"
+      ],
+      "answer": 1,
+      "explain": "The Local Government Act says local governments aren't liable for passing, amending or repealing zoning bylaws or OCPs.",
+      "ref": "Lesson 14 · Rezoning"
+    },
+    {
+      "id": "14-030",
+      "tag": "LUC",
+      "q": "What happened to land use contracts in BC?",
+      "choices": [
+        "They were renewed until 2050",
+        "They all ended by June 30, 2024",
+        "They became development permits",
+        "They still apply indefinitely"
+      ],
+      "answer": 1,
+      "explain": "A 2014 amendment terminated them all by June 30, 2024, without compensation.",
+      "ref": "Lesson 14 · Land use contracts"
+    },
+    {
+      "id": "14-031",
+      "tag": "NCU",
+      "q": "A lawful non-conforming use stops. How long until it loses its status (outside Vancouver)?",
+      "choices": [
+        "30 days",
+        "6 months",
+        "1 year",
+        "2 years"
+      ],
+      "answer": 1,
+      "explain": "Six continuous months (90 days in Vancouver).",
+      "ref": "Lesson 14 · Non-conforming use"
+    },
+    {
+      "id": "14-032",
+      "tag": "NCU",
+      "q": "A non-conforming building is damaged to 80% of its value. What happens?",
+      "choices": [
+        "It can be rebuilt exactly as before",
+        "It must be rebuilt to current rules",
+        "It must be demolished entirely",
+        "The owner gets compensation"
+      ],
+      "answer": 1,
+      "explain": "Damage of 75% or more of its value means it can only be rebuilt in conformity with the current bylaw.",
+      "ref": "Lesson 14 · Non-conforming use"
+    },
+    {
+      "id": "14-033",
+      "tag": "NCU",
+      "q": "What happens to a non-conforming use when the property is sold?",
+      "choices": [
+        "It ends at the sale",
+        "It continues with the new owner",
+        "It continues for one year only",
+        "It needs council approval"
+      ],
+      "answer": 1,
+      "explain": "Status continues through changes of ownership.",
+      "ref": "Lesson 14 · Non-conforming use"
+    },
+    {
+      "id": "14-034",
+      "tag": "NCU",
+      "q": "Can a lawful non-conforming use be extended?",
+      "choices": [
+        "Onto adjoining land the owner buys",
+        "Throughout the existing building",
+        "Anywhere if the owner pays a fee",
+        "Never, in any way"
+      ],
+      "answer": 1,
+      "explain": "It can spread through an existing building but not onto a larger area of land.",
+      "ref": "Lesson 14 · Non-conforming use"
+    },
+    {
+      "id": "14-035",
+      "tag": "BoV",
+      "q": "What can a board of variance vary?",
+      "choices": [
+        "Permitted uses in a particular zone",
+        "Siting, size and dimensions, if minor",
+        "Density limits in any zone it chooses",
+        "Subdivision servicing standards"
+      ],
+      "answer": 1,
+      "explain": "Only minor variances to zoning rules on siting, size and dimensions, where compliance would cause undue hardship.",
+      "ref": "Lesson 14 · Board of variance"
+    },
+    {
+      "id": "14-036",
+      "tag": "BoV",
+      "q": "Which local governments must have a board of variance?",
+      "choices": [
+        "Only cities with over 50,000 people",
+        "Every one that has adopted zoning",
+        "Only regional districts with an OCP",
+        "None; it's an optional body"
+      ],
+      "answer": 1,
+      "explain": "Every local government with a zoning bylaw must establish one.",
+      "ref": "Lesson 14 · Board of variance"
+    },
+    {
+      "id": "14-037",
+      "tag": "DP",
+      "q": "What must exist before a local government can require a development permit?",
+      "choices": [
+        "A rezoning application from the owner",
+        "A DP area designated in the OCP",
+        "An order from the board of variance",
+        "A heritage designation on the title"
+      ],
+      "answer": 1,
+      "explain": "The area must first be designated as a development permit area in the OCP.",
+      "ref": "Lesson 14 · Development permits"
+    },
+    {
+      "id": "14-038",
+      "tag": "DP",
+      "q": "A title shows \"MAY BE AFFECTED BY A PERMIT UNDER PART 14 OF THE LOCAL GOVERNMENT ACT\". What should you do?",
+      "choices": [
+        "Ignore it; it's routine",
+        "Get the permit from the local government",
+        "Ask the land title office for details",
+        "Assume it has expired"
+      ],
+      "answer": 1,
+      "explain": "The notation gives no details. Get a copy of the permit, especially if any change or development is planned.",
+      "ref": "Lesson 14 · Development permits"
+    },
+    {
+      "id": "14-039",
+      "tag": "DVP",
+      "q": "What can a development variance permit NOT vary?",
+      "choices": [
+        "Parking requirements",
+        "Use or density",
+        "Sign rules",
+        "Setbacks"
+      ],
+      "answer": 1,
+      "explain": "A DVP can vary many bylaw provisions, but never use or density.",
+      "ref": "Lesson 14 · Development variance permits"
+    },
+    {
+      "id": "14-040",
+      "tag": "TUP",
+      "q": "How many times can a temporary use permit be renewed?",
+      "choices": [
+        "Never",
+        "Once",
+        "Twice",
+        "Without limit"
+      ],
+      "answer": 1,
+      "explain": "Only once. Terms are typically up to three years.",
+      "ref": "Lesson 14 · Temporary use permits"
+    },
+    {
+      "id": "14-041",
+      "tag": "Subdivision",
+      "q": "Who approves subdivision plans in a municipality?",
+      "choices": [
+        "The land title registrar for the area",
+        "The approving officer named by council",
+        "The board of variance for the area",
+        "The provincial Minister of Housing"
+      ],
+      "answer": 1,
+      "explain": "The approving officer, usually the municipal engineer or planner.",
+      "ref": "Lesson 14 · Subdivision"
+    },
+    {
+      "id": "14-042",
+      "tag": "Hlynsky",
+      "q": "A subdivision meets all zoning rules but is refused as against the public interest. When can a court overturn this?",
+      "choices": [
+        "Whenever the plan meets all the zoning rules",
+        "Bad faith, discrimination or specious basis",
+        "If the owner pays the application fees",
+        "If the neighbours all support the plan"
+      ],
+      "answer": 1,
+      "explain": "Hlynsky: courts interfere only for bad faith, intent to discriminate, or a specious and totally inadequate factual basis.",
+      "ref": "Lesson 14 · Subdivision"
+    },
+    {
+      "id": "14-043",
+      "tag": "Parks",
+      "q": "Up to what share of land can a subdivider be required to dedicate for parks?",
+      "choices": [
+        "2%",
+        "5%",
+        "10%",
+        "15%"
+      ],
+      "answer": 1,
+      "explain": "Up to five percent.",
+      "ref": "Lesson 14 · Subdivision"
+    },
+    {
+      "id": "14-044",
+      "tag": "DCC",
+      "q": "How do community amenity contributions differ from DCCs?",
+      "choices": [
+        "CACs are set by bylaw; DCCs are negotiated",
+        "CACs are negotiated; DCCs are set by bylaw",
+        "They are the same charge",
+        "CACs apply only to subdivisions"
+      ],
+      "answer": 1,
+      "explain": "DCCs are calculated under a bylaw. CACs must be negotiated and can't be imposed unilaterally.",
+      "ref": "Lesson 14 · Development cost charges and amenity contributions"
+    },
+    {
+      "id": "14-045",
+      "tag": "Building",
+      "q": "An application for a building permit fully complies with the bylaw. Can it be refused?",
+      "choices": [
+        "Yes, at council's discretion",
+        "No, it must be issued",
+        "Yes, if neighbours object",
+        "Only after a public hearing"
+      ],
+      "answer": 1,
+      "explain": "If the proposed work complies, the building permit must be issued.",
+      "ref": "Lesson 14 · Building bylaws and inspection"
+    },
+    {
+      "id": "14-046",
+      "tag": "s.57",
+      "q": "What does a Community Charter section 57 notice on title indicate?",
+      "choices": [
+        "A heritage designation by the city",
+        "A building or bylaw contravention",
+        "A development permit on the land",
+        "A property tax deferment charge"
+      ],
+      "answer": 1,
+      "explain": "It warns of a contravention of the building code or a bylaw. Get details from the municipality and recommend legal advice.",
+      "ref": "Lesson 14 · Building bylaws and inspection"
+    },
+    {
+      "id": "14-047",
+      "tag": "Licence",
+      "q": "A buyer confirms the zoning allows a pet store, buys, then is refused a business licence. What check was missed?",
+      "choices": [
+        "The OCP land use designation map",
+        "The business licensing bylaw",
+        "An order of the board of variance",
+        "The ALC's agricultural reserve map"
+      ],
+      "answer": 1,
+      "explain": "Zoning isn't enough: licensing bylaws can restrict a business the zoning allows.",
+      "ref": "Lesson 14 · Licensing bylaws"
+    },
+    {
+      "id": "14-048",
+      "tag": "Advice",
+      "q": "A client asks whether GST applies to their sale. What does Rules s.30(d) require?",
+      "choices": [
+        "Answer based on your own past experience",
+        "Advise them to get independent tax advice",
+        "Tell them GST never applies to homes",
+        "Calculate the GST owing for them"
+      ],
+      "answer": 1,
+      "explain": "Licensees must advise clients to get independent professional advice on matters outside their expertise.",
+      "ref": "Lesson 14 · Taxes: information, not advice"
+    },
+    {
+      "id": "14-049",
+      "tag": "GST",
+      "q": "Under the Excise Tax Act, what is the default position for a real property sale?",
+      "choices": [
+        "Exempt unless listed as taxable",
+        "Taxable unless listed as exempt",
+        "Exempt if residential",
+        "Taxable only if commercial"
+      ],
+      "answer": 1,
+      "explain": "Every supply is taxable unless an exemption in Schedule V applies.",
+      "ref": "Lesson 14 · The basic rule: taxable unless exempt"
+    },
+    {
+      "id": "14-050",
+      "tag": "GST",
+      "q": "Which interest in real property can attract GST?",
+      "choices": [
+        "Only a sale of the fee simple estate",
+        "Any interest, even an option to buy",
+        "Only a lease longer than 99 years",
+        "Only brand new commercial buildings"
+      ],
+      "answer": 1,
+      "explain": "GST potentially applies to any right in real property, including options.",
+      "ref": "Lesson 14 · The basic rule: taxable unless exempt"
+    },
+    {
+      "id": "14-051",
+      "tag": "GST",
+      "q": "A seller fails to collect GST that was owed on a taxable sale. Who is liable to the CRA?",
+      "choices": [
+        "Only the buyer",
+        "The seller as well",
+        "Only the buyer's lawyer",
+        "No one, if the deal closed"
+      ],
+      "answer": 1,
+      "explain": "The buyer must pay, but a seller who fails to collect is equally liable; the CRA usually assesses the seller.",
+      "ref": "Lesson 14 · Who pays, who collects"
+    },
+    {
+      "id": "14-052",
+      "tag": "Self-assess",
+      "q": "When does a buyer self-assess GST instead of paying it to the seller?",
+      "choices": [
+        "Whenever the price is over $1 million",
+        "When GST-registered (not individuals buying homes)",
+        "Whenever the seller agrees to it in the contract",
+        "Only on newly built homes from a builder"
+      ],
+      "answer": 1,
+      "explain": "A GST-registered buyer self-assesses, except an individual buying a residential complex. Also when the seller is a non-resident.",
+      "ref": "Lesson 14 · Who pays, who collects"
+    },
+    {
+      "id": "14-053",
+      "tag": "Deposit",
+      "q": "When is GST payable on a deposit for a new home?",
+      "choices": [
+        "As soon as the deposit is paid in trust",
+        "When it becomes the seller's, at closing",
+        "Never; deposits are always exempt",
+        "Within 30 days after it is paid"
+      ],
+      "answer": 1,
+      "explain": "GST generally applies to the deposit once it becomes the seller's money, usually at completion.",
+      "ref": "Lesson 14 · Who pays, who collects"
+    },
+    {
+      "id": "14-054",
+      "tag": "ITC",
+      "q": "A doctor buys a building for a clinic (exempt) and leases part to a pharmacy (taxable). What GST can they recover?",
+      "choices": [
+        "All of the GST paid on the building",
+        "Only the part for the pharmacy lease",
+        "None of it, since a clinic is exempt",
+        "Half of it, as required by law"
+      ],
+      "answer": 1,
+      "explain": "Input tax credits are allowed only to the extent the property is used in commercial (taxable) activities.",
+      "ref": "Lesson 14 · Getting GST back"
+    },
+    {
+      "id": "14-055",
+      "tag": "Objection",
+      "q": "How long does a taxpayer have to object to a CRA GST assessment?",
+      "choices": [
+        "30 days",
+        "90 days",
+        "1 year",
+        "2 years"
+      ],
+      "answer": 1,
+      "explain": "Ninety days to file an objection; then 90 days to appeal to the Tax Court after confirmation.",
+      "ref": "Lesson 14 · Getting GST back"
+    },
+    {
+      "id": "14-056",
+      "tag": "Hotel",
+      "q": "A house is used mainly for Airbnb stays. How is it likely treated for GST?",
+      "choices": [
+        "As an exempt residential complex",
+        "Under the hotel exclusion: taxable",
+        "As exempt farm land under Schedule V",
+        "As an exempt long-term residential rental"
+      ],
+      "answer": 1,
+      "explain": "Short-term rental homes can fall under the hotel exclusion and be taxable, regardless of age.",
+      "ref": "Lesson 14 · Residential complexes and the hotel exclusion"
+    },
+    {
+      "id": "14-057",
+      "tag": "Builder",
+      "q": "What does the GST exemption for resale homes actually depend on?",
+      "choices": [
+        "The home being over 5 years old",
+        "The seller not being a builder",
+        "The buyer being a first-time buyer",
+        "The price being under $450,000"
+      ],
+      "answer": 1,
+      "explain": "There's no 'used home' exemption as such. The exemption is for sales by someone who isn't a builder.",
+      "ref": "Lesson 14 · Builders and the self-supply rule"
+    },
+    {
+      "id": "14-058",
+      "tag": "Self-supply",
+      "q": "A builder rents a new home to a long-term tenant before selling it. When is GST owed?",
+      "choices": [
+        "When the home is sold",
+        "When the tenant moves in",
+        "Never, because it's rented",
+        "When the builder files taxes"
+      ],
+      "answer": 1,
+      "explain": "The self-supply rule deems a sale to the builder when the tenant moves in; the later sale is exempt.",
+      "ref": "Lesson 14 · Builders and the self-supply rule"
+    },
+    {
+      "id": "14-059",
+      "tag": "Builder",
+      "q": "Mr. Jones buys a new home to live in, but is transferred before moving in and sells. Is he a builder?",
+      "choices": [
+        "Yes, because no one had lived there yet",
+        "No, he had no business or profit motive",
+        "Yes, because he sold it within a year",
+        "Only if he made a profit on the sale"
+      ],
+      "answer": 1,
+      "explain": "An individual must be acting in a business or adventure in the nature of trade to be a builder.",
+      "ref": "Lesson 14 · Builders and the self-supply rule"
+    },
+    {
+      "id": "14-060",
+      "tag": "CPS",
+      "q": "Under the standard BC Contract of Purchase and Sale since November 2024, how is GST treated?",
+      "choices": [
+        "It is always extra, on top of the price",
+        "It's included in the price, if it applies",
+        "It's split equally by buyer and seller",
+        "It's left out of the contract entirely"
+      ],
+      "answer": 1,
+      "explain": "Clause 1 now says the price includes applicable GST, unless the parties agree otherwise in writing.",
+      "ref": "Lesson 14 · Is GST included in the price?"
+    },
+    {
+      "id": "14-061",
+      "tag": "Resort",
+      "q": "For a mixed-use resort condo, which nights count as commercial use for GST?",
+      "choices": [
+        "Nights listed as available",
+        "Nights actually rented",
+        "All nights not used personally",
+        "Weekends only"
+      ],
+      "answer": 1,
+      "explain": "The CRA counts only nights actually rented, not nights merely listed.",
+      "ref": "Lesson 14 · Current GST issues"
+    },
+    {
+      "id": "14-062",
+      "tag": "PTT",
+      "q": "Who pays property transfer tax?",
+      "choices": [
+        "The seller, from proceeds",
+        "The buyer (transferee)",
+        "Split equally",
+        "The buyer's lender"
+      ],
+      "answer": 1,
+      "explain": "The buyer pays it before the transfer can be registered. The seller has no collection role.",
+      "ref": "Lesson 14 · Property transfer tax"
+    },
+    {
+      "id": "14-063",
+      "tag": "PTT",
+      "q": "What is PTT on a $1,500,000 house?",
+      "choices": [
+        "$26,000",
+        "$28,000",
+        "$30,000",
+        "$45,000"
+      ],
+      "answer": 1,
+      "explain": "1% × $200,000 = $2,000 plus 2% × $1,300,000 = $26,000: total $28,000.",
+      "ref": "Lesson 14 · The rates"
+    },
+    {
+      "id": "14-064",
+      "tag": "PTT",
+      "q": "What is PTT on a $3,000,000 home?",
+      "choices": [
+        "$60,000",
+        "$68,000",
+        "$90,000",
+        "$98,000"
+      ],
+      "answer": 1,
+      "explain": "$2,000 + $36,000 + 3% × $1,000,000 ($30,000) = $68,000. The extra 2% starts above $3M.",
+      "ref": "Lesson 14 · The rates"
+    },
+    {
+      "id": "14-065",
+      "tag": "PTT",
+      "q": "What is PTT on a $4,000,000 commercial building?",
+      "choices": [
+        "$118,000",
+        "$98,000",
+        "$120,000",
+        "$80,000"
+      ],
+      "answer": 1,
+      "explain": "$2,000 + $36,000 + 3% × $2,000,000 = $98,000. The residential surcharge doesn't apply.",
+      "ref": "Lesson 14 · The rates"
+    },
+    {
+      "id": "14-066",
+      "tag": "Fixtures",
+      "q": "Why did PTT on the Zellstoff Celgar pulp mill rise to $4.5 million?",
+      "choices": [
+        "Foreign buyers' tax applied",
+        "Machinery was treated as fixtures",
+        "The mill was rezoned residential",
+        "GST was added to the price"
+      ],
+      "answer": 1,
+      "explain": "Fixtures are part of the land's value for PTT, so classifying the equipment as fixtures raised the tax dramatically.",
+      "ref": "Lesson 14 · Property transfer tax"
+    },
+    {
+      "id": "14-067",
+      "tag": "Presale",
+      "q": "PTT on an assigned presale strata unit is based on what?",
+      "choices": [
+        "Market value of the unit at closing",
+        "Price plus all assignment amounts",
+        "The original contract price only",
+        "The unit's assessed value that year"
+      ],
+      "answer": 1,
+      "explain": "For presale strata units, PTT is on the price plus amounts paid to assignors and the developer, not value at closing.",
+      "ref": "Lesson 14 · Property transfer tax"
+    },
+    {
+      "id": "14-068",
+      "tag": "FTHB",
+      "q": "Which buyer qualifies for the First Time Home Buyers' exemption?",
+      "choices": [
+        "A PR who once owned a home in Europe years ago",
+        "A citizen in BC 1 year buying an $800K home",
+        "A citizen buying an $850K rental condo",
+        "A foreign student buying a small condo"
+      ],
+      "answer": 1,
+      "explain": "Must be a citizen or PR, generally in BC a year, never owned a principal residence anywhere, and FMV ≤ $835,000 as a principal residence.",
+      "ref": "Lesson 14 · Exemptions"
+    },
+    {
+      "id": "14-069",
+      "tag": "FTHB",
+      "q": "Under the First Time Home Buyers' Program, PTT is exempt on what portion of the price?",
+      "choices": [
+        "The first $200,000",
+        "The first $500,000",
+        "The whole price",
+        "The first $835,000"
+      ],
+      "answer": 1,
+      "explain": "The first $500,000, for homes up to $835,000 (partial relief up to $860,000).",
+      "ref": "Lesson 14 · Exemptions"
+    },
+    {
+      "id": "14-070",
+      "tag": "New",
+      "q": "What is the full-exemption threshold for the Newly Built Home Exemption?",
+      "choices": [
+        "$835,000",
+        "$1,100,000",
+        "$1,500,000",
+        "$750,000"
+      ],
+      "answer": 1,
+      "explain": "Fair market value of $1,100,000 or less, with partial relief up to $1,150,000.",
+      "ref": "Lesson 14 · Exemptions"
+    },
+    {
+      "id": "14-071",
+      "tag": "FBT",
+      "q": "What is the rate of the additional PTT for foreign buyers?",
+      "choices": [
+        "15%",
+        "20%",
+        "10%",
+        "25%"
+      ],
+      "answer": 1,
+      "explain": "20% since February 21, 2018 (it started at 15% in 2016).",
+      "ref": "Lesson 14 · The foreign buyers' tax"
+    },
+    {
+      "id": "14-072",
+      "tag": "FBT",
+      "q": "Two buyers purchase a Metro Vancouver home together; one is a foreign national. How much of the purchase may attract the foreign buyers' tax?",
+      "choices": [
+        "Only the foreign buyer's share",
+        "The entire purchase",
+        "None of it",
+        "Half, by formula"
+      ],
+      "answer": 1,
+      "explain": "There's no split for multiple buyers. If one is foreign, the whole purchase may be taxed.",
+      "ref": "Lesson 14 · The foreign buyers' tax"
+    },
+    {
+      "id": "14-073",
+      "tag": "FBT",
+      "q": "Is a BC-incorporated company always outside the foreign corporation definition?",
+      "choices": [
+        "Yes, if it's incorporated in BC",
+        "No, foreign control can make it foreign",
+        "Yes, if it has its head office in BC",
+        "Yes, if it files and pays BC taxes"
+      ],
+      "answer": 1,
+      "explain": "A corporation controlled by foreign nationals is a foreign corporation even if incorporated in Canada.",
+      "ref": "Lesson 14 · The foreign buyers' tax"
+    },
+    {
+      "id": "14-074",
+      "tag": "Shave",
+      "q": "In Shave v. Century 21, what was the licensee's main failing?",
+      "choices": [
+        "Charging the buyers too much commission",
+        "Changing the residency answer unchecked",
+        "Missing the date for removing subjects",
+        "Failing to arrange a home inspection"
+      ],
+      "answer": 1,
+      "explain": "The licensee changed the declaration to 'yes' without confirming it and didn't flag it, and was 75% liable for about $175,000.",
+      "ref": "Lesson 14 · The foreign buyers' tax"
+    },
+    {
+      "id": "14-075",
+      "tag": "Withholding",
+      "q": "A non-resident sells a rental building with no clearance certificate. What must the buyer withhold?",
+      "choices": [
+        "25% of the net proceeds",
+        "50% of the gross price",
+        "25% of the gross price",
+        "15% of the gain"
+      ],
+      "answer": 1,
+      "explain": "50% of the gross price for depreciable property; 25% for non-depreciable property like a residence.",
+      "ref": "Lesson 14 · Non-resident sellers: withholding tax"
+    },
+    {
+      "id": "14-076",
+      "tag": "Withholding",
+      "q": "How can a buyer protect themselves from liability for a non-resident seller's tax?",
+      "choices": [
+        "By paying a much larger deposit",
+        "By a reasonable inquiry into residency",
+        "By taking title through a bare trust",
+        "By closing the deal as fast as possible"
+      ],
+      "answer": 1,
+      "explain": "Income Tax Act s.116(5): a reasonable inquiry protects the buyer. In Mao v. Liu, the notary didn't, and was liable.",
+      "ref": "Lesson 14 · Non-resident sellers: withholding tax"
+    },
+    {
+      "id": "14-077",
+      "tag": "Capital gain",
+      "q": "A $400,000 profit is treated as business income rather than a capital gain. How much is taxable?",
+      "choices": [
+        "$200,000",
+        "$400,000",
+        "$100,000",
+        "Nothing"
+      ],
+      "answer": 1,
+      "explain": "Business income is 100% taxable; only 50% of a capital gain is.",
+      "ref": "Lesson 14 · Capital gains and flipping"
+    },
+    {
+      "id": "14-078",
+      "tag": "Intention",
+      "q": "In Happy Valley Farms, which factor usually carries the most weight?",
+      "choices": [
+        "The property's size",
+        "The taxpayer's motive",
+        "The sale price",
+        "The buyer's identity"
+      ],
+      "answer": 1,
+      "explain": "Motive generally has the greatest influence, including any secondary intention to resell for profit.",
+      "ref": "Lesson 14 · Is it income or capital?"
+    },
+    {
+      "id": "14-079",
+      "tag": "Flipping",
+      "q": "Under the federal flipping rule, a home held for under what period is deemed business income?",
+      "choices": [
+        "180 days",
+        "365 days",
+        "730 days",
+        "2 years and a day"
+      ],
+      "answer": 1,
+      "explain": "Under 365 days, unless a life-event exception applies. The principal residence exemption isn't available.",
+      "ref": "Lesson 14 · Federal property flipping rule (2023)"
+    },
+    {
+      "id": "14-080",
+      "tag": "BC flip",
+      "q": "What is the BC home flipping tax rate on a gain if sold within 365 days?",
+      "choices": [
+        "10%",
+        "20%",
+        "50%",
+        "5%"
+      ],
+      "answer": 1,
+      "explain": "20%, declining to zero by 730 days. It's filed separately within 90 days of the sale.",
+      "ref": "Lesson 14 · BC home flipping tax (2025)"
+    },
+    {
+      "id": "14-081",
+      "tag": "BC flip",
+      "q": "Does the BC home flipping tax apply to BC residents?",
+      "choices": [
+        "No, it applies only to non-residents",
+        "Yes, to anyone selling BC property",
+        "Only to corporations and trusts",
+        "Only to foreign nationals and companies"
+      ],
+      "answer": 1,
+      "explain": "It applies to any individual or entity, regardless of residency.",
+      "ref": "Lesson 14 · BC home flipping tax (2025)"
+    },
+    {
+      "id": "14-082",
+      "tag": "Mill rate",
+      "q": "A property's net taxable value is $600,000 and the mill rate is 3.5. What is the tax?",
+      "choices": [
+        "$1,750",
+        "$2,100",
+        "$3,500",
+        "$21,000"
+      ],
+      "answer": 1,
+      "explain": "$600,000 ÷ 1,000 × 3.5 = $2,100.",
+      "ref": "Lesson 14 · Property tax"
+    },
+    {
+      "id": "14-083",
+      "tag": "Liability",
+      "q": "Who is liable for property tax under the Assessment Act?",
+      "choices": [
+        "Whoever is living in the property",
+        "The registered owner, incl. a life tenant",
+        "The lender holding the first mortgage",
+        "The brokerage that last listed it"
+      ],
+      "answer": 1,
+      "explain": "The registered owner (including a life tenant or agreement for sale holder) as of November 30.",
+      "ref": "Lesson 14 · Who pays"
+    },
+    {
+      "id": "14-084",
+      "tag": "Improvements",
+      "q": "Which is NOT an improvement for property assessment?",
+      "choices": [
+        "A detached garage",
+        "Production machinery",
+        "A built-in fixture",
+        "A storage building"
+      ],
+      "answer": 1,
+      "explain": "Production machinery, things moved as a unit and easily moved furniture are excluded unless they're a building.",
+      "ref": "Lesson 14 · What's taxed"
+    },
+    {
+      "id": "14-085",
+      "tag": "Actual value",
+      "q": "What is the valuation date for the annual assessment roll?",
+      "choices": [
+        "January 1",
+        "July 1",
+        "October 31",
+        "December 31"
+      ],
+      "answer": 1,
+      "explain": "July 1, with physical condition and permitted use taken as of October 31.",
+      "ref": "Lesson 14 · What value is taxed"
+    },
+    {
+      "id": "14-086",
+      "tag": "Class",
+      "q": "Which property class covers offices and stores?",
+      "choices": [
+        "Class 1",
+        "Class 6",
+        "Class 5",
+        "Class 8"
+      ],
+      "answer": 1,
+      "explain": "Class 6: Business and Other. Class 1 is residential; Class 5 is light industry.",
+      "ref": "Lesson 14 · Property classes"
+    },
+    {
+      "id": "14-087",
+      "tag": "Split",
+      "q": "How is a building with ground-floor shops and apartments above classified?",
+      "choices": [
+        "Entirely as Class 6",
+        "Split between classes",
+        "Entirely as Class 1",
+        "Whichever class the owner picks"
+      ],
+      "answer": 1,
+      "explain": "The assessor divides the value between classes: a split classification.",
+      "ref": "Lesson 14 · Property classes"
+    },
+    {
+      "id": "14-088",
+      "tag": "School tax",
+      "q": "What additional school tax applies to a $3,500,000 residential property?",
+      "choices": [
+        "$7,000",
+        "$1,000",
+        "$2,000",
+        "$14,000"
+      ],
+      "answer": 1,
+      "explain": "0.2% on the $500,000 above $3 million = $1,000.",
+      "ref": "Lesson 14 · Additional school tax"
+    },
+    {
+      "id": "14-089",
+      "tag": "Calendar",
+      "q": "A sale is registered on December 15. Whose name appears on that year's assessment roll?",
+      "choices": [
+        "The buyer's",
+        "The seller's",
+        "Both names",
+        "Neither until April"
+      ],
+      "answer": 1,
+      "explain": "The roll uses land title records as of November 30, so the seller still appears.",
+      "ref": "Lesson 14 · The assessment and tax calendar"
+    },
+    {
+      "id": "14-090",
+      "tag": "Calendar",
+      "q": "What is the deadline to file an assessment complaint with the assessor?",
+      "choices": [
+        "December 31",
+        "January 31",
+        "March 31",
+        "April 30"
+      ],
+      "answer": 1,
+      "explain": "January 31. Review panels then sit February 1 to March 15.",
+      "ref": "Lesson 14 · Appealing an assessment"
+    },
+    {
+      "id": "14-091",
+      "tag": "Appeal",
+      "q": "After a review panel decision, where does an owner appeal next, and by when?",
+      "choices": [
+        "BC Supreme Court by March 31",
+        "Assessment Appeal Board by April 30",
+        "The municipal council by July 2",
+        "Tax Court of Canada within 90 days"
+      ],
+      "answer": 1,
+      "explain": "To the Property Assessment Appeal Board by April 30; further appeals on points of law go to the courts.",
+      "ref": "Lesson 14 · Appealing an assessment"
+    },
+    {
+      "id": "14-092",
+      "tag": "Appeal",
+      "q": "An owner thinks their tax bill is too high. What can they appeal?",
+      "choices": [
+        "The tax bill directly",
+        "The assessment",
+        "The mill rate",
+        "The school tax rate"
+      ],
+      "answer": 1,
+      "explain": "Owners appeal the assessment, not the tax itself.",
+      "ref": "Lesson 14 · Appealing an assessment"
+    },
+    {
+      "id": "14-093",
+      "tag": "Assessed value",
+      "q": "Why shouldn't a licensee rely on assessed value as market value?",
+      "choices": [
+        "It already includes the GST",
+        "It reflects a past date, July 1",
+        "It's always set too high on purpose",
+        "It leaves out the value of the land"
+      ],
+      "answer": 1,
+      "explain": "It's a July 1 snapshot, often outdated by the time it's mailed. Dosanjh v. Liang refused to treat it as evidence of value.",
+      "ref": "Lesson 14 · The assessment and tax calendar"
+    },
+    {
+      "id": "14-094",
+      "tag": "Relief",
+      "q": "Which owner can ask to be assessed on current residential use instead of a higher zoned use?",
+      "choices": [
+        "Any owner who applies in writing",
+        "A 10+ year resident on up-zoned land",
+        "A new buyer of a development site",
+        "A landlord who owns a rental building"
+      ],
+      "answer": 1,
+      "explain": "The resident-owner must have lived there continuously for 10 years, apply each year, and the land must be zoned or influenced for a higher use.",
+      "ref": "Lesson 14 · Exemptions, grants and deferral"
+    },
+    {
+      "id": "14-095",
+      "tag": "Grant",
+      "q": "What is the basic home owner grant in Metro Vancouver?",
+      "choices": [
+        "$770",
+        "$570",
+        "$350",
+        "$845"
+      ],
+      "answer": 1,
+      "explain": "$570 in Metro Vancouver, the Fraser Valley and the Capital Regional District; $770 in northern and rural areas.",
+      "ref": "Lesson 14 · Home owner grant"
+    },
+    {
+      "id": "14-096",
+      "tag": "Deferment",
+      "q": "What minimum equity is required for the regular property tax deferment program?",
+      "choices": [
+        "15%",
+        "25%",
+        "35%",
+        "50%"
+      ],
+      "answer": 1,
+      "explain": "25% for the regular program (55+, surviving spouse or disability); 15% for the families with children program.",
+      "ref": "Lesson 14 · Property tax deferment"
+    },
+    {
+      "id": "14-097",
+      "tag": "Deferment",
+      "q": "A seller has deferred property taxes. When must they be repaid?",
+      "choices": [
+        "Never; deferred taxes are forgiven over time",
+        "Before the property is sold or transferred",
+        "Only when the owner eventually dies",
+        "Within 30 days of each tax due date"
+      ],
+      "answer": 1,
+      "explain": "The deferral is a registered charge that must be repaid before a sale or transfer can be registered.",
+      "ref": "Lesson 14 · Property tax deferment"
+    },
+    {
+      "id": "14-098",
+      "tag": "SVT",
+      "q": "What is the 2026 SVT rate for a Canadian citizen who isn't in a satellite family?",
+      "choices": [
+        "0.5%",
+        "1%",
+        "2%",
+        "3%"
+      ],
+      "answer": 1,
+      "explain": "1% for Canadians and PRs; 3% for foreign owners and satellite families.",
+      "ref": "Lesson 14 · Speculation and Vacancy Tax"
+    },
+    {
+      "id": "14-099",
+      "tag": "SVT",
+      "q": "An owner in a taxable area doesn't file an SVT declaration. What happens?",
+      "choices": [
+        "Nothing, if they're exempt",
+        "They're taxed at the highest rate",
+        "They get a reminder only",
+        "They lose the home owner grant"
+      ],
+      "answer": 1,
+      "explain": "Every owner must declare by March 31, even if exempt. Non-filers are charged the maximum rate.",
+      "ref": "Lesson 14 · Speculation and Vacancy Tax"
+    },
+    {
+      "id": "14-100",
+      "tag": "SVT",
+      "q": "To qualify for the SVT rental exemption, how long must the property be rented?",
+      "choices": [
+        "3 months in total, in any periods",
+        "6 months, in 1-month or longer periods",
+        "12 months in a row, with one tenant",
+        "30 days in a row at any time of year"
+      ],
+      "answer": 1,
+      "explain": "At least six months of the year, in increments of a month or longer.",
+      "ref": "Lesson 14 · Speculation and Vacancy Tax"
+    },
+    {
+      "id": "14-101",
+      "tag": "Satellite",
+      "q": "When is someone part of a satellite family for SVT purposes?",
+      "choices": [
+        "When they live outside BC most of the year",
+        "Unreported income tops income reported here",
+        "When they own two or more homes in BC",
+        "When they are not a Canadian citizen"
+      ],
+      "answer": 1,
+      "explain": "It compares worldwide unreported income with income reported in Canada (spouses combined), so even citizens can be caught.",
+      "ref": "Lesson 14 · Speculation and Vacancy Tax"
+    },
+    {
+      "id": "14-102",
+      "tag": "EHT",
+      "q": "What is the City of Vancouver's Empty Homes Tax rate?",
+      "choices": [
+        "1%",
+        "3%",
+        "2%",
+        "5%"
+      ],
+      "answer": 1,
+      "explain": "3% of the taxable assessed value for homes vacant six months or more.",
+      "ref": "Lesson 14 · Vancouver's Empty Homes Tax"
+    },
+    {
+      "id": "14-103",
+      "tag": "EHT",
+      "q": "An investor rents a Vancouver condo only on stays of under 30 days. How is it treated for the EHT?",
+      "choices": [
+        "As occupied, since it was rented",
+        "As vacant, so subject to the tax",
+        "As the investor's principal residence",
+        "As exempt, unsold new inventory"
+      ],
+      "answer": 1,
+      "explain": "Only rentals of at least 30 consecutive days count toward the six months of occupancy.",
+      "ref": "Lesson 14 · Vancouver's Empty Homes Tax"
+    },
+    {
+      "id": "14-104",
+      "tag": "EHT",
+      "q": "What happens if an owner doesn't file a Property Status Declaration?",
+      "choices": [
+        "The home is assumed occupied",
+        "The home is deemed vacant",
+        "They pay a $100 fee",
+        "The city sends an inspector"
+      ],
+      "answer": 1,
+      "explain": "No PSD means the property is deemed vacant and taxed. False declarations can be fined up to $10,000.",
+      "ref": "Lesson 14 · Vancouver's Empty Homes Tax"
+    },
+    {
+      "id": "14-105",
+      "tag": "UHT",
+      "q": "Who is generally exempt from filing under the federal Underused Housing Tax?",
+      "choices": [
+        "Foreign nationals holding a work permit",
+        "Canadian citizens and permanent residents",
+        "Private Canadian-controlled corporations",
+        "Any owner of a recreational vacation home"
+      ],
+      "answer": 1,
+      "explain": "Citizens and PRs are excluded owners (unless they hold as partners or trustees). Private corporations generally must file.",
+      "ref": "Lesson 14 · Underused Housing Tax"
+    },
+    {
+      "id": "14-106",
+      "tag": "UHT",
+      "q": "An affected owner qualifies for a UHT exemption. Must they still file?",
+      "choices": [
+        "No, an exemption removes the need to file",
+        "Yes, by April 30, or face penalties",
+        "Only if the home sat vacant all year",
+        "Only once every three years"
+      ],
+      "answer": 1,
+      "explain": "Affected owners must file even when exempt. Minimum penalties are $1,000 (individual) or $2,000 (corporation).",
+      "ref": "Lesson 14 · Underused Housing Tax"
+    }
+  ]
+}
