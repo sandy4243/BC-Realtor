@@ -97,7 +97,7 @@
     },
     {
       "id": "15", "num": 15, "block": "F", "title": "Construction and Appraisal", "chapters": ["Ch 20", "Ch 21", "Ch 22", "Ch 23"], "estHours": 14,
-      "status": "coming_soon",
+      "status": "ready", "quiz": true, "cheatsheet": true,
       "summary": "How buildings are put together, and how value is estimated using the direct comparison, cost and income approaches.",
       "topics": ["Building standards and measurement", "Building systems and inspection", "Green and energy-efficient housing", "The appraisal process", "Direct comparison approach and CMAs", "Cost approach and depreciation", "Net operating income", "Capitalization rates and value"]
     },

@@ -1,0 +1,1951 @@
+{
+  "lessonId": "15",
+  "questions": [
+    {
+      "id": "15-001",
+      "tag": "Codes",
+      "q": "How should a licensee describe a home \"built to code\"?",
+      "choices": [
+        "Built to the highest quality available",
+        "Built to the minimum legal standards",
+        "Guaranteed free of all defects",
+        "Inspected and warranted by the city"
+      ],
+      "answer": 1,
+      "explain": "Building codes set minimum standards; meeting code doesn't mean high quality.",
+      "ref": "Lesson 15 · Codes, standards and the people who enforce them"
+    },
+    {
+      "id": "15-002",
+      "tag": "Codes",
+      "q": "Which body issues permits for electrical and gas work in most of BC?",
+      "choices": [
+        "BC Housing's Licensing branch",
+        "Technical Safety BC",
+        "The Real Estate Council",
+        "Consumer Protection BC"
+      ],
+      "answer": 1,
+      "explain": "Technical Safety BC licenses contractors and issues electrical and gas permits, separate from building permits.",
+      "ref": "Lesson 15 · Codes, standards and the people who enforce them"
+    },
+    {
+      "id": "15-003",
+      "tag": "Codes",
+      "q": "Which city has its own building bylaw instead of using the BC Building Code?",
+      "choices": [
+        "Victoria",
+        "Vancouver",
+        "Surrey",
+        "Kelowna"
+      ],
+      "answer": 1,
+      "explain": "Vancouver has the Vancouver Building By-law (VBBL).",
+      "ref": "Lesson 15 · Codes, standards and the people who enforce them"
+    },
+    {
+      "id": "15-004",
+      "tag": "Codes",
+      "q": "Which of these needs no electrical permit?",
+      "choices": [
+        "Adding a new circuit for a hot tub",
+        "Replacing a light switch",
+        "Running wiring to a new garage",
+        "Installing a new service panel"
+      ],
+      "answer": 1,
+      "explain": "Swapping fixtures, switches or thermostats doesn't need a permit; new wiring does.",
+      "ref": "Lesson 15 · Codes, standards and the people who enforce them"
+    },
+    {
+      "id": "15-005",
+      "tag": "HPA",
+      "q": "What crisis led to the Homeowner Protection Act in 1998?",
+      "choices": [
+        "The 1990s mortgage fraud wave",
+        "The leaky condo crisis",
+        "The Expo 86 land boom",
+        "The asbestos removal scandal"
+      ],
+      "answer": 1,
+      "explain": "Poorly built and waterproofed buildings caused about $4 billion of damage: the leaky condo crisis.",
+      "ref": "Lesson 15 · The Homeowner Protection Act"
+    },
+    {
+      "id": "15-006",
+      "tag": "HPA",
+      "q": "Which is NOT one of the HPA's three core requirements?",
+      "choices": [
+        "Builders must be licensed",
+        "Homes must be built in concrete",
+        "New homes must be registered",
+        "New homes need warranty insurance"
+      ],
+      "answer": 1,
+      "explain": "The HPA requires licensing, registration and warranty insurance. It doesn't dictate building materials.",
+      "ref": "Lesson 15 · The Homeowner Protection Act"
+    },
+    {
+      "id": "15-007",
+      "tag": "HPA",
+      "q": "How much experience does an applicant for a residential builder licence need?",
+      "choices": [
+        "12 months in the last 3 years",
+        "24 months in the last 5 years",
+        "5 years in the last 10 years",
+        "No minimum experience"
+      ],
+      "answer": 1,
+      "explain": "24 months managing or supervising residential construction within the previous 5 years.",
+      "ref": "Lesson 15 · The Homeowner Protection Act"
+    },
+    {
+      "id": "15-008",
+      "tag": "Registry",
+      "q": "The online New Homes Registry covers homes registered after which date?",
+      "choices": [
+        "January 1, 1999",
+        "November 19, 2007",
+        "July 1, 2010",
+        "April 1, 2014"
+      ],
+      "answer": 1,
+      "explain": "For homes registered before November 19, 2007, contact Licensing and Consumer Services.",
+      "ref": "Lesson 15 · The Homeowner Protection Act"
+    },
+    {
+      "id": "15-009",
+      "tag": "New home",
+      "q": "A house got its occupancy permit 7 years ago and has had three owners. Is it a \"new home\" under the HPA?",
+      "choices": [
+        "No, only the first buyer is covered",
+        "Yes, for 10 years after occupancy",
+        "No, after 5 years it's a resale",
+        "Only if the builder still owns it"
+      ],
+      "answer": 1,
+      "explain": "The 10-year period runs from the occupancy permit regardless of how many times it's sold.",
+      "ref": "Lesson 15 · Selling a new home"
+    },
+    {
+      "id": "15-010",
+      "tag": "New home",
+      "q": "Which renovation makes a house a \"new home\" under the HPA?",
+      "choices": [
+        "Replacing the roof and windows",
+        "Replacing over 75% of the structure",
+        "A full kitchen and bathroom renovation",
+        "Adding a second-storey deck"
+      ],
+      "answer": 1,
+      "explain": "More than 75% of the structure above the foundation removed or replaced (or a new foundation with 50% new structure).",
+      "ref": "Lesson 15 · Selling a new home"
+    },
+    {
+      "id": "15-011",
+      "tag": "New home",
+      "q": "A new foundation is poured and new structure (with the foundation) makes up what share for substantial reconstruction?",
+      "choices": [
+        "25%",
+        "50%",
+        "75%",
+        "90%"
+      ],
+      "answer": 1,
+      "explain": "A new foundation plus new structural components making up 50% of the finished structure.",
+      "ref": "Lesson 15 · Selling a new home"
+    },
+    {
+      "id": "15-012",
+      "tag": "Discipline",
+      "q": "A licensee listed a fully rebuilt house without warranty insurance. What was the outcome in the case discussed?",
+      "choices": [
+        "No penalty; rebuilds are exempt",
+        "A $1,200 fine",
+        "Licence cancelled",
+        "A $50,000 fine"
+      ],
+      "answer": 1,
+      "explain": "The listing licensee was fined $1,200; they didn't know substantial rebuilds count as new homes.",
+      "ref": "Lesson 15 · Selling a new home"
+    },
+    {
+      "id": "15-013",
+      "tag": "Discipline",
+      "q": "Why was a buyer's licensee suspended 7 days in a warranty case?",
+      "choices": [
+        "For charging too high a commission",
+        "For never asking about warranty insurance",
+        "For listing without the seller's consent",
+        "For refusing to show the property"
+      ],
+      "answer": 1,
+      "explain": "She didn't ask about mandatory warranty insurance or put it in the contract; the home had none.",
+      "ref": "Lesson 15 · Selling a new home"
+    },
+    {
+      "id": "15-014",
+      "tag": "2-5-10",
+      "q": "How long must a warranty cover defects in the building envelope?",
+      "choices": [
+        "2 years",
+        "5 years",
+        "10 years",
+        "15 years"
+      ],
+      "answer": 1,
+      "explain": "2 years materials and labour, 5 years envelope (including water penetration), 10 years structural.",
+      "ref": "Lesson 15 · What the warranty covers: 2-5-10"
+    },
+    {
+      "id": "15-015",
+      "tag": "2-5-10",
+      "q": "How long must a warranty cover structural defects?",
+      "choices": [
+        "5 years",
+        "10 years",
+        "2 years",
+        "20 years"
+      ],
+      "answer": 1,
+      "explain": "Structural defects: 10 years.",
+      "ref": "Lesson 15 · What the warranty covers: 2-5-10"
+    },
+    {
+      "id": "15-016",
+      "tag": "2-5-10",
+      "q": "What is the minimum claim limit for a strata unit?",
+      "choices": [
+        "The lesser of $50,000 or its value",
+        "The lesser of $100,000 or its value",
+        "The lesser of $200,000 or its value",
+        "The full replacement cost"
+      ],
+      "answer": 1,
+      "explain": "Strata units: not less than the lesser of $100,000 or the value. Fee simple: $200,000.",
+      "ref": "Lesson 15 · What the warranty covers: 2-5-10"
+    },
+    {
+      "id": "15-017",
+      "tag": "2-5-10",
+      "q": "What is the minimum claim limit for a fee simple home?",
+      "choices": [
+        "The lesser of $100,000 or its value",
+        "The lesser of $200,000 or its value",
+        "The greater of $200,000 or its value",
+        "Exactly $500,000"
+      ],
+      "answer": 1,
+      "explain": "Not less than the lesser of $200,000 or the value of the home.",
+      "ref": "Lesson 15 · What the warranty covers: 2-5-10"
+    },
+    {
+      "id": "15-018",
+      "tag": "Owner-builder",
+      "q": "Who can get an owner-builder authorization?",
+      "choices": [
+        "A company building homes to resell",
+        "An individual building for own use",
+        "Any licensed general contractor firm",
+        "A developer building a small duplex"
+      ],
+      "answer": 1,
+      "explain": "It must be an individual who intends to live in the home, not a company.",
+      "ref": "Lesson 15 · Owner-builders"
+    },
+    {
+      "id": "15-019",
+      "tag": "Owner-builder",
+      "q": "How long must an owner-builder live in the home without renting it?",
+      "choices": [
+        "6 months",
+        "1 year",
+        "2 years",
+        "5 years"
+      ],
+      "answer": 1,
+      "explain": "At least one year from occupancy, with no renting in that time.",
+      "ref": "Lesson 15 · Owner-builders"
+    },
+    {
+      "id": "15-020",
+      "tag": "Owner-builder",
+      "q": "When can an owner-builder first sell the home?",
+      "choices": [
+        "Any time while it's under construction",
+        "12 months after the occupancy permit",
+        "5 years after the occupancy permit",
+        "Only after 10 years have passed"
+      ],
+      "answer": 1,
+      "explain": "No sale during construction or within 12 months of the occupancy permit.",
+      "ref": "Lesson 15 · Owner-builders"
+    },
+    {
+      "id": "15-021",
+      "tag": "Owner-builder",
+      "q": "A later owner sells an owner-built home 6 years after occupancy. What's required?",
+      "choices": [
+        "Nothing, since they didn't build it",
+        "An owner-builder disclosure notice",
+        "A new building permit",
+        "A fresh warranty policy"
+      ],
+      "answer": 1,
+      "explain": "Any sale within 10 years needs disclosure saying whether warranty insurance exists.",
+      "ref": "Lesson 15 · Owner-builders"
+    },
+    {
+      "id": "15-022",
+      "tag": "Inspections",
+      "q": "Who licenses home inspectors in BC?",
+      "choices": [
+        "BCFSA",
+        "Consumer Protection BC",
+        "Technical Safety BC",
+        "The municipality"
+      ],
+      "answer": 1,
+      "explain": "Home inspectors are licensed by Consumer Protection BC.",
+      "ref": "Lesson 15 · Inspections and your duties"
+    },
+    {
+      "id": "15-023",
+      "tag": "Inspections",
+      "q": "Your buyer asks you to recommend an inspector. What's best practice?",
+      "choices": [
+        "Give the name of your usual inspector",
+        "Give at least three names to choose from",
+        "Tell them inspections aren't needed",
+        "Book and pay for one yourself"
+      ],
+      "answer": 1,
+      "explain": "Provide at least three names and let the buyer choose; don't steer them.",
+      "ref": "Lesson 15 · Inspections and your duties"
+    },
+    {
+      "id": "15-024",
+      "tag": "Inspections",
+      "q": "An inspector pays you a referral fee. What must you do?",
+      "choices": [
+        "Nothing; it's a private business matter",
+        "Disclose it to the client in writing",
+        "Split it evenly with your client",
+        "Refund it to the inspector at once"
+      ],
+      "answer": 1,
+      "explain": "Rules s.56 requires written disclosure of remuneration from a referral.",
+      "ref": "Lesson 15 · Inspections and your duties"
+    },
+    {
+      "id": "15-025",
+      "tag": "Inspections",
+      "q": "A buyer refuses an inspection. What should their licensee do?",
+      "choices": [
+        "Insist and refuse to write the offer",
+        "Document that the buyer declined",
+        "Arrange one without telling them",
+        "Tell the seller to fix everything"
+      ],
+      "answer": 1,
+      "explain": "Recommend it, and if declined, document the decision.",
+      "ref": "Lesson 15 · Inspections and your duties"
+    },
+    {
+      "id": "15-026",
+      "tag": "Measuring",
+      "q": "How is floor area of an attached townhouse measured at a shared wall?",
+      "choices": [
+        "To the inside face of the wall",
+        "To the centre line of the wall",
+        "To the outside face of the wall",
+        "The wall is not included at all"
+      ],
+      "answer": 1,
+      "explain": "Measure to the exterior of walls and to the centre line of party walls.",
+      "ref": "Lesson 15 · Measuring a home"
+    },
+    {
+      "id": "15-027",
+      "tag": "Measuring",
+      "q": "When does a floor count as \"above grade\"?",
+      "choices": [
+        "When most of it is above ground",
+        "When it is entirely above ground",
+        "When it has full-size windows",
+        "When it has a separate entrance"
+      ],
+      "answer": 1,
+      "explain": "Only if it's entirely above the ground.",
+      "ref": "Lesson 15 · Measuring a home"
+    },
+    {
+      "id": "15-028",
+      "tag": "Measuring",
+      "q": "Which is included in finished floor area?",
+      "choices": [
+        "An attached double garage",
+        "A finished main-floor den",
+        "An unfinished basement area",
+        "A loft reached only by ladder"
+      ],
+      "answer": 1,
+      "explain": "Garages, unfinished areas and ladder-only spaces are excluded.",
+      "ref": "Lesson 15 · Measuring a home"
+    },
+    {
+      "id": "15-029",
+      "tag": "Measuring",
+      "q": "A suite measures 90 m². About how many square feet is that?",
+      "choices": [
+        "837 sq ft",
+        "968 sq ft",
+        "1,076 sq ft",
+        "900 sq ft"
+      ],
+      "answer": 1,
+      "explain": "90 × 10.76 = 968.4 sq ft.",
+      "ref": "Lesson 15 · Measuring a home"
+    },
+    {
+      "id": "15-030",
+      "tag": "Metric",
+      "q": "What's the actual size of a metric \"2×4\" stud?",
+      "choices": [
+        "50 × 100 mm",
+        "38 × 89 mm",
+        "45 × 95 mm",
+        "25 × 75 mm"
+      ],
+      "answer": 1,
+      "explain": "About 38 × 89 mm.",
+      "ref": "Lesson 15 · Metric in construction"
+    },
+    {
+      "id": "15-031",
+      "tag": "Foundations",
+      "q": "What's the difference between dampproofing and waterproofing?",
+      "choices": [
+        "They are two words for the same thing",
+        "One slows moisture; one stops water",
+        "Waterproofing is only used on roofs",
+        "Dampproofing is the stronger of the two"
+      ],
+      "answer": 1,
+      "explain": "Dampproofing slows moisture; waterproofing resists water under pressure.",
+      "ref": "Lesson 15 · Foundations"
+    },
+    {
+      "id": "15-032",
+      "tag": "Foundations",
+      "q": "Why do many homes in Richmond and Delta have no basements?",
+      "choices": [
+        "Local bylaws ban all basements",
+        "High water tables",
+        "Earthquake design rules",
+        "Basements are too costly to heat"
+      ],
+      "answer": 1,
+      "explain": "High water tables make basements impractical.",
+      "ref": "Lesson 15 · Foundations"
+    },
+    {
+      "id": "15-033",
+      "tag": "Framing",
+      "q": "On which side of the insulation does the vapour barrier go?",
+      "choices": [
+        "The cold (outside) side",
+        "The warm (inside) side",
+        "Both sides",
+        "Neither; it goes in the attic"
+      ],
+      "answer": 1,
+      "explain": "On the warm side, to stop indoor moisture reaching the cold parts of the wall.",
+      "ref": "Lesson 15 · Framing and walls"
+    },
+    {
+      "id": "15-034",
+      "tag": "Framing",
+      "q": "What framing method do most BC houses use?",
+      "choices": [
+        "Balloon framing",
+        "Platform framing",
+        "Post and beam",
+        "Steel stud framing"
+      ],
+      "answer": 1,
+      "explain": "Each floor is built as a platform and the next walls go on top.",
+      "ref": "Lesson 15 · Framing and walls"
+    },
+    {
+      "id": "15-035",
+      "tag": "Construction",
+      "q": "Which construction type is most common for mid- and high-rise buildings?",
+      "choices": [
+        "Wood frame",
+        "Concrete",
+        "Heavy timber",
+        "Masonry"
+      ],
+      "answer": 1,
+      "explain": "Concrete, with about a 2-hour fire rating.",
+      "ref": "Lesson 15 · Construction types for bigger buildings"
+    },
+    {
+      "id": "15-036",
+      "tag": "Construction",
+      "q": "What is a known drawback of wood frame construction in taller buildings?",
+      "choices": [
+        "It cannot be insulated",
+        "Shrinkage as it dries",
+        "It is the most costly type",
+        "It has no fire rating at all"
+      ],
+      "answer": 1,
+      "explain": "Wood shrinks as it dries, so detailing must allow for movement.",
+      "ref": "Lesson 15 · Construction types for bigger buildings"
+    },
+    {
+      "id": "15-037",
+      "tag": "Envelope",
+      "q": "Why do rain screen walls perform better on the coast than face-sealed walls?",
+      "choices": [
+        "They use a much thicker coat of stucco",
+        "An air gap lets water drain and dry",
+        "They are built with no windows at all",
+        "They are built with no vapour barrier"
+      ],
+      "answer": 1,
+      "explain": "Face-sealing relies on a perfect seal; rain screens manage water that gets in.",
+      "ref": "Lesson 15 · The building envelope"
+    },
+    {
+      "id": "15-038",
+      "tag": "Envelope",
+      "q": "Which barrier must be continuous, with every gap sealed?",
+      "choices": [
+        "The vapour barrier only",
+        "The air barrier",
+        "The building paper only",
+        "The drywall"
+      ],
+      "answer": 1,
+      "explain": "The air barrier must be continuous; vapour barrier continuity is less critical.",
+      "ref": "Lesson 15 · The building envelope"
+    },
+    {
+      "id": "15-039",
+      "tag": "Envelope",
+      "q": "Remedial envelope work above what cost per suite generally needs an envelope consultant?",
+      "choices": [
+        "$500",
+        "$2,000",
+        "$10,000",
+        "$25,000"
+      ],
+      "answer": 1,
+      "explain": "More than $2,000 per suite.",
+      "ref": "Lesson 15 · The building envelope"
+    },
+    {
+      "id": "15-040",
+      "tag": "Roofs",
+      "q": "What's the difference between cedar shakes and cedar shingles?",
+      "choices": [
+        "Shakes are sawn; shingles are split",
+        "Shakes are split; shingles are sawn",
+        "Shakes are painted; shingles aren't",
+        "There is no difference"
+      ],
+      "answer": 1,
+      "explain": "Shakes are split (rough); shingles are sawn (smooth).",
+      "ref": "Lesson 15 · Roofs"
+    },
+    {
+      "id": "15-041",
+      "tag": "Roofs",
+      "q": "What is the minimum slope for asphalt shingles?",
+      "choices": [
+        "2:12",
+        "4:12",
+        "8:12",
+        "12:12"
+      ],
+      "answer": 1,
+      "explain": "Asphalt shingles need at least a 4:12 slope.",
+      "ref": "Lesson 15 · Roofs"
+    },
+    {
+      "id": "15-042",
+      "tag": "Roofs",
+      "q": "What does a zinc strip near the ridge of a shingled roof do?",
+      "choices": [
+        "Grounds the roof against lightning",
+        "Discourages moss growth",
+        "Stops ice dams forming",
+        "Holds the shingles down"
+      ],
+      "answer": 1,
+      "explain": "Zinc washes down the roof and discourages moss.",
+      "ref": "Lesson 15 · Roofs"
+    },
+    {
+      "id": "15-043",
+      "tag": "Cladding",
+      "q": "Why must vinyl siding be nailed loosely?",
+      "choices": [
+        "So it can be removed for painting",
+        "So it can expand and contract",
+        "To let water in behind it",
+        "To save money on nails"
+      ],
+      "answer": 1,
+      "explain": "Vinyl moves with temperature; tight nailing causes buckling.",
+      "ref": "Lesson 15 · Cladding"
+    },
+    {
+      "id": "15-044",
+      "tag": "Cladding",
+      "q": "What do weep holes in brick veneer do?",
+      "choices": [
+        "Let the bricks breathe",
+        "Let water drain out",
+        "Hold the bricks to the frame",
+        "Vent the attic space"
+      ],
+      "answer": 1,
+      "explain": "They let water behind the brick drain out, about every 2 feet along the base.",
+      "ref": "Lesson 15 · Cladding"
+    },
+    {
+      "id": "15-045",
+      "tag": "Windows",
+      "q": "Which window is hinged at the top and opens outward?",
+      "choices": [
+        "Casement",
+        "Awning",
+        "Hopper",
+        "Slider"
+      ],
+      "answer": 1,
+      "explain": "Awning windows hinge at the top; casements at the side; hoppers at the bottom.",
+      "ref": "Lesson 15 · Windows"
+    },
+    {
+      "id": "15-046",
+      "tag": "Insulation",
+      "q": "When was UFFI banned in Canada?",
+      "choices": [
+        "December 1970",
+        "December 1980",
+        "December 1990",
+        "It is still allowed"
+      ],
+      "answer": 1,
+      "explain": "Urea formaldehyde foam insulation was banned in December 1980.",
+      "ref": "Lesson 15 · Insulation, heating and ventilation"
+    },
+    {
+      "id": "15-047",
+      "tag": "Insulation",
+      "q": "What does a higher R-value mean?",
+      "choices": [
+        "More sound passes between rooms",
+        "Better resistance to heat flow",
+        "A higher fire-resistance rating",
+        "Walls that dry out more quickly"
+      ],
+      "answer": 1,
+      "explain": "R-value measures thermal resistance; higher is better insulation.",
+      "ref": "Lesson 15 · Insulation, heating and ventilation"
+    },
+    {
+      "id": "15-048",
+      "tag": "Heating",
+      "q": "What's the efficiency of a modern high-efficiency gas furnace?",
+      "choices": [
+        "About 60%",
+        "About 95%",
+        "About 80%",
+        "About 70%"
+      ],
+      "answer": 1,
+      "explain": "Old units 50–60%, mid-efficiency at least 80%, high-efficiency about 95%.",
+      "ref": "Lesson 15 · Insulation, heating and ventilation"
+    },
+    {
+      "id": "15-049",
+      "tag": "Radon",
+      "q": "Above what level does Health Canada recommend radon remediation?",
+      "choices": [
+        "100 Bq/m³",
+        "200 Bq/m³",
+        "400 Bq/m³",
+        "1,000 Bq/m³"
+      ],
+      "answer": 1,
+      "explain": "200 Bq/m³ (within 2 years); above 600, within 1 year.",
+      "ref": "Lesson 15 · Radon"
+    },
+    {
+      "id": "15-050",
+      "tag": "Radon",
+      "q": "A seller knows their basement tests at 350 Bq/m³. What must their licensee do?",
+      "choices": [
+        "Nothing, since radon occurs naturally",
+        "Disclose it: material latent defect",
+        "Disclose it only if the buyer asks",
+        "Disclose it only in the Interior"
+      ],
+      "answer": 1,
+      "explain": "BCFSA treats radon over 200 Bq/m³ as a material latent defect.",
+      "ref": "Lesson 15 · Radon"
+    },
+    {
+      "id": "15-051",
+      "tag": "Radon",
+      "q": "What is the most common radon fix?",
+      "choices": [
+        "Opening windows in winter",
+        "Sub-slab depressurization",
+        "Painting the basement floor",
+        "Adding attic insulation"
+      ],
+      "answer": 1,
+      "explain": "A pipe and fan draw radon from under the slab and vent it outside.",
+      "ref": "Lesson 15 · Radon"
+    },
+    {
+      "id": "15-052",
+      "tag": "Radon",
+      "q": "Why might upper floors of a tall building have high radon?",
+      "choices": [
+        "Concrete gives off radon",
+        "The stack effect",
+        "Elevator motors produce it",
+        "Roof decks trap it"
+      ],
+      "answer": 1,
+      "explain": "Warm air rising through shafts can carry radon up: the stack effect.",
+      "ref": "Lesson 15 · Radon"
+    },
+    {
+      "id": "15-053",
+      "tag": "Electrical",
+      "q": "A renovated 120 m² house must have at least what electrical service?",
+      "choices": [
+        "60 amps",
+        "100 amps",
+        "200 amps",
+        "400 amps"
+      ],
+      "answer": 1,
+      "explain": "New or substantially renovated homes over 80 m² need at least 100 amps.",
+      "ref": "Lesson 15 · Electrical systems"
+    },
+    {
+      "id": "15-054",
+      "tag": "Electrical",
+      "q": "Which is usually more costly to upgrade in an older home?",
+      "choices": [
+        "The size of the electrical service",
+        "The distribution of circuits",
+        "The label on the main breaker",
+        "The hydro meter base outside"
+      ],
+      "answer": 1,
+      "explain": "Adding circuits and outlets usually means opening walls.",
+      "ref": "Lesson 15 · Electrical systems"
+    },
+    {
+      "id": "15-055",
+      "tag": "Electrical",
+      "q": "A pre-1950 house has two-hole outlets and no ground wire. What wiring is it likely?",
+      "choices": [
+        "Aluminum",
+        "Knob and tube",
+        "Modern copper",
+        "Armoured cable"
+      ],
+      "answer": 1,
+      "explain": "Knob and tube: two wires, no ground.",
+      "ref": "Lesson 15 · Electrical systems"
+    },
+    {
+      "id": "15-056",
+      "tag": "Electrical",
+      "q": "What is required to make aluminum wiring safe?",
+      "choices": [
+        "Replacing all of it with copper",
+        "CO/ALR devices and anti-oxidant",
+        "A 200 amp service panel",
+        "Plastic junction boxes only"
+      ],
+      "answer": 1,
+      "explain": "Use CO/ALR-rated devices and anti-oxidant on joints.",
+      "ref": "Lesson 15 · Electrical systems"
+    },
+    {
+      "id": "15-057",
+      "tag": "Plumbing",
+      "q": "What's the typical life of a galvanized water supply system?",
+      "choices": [
+        "10–15 years",
+        "30–50 years",
+        "75–100 years",
+        "It never wears out"
+      ],
+      "answer": 1,
+      "explain": "30 to 50 years; it corrodes from the inside.",
+      "ref": "Lesson 15 · Plumbing, wells and septic"
+    },
+    {
+      "id": "15-058",
+      "tag": "Plumbing",
+      "q": "A rural buyer asks if the well has enough water. What should you do?",
+      "choices": [
+        "Assure them it has always been fine",
+        "Recommend testing and a subject clause",
+        "Tell them wells never run dry",
+        "Ask the seller to sign a guarantee"
+      ],
+      "answer": 1,
+      "explain": "Never represent water sufficiency; use well reports and quality/quantity tests.",
+      "ref": "Lesson 15 · Plumbing, wells and septic"
+    },
+    {
+      "id": "15-059",
+      "tag": "Septic",
+      "q": "How far from the house must a septic tank be?",
+      "choices": [
+        "At least 3 feet",
+        "At least 10 feet",
+        "At least 50 feet",
+        "At least 100 feet"
+      ],
+      "answer": 1,
+      "explain": "At least ten feet away.",
+      "ref": "Lesson 15 · Plumbing, wells and septic"
+    },
+    {
+      "id": "15-060",
+      "tag": "Septic",
+      "q": "Septic systems installed after May 31, 2005 must have what?",
+      "choices": [
+        "A connection to the municipal sewer",
+        "An authorized installer, filed records",
+        "A 20-year manufacturer's warranty",
+        "Approval from BC Assessment first"
+      ],
+      "answer": 1,
+      "explain": "Installed by an authorized person, with records filed with the health authority.",
+      "ref": "Lesson 15 · Plumbing, wells and septic"
+    },
+    {
+      "id": "15-061",
+      "tag": "Safety",
+      "q": "How high should a deck guard be, and how small the gaps?",
+      "choices": [
+        "36 inches, gaps under 6 inches",
+        "42 inches, gaps under 4 inches",
+        "48 inches, gaps under 2 inches",
+        "30 inches, any gap size"
+      ],
+      "answer": 1,
+      "explain": "About 42 inches high, with gaps under 4 inches.",
+      "ref": "Lesson 15 · Safety details and building styles"
+    },
+    {
+      "id": "15-062",
+      "tag": "Green",
+      "q": "What are the LEED certification levels?",
+      "choices": [
+        "Bronze, Silver, Gold, Diamond",
+        "Certified, Silver, Gold, Platinum",
+        "1 star to 5 stars",
+        "Basic, Plus, Premium, Elite"
+      ],
+      "answer": 1,
+      "explain": "LEED: Certified, Silver, Gold, Platinum.",
+      "ref": "Lesson 15 · Green and energy-efficient homes"
+    },
+    {
+      "id": "15-063",
+      "tag": "Green",
+      "q": "What does the R-2000 standard require for air quality?",
+      "choices": [
+        "No windows that can be opened",
+        "Mechanical ventilation, often an HRV",
+        "Solar panels installed on the roof",
+        "Electric baseboard heating only"
+      ],
+      "answer": 1,
+      "explain": "Air-tight homes need controlled ventilation, typically a heat recovery ventilator.",
+      "ref": "Lesson 15 · Green and energy-efficient homes"
+    },
+    {
+      "id": "15-064",
+      "tag": "Appraisal",
+      "q": "Do appraisers need a licence under the Real Estate Services Act?",
+      "choices": [
+        "Yes, a trading services licence",
+        "No, appraisal is exempt (RESR s.2.8)",
+        "Yes, a special appraisal licence",
+        "Only for commercial work"
+      ],
+      "answer": 1,
+      "explain": "Appraisers are exempt; most belong to professional bodies like the AIC.",
+      "ref": "Lesson 15 · What an appraisal is"
+    },
+    {
+      "id": "15-065",
+      "tag": "Appraisal",
+      "q": "Which is NOT a reason real estate needs appraisals?",
+      "choices": [
+        "Low turnover",
+        "Identical units sold daily",
+        "Uniqueness of each property",
+        "Local, imperfect markets"
+      ],
+      "answer": 1,
+      "explain": "Real estate is unique and trades rarely, unlike identical commodities.",
+      "ref": "Lesson 15 · What an appraisal is"
+    },
+    {
+      "id": "15-066",
+      "tag": "Appraisal",
+      "q": "What is the AIC's designation for appraisers of all property types?",
+      "choices": [
+        "CRA",
+        "AACI",
+        "CPA",
+        "RI"
+      ],
+      "answer": 1,
+      "explain": "AACI covers all property types; CRA is residential.",
+      "ref": "Lesson 15 · What an appraisal is"
+    },
+    {
+      "id": "15-067",
+      "tag": "Value",
+      "q": "A seller won't take less than $1.1M; a buyer will pay up to $1.2M. What is the $1.1M?",
+      "choices": [
+        "The buyer's ceiling price",
+        "The seller's floor price",
+        "The market value",
+        "The assessed value"
+      ],
+      "answer": 1,
+      "explain": "The seller's minimum is the floor price; the buyer's maximum is the ceiling.",
+      "ref": "Lesson 15 · Floor price, ceiling price and the deal"
+    },
+    {
+      "id": "15-068",
+      "tag": "Value",
+      "q": "Which value ignores a particular owner's personal circumstances?",
+      "choices": [
+        "Value to the owner",
+        "Market value",
+        "Investment value",
+        "Sentimental value"
+      ],
+      "answer": 1,
+      "explain": "Market value is what the market as a whole would pay.",
+      "ref": "Lesson 15 · Kinds of value"
+    },
+    {
+      "id": "15-069",
+      "tag": "Value",
+      "q": "An appraisal for a capital gains calculation values the property as of 2015. What is that date called?",
+      "choices": [
+        "The report date",
+        "The effective date",
+        "The closing date",
+        "The listing date"
+      ],
+      "answer": 1,
+      "explain": "The effective date can be in the past (estates, expropriation, capital gains, fire loss).",
+      "ref": "Lesson 15 · Other key ideas"
+    },
+    {
+      "id": "15-070",
+      "tag": "Value",
+      "q": "Two identical buildings: one has a long lease at below-market rent. Why might values differ?",
+      "choices": [
+        "Appraisals ignore leases entirely",
+        "Appraisals value legal interests",
+        "Leases only affect property taxes",
+        "Rent levels never affect value"
+      ],
+      "answer": 1,
+      "explain": "The appraiser values the legal interest, including leases and financing.",
+      "ref": "Lesson 15 · Other key ideas"
+    },
+    {
+      "id": "15-071",
+      "tag": "Process",
+      "q": "What is the first step of the appraisal process?",
+      "choices": [
+        "Collect data",
+        "Define the problem",
+        "Apply the approaches",
+        "Reconcile values"
+      ],
+      "answer": 1,
+      "explain": "Define the problem: client, use, purpose, value type, effective date, rights.",
+      "ref": "Lesson 15 · The seven-step appraisal process"
+    },
+    {
+      "id": "15-072",
+      "tag": "Process",
+      "q": "In reconciliation, how does the appraiser reach a final value?",
+      "choices": [
+        "By averaging the three results",
+        "By weighing the most reliable",
+        "By choosing the highest result",
+        "By choosing the lowest result"
+      ],
+      "answer": 1,
+      "explain": "Reconciliation weighs each approach's reliability; it isn't simple averaging.",
+      "ref": "Lesson 15 · The seven-step appraisal process"
+    },
+    {
+      "id": "15-073",
+      "tag": "Process",
+      "q": "Which type of appraisal report is the most detailed?",
+      "choices": [
+        "Oral report",
+        "Narrative report",
+        "Form report",
+        "Drive-by report"
+      ],
+      "answer": 1,
+      "explain": "Narrative reports are full written reports; form reports are fill-in-the-blanks.",
+      "ref": "Lesson 15 · The seven-step appraisal process"
+    },
+    {
+      "id": "15-074",
+      "tag": "Conditions",
+      "q": "A neighbour paid well above market to expand their yard. What is this buyer called?",
+      "choices": [
+        "A related party",
+        "A special purchaser",
+        "A speculator",
+        "An arm's length buyer"
+      ],
+      "answer": 1,
+      "explain": "A special purchaser's price may not reflect market value.",
+      "ref": "Lesson 15 · Conditions of the sale matter"
+    },
+    {
+      "id": "15-075",
+      "tag": "HBU",
+      "q": "Which is NOT one of the highest and best use tests?",
+      "choices": [
+        "Legally permitted",
+        "Approved by neighbours",
+        "Physically possible",
+        "Financially feasible"
+      ],
+      "answer": 1,
+      "explain": "Legal, physical, financial and maximally productive.",
+      "ref": "Lesson 15 · Highest and best use"
+    },
+    {
+      "id": "15-076",
+      "tag": "HBU",
+      "q": "How is land \"ripe for development\" usually valued?",
+      "choices": [
+        "Cost approach on the old house",
+        "Residual method",
+        "Assessed value times two",
+        "Gross rent multiplier"
+      ],
+      "answer": 1,
+      "explain": "Finished project value minus all development costs leaves the land value.",
+      "ref": "Lesson 15 · Highest and best use"
+    },
+    {
+      "id": "15-077",
+      "tag": "Approaches",
+      "q": "Which approach suits a church with no sales or rents to compare?",
+      "choices": [
+        "Direct comparison",
+        "Cost approach",
+        "Income approach",
+        "Gross rent multiplier"
+      ],
+      "answer": 1,
+      "explain": "Special-purpose properties with no market data suit the cost approach.",
+      "ref": "Lesson 15 · The three approaches at a glance"
+    },
+    {
+      "id": "15-078",
+      "tag": "Approaches",
+      "q": "Which principle underlies the direct comparison approach?",
+      "choices": [
+        "Contribution",
+        "Substitution",
+        "Anticipation",
+        "Progression"
+      ],
+      "answer": 1,
+      "explain": "A buyer won't pay more than the cost of an equally good substitute.",
+      "ref": "Lesson 15 · The three approaches at a glance"
+    },
+    {
+      "id": "15-079",
+      "tag": "Liability",
+      "q": "In Cantwell v. Petersen, why was the appraiser liable?",
+      "choices": [
+        "For charging too much for the report",
+        "For missing dry rot and insects",
+        "For delivering the report very late",
+        "For using the wrong appraisal form"
+      ],
+      "answer": 1,
+      "explain": "The appraiser missed obvious dry rot and insect damage that buyers relied on.",
+      "ref": "Lesson 15 · Appraisers, licensees and liability"
+    },
+    {
+      "id": "15-080",
+      "tag": "Liability",
+      "q": "What did Bourne and Cox v. Martin show about licensees?",
+      "choices": [
+        "They can't be liable for pricing",
+        "Underpricing can make them liable",
+        "Only appraisers are liable",
+        "Sellers bear all pricing risk"
+      ],
+      "answer": 1,
+      "explain": "The licensee underpriced lots that were soon resold for far more and was held liable.",
+      "ref": "Lesson 15 · Appraisers, licensees and liability"
+    },
+    {
+      "id": "15-081",
+      "tag": "Liability",
+      "q": "What margin of appraisal error is usually considered reasonable?",
+      "choices": [
+        "1–2%",
+        "5–10%",
+        "15–20%",
+        "25–30%"
+      ],
+      "answer": 1,
+      "explain": "5–10% is generally reasonable.",
+      "ref": "Lesson 15 · Appraisers, licensees and liability"
+    },
+    {
+      "id": "15-082",
+      "tag": "Liability",
+      "q": "Can a disclaimer in a report excuse an appraiser's negligence?",
+      "choices": [
+        "Yes, always",
+        "No",
+        "Only for oral reports",
+        "Only if signed by the client"
+      ],
+      "answer": 1,
+      "explain": "Disclaimers can't excuse negligence.",
+      "ref": "Lesson 15 · Appraisers, licensees and liability"
+    },
+    {
+      "id": "15-083",
+      "tag": "AVMs",
+      "q": "What is a key weakness of automated valuation models?",
+      "choices": [
+        "They are slow and costly to run",
+        "They can't see condition or upgrades",
+        "They must be signed by an appraiser",
+        "They only work for vacant land"
+      ],
+      "answer": 1,
+      "explain": "AVMs miss condition, renovations and unique features.",
+      "ref": "Lesson 15 · Technology in valuation"
+    },
+    {
+      "id": "15-084",
+      "tag": "Comparables",
+      "q": "Why are current listings weak evidence of market value?",
+      "choices": [
+        "They're too recent to be reliable",
+        "Asking prices usually exceed sales",
+        "Listings are kept confidential",
+        "Listing prices include the GST"
+      ],
+      "answer": 1,
+      "explain": "Listing prices are usually higher than what properties sell for.",
+      "ref": "Lesson 15 · Finding comparables"
+    },
+    {
+      "id": "15-085",
+      "tag": "Comparables",
+      "q": "What's the weakness of declared values from Land Title records?",
+      "choices": [
+        "The values are always set too high",
+        "They don't show the sale's circumstances",
+        "They're only available for strata units",
+        "They're kept secret from the public"
+      ],
+      "answer": 1,
+      "explain": "A related-party sale at a low price looks like any other.",
+      "ref": "Lesson 15 · Finding comparables"
+    },
+    {
+      "id": "15-086",
+      "tag": "Recent",
+      "q": "What does \"recent\" mean when choosing comparables?",
+      "choices": [
+        "Within the last 90 days",
+        "While conditions were stable",
+        "Within the last calendar year",
+        "Within the last 30 days only"
+      ],
+      "answer": 1,
+      "explain": "There's no fixed period; it's the time over which conditions stayed stable.",
+      "ref": "Lesson 15 · \"Recent\" and \"similar\""
+    },
+    {
+      "id": "15-087",
+      "tag": "Recent",
+      "q": "Should an appraiser use the CPI to update a two-year-old sale?",
+      "choices": [
+        "Yes, it's the standard method",
+        "No, general indices don't fit",
+        "Only for strata properties",
+        "Only in a falling market"
+      ],
+      "answer": 1,
+      "explain": "Real estate doesn't move with general price indices.",
+      "ref": "Lesson 15 · \"Recent\" and \"similar\""
+    },
+    {
+      "id": "15-088",
+      "tag": "Similar",
+      "q": "For houses, which lot dimension usually affects value most?",
+      "choices": [
+        "Depth",
+        "Frontage",
+        "Total area",
+        "Elevation"
+      ],
+      "answer": 1,
+      "explain": "Frontage usually matters more than depth or area.",
+      "ref": "Lesson 15 · \"Recent\" and \"similar\""
+    },
+    {
+      "id": "15-089",
+      "tag": "Adjust",
+      "q": "A comparable has a fireplace; the subject doesn't. What adjustment is made?",
+      "choices": [
+        "Add its value to the subject",
+        "Subtract its value from the comp",
+        "Add its value to the comp",
+        "No adjustment is needed"
+      ],
+      "answer": 1,
+      "explain": "Comp superior → subtract from the comparable's price.",
+      "ref": "Lesson 15 · Making adjustments"
+    },
+    {
+      "id": "15-090",
+      "tag": "Adjust",
+      "q": "The subject has a garage; the comparable doesn't. What adjustment?",
+      "choices": [
+        "Subtract from the comparable",
+        "Add to the comparable",
+        "Subtract from the subject",
+        "Add to the subject"
+      ],
+      "answer": 1,
+      "explain": "Comp inferior → add to the comparable's price.",
+      "ref": "Lesson 15 · Making adjustments"
+    },
+    {
+      "id": "15-091",
+      "tag": "Adjust",
+      "q": "Which comparable is usually the best evidence?",
+      "choices": [
+        "The one with the highest sale price",
+        "The one with the fewest adjustments",
+        "The one that sold the earliest",
+        "The one with the largest lot size"
+      ],
+      "answer": 1,
+      "explain": "The fewer the adjustments, the better the comparable.",
+      "ref": "Lesson 15 · Making adjustments"
+    },
+    {
+      "id": "15-092",
+      "tag": "Adjust",
+      "q": "A comp gets +$500,000 for view and −$500,000 for size. Why is this a problem?",
+      "choices": [
+        "Net adjustment is too high",
+        "Gross adjustments are huge",
+        "It is not a problem at all",
+        "Adjustments must be in percent"
+      ],
+      "answer": 1,
+      "explain": "Net is zero, but large gross adjustments show it isn't really comparable.",
+      "ref": "Lesson 15 · Making adjustments"
+    },
+    {
+      "id": "15-093",
+      "tag": "Adjust",
+      "q": "As a rough guide, net adjustments shouldn't exceed what share of a comp's price?",
+      "choices": [
+        "5%",
+        "20%",
+        "35%",
+        "50%"
+      ],
+      "answer": 1,
+      "explain": "About 20%, with possible exceptions for financing adjustments.",
+      "ref": "Lesson 15 · Making adjustments"
+    },
+    {
+      "id": "15-094",
+      "tag": "Grid",
+      "q": "Comp sold $870,000; needs $8,000 paint and has a lot worth $15,000 less. Adjusted price?",
+      "choices": [
+        "$847,000",
+        "$893,000",
+        "$878,000",
+        "$885,000"
+      ],
+      "answer": 1,
+      "explain": "Both are inferior features, so add: $870,000 + $8,000 + $15,000 = $893,000.",
+      "ref": "Lesson 15 · Worked example: a three-comparable grid"
+    },
+    {
+      "id": "15-095",
+      "tag": "Financing",
+      "q": "A comp sold with a vendor take-back at 4% when the market was 6%. How is it adjusted?",
+      "choices": [
+        "Upward, for the financing",
+        "Downward, to cash equivalent",
+        "No adjustment is needed",
+        "Remove it from consideration"
+      ],
+      "answer": 1,
+      "explain": "Cheap financing inflated the price, so adjust down to the cash-equivalent price.",
+      "ref": "Lesson 15 · Below-market financing"
+    },
+    {
+      "id": "15-096",
+      "tag": "Related",
+      "q": "A company sold houses to its employees at a discount. Can these sales be comps?",
+      "choices": [
+        "Yes, they are recent arm's-length sales",
+        "No, a special relationship exists",
+        "Yes, if each is adjusted by 10%",
+        "Only when using the cost approach"
+      ],
+      "answer": 1,
+      "explain": "Sales with a special relationship aren't market evidence.",
+      "ref": "Lesson 15 · Special relationships"
+    },
+    {
+      "id": "15-097",
+      "tag": "Condos",
+      "q": "Two condos in different buildings have identical floor plans. What else must be similar?",
+      "choices": [
+        "The ages of the unit owners",
+        "Amenities, fees and bylaws",
+        "The listing licensee used",
+        "The colour of the walls"
+      ],
+      "answer": 1,
+      "explain": "Similarity includes common facilities, fees and what they cover, bylaws and the strata's finances.",
+      "ref": "Lesson 15 · Condos (strata units)"
+    },
+    {
+      "id": "15-098",
+      "tag": "Condos",
+      "q": "Why is the cost approach rarely used for a single strata unit?",
+      "choices": [
+        "Strata units have no value",
+        "The whole building must be costed",
+        "It always gives too low a value",
+        "It's banned by the Strata Property Act"
+      ],
+      "answer": 1,
+      "explain": "You'd need to cost the entire project and allocate it, which isn't practical.",
+      "ref": "Lesson 15 · Condos (strata units)"
+    },
+    {
+      "id": "15-099",
+      "tag": "Units",
+      "q": "A 15,000 sq ft warehouse is most like a sale at $340/sq ft. What value is indicated?",
+      "choices": [
+        "$4,500,000",
+        "$5,100,000",
+        "$5,400,000",
+        "$3,400,000"
+      ],
+      "answer": 1,
+      "explain": "15,000 × $340 = $5,100,000.",
+      "ref": "Lesson 15 · Income property by units of comparison"
+    },
+    {
+      "id": "15-100",
+      "tag": "Lots",
+      "q": "Are corner lots always worth more than interior lots?",
+      "choices": [
+        "Yes, always",
+        "No, it depends on the market",
+        "Never",
+        "Only in commercial areas"
+      ],
+      "answer": 1,
+      "explain": "There's no fixed rule; light and width vs noise and privacy.",
+      "ref": "Lesson 15 · Serviced lots"
+    },
+    {
+      "id": "15-101",
+      "tag": "Limits",
+      "q": "When does direct comparison work poorly?",
+      "choices": [
+        "For typical suburban houses",
+        "When there are few recent sales",
+        "For condos in active markets",
+        "For serviced lots"
+      ],
+      "answer": 1,
+      "explain": "It needs enough recent, similar sales.",
+      "ref": "Lesson 15 · Limits of direct comparison"
+    },
+    {
+      "id": "15-102",
+      "tag": "CMA",
+      "q": "How do most licensees treat comparables in a CMA?",
+      "choices": [
+        "Exact dollar adjustments to the cent",
+        "Rated superior, inferior or similar",
+        "Ignored in favour of listings",
+        "Averaged without review"
+      ],
+      "answer": 1,
+      "explain": "CMAs are mostly qualitative.",
+      "ref": "Lesson 15 · The CMA"
+    },
+    {
+      "id": "15-103",
+      "tag": "CMA",
+      "q": "How many comparables does a typical CMA use?",
+      "choices": [
+        "1",
+        "3 to 5",
+        "10 to 15",
+        "At least 20"
+      ],
+      "answer": 1,
+      "explain": "Usually three to five.",
+      "ref": "Lesson 15 · The CMA"
+    },
+    {
+      "id": "15-104",
+      "tag": "Cost",
+      "q": "Which cost does the cost approach normally use?",
+      "choices": [
+        "Historic reproduction cost",
+        "Current replacement cost",
+        "Historic replacement cost",
+        "Current reproduction cost"
+      ],
+      "answer": 1,
+      "explain": "Current prices, for a modern equivalent (replacement), not an exact replica.",
+      "ref": "Lesson 15 · Which cost?"
+    },
+    {
+      "id": "15-105",
+      "tag": "Cost",
+      "q": "How is site value estimated in the cost approach?",
+      "choices": [
+        "Cost of clearing the land",
+        "Direct comparison with land sales",
+        "Assessed value of the building",
+        "Income approach on the house"
+      ],
+      "answer": 1,
+      "explain": "Land can't be manufactured, so site value comes from comparable land sales.",
+      "ref": "Lesson 15 · Site value"
+    },
+    {
+      "id": "15-106",
+      "tag": "Cost",
+      "q": "A 2,400 sq ft house; similar homes cost $280/sq ft to build. Replacement cost new?",
+      "choices": [
+        "$576,000",
+        "$672,000",
+        "$700,000",
+        "$560,000"
+      ],
+      "answer": 1,
+      "explain": "2,400 × $280 = $672,000.",
+      "ref": "Lesson 15 · Estimating cost"
+    },
+    {
+      "id": "15-107",
+      "tag": "Cost",
+      "q": "When does cost roughly equal value?",
+      "choices": [
+        "Always, by definition",
+        "When the building is the HBU",
+        "Only for older buildings",
+        "Only in rural areas"
+      ],
+      "answer": 1,
+      "explain": "Only when the building conforms to market demand: highest and best use.",
+      "ref": "Lesson 15 · The cost approach"
+    },
+    {
+      "id": "15-108",
+      "tag": "Depreciation",
+      "q": "Cost new $800,000; effective age 10; economic life 50. Depreciated cost?",
+      "choices": [
+        "$720,000",
+        "$640,000",
+        "$600,000",
+        "$760,000"
+      ],
+      "answer": 1,
+      "explain": "10 ÷ 50 = 20% → $160,000 → $640,000.",
+      "ref": "Lesson 15 · The age-life method"
+    },
+    {
+      "id": "15-109",
+      "tag": "Depreciation",
+      "q": "Why use effective age rather than actual age in the age-life method?",
+      "choices": [
+        "Actual age is unknown",
+        "It reflects condition and updates",
+        "It always gives more depreciation",
+        "Assessors require it"
+      ],
+      "answer": 1,
+      "explain": "Effective age reflects renovations and condition.",
+      "ref": "Lesson 15 · The age-life method"
+    },
+    {
+      "id": "15-110",
+      "tag": "Depreciation",
+      "q": "Sale $1.2M, land $800K, cost new $500K, age 10. Annual depreciation rate?",
+      "choices": [
+        "1%",
+        "2%",
+        "3%",
+        "4%"
+      ],
+      "answer": 1,
+      "explain": "Building = $400K; lost $100K = 20% over 10 years = 2% a year.",
+      "ref": "Lesson 15 · Market extraction"
+    },
+    {
+      "id": "15-111",
+      "tag": "Depreciation",
+      "q": "A house is next to a new rail line. What type of depreciation is this?",
+      "choices": [
+        "Physical curable",
+        "External, incurable",
+        "Functional curable",
+        "Physical incurable"
+      ],
+      "answer": 1,
+      "explain": "External depreciation is outside the property and always incurable.",
+      "ref": "Lesson 15 · The breakdown method"
+    },
+    {
+      "id": "15-112",
+      "tag": "Depreciation",
+      "q": "A poor floor plan that would cost more to fix than it adds is what?",
+      "choices": [
+        "Physical curable",
+        "Functional incurable",
+        "External curable",
+        "Physical incurable"
+      ],
+      "answer": 1,
+      "explain": "An outdated design not worth fixing is functional incurable.",
+      "ref": "Lesson 15 · The breakdown method"
+    },
+    {
+      "id": "15-113",
+      "tag": "Depreciation",
+      "q": "How is curable depreciation measured?",
+      "choices": [
+        "By the age-life ratio",
+        "By the cost to cure",
+        "By the assessed value",
+        "By the market rent loss"
+      ],
+      "answer": 1,
+      "explain": "Curable items are measured by what it costs to fix them.",
+      "ref": "Lesson 15 · The breakdown method"
+    },
+    {
+      "id": "15-114",
+      "tag": "Cost limits",
+      "q": "When is the cost approach least reliable?",
+      "choices": [
+        "For a brand new house",
+        "For an older building",
+        "For a church",
+        "For insurance purposes"
+      ],
+      "answer": 1,
+      "explain": "Estimating incurable depreciation on old buildings is highly subjective.",
+      "ref": "Lesson 15 · Limits of the cost approach"
+    },
+    {
+      "id": "15-115",
+      "tag": "Income",
+      "q": "What is the formula for value by direct capitalization?",
+      "choices": [
+        "Value = NOI × cap rate",
+        "Value = NOI ÷ cap rate",
+        "Value = gross rent ÷ cap rate",
+        "Value = cap rate ÷ NOI"
+      ],
+      "answer": 1,
+      "explain": "V = I ÷ R.",
+      "ref": "Lesson 15 · IRV: the one formula to own"
+    },
+    {
+      "id": "15-116",
+      "tag": "Income",
+      "q": "Can the income approach value an owner-occupied building?",
+      "choices": [
+        "No, there must be tenants",
+        "Yes, using its market rent",
+        "Only for strata units",
+        "Only with a DCF"
+      ],
+      "answer": 1,
+      "explain": "Use the rent the owner could get.",
+      "ref": "Lesson 15 · The income approach"
+    },
+    {
+      "id": "15-117",
+      "tag": "NOI",
+      "q": "What does gross potential revenue assume?",
+      "choices": [
+        "Actual rents and vacancy",
+        "100% occupancy at market rent",
+        "Rents after expenses",
+        "Rent net of mortgage costs"
+      ],
+      "answer": 1,
+      "explain": "Full occupancy at market rents.",
+      "ref": "Lesson 15 · Revenue"
+    },
+    {
+      "id": "15-118",
+      "tag": "NOI",
+      "q": "How should leasing inducements like free rent be treated?",
+      "choices": [
+        "As an operating expense",
+        "As a reduction in effective rent",
+        "As a capital cost to the tenant",
+        "They are ignored entirely"
+      ],
+      "answer": 1,
+      "explain": "Inducements aren't operating expenses; they reduce effective rent.",
+      "ref": "Lesson 15 · Revenue"
+    },
+    {
+      "id": "15-119",
+      "tag": "NOI",
+      "q": "Is a vacancy allowance an operating expense?",
+      "choices": [
+        "Yes, always",
+        "No, it reduces gross revenue",
+        "Only for retail",
+        "Only if units are empty now"
+      ],
+      "answer": 1,
+      "explain": "It's deducted from gross potential revenue to get EGI.",
+      "ref": "Lesson 15 · Vacancy and bad debt"
+    },
+    {
+      "id": "15-120",
+      "tag": "NOI",
+      "q": "How should the vacancy allowance be set?",
+      "choices": [
+        "The building's vacancy today",
+        "Long-term market vacancy",
+        "Always exactly 5%",
+        "Always zero if leased"
+      ],
+      "answer": 1,
+      "explain": "Use long-term vacancy for comparable buildings.",
+      "ref": "Lesson 15 · Vacancy and bad debt"
+    },
+    {
+      "id": "15-121",
+      "tag": "NOI",
+      "q": "Which is usually the largest single operating expense?",
+      "choices": [
+        "Insurance",
+        "Property taxes",
+        "Garbage removal",
+        "Window cleaning"
+      ],
+      "answer": 1,
+      "explain": "Property taxes are typically the largest.",
+      "ref": "Lesson 15 · Operating expenses"
+    },
+    {
+      "id": "15-122",
+      "tag": "NOI",
+      "q": "The owner manages the building personally. Is a management fee deducted?",
+      "choices": [
+        "No, there's no cash cost",
+        "Yes, always",
+        "Only if they hire staff",
+        "Only for offices"
+      ],
+      "answer": 1,
+      "explain": "No property manages itself; always include management (typically 3–5%).",
+      "ref": "Lesson 15 · Operating expenses"
+    },
+    {
+      "id": "15-123",
+      "tag": "NOI",
+      "q": "Painting costs $24,000 every 4 years. What's the annual allowance?",
+      "choices": [
+        "$4,000",
+        "$6,000",
+        "$24,000",
+        "$8,000"
+      ],
+      "answer": 1,
+      "explain": "Spread cyclical costs: $24,000 ÷ 4 = $6,000 a year.",
+      "ref": "Lesson 15 · Operating expenses"
+    },
+    {
+      "id": "15-124",
+      "tag": "NOI",
+      "q": "A roof needs $50,000 of repairs right now. How is it handled?",
+      "choices": [
+        "Added to the annual expenses",
+        "Deducted from value as a lump sum",
+        "Ignored by the appraiser entirely",
+        "Spread evenly over the next 10 years"
+      ],
+      "answer": 1,
+      "explain": "Capitalize NOI first, then subtract immediate repairs from the value.",
+      "ref": "Lesson 15 · Operating expenses"
+    },
+    {
+      "id": "15-125",
+      "tag": "NOI",
+      "q": "What is a typical economic life for apartment appliances?",
+      "choices": [
+        "3 years",
+        "7 years",
+        "15 years",
+        "25 years"
+      ],
+      "answer": 1,
+      "explain": "About seven years.",
+      "ref": "Lesson 15 · Operating expenses"
+    },
+    {
+      "id": "15-126",
+      "tag": "NOI",
+      "q": "Which item is deducted in calculating NOI?",
+      "choices": [
+        "Mortgage payments",
+        "Insurance premiums",
+        "Income tax",
+        "Capital cost allowance"
+      ],
+      "answer": 1,
+      "explain": "Insurance is an operating expense; financing and tax items are excluded.",
+      "ref": "Lesson 15 · What's left out of NOI"
+    },
+    {
+      "id": "15-127",
+      "tag": "NOI",
+      "q": "Why are mortgage payments left out of NOI?",
+      "choices": [
+        "They're too small to matter",
+        "Every buyer finances differently",
+        "They're already in property tax",
+        "They're paid by tenants"
+      ],
+      "answer": 1,
+      "explain": "Market value can't depend on one owner's financing.",
+      "ref": "Lesson 15 · What's left out of NOI"
+    },
+    {
+      "id": "15-128",
+      "tag": "Leases",
+      "q": "Under a triple net lease, what does the landlord usually still pay?",
+      "choices": [
+        "Property taxes",
+        "Structural repairs",
+        "Utilities",
+        "Insurance"
+      ],
+      "answer": 1,
+      "explain": "Tenant pays operating expenses; landlord keeps structure (and usually management).",
+      "ref": "Lesson 15 · Leases: who pays the expenses?"
+    },
+    {
+      "id": "15-129",
+      "tag": "Leases",
+      "q": "Under which lease does the tenant pay everything, including structural repairs?",
+      "choices": [
+        "Gross lease",
+        "Absolute net lease",
+        "Single net lease",
+        "Triple net lease"
+      ],
+      "answer": 1,
+      "explain": "Absolute net: the tenant pays all costs.",
+      "ref": "Lesson 15 · Leases: who pays the expenses?"
+    },
+    {
+      "id": "15-130",
+      "tag": "Leases",
+      "q": "The landlord pays the first $30,000 of taxes; taxes rise to $34,000. What does the escalator recover?",
+      "choices": [
+        "$34,000",
+        "$4,000",
+        "$30,000",
+        "$0"
+      ],
+      "answer": 1,
+      "explain": "The tenant pays the increase over the base: $4,000.",
+      "ref": "Lesson 15 · Leases: who pays the expenses?"
+    },
+    {
+      "id": "15-131",
+      "tag": "Leases",
+      "q": "What area do commercial tenants pay rent on?",
+      "choices": [
+        "The gross area of the whole building",
+        "Rentable area for their exclusive use",
+        "The total area of the lot it sits on",
+        "Only the shared common areas"
+      ],
+      "answer": 1,
+      "explain": "Rent is based on space for the tenant's exclusive use.",
+      "ref": "Lesson 15 · Leases: who pays the expenses?"
+    },
+    {
+      "id": "15-132",
+      "tag": "Bonds",
+      "q": "A bond paying $60 a year is bought for $1,200. What is the yield?",
+      "choices": [
+        "6%",
+        "5%",
+        "4%",
+        "7.5%"
+      ],
+      "answer": 1,
+      "explain": "$60 ÷ $1,200 = 5%. Higher price, lower yield.",
+      "ref": "Lesson 15 · The bond analogy"
+    },
+    {
+      "id": "15-133",
+      "tag": "Cap rate",
+      "q": "A building with NOI of $420,000 sold for $7,000,000. What's the cap rate?",
+      "choices": [
+        "5.0%",
+        "6.0%",
+        "7.0%",
+        "8.4%"
+      ],
+      "answer": 1,
+      "explain": "$420,000 ÷ $7,000,000 = 6.0%.",
+      "ref": "Lesson 15 · IRV: the one formula to own"
+    },
+    {
+      "id": "15-134",
+      "tag": "Cap rate",
+      "q": "NOI is $275,000 and the market cap rate is 5.5%. What's the value?",
+      "choices": [
+        "$4,500,000",
+        "$5,000,000",
+        "$5,500,000",
+        "$1,512,500"
+      ],
+      "answer": 1,
+      "explain": "$275,000 ÷ 0.055 = $5,000,000.",
+      "ref": "Lesson 15 · IRV: the one formula to own"
+    },
+    {
+      "id": "15-135",
+      "tag": "Cap rate",
+      "q": "What happens to value if cap rates rise and NOI stays the same?",
+      "choices": [
+        "Value rises",
+        "Value falls",
+        "Value is unchanged",
+        "Value doubles"
+      ],
+      "answer": 1,
+      "explain": "V = I ÷ R, so a higher R means lower V.",
+      "ref": "Lesson 15 · IRV: the one formula to own"
+    },
+    {
+      "id": "15-136",
+      "tag": "Cap rate",
+      "q": "Why is capitalizing gross income a mistake?",
+      "choices": [
+        "Gross income is confidential",
+        "It ignores operating expenses",
+        "Gross income is always lower",
+        "Cap rates only apply to land"
+      ],
+      "answer": 1,
+      "explain": "Cap rates apply to NOI; gross income overstates value.",
+      "ref": "Lesson 15 · IRV: the one formula to own"
+    },
+    {
+      "id": "15-137",
+      "tag": "Cap rate",
+      "q": "Which investment would demand the highest cap rate?",
+      "choices": [
+        "A government bond",
+        "A vacant specialized factory",
+        "A long-leased bank branch",
+        "A new apartment building"
+      ],
+      "answer": 1,
+      "explain": "High risk, low liquidity, more management → higher required yield.",
+      "ref": "Lesson 15 · What sets the cap rate"
+    },
+    {
+      "id": "15-138",
+      "tag": "Cap rate",
+      "q": "Which three things do investors compare across investments?",
+      "choices": [
+        "Size, age and location",
+        "Risk, management, liquidity",
+        "Price, tax and inflation",
+        "Zoning, density and use"
+      ],
+      "answer": 1,
+      "explain": "Higher risk, more management and less liquidity need a higher return.",
+      "ref": "Lesson 15 · What sets the cap rate"
+    },
+    {
+      "id": "15-139",
+      "tag": "Apartment",
+      "q": "EGI $285,180; expenses $99,200; cap rate 5%. What's the value before repairs?",
+      "choices": [
+        "$5,703,600",
+        "$3,719,600",
+        "$1,859,800",
+        "$3,680,000"
+      ],
+      "answer": 1,
+      "explain": "NOI = $185,980; ÷ 0.05 = $3,719,600.",
+      "ref": "Lesson 15 · Worked example: valuing a 12-suite apartment building"
+    }
+  ]
+}

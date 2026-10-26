@@ -5,6 +5,11 @@
     "lesson": "02"
   },
   {
+    "term": "Absolute net lease",
+    "def": "A lease where the tenant pays base rent plus all costs, including structural repairs.",
+    "lesson": "15"
+  },
+  {
     "term": "Accelerated biweekly payments",
     "def": "Paying half the monthly payment every two weeks (26 a year = 13 monthly payments), shortening the amortization.",
     "lesson": "12"
@@ -35,6 +40,11 @@
     "lesson": "14"
   },
   {
+    "term": "Adjustment (appraisal)",
+    "def": "A dollar change to a comparable's price: subtract if the comparable is superior, add if it's inferior.",
+    "lesson": "15"
+  },
+  {
     "term": "Administrative monetary penalty (AMP)",
     "def": "A FINTRAC fine for non-compliance: up to $100,000 per violation for individuals and $500,000 for entities, published publicly.",
     "lesson": "06"
@@ -55,6 +65,11 @@
     "lesson": "14"
   },
   {
+    "term": "Age-life method",
+    "def": "Depreciation = effective age ÷ economic life.",
+    "lesson": "15"
+  },
+  {
     "term": "Agency",
     "def": "A relationship in which one person (the agent) is authorized to act for another (the principal) in dealings with third parties.",
     "lesson": "09"
@@ -73,6 +88,16 @@
     "term": "Agricultural Land Reserve (ALR)",
     "def": "About 5 million hectares of BC land reserved for farming. Non-farm use and subdivision need Agricultural Land Commission approval.",
     "lesson": "14"
+  },
+  {
+    "term": "Air barrier",
+    "def": "A continuous layer that stops air leaking through the building envelope.",
+    "lesson": "15"
+  },
+  {
+    "term": "Aluminum wiring",
+    "def": "Wiring that oxidizes and expands more than copper; needs CO/ALR devices and anti-oxidant at joints.",
+    "lesson": "15"
   },
   {
     "term": "Ameliorating waste",
@@ -115,6 +140,16 @@
     "lesson": "01"
   },
   {
+    "term": "Appraisal",
+    "def": "An independent, impartial and objective opinion of value.",
+    "lesson": "15"
+  },
+  {
+    "term": "Appraisal Institute of Canada (AIC)",
+    "def": "National appraisers' body; grants the CRA (residential) and AACI (all property types) designations and follows CUSPAP.",
+    "lesson": "15"
+  },
+  {
     "term": "Approving officer",
     "def": "The local official who decides whether a proposed subdivision is in the public interest and may require road or park dedication and services.",
     "lesson": "03"
@@ -143,6 +178,11 @@
     "term": "Assurance fund",
     "def": "A fund run by the LTSA that compensates people who lose land because of the Torrens system or land title office errors. A last resort.",
     "lesson": "03"
+  },
+  {
+    "term": "Automated valuation model (AVM)",
+    "def": "Software that estimates value statistically from data, without inspecting the property.",
+    "lesson": "15"
   },
   {
     "term": "Backup offer",
@@ -235,6 +275,16 @@
     "lesson": "03"
   },
   {
+    "term": "Building code",
+    "def": "Minimum construction standards for structure, health, accessibility and fire safety. BC uses the BC Building Code; Vancouver has its own bylaw.",
+    "lesson": "15"
+  },
+  {
+    "term": "Building envelope",
+    "def": "The parts of a building that separate inside from outside: foundation, walls, windows, doors and roof.",
+    "lesson": "15"
+  },
+  {
     "term": "Building scheme",
     "def": "A set of restrictive covenants applied to every lot in a development sold by a common vendor, registered under LTA s.220. Common in bare land stratas.",
     "lesson": "02"
@@ -270,6 +320,16 @@
     "lesson": "14"
   },
   {
+    "term": "Capitalization process",
+    "def": "Converting net operating income into a capital value.",
+    "lesson": "15"
+  },
+  {
+    "term": "Capitalization rate (cap rate)",
+    "def": "NOI ÷ price: the yield investors accept on a property. Value = NOI ÷ cap rate.",
+    "lesson": "15"
+  },
+  {
     "term": "Cash-equivalent price",
     "def": "Cash down plus the market value of any financing, used to compare offers with different financing terms.",
     "lesson": "13"
@@ -293,6 +353,11 @@
     "term": "Caveat lessee",
     "def": "\"Let the tenant beware\": in commercial leasing, no implied duty on the landlord to repair unfurnished premises.",
     "lesson": "10"
+  },
+  {
+    "term": "Ceiling price",
+    "def": "The highest price a buyer will pay.",
+    "lesson": "15"
   },
   {
     "term": "Certificate of Payment (Form F)",
@@ -388,6 +453,16 @@
     "term": "Community Charter",
     "def": "The BC statute that sets out the core powers of municipalities (other than Vancouver).",
     "lesson": "14"
+  },
+  {
+    "term": "Comparable",
+    "def": "A recent, similar, arm's-length sale used as evidence of the subject's value.",
+    "lesson": "15"
+  },
+  {
+    "term": "Comparative market analysis (CMA)",
+    "def": "A licensee's short, mostly qualitative direct comparison, usually with 3 to 5 comparables, to suggest a price range.",
+    "lesson": "15"
   },
   {
     "term": "Competition Act",
@@ -495,6 +570,11 @@
     "lesson": "05"
   },
   {
+    "term": "Cost approach",
+    "def": "Value = site value + replacement cost new − depreciation.",
+    "lesson": "15"
+  },
+  {
     "term": "Cost of funds advanced (COFA)",
     "def": "The borrower's true interest rate, taking into account fees deducted from or added to the loan.",
     "lesson": "13"
@@ -530,9 +610,29 @@
     "lesson": "08"
   },
   {
+    "term": "Curable / incurable",
+    "def": "Depreciation that is / isn't worth fixing, comparing the cost to cure with the value added.",
+    "lesson": "15"
+  },
+  {
+    "term": "CUSPAP",
+    "def": "Canadian Uniform Standards of Professional Appraisal Practice.",
+    "lesson": "15"
+  },
+  {
+    "term": "Cyclical repairs",
+    "def": "Repairs done periodically, such as repainting; spread evenly as an annual expense.",
+    "lesson": "15"
+  },
+  {
     "term": "Damages",
     "def": "Money a court orders one party to pay another as compensation for a wrong.",
     "lesson": "01"
+  },
+  {
+    "term": "Dampproofing",
+    "def": "A foundation coating that slows moisture; unlike waterproofing, it doesn't resist water under pressure.",
+    "lesson": "15"
   },
   {
     "term": "Debt coverage ratio (DCR)",
@@ -553,6 +653,11 @@
     "term": "Deposit",
     "def": "Good-faith money the buyer pays (usually within 24 hours of acceptance), held in trust by the brokerage as stakeholder. It isn't the consideration.",
     "lesson": "08"
+  },
+  {
+    "term": "Depreciation (appraisal)",
+    "def": "Any loss in value from a building's cost new: physical, functional or external.",
+    "lesson": "15"
   },
   {
     "term": "Depreciation report",
@@ -585,6 +690,16 @@
     "lesson": "14"
   },
   {
+    "term": "Direct capitalization",
+    "def": "Dividing one year's stabilized NOI by a cap rate to estimate value.",
+    "lesson": "15"
+  },
+  {
+    "term": "Direct comparison approach",
+    "def": "Valuing a property from recent sales of similar properties, adjusted for differences; based on substitution.",
+    "lesson": "15"
+  },
+  {
     "term": "Discipline penalty",
     "def": "A fine imposed after a discipline hearing or consent order: up to $500,000 for a brokerage or $250,000 for anyone else, per contravention.",
     "lesson": "05"
@@ -598,6 +713,11 @@
     "term": "Disclosure statement",
     "def": "A document a developer must file with BCFSA and give buyers before any agreement, setting out all material facts about a development.",
     "lesson": "05"
+  },
+  {
+    "term": "Discounted cash flow (DCF)",
+    "def": "Valuing property by forecasting income year by year and discounting it; used for complex properties.",
+    "lesson": "15"
   },
   {
     "term": "Discovery",
@@ -670,6 +790,16 @@
     "lesson": "02"
   },
   {
+    "term": "Economic life",
+    "def": "The period over which a building contributes value to the property.",
+    "lesson": "15"
+  },
+  {
+    "term": "Effective age",
+    "def": "How old a building seems given its condition and updates; may differ from actual age.",
+    "lesson": "15"
+  },
+  {
     "term": "Effective annual rate",
     "def": "The true yearly rate after compounding, written j₁. Used to compare rates quoted at different frequencies.",
     "lesson": "12"
@@ -678,6 +808,16 @@
     "term": "Effective cause",
     "def": "The brokerage whose efforts actually brought about the sale. Relevant to open listings and to sales after a listing expires.",
     "lesson": "09"
+  },
+  {
+    "term": "Effective date",
+    "def": "The date an appraisal's value opinion applies to; can be in the past.",
+    "lesson": "15"
+  },
+  {
+    "term": "Effective gross income (EGI)",
+    "def": "Gross potential revenue plus other income, less vacancy and bad debt.",
+    "lesson": "15"
   },
   {
     "term": "Electrical planning report",
@@ -698,6 +838,11 @@
     "term": "Enduring power of attorney",
     "def": "A power of attorney that continues after the donor loses capacity, and isn't subject to the 3-year limit for land.",
     "lesson": "07"
+  },
+  {
+    "term": "EnerGuide rating",
+    "def": "A federal home energy-efficiency rating (1–100 scale; higher is more efficient).",
+    "lesson": "15"
   },
   {
     "term": "Entire agreement clause",
@@ -735,6 +880,11 @@
     "lesson": "08"
   },
   {
+    "term": "Escalator clause",
+    "def": "A lease term letting the landlord recover expense increases over a stated base amount.",
+    "lesson": "15"
+  },
+  {
     "term": "Escheat",
     "def": "When a person dies with no will and no heirs, their land goes to the Crown.",
     "lesson": "02"
@@ -768,6 +918,21 @@
     "term": "Execution",
     "def": "Enforcing a judgment by having the sheriff seize and sell the debtor's assets under a writ of execution.",
     "lesson": "01"
+  },
+  {
+    "term": "Expense ratio",
+    "def": "Operating expenses as a percentage of effective gross income.",
+    "lesson": "15"
+  },
+  {
+    "term": "External depreciation",
+    "def": "Loss in value from causes outside the property (noise, a plant closure); always incurable.",
+    "lesson": "15"
+  },
+  {
+    "term": "Face-sealed wall",
+    "def": "A wall that relies on a perfect outer seal to keep water out; widely failed in the leaky condo crisis.",
+    "lesson": "15"
   },
   {
     "term": "Fair wear and tear",
@@ -810,6 +975,11 @@
     "lesson": "13"
   },
   {
+    "term": "Fixed expenses",
+    "def": "Operating expenses paid regardless of occupancy, such as property taxes and insurance.",
+    "lesson": "15"
+  },
+  {
     "term": "Fixed term tenancy",
     "def": "A tenancy with a set end date. A commercial one ends automatically; a residential one usually becomes month-to-month.",
     "lesson": "10"
@@ -818,6 +988,11 @@
     "term": "Fixture",
     "def": "Something attached to land or a building so that it's legally part of the real property. Stays with the property on a sale.",
     "lesson": "02"
+  },
+  {
+    "term": "Floor price",
+    "def": "The lowest price a seller will accept.",
+    "lesson": "15"
   },
   {
     "term": "Floor space ratio (FSR)",
@@ -850,6 +1025,16 @@
     "lesson": "07"
   },
   {
+    "term": "Functional depreciation",
+    "def": "Loss in value from outdated design or features, such as a poor floor plan.",
+    "lesson": "15"
+  },
+  {
+    "term": "Galvanized pipe",
+    "def": "Pre-1955 steel water pipe that corrodes from inside; typical life 30 to 50 years.",
+    "lesson": "15"
+  },
+  {
     "term": "Garnishing order",
     "def": "A court order directing someone who owes the debtor money (an employer or bank) to pay it into court instead. 70% of wages are exempt.",
     "lesson": "01"
@@ -865,14 +1050,29 @@
     "lesson": "07"
   },
   {
+    "term": "Gross adjustment",
+    "def": "The total of all adjustments ignoring plus and minus signs; large gross adjustments signal a weak comparable.",
+    "lesson": "15"
+  },
+  {
     "term": "Gross debt service ratio (GDSR)",
     "def": "Mortgage principal, interest and property taxes as a share of gross income (sometimes plus heat and half of strata fees).",
     "lesson": "13"
   },
   {
+    "term": "Gross income multiplier (GIM)",
+    "def": "Sale price ÷ gross (effective) income; a rough comparison tool.",
+    "lesson": "15"
+  },
+  {
     "term": "Gross lease",
     "def": "A commercial lease where one rent figure covers the tenant's share of operating costs; the landlord bears increases.",
     "lesson": "10"
+  },
+  {
+    "term": "Gross potential revenue",
+    "def": "Rent the property would earn at 100% occupancy at market rents.",
+    "lesson": "15"
   },
   {
     "term": "Ground lease",
@@ -900,6 +1100,11 @@
     "lesson": "12"
   },
   {
+    "term": "Highest and best use",
+    "def": "The legally permitted, physically possible, financially feasible use that produces the highest value.",
+    "lesson": "15"
+  },
+  {
     "term": "Holdback",
     "def": "Money kept back from a payment to protect against builders liens: 10% for 55 days, or 7% when buying a strata lot from the owner developer.",
     "lesson": "08"
@@ -915,6 +1120,16 @@
     "lesson": "14"
   },
   {
+    "term": "Home warranty insurance",
+    "def": "Mandatory HPA insurance on new homes: 2 years materials and labour, 5 years building envelope, 10 years structural (\"2-5-10\").",
+    "lesson": "15"
+  },
+  {
+    "term": "Homeowner Protection Act (HPA)",
+    "def": "1998 BC law passed after the leaky condo crisis: builders must be licensed, new homes registered and covered by warranty insurance.",
+    "lesson": "15"
+  },
+  {
     "term": "IC&I",
     "def": "Industrial, Commercial and Investment real estate: offices, retail, industrial, apartments, hotels, development land and businesses.",
     "lesson": "02"
@@ -928,6 +1143,11 @@
     "term": "Improvement district",
     "def": "A local authority set up to provide specific services (water, sewer, fire) to an area. Has no general land-use planning powers.",
     "lesson": "14"
+  },
+  {
+    "term": "Income approach",
+    "def": "Valuing income property by converting its income into value, e.g. NOI ÷ cap rate.",
+    "lesson": "15"
   },
   {
     "term": "Indefeasibility",
@@ -990,9 +1210,19 @@
     "lesson": "11"
   },
   {
+    "term": "Investment value",
+    "def": "A property's worth to a specific investor, given their own goals, financing and tax position.",
+    "lesson": "15"
+  },
+  {
     "term": "Invitation to treat",
     "def": "An invitation for others to make offers, such as an ad, listing or display. Not an offer itself.",
     "lesson": "07"
+  },
+  {
+    "term": "IRV formula",
+    "def": "Income = Rate × Value; so Value = Income ÷ Rate and Rate = Income ÷ Value.",
+    "lesson": "15"
   },
   {
     "term": "Joint tenancy",
@@ -1013,6 +1243,11 @@
     "term": "Jurisdiction",
     "def": "The power of a court, tribunal or government over particular subjects, places or amounts.",
     "lesson": "01"
+  },
+  {
+    "term": "Knob and tube wiring",
+    "def": "Pre-1950 copper wiring with two wires and no ground.",
+    "lesson": "15"
   },
   {
     "term": "Know your client (KYC)",
@@ -1063,6 +1298,11 @@
     "term": "Leave to appeal",
     "def": "Permission to appeal. Required for the Supreme Court of Canada, which can refuse.",
     "lesson": "01"
+  },
+  {
+    "term": "LEED",
+    "def": "Green building rating system with Certified, Silver, Gold and Platinum levels.",
+    "lesson": "15"
   },
   {
     "term": "Lending value",
@@ -1143,6 +1383,16 @@
     "term": "Managing broker",
     "def": "The licensee responsible for running a brokerage: supervising licensees, trust accounts and records. Their licence category limits what the brokerage can do.",
     "lesson": "04"
+  },
+  {
+    "term": "Market extraction",
+    "def": "Estimating depreciation from sales: price minus land value, compared with cost new.",
+    "lesson": "15"
+  },
+  {
+    "term": "Market value",
+    "def": "The most probable price in an open, competitive market, between a willing, informed seller and buyer acting prudently, after reasonable exposure.",
+    "lesson": "15"
   },
   {
     "term": "Material latent defect",
@@ -1265,6 +1515,16 @@
     "lesson": "14"
   },
   {
+    "term": "New home (HPA)",
+    "def": "A home under construction or within 10 years of its occupancy permit, including a substantially reconstructed home, whatever the number of owners.",
+    "lesson": "15"
+  },
+  {
+    "term": "New Homes Registry",
+    "def": "BC Housing's registry showing whether a new home was built by a licensed builder or owner-builder and whether warranty insurance is in place.",
+    "lesson": "15"
+  },
+  {
     "term": "Nominal interest rate",
     "def": "An annual rate with a stated compounding frequency, written jₘ (e.g. j₂ = compounded semi-annually). Equals the periodic rate × m.",
     "lesson": "12"
@@ -1360,6 +1620,16 @@
     "lesson": "10"
   },
   {
+    "term": "Owner-builder",
+    "def": "An individual authorized to build a home for their own use without a builder's licence or warranty; can't sell within 12 months of occupancy.",
+    "lesson": "15"
+  },
+  {
+    "term": "Owner-builder disclosure notice",
+    "def": "Notice a seller must give when selling an owner-built home within 10 years of occupancy, stating whether warranty insurance exists.",
+    "lesson": "15"
+  },
+  {
     "term": "Partially amortized mortgage",
     "def": "A mortgage whose term is shorter than its amortization period, so a balance (balloon) is still owing at the end of the term.",
     "lesson": "12"
@@ -1410,6 +1680,11 @@
     "lesson": "10"
   },
   {
+    "term": "Physical depreciation",
+    "def": "Loss in value from wear and tear.",
+    "lesson": "15"
+  },
+  {
     "term": "PID",
     "def": "Parcel identifier: a permanent 9-digit number for each titled parcel. Found on the property tax notice or BC Assessment.",
     "lesson": "03"
@@ -1423,6 +1698,11 @@
     "term": "Plaintiff / Claimant",
     "def": "The party who sues. \"Plaintiff\" in BC Supreme Court; \"claimant\" in Small Claims Court.",
     "lesson": "01"
+  },
+  {
+    "term": "Platform framing",
+    "def": "The common wood-frame method where each floor is built as a platform and the next storey's walls sit on top.",
+    "lesson": "15"
   },
   {
     "term": "Pleadings",
@@ -1473,6 +1753,11 @@
     "term": "Principal",
     "def": "The person an agent acts for, such as the seller or buyer client of a brokerage.",
     "lesson": "04"
+  },
+  {
+    "term": "Principle of substitution",
+    "def": "A buyer won't pay more for a property than the cost of acquiring an equally useful substitute.",
+    "lesson": "15"
   },
   {
     "term": "Priority agreement",
@@ -1545,9 +1830,34 @@
     "lesson": "10"
   },
   {
+    "term": "R-2000",
+    "def": "A federal high-performance home standard: air-tight, well insulated, with mechanical ventilation.",
+    "lesson": "15"
+  },
+  {
+    "term": "R-value",
+    "def": "A measure of resistance to heat flow. Higher R-value = better insulation.",
+    "lesson": "15"
+  },
+  {
+    "term": "Radon",
+    "def": "A natural radioactive soil gas; above Health Canada's 200 Bq/m³ guideline it's a material latent defect for BCFSA purposes.",
+    "lesson": "15"
+  },
+  {
+    "term": "Rain screen",
+    "def": "A wall design with an air gap behind the cladding so water that gets in can drain and the wall can dry. Required on the BC coast.",
+    "lesson": "15"
+  },
+  {
     "term": "Ratification",
     "def": "A principal approving, after the fact, an act done without authority, binding them as if it had been authorized from the start.",
     "lesson": "09"
+  },
+  {
+    "term": "Rating grid",
+    "def": "A table that lists each comparable's sale price, adjustments and adjusted price.",
+    "lesson": "15"
   },
   {
     "term": "Real Estate Foundation of BC (REFBC)",
@@ -1575,6 +1885,11 @@
     "lesson": "06"
   },
   {
+    "term": "Reconciliation",
+    "def": "The appraisal step that weighs the results of the approaches into one final value; not simple averaging.",
+    "lesson": "15"
+  },
+  {
     "term": "REDMA",
     "def": "Real Estate Development Marketing Act: the BC statute that controls how developers market development units, mainly through filed disclosure statements.",
     "lesson": "05"
@@ -1595,9 +1910,24 @@
     "lesson": "04"
   },
   {
+    "term": "Rentable area",
+    "def": "Space a tenant uses exclusively, on which commercial rent is calculated.",
+    "lesson": "15"
+  },
+  {
     "term": "Rental property management services",
     "def": "Leasing a rental for an owner, collecting rent or security deposits, and managing the property (payments, contracts, contractors, landlord–tenant matters).",
     "lesson": "04"
+  },
+  {
+    "term": "Replacement cost",
+    "def": "The current cost of building a modern equivalent with the same usefulness.",
+    "lesson": "15"
+  },
+  {
+    "term": "Replacement reserve",
+    "def": "An annual allowance for items that wear out faster than the building, like appliances and carpets.",
+    "lesson": "15"
   },
   {
     "term": "Reporting entity",
@@ -1613,6 +1943,11 @@
     "term": "Representative",
     "def": "The most common licence level: a licensee who provides real estate services on behalf of their brokerage.",
     "lesson": "04"
+  },
+  {
+    "term": "Reproduction cost",
+    "def": "The current cost of building an exact replica of the existing building.",
+    "lesson": "15"
   },
   {
     "term": "RESA",
@@ -1633,6 +1968,11 @@
     "term": "Residential Tenancy Branch (RTB)",
     "def": "The provincial body that resolves residential tenancy disputes through arbitration and enforces compliance.",
     "lesson": "10"
+  },
+  {
+    "term": "Residual method",
+    "def": "Valuing development land by subtracting all development costs and profit from the value of the finished project.",
+    "lesson": "15"
   },
   {
     "term": "Residual power",
@@ -1690,6 +2030,11 @@
     "lesson": "03"
   },
   {
+    "term": "Scope of work",
+    "def": "The type and extent of research and analysis in an appraisal assignment.",
+    "lesson": "15"
+  },
+  {
     "term": "Seal",
     "def": "A mark that can replace consideration, but only if the party knowingly adopts it. A corporate seal isn't the same thing.",
     "lesson": "07"
@@ -1740,6 +2085,11 @@
     "lesson": "09"
   },
   {
+    "term": "Septic system",
+    "def": "Private sewage disposal: a tank at least 10 feet from the house and a drain field.",
+    "lesson": "15"
+  },
+  {
     "term": "Shared interest in land",
     "def": "Co-ownership of land with others, plus an agreement limiting each owner's use to a particular part.",
     "lesson": "05"
@@ -1753,6 +2103,11 @@
     "term": "Sinking fund",
     "def": "Regular deposits set aside, with interest, to accumulate a target sum by a future date (e.g. to repay an interest-only loan).",
     "lesson": "12"
+  },
+  {
+    "term": "Site value",
+    "def": "The market value of the land alone, usually estimated by direct comparison.",
+    "lesson": "15"
   },
   {
     "term": "Smurfing",
@@ -1775,6 +2130,11 @@
     "lesson": "11"
   },
   {
+    "term": "Special purchaser",
+    "def": "A buyer who will pay more than the market because of a special interest, such as a neighbour wanting to expand.",
+    "lesson": "15"
+  },
+  {
     "term": "Specific performance",
     "def": "An equitable remedy ordering a party to actually carry out a contract, such as transferring a property. Discretionary and can be lost through delay.",
     "lesson": "01"
@@ -1788,6 +2148,11 @@
     "term": "Split classification",
     "def": "Dividing a property's assessed value between two or more property classes based on its uses.",
     "lesson": "14"
+  },
+  {
+    "term": "Stack effect",
+    "def": "Warm air rising through a building, which can draw radon or odours up to upper floors.",
+    "lesson": "15"
   },
   {
     "term": "Stakeholder",
@@ -1865,14 +2230,29 @@
     "lesson": "13"
   },
   {
+    "term": "Sub-slab depressurization",
+    "def": "The usual radon fix: a pipe and fan draw soil gas from under the slab and vent it outside.",
+    "lesson": "15"
+  },
+  {
     "term": "Subdivision",
     "def": "Dividing land into two or more parcels. In BC it requires compliance with the Land Title Act and approval.",
     "lesson": "03"
   },
   {
+    "term": "Subject property",
+    "def": "The property being appraised or priced.",
+    "lesson": "15"
+  },
+  {
     "term": "Sublease",
     "def": "A lease by a tenant to a subtenant for less than the tenant's whole remaining term (the tenant keeps a reversion).",
     "lesson": "10"
+  },
+  {
+    "term": "Substantial reconstruction",
+    "def": "Under the HPA: more than 75% of the structure above the foundation replaced, or a new foundation plus new structure making up 50% of the result.",
+    "lesson": "15"
   },
   {
     "term": "Superintendent of Real Estate",
@@ -1888,6 +2268,11 @@
     "term": "Suspicious transaction report (STR)",
     "def": "A report to FINTRAC, as soon as practicable, when there are reasonable grounds to suspect money laundering or terrorist financing. No dollar threshold.",
     "lesson": "06"
+  },
+  {
+    "term": "Technical Safety BC",
+    "def": "The provincial body that licenses contractors and issues electrical and gas permits, separate from municipal building permits.",
+    "lesson": "15"
   },
   {
     "term": "Temporary use permit (TUP)",
@@ -1990,6 +2375,11 @@
     "lesson": "03"
   },
   {
+    "term": "UFFI",
+    "def": "Urea formaldehyde foam insulation, banned in Canada in December 1980.",
+    "lesson": "15"
+  },
+  {
     "term": "Ultimate limitation period",
     "def": "The 15-year outer limit for most claims, usually running from the date of the act or omission, whether or not it was discovered.",
     "lesson": "01"
@@ -2030,6 +2420,11 @@
     "lesson": "07"
   },
   {
+    "term": "Unit cost method",
+    "def": "Estimating construction cost by multiplying a cost per square foot (or cubic foot) by the building's size.",
+    "lesson": "15"
+  },
+  {
     "term": "Unlicensed assistant",
     "def": "Staff who may do administrative tasks such as filing, witnessing signatures and placing signs, but may not show property, host open houses, advise or negotiate.",
     "lesson": "04"
@@ -2045,9 +2440,29 @@
     "lesson": "05"
   },
   {
+    "term": "Vacancy and bad debt allowance",
+    "def": "A deduction from gross potential revenue for empty units and unpaid rent; not an operating expense.",
+    "lesson": "15"
+  },
+  {
     "term": "Vacate clause",
     "def": "A term requiring a residential tenant to leave at the end of a fixed term. Allowed only for subleases or when the landlord or close family will move in.",
     "lesson": "10"
+  },
+  {
+    "term": "Value to the owner",
+    "def": "What a property is worth to one particular person, including personal or sentimental factors.",
+    "lesson": "15"
+  },
+  {
+    "term": "Vapour barrier",
+    "def": "A layer (usually 6 mil polyethylene) on the warm side of insulation that limits moisture moving into the wall.",
+    "lesson": "15"
+  },
+  {
+    "term": "Variable expenses",
+    "def": "Operating expenses that change with occupancy and use, such as utilities, repairs and management.",
+    "lesson": "15"
   },
   {
     "term": "Variable rate mortgage (VRM)",
@@ -2103,6 +2518,11 @@
     "term": "Winding up (strata)",
     "def": "Cancelling a strata plan and dissolving the corporation, e.g. to sell to a developer. Needs an 80% vote and a court order.",
     "lesson": "11"
+  },
+  {
+    "term": "Yield",
+    "def": "The return on an investment as a percentage of the price paid; moves inversely to price.",
+    "lesson": "15"
   },
   {
     "term": "Zoning",
