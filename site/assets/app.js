@@ -1,6 +1,6 @@
-import { store } from './store.js?v=2';
-import { buildPlan, pace, streak, tagStats } from './plan.js?v=2';
-import { todayStr, addDays, fmt, fmtLong, daysBetween, isoToLocalDay } from './dates.js?v=2';
+import { store } from './store.js?v=3';
+import { buildPlan, pace, streak, tagStats } from './plan.js?v=3';
+import { todayStr, addDays, fmt, fmtLong, daysBetween, isoToLocalDay } from './dates.js?v=3';
 
 const app = document.getElementById('app');
 const nav = document.getElementById('nav');

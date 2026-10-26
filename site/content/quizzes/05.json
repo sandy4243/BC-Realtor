@@ -1,0 +1,635 @@
+{
+  "lessonId": "05",
+  "questions": [
+    {
+      "id": "05-001",
+      "tag": "Property management",
+      "q": "A trading services licensee arranges a lease for a landlord. Which may they also do?",
+      "choices": [
+        "Collect monthly rent",
+        "Collect the tenant's security deposit",
+        "Sign the lease on the owner's behalf",
+        "Do the move-in condition inspection"
+      ],
+      "answer": 1,
+      "explain": "Trading licensees can find tenants, negotiate the lease, get the tenant's signature and collect the security deposit. Collecting rent, signing for the owner and inspections are rental property management.",
+      "ref": "Lesson 5 · Property management by trading licensees"
+    },
+    {
+      "id": "05-002",
+      "tag": "Property management",
+      "q": "How may a trading-only licensee be paid for leasing a property?",
+      "choices": [
+        "A monthly management fee",
+        "A one-time fee for the leasing service",
+        "A percentage of each month's rent",
+        "Any arrangement the owner agrees to"
+      ],
+      "answer": 1,
+      "explain": "A trading licensee may charge a one-time fee for the leasing. Ongoing monthly fees suggest unlicensed property management.",
+      "ref": "Lesson 5 · Property management by trading licensees"
+    },
+    {
+      "id": "05-003",
+      "tag": "Property management",
+      "q": "A trading-only licensee's client asks them to keep managing the rental after the lease is signed. Best response?",
+      "choices": [
+        "Agree, since the client consents",
+        "Refer the client to a property management licensee, or get licensed in rental property management first",
+        "Do it through the team",
+        "Do it unpaid"
+      ],
+      "answer": 1,
+      "explain": "Ongoing management needs a rental property management licence. Refer it out or take the supplemental course and get licensed.",
+      "ref": "Lesson 5 · Property management by trading licensees"
+    },
+    {
+      "id": "05-004",
+      "tag": "Property management",
+      "q": "Under Rules ss.94–95, whose rentals may a licensee manage without a property management licence?",
+      "choices": [
+        "Any friend's",
+        "Their own, and their spouse's, children's or parents'",
+        "Siblings' and cousins'",
+        "Any client who signs a waiver"
+      ],
+      "answer": 1,
+      "explain": "The exemption covers the licensee, spouse, children and parents only, with written disclosures and no pay.",
+      "ref": "Lesson 5 · Property management by trading licensees"
+    },
+    {
+      "id": "05-005",
+      "tag": "Property management",
+      "q": "Which is NOT a condition of the family rental exemption in Rules ss.94–95?",
+      "choices": [
+        "Act in your own name",
+        "Tell tenants the services aren't regulated under RESA",
+        "Accept no remuneration",
+        "Run it through your brokerage's trust account"
+      ],
+      "answer": 3,
+      "explain": "The conditions are your own name, telling tenants it's not regulated, written disclosure to the family member and managing broker, and no pay. It's done outside the brokerage.",
+      "ref": "Lesson 5 · Property management by trading licensees"
+    },
+    {
+      "id": "05-006",
+      "tag": "Trust",
+      "q": "When must a licensee deliver a deposit received from a buyer to the brokerage?",
+      "choices": [
+        "Within 5 business days",
+        "Promptly, which means immediately",
+        "After the offer is accepted",
+        "After the subjects are removed"
+      ],
+      "answer": 1,
+      "explain": "\"Promptly\" means immediately: not after acceptance, not after subject removal.",
+      "ref": "Lesson 5 · Trust accounts"
+    },
+    {
+      "id": "05-007",
+      "tag": "Trust",
+      "q": "Where must a brokerage's trust accounts be kept?",
+      "choices": [
+        "Any Canadian bank",
+        "Interest-bearing trust accounts at a BC savings institution",
+        "The managing broker's personal account",
+        "Any account the client chooses"
+      ],
+      "answer": 1,
+      "explain": "RESA s.26 requires interest-bearing trust accounts at one or more savings institutions in BC.",
+      "ref": "Lesson 5 · Trust accounts"
+    },
+    {
+      "id": "05-008",
+      "tag": "Trust",
+      "q": "A buyer's deposit cheque is made payable to the seller's lawyer. What should the licensee do?",
+      "choices": [
+        "Deposit it to the brokerage trust account",
+        "It may simply be delivered to the payee",
+        "Cash it and hold the money",
+        "Return it to the buyer"
+      ],
+      "answer": 1,
+      "explain": "Cheques payable to a third party, not the brokerage, may just be delivered to that party.",
+      "ref": "Lesson 5 · Trust accounts"
+    },
+    {
+      "id": "05-009",
+      "tag": "Trust",
+      "q": "In what capacity does a brokerage hold a deposit paid under a purchase agreement?",
+      "choices": [
+        "As the seller's agent",
+        "As a stakeholder, not as agent for either party",
+        "As the buyer's agent",
+        "As trustee for REFBC"
+      ],
+      "answer": 1,
+      "explain": "RESA s.28: the brokerage holds deposits as a stakeholder, so it can't release them just because its own client asks.",
+      "ref": "Lesson 5 · Trust accounts"
+    },
+    {
+      "id": "05-010",
+      "tag": "Trust",
+      "q": "A deal collapses and both parties claim the $50,000 deposit. When can the brokerage release it?",
+      "choices": [
+        "When its client (the seller) instructs",
+        "When both parties agree in writing, a court orders it, or the money is paid into court",
+        "After 30 days",
+        "When the managing broker decides who's right"
+      ],
+      "answer": 1,
+      "explain": "As stakeholder, the brokerage needs written agreement of both parties, a court order or payment into court (or another permitted ground).",
+      "ref": "Lesson 5 · Trust accounts"
+    },
+    {
+      "id": "05-011",
+      "tag": "Trust",
+      "q": "A buyer rescinds under the Home Buyer Rescission Period. How is the deposit handled?",
+      "choices": [
+        "All of it goes to the seller",
+        "All of it goes back to the buyer",
+        "The rescission fee goes to the seller and the balance to the buyer",
+        "It's held until a court decides"
+      ],
+      "answer": 2,
+      "explain": "The brokerage may pay the 0.25% rescission fee to the seller and return the rest to the buyer.",
+      "ref": "Lesson 5 · Trust accounts"
+    },
+    {
+      "id": "05-012",
+      "tag": "Trust",
+      "q": "Which is a permitted reason to withdraw money from trust?",
+      "choices": [
+        "To cover the brokerage's rent temporarily",
+        "To pay remuneration the brokerage has earned, as permitted",
+        "To lend to a licensee",
+        "To pay the brokerage's E&O premium"
+      ],
+      "answer": 1,
+      "explain": "Withdrawals include mistakes, REFBC interest, earned remuneration, unclaimed money, payment into court, court orders and principal's instructions.",
+      "ref": "Lesson 5 · Trust accounts"
+    },
+    {
+      "id": "05-013",
+      "tag": "Trust",
+      "q": "Where does interest on a client-requested separate trust account go?",
+      "choices": [
+        "REFBC",
+        "As the client directs",
+        "The brokerage",
+        "BCFSA"
+      ],
+      "answer": 1,
+      "explain": "For a separate account the client asks for, the interest goes as the client chooses. General trust account interest goes to REFBC.",
+      "ref": "Lesson 5 · Trust accounts"
+    },
+    {
+      "id": "05-014",
+      "tag": "Trust",
+      "q": "A buyer wants to pay the deposit in Bitcoin. What's the issue?",
+      "choices": [
+        "None, because crypto can be held in trust",
+        "Crypto can't be held in a brokerage trust account; a third party would hold it without RESA protection, so warn the buyer, recommend legal advice and document it",
+        "It must be converted by the licensee personally",
+        "Only commercial deals can use crypto"
+      ],
+      "answer": 1,
+      "explain": "Crypto can't go in trust. Explain the risks (no RESA protection, volatility), recommend legal advice and keep records.",
+      "ref": "Lesson 5 · Trust accounts"
+    },
+    {
+      "id": "05-015",
+      "tag": "Trust",
+      "q": "A buyer pays a large deposit, then their offer quickly fails and they ask for a refund to a different person. What's the concern?",
+      "choices": [
+        "None",
+        "Possible money laundering, using the trust account to make money look clean; tell your managing broker",
+        "The refund must be doubled",
+        "Only the bank needs to worry"
+      ],
+      "answer": 1,
+      "explain": "Deposit, failed deal, refund is a classic laundering pattern. Raise it with your managing broker.",
+      "ref": "Lesson 5 · Trust accounts"
+    },
+    {
+      "id": "05-016",
+      "tag": "Rules map",
+      "q": "Which Rules section requires licensees to act honestly and with reasonable care and skill?",
+      "choices": [
+        "ss.94–96",
+        "ss.33–34",
+        "s.66",
+        "s.23"
+      ],
+      "answer": 1,
+      "explain": "Rules s.33 is honesty and s.34 is reasonable care and skill. Both are among the most commonly cited in discipline.",
+      "ref": "Lesson 5 · A map of the Rules"
+    },
+    {
+      "id": "05-017",
+      "tag": "Rules map",
+      "q": "Which Part of the Rules deals with relationships with principals and parties: agreements, disclosures, remuneration and dual agency?",
+      "choices": [
+        "Part 2",
+        "Part 3",
+        "Part 5",
+        "Part 9"
+      ],
+      "answer": 2,
+      "explain": "Part 5 is Relationships with Principals and Parties. Part 9 is exemptions; Part 3 is general responsibilities.",
+      "ref": "Lesson 5 · A map of the Rules"
+    },
+    {
+      "id": "05-018",
+      "tag": "Misconduct",
+      "q": "Which is an example of professional misconduct under RESA s.35?",
+      "choices": [
+        "Acting contrary to the public's best interests",
+        "Incompetence in performing real estate services",
+        "Bringing the industry into disrepute",
+        "Undermining public confidence"
+      ],
+      "answer": 1,
+      "explain": "Incompetence is listed as professional misconduct. The other three describe conduct unbecoming a licensee.",
+      "ref": "Lesson 5 · Discipline and enforcement"
+    },
+    {
+      "id": "05-019",
+      "tag": "Misconduct",
+      "q": "Who may file a complaint against a licensee?",
+      "choices": [
+        "Only clients",
+        "Only other licensees",
+        "Anyone",
+        "Only BCFSA staff"
+      ],
+      "answer": 2,
+      "explain": "Anyone may complain, and BCFSA can also investigate without a complaint.",
+      "ref": "Lesson 5 · Discipline and enforcement"
+    },
+    {
+      "id": "05-020",
+      "tag": "Enforcement",
+      "q": "A licensee makes a minor, obvious mistake. BCFSA proposes a written promise to fix it and comply in future. What is this?",
+      "choices": [
+        "A consent order",
+        "An undertaking",
+        "An urgent order",
+        "An administrative penalty"
+      ],
+      "answer": 1,
+      "explain": "An undertaking (s.53.1) is a written promise used for minor matters. It isn't published, but breaching it is misconduct.",
+      "ref": "Lesson 5 · Discipline and enforcement"
+    },
+    {
+      "id": "05-021",
+      "tag": "Enforcement",
+      "q": "During an investigation, what does Rules s.21 require of a licensee?",
+      "choices": [
+        "Nothing until a hearing is ordered",
+        "Respond to BCFSA promptly, in writing, within the time required",
+        "Respond only through a lawyer",
+        "Respond within 90 days"
+      ],
+      "answer": 1,
+      "explain": "Licensees must respond promptly, in writing and on time. Not cooperating is itself professional misconduct.",
+      "ref": "Lesson 5 · Discipline and enforcement"
+    },
+    {
+      "id": "05-022",
+      "tag": "Enforcement",
+      "q": "What's the minimum notice for a discipline hearing?",
+      "choices": [
+        "7 days",
+        "14 days",
+        "21 days",
+        "30 days"
+      ],
+      "answer": 2,
+      "explain": "Notice of a discipline hearing must be given at least 21 days before the hearing.",
+      "ref": "Lesson 5 · Discipline and enforcement"
+    },
+    {
+      "id": "05-023",
+      "tag": "Enforcement",
+      "q": "Which is true about a consent order?",
+      "choices": [
+        "It's private",
+        "It's based on the licensee's proposal, is published, and can support a Special Compensation Fund claim but not a civil claim",
+        "It can be used as an admission in a civil lawsuit",
+        "It requires a full hearing first"
+      ],
+      "answer": 1,
+      "explain": "A consent order comes from the licensee's proposal, it's public, and it can be used for Compensation Fund claims but not in civil proceedings.",
+      "ref": "Lesson 5 · Discipline and enforcement"
+    },
+    {
+      "id": "05-024",
+      "tag": "Enforcement",
+      "q": "When may BCFSA make an urgent order under s.45?",
+      "choices": [
+        "Only after a full hearing",
+        "Without notice or a hearing, when the public interest requires it, for example to suspend a licence",
+        "Only with the licensee's consent",
+        "Only for unlicensed persons"
+      ],
+      "answer": 1,
+      "explain": "Urgent orders can be made without notice or a hearing. The licensee gets reasons and a right to demand a hearing.",
+      "ref": "Lesson 5 · Discipline and enforcement"
+    },
+    {
+      "id": "05-025",
+      "tag": "Sanctions",
+      "q": "What's the maximum discipline penalty for a brokerage under s.43?",
+      "choices": [
+        "$100,000 per contravention",
+        "$250,000 per contravention",
+        "$500,000 per contravention",
+        "$1.25 million"
+      ],
+      "answer": 2,
+      "explain": "Up to $500,000 for a brokerage and $250,000 for anyone else, per contravention.",
+      "ref": "Lesson 5 · Discipline and enforcement"
+    },
+    {
+      "id": "05-026",
+      "tag": "Sanctions",
+      "q": "What may BCFSA order besides a penalty, to strip the gain from misconduct?",
+      "choices": [
+        "Imprisonment",
+        "Return of compensation, up to the remuneration received",
+        "Payment of triple damages",
+        "Sale of the licensee's home"
+      ],
+      "answer": 1,
+      "explain": "Section 43 allows an order to pay back remuneration received from the contravention, plus enforcement expenses.",
+      "ref": "Lesson 5 · Discipline and enforcement"
+    },
+    {
+      "id": "05-027",
+      "tag": "Sanctions",
+      "q": "Where does discipline penalty money go?",
+      "choices": [
+        "BCFSA's general budget",
+        "Education only",
+        "The complainant",
+        "The Special Compensation Fund"
+      ],
+      "answer": 1,
+      "explain": "Penalty money may only be used for education.",
+      "ref": "Lesson 5 · Discipline and enforcement"
+    },
+    {
+      "id": "05-028",
+      "tag": "Sanctions",
+      "q": "Are discipline decisions made public?",
+      "choices": [
+        "Never",
+        "Yes; s.47 requires publication and decisions are linked in the BCFSA licensee search",
+        "Only for brokerages",
+        "Only if the complainant agrees"
+      ],
+      "answer": 1,
+      "explain": "Orders are published, linked in the licensee search and often on CanLII.",
+      "ref": "Lesson 5 · Discipline and enforcement"
+    },
+    {
+      "id": "05-029",
+      "tag": "Appeals",
+      "q": "A licensee disagrees with a discipline decision. Where and how fast must they appeal?",
+      "choices": [
+        "BC Supreme Court, within 90 days",
+        "Financial Services Tribunal, in writing within 30 days",
+        "BCREA, within 60 days",
+        "There's no appeal"
+      ],
+      "answer": 1,
+      "explain": "Appeals go to the Financial Services Tribunal, in writing within 30 days.",
+      "ref": "Lesson 5 · Discipline and enforcement"
+    },
+    {
+      "id": "05-030",
+      "tag": "Appeals",
+      "q": "While an appeal to the Financial Services Tribunal is pending, what happens to the order?",
+      "choices": [
+        "It's automatically suspended",
+        "It stays in effect unless the tribunal orders otherwise",
+        "It's cancelled",
+        "It's doubled if the appeal fails"
+      ],
+      "answer": 1,
+      "explain": "Filing an appeal doesn't stay the order; it stays in effect.",
+      "ref": "Lesson 5 · Discipline and enforcement"
+    },
+    {
+      "id": "05-031",
+      "tag": "Admin penalties",
+      "q": "What's the maximum administrative penalty per contravention?",
+      "choices": [
+        "$10,000",
+        "$50,000",
+        "$100,000",
+        "$250,000"
+      ],
+      "answer": 2,
+      "explain": "Administrative penalties go up to $100,000 per contravention, often with courses or conditions.",
+      "ref": "Lesson 5 · Discipline and enforcement"
+    },
+    {
+      "id": "05-032",
+      "tag": "Admin penalties",
+      "q": "Which administrative penalty category carries the highest amounts?",
+      "choices": [
+        "Category A: business management",
+        "Category B: minor",
+        "Category E: non-cooperation",
+        "Category F: unlicensed activity"
+      ],
+      "answer": 3,
+      "explain": "Category F, unlicensed activity, has the highest penalty ranges.",
+      "ref": "Lesson 5 · Discipline and enforcement"
+    },
+    {
+      "id": "05-033",
+      "tag": "Admin penalties",
+      "q": "After receiving notice of an administrative penalty, how long does a licensee have to pay or ask for a hearing?",
+      "choices": [
+        "7 days",
+        "14 days",
+        "30 days",
+        "90 days"
+      ],
+      "answer": 2,
+      "explain": "They have 30 days to pay or request a hearing.",
+      "ref": "Lesson 5 · Discipline and enforcement"
+    },
+    {
+      "id": "05-034",
+      "tag": "Offences",
+      "q": "What's the maximum penalty for an individual's first RESA offence (e.g. trading without a licence)?",
+      "choices": [
+        "$100,000",
+        "$250,000",
+        "A fine up to $1.25 million and/or up to 2 years' imprisonment",
+        "A fine up to $5 million"
+      ],
+      "answer": 2,
+      "explain": "Offences carry up to $1.25 million (first) or $2.5 million (subsequent) and/or up to 2 years in prison for individuals.",
+      "ref": "Lesson 5 · Discipline and enforcement"
+    },
+    {
+      "id": "05-035",
+      "tag": "REDMA",
+      "q": "What does REDMA regulate?",
+      "choices": [
+        "Commercial leasing",
+        "Developers marketing development units in development property",
+        "Residential tenancies",
+        "Mortgage lending"
+      ],
+      "answer": 1,
+      "explain": "REDMA regulates how developers market development units, including units elsewhere if they're marketed in BC.",
+      "ref": "Lesson 5 · REDMA"
+    },
+    {
+      "id": "05-036",
+      "tag": "REDMA",
+      "q": "How many strata lots in a building make it \"development property\" under REDMA?",
+      "choices": [
+        "2 or more",
+        "5 or more",
+        "10 or more",
+        "50 or more"
+      ],
+      "answer": 1,
+      "explain": "Five or more for strata lots, bare land strata lots, subdivision lots, time shares and leasehold units.",
+      "ref": "Lesson 5 · REDMA"
+    },
+    {
+      "id": "05-037",
+      "tag": "REDMA",
+      "q": "For which units does REDMA apply at only 2 or more?",
+      "choices": [
+        "Strata lots",
+        "Subdivision lots",
+        "Cooperative interests and shared interests in land",
+        "Time share interests"
+      ],
+      "answer": 2,
+      "explain": "Co-op interests and shared interests in land are development property at 2 or more.",
+      "ref": "Lesson 5 · REDMA"
+    },
+    {
+      "id": "05-038",
+      "tag": "REDMA",
+      "q": "A developer is marketing 20 strata units in a building zoned and used for industrial purposes. Does REDMA apply?",
+      "choices": [
+        "Yes, always",
+        "No; industrial/commercial zoned and used developments are exempt",
+        "Only if sold to residents",
+        "Only for units over $1 million"
+      ],
+      "answer": 1,
+      "explain": "Industrial or commercial developments zoned and used for those purposes are exempt, which matters for commercial practice.",
+      "ref": "Lesson 5 · REDMA"
+    },
+    {
+      "id": "05-039",
+      "tag": "REDMA",
+      "q": "Before a licensee acting for a developer has a buyer sign a purchase agreement for a new strata unit, what must happen?",
+      "choices": [
+        "Nothing special",
+        "The disclosure statement must have been filed, given to the buyer, and the buyer's written acknowledgement obtained",
+        "The building must be complete",
+        "The buyer must have a lawyer"
+      ],
+      "answer": 1,
+      "explain": "No agreement until the buyer gets the filed disclosure statement, has a chance to read it and acknowledges receipt in writing.",
+      "ref": "Lesson 5 · REDMA"
+    },
+    {
+      "id": "05-040",
+      "tag": "REDMA",
+      "q": "What may a developer do before filing a disclosure statement?",
+      "choices": [
+        "Accept deposits",
+        "Sign purchase agreements",
+        "Pre-market, as long as there's no impression of a right to buy and ads carry the required disclaimer",
+        "Nothing at all"
+      ],
+      "answer": 2,
+      "explain": "Pre-marketing is allowed if it doesn't suggest buyers can buy yet, and ads include the developer's name and address, a contact and a prominent disclaimer.",
+      "ref": "Lesson 5 · REDMA"
+    },
+    {
+      "id": "05-041",
+      "tag": "REDMA",
+      "q": "How long does a buyer have to rescind a REDMA purchase for any reason?",
+      "choices": [
+        "3 business days",
+        "7 days after the later of the agreement or the written acknowledgement",
+        "14 days",
+        "30 days"
+      ],
+      "answer": 1,
+      "explain": "The 7-day right runs from the later of the agreement and the buyer's written acknowledgement of the disclosure statement.",
+      "ref": "Lesson 5 · REDMA"
+    },
+    {
+      "id": "05-042",
+      "tag": "REDMA",
+      "q": "A buyer never received a disclosure statement. When can they rescind?",
+      "choices": [
+        "Only within 7 days",
+        "At any time",
+        "Only before completion",
+        "Never"
+      ],
+      "answer": 1,
+      "explain": "Without a disclosure statement the buyer can rescind at any time, and the agreement is generally unenforceable.",
+      "ref": "Lesson 5 · REDMA"
+    },
+    {
+      "id": "05-043",
+      "tag": "REDMA",
+      "q": "Does the Home Buyer Rescission Period apply to a REDMA pre-sale?",
+      "choices": [
+        "Yes, in addition to the 7-day right",
+        "No; REDMA sales have their own rescission rights",
+        "Only for detached homes",
+        "Only if the deposit is over 5%"
+      ],
+      "answer": 1,
+      "explain": "The HBRP doesn't apply to sales covered by REDMA's rescission rights.",
+      "ref": "Lesson 5 · REDMA"
+    },
+    {
+      "id": "05-044",
+      "tag": "REDMA",
+      "q": "A purchase agreement includes a clause where the buyer waives their REDMA rescission right. What's the effect?",
+      "choices": [
+        "The waiver is valid if signed",
+        "The right can't be waived, and a licensee using such an agreement risks discipline",
+        "It's valid for commercial buyers",
+        "It's valid if the buyer has a lawyer"
+      ],
+      "answer": 1,
+      "explain": "REDMA rescission rights can't be waived. Licensees have been disciplined over agreements trying to do this.",
+      "ref": "Lesson 5 · REDMA"
+    },
+    {
+      "id": "05-045",
+      "tag": "REDMA",
+      "q": "When does a developer have to file a new disclosure statement, rather than an amendment?",
+      "choices": [
+        "Whenever a price changes",
+        "When the developer changes, a receiver/liquidator/trustee is appointed, or BCFSA requires it",
+        "Never",
+        "Only at completion"
+      ],
+      "answer": 1,
+      "explain": "A new statement is required in those three cases, and it gives buyers a new 7-day rescission right. Amendments don't.",
+      "ref": "Lesson 5 · REDMA"
+    }
+  ]
+}

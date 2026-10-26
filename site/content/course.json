@@ -31,13 +31,13 @@
     },
     {
       "id": "04", "num": 4, "block": "B", "title": "RESA I — Licensing and the Regulator", "chapters": ["Ch 2 (part 1)"], "estHours": 5,
-      "status": "coming_soon",
+      "status": "ready", "quiz": true, "cheatsheet": true,
       "summary": "The statute that created your profession. What needs a licence, who is exempt, the levels of licence, and who regulates you.",
       "topics": ["Purpose of RESA", "Trading, rental property management and strata management services", "Exemptions from licensing", "Levels and categories of licence", "BCFSA and the Superintendent", "Real Estate Foundation, E&O Insurance Corporation, Compensation Fund", "Industry organizations"]
     },
     {
       "id": "05", "num": 5, "block": "B", "title": "RESA II — Trust, Rules, Discipline, REDMA", "chapters": ["Ch 2 (part 2)"], "estHours": 5,
-      "status": "coming_soon",
+      "status": "ready", "quiz": true, "cheatsheet": true,
       "summary": "Handling other people's money, the day-to-day Rules, what happens when licensees break them, and the special regime for pre-sale developments.",
       "topics": ["Trust accounts", "Property management by trading licensees", "The Real Estate Services Rules", "Discipline and enforcement", "The Real Estate Development Marketing Act", "Pre-sale disclosure and buyer rights"]
     },
