@@ -79,13 +79,13 @@
     },
     {
       "id": "12", "num": 12, "block": "E", "title": "Mortgage Finance and Interest Math", "chapters": ["Ch 13", "Ch 14"], "estHours": 10,
-      "status": "coming_soon",
+      "status": "ready", "quiz": true, "cheatsheet": true,
       "summary": "The first calculator chapters. How interest really works, and how to compute payments and balances on the HP 10bII+.",
       "topics": ["Role of financing", "Capital markets", "Classifying mortgage loans", "Repayment plans", "The federal Interest Act", "HP 10bII+ setup", "Future and present value", "Annuities and payments", "Equivalent interest rates", "Constant payment mortgage analysis"]
     },
     {
       "id": "13", "num": 13, "block": "E", "title": "Mortgage Law, Analysis and Underwriting", "chapters": ["Ch 15", "Ch 16", "Ch 17"], "estHours": 12,
-      "status": "coming_soon",
+      "status": "ready", "quiz": true, "cheatsheet": true,
       "summary": "The legal side of mortgages, how financing changes a deal, and how lenders decide whether to lend to a home buyer or a commercial borrower.",
       "topics": ["Legal and equitable mortgages", "Express and implied terms", "Assignment, assumption, novation", "Priorities and further advances", "Foreclosure in BC", "Agreements for sale", "Impact of financing on deals", "Prepayment penalties", "Residential underwriting (GDS/TDS)", "Commercial underwriting"]
     },

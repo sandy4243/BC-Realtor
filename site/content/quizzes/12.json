@@ -1,0 +1,1013 @@
+{
+  "lessonId": "12",
+  "questions": [
+    {
+      "id": "12-001",
+      "tag": "Parties",
+      "q": "In a mortgage, who is the mortgagor?",
+      "choices": [
+        "The lender who advances the money",
+        "The borrower who grants the mortgage",
+        "The insurer that guarantees the loan",
+        "The broker who arranges the loan"
+      ],
+      "answer": 1,
+      "explain": "The mortgagor is the borrower: they grant the mortgage as security and receive the loan. The mortgagee is the lender.",
+      "ref": "Lesson 12 · Vocabulary first"
+    },
+    {
+      "id": "12-002",
+      "tag": "Leverage",
+      "q": "An investor borrows at 5% to buy a property earning 8%. What is this an example of?",
+      "choices": [
+        "Negative amortization",
+        "Positive leverage",
+        "A reverse annuity",
+        "Straight line repayment"
+      ],
+      "answer": 1,
+      "explain": "Borrowing at a lower rate than the investment earns magnifies the return on equity: positive leverage.",
+      "ref": "Lesson 12 · Why real estate runs on debt"
+    },
+    {
+      "id": "12-003",
+      "tag": "Lenders",
+      "q": "What does a lender-investor primarily want from a mortgage loan?",
+      "choices": [
+        "Use of the property and long-term appreciation",
+        "A predictable return plus return of capital",
+        "A share of the rental income the property earns",
+        "Ownership of the property when the loan matures"
+      ],
+      "answer": 1,
+      "explain": "Lenders want regular, predictable interest and the scheduled return of principal, protected by security.",
+      "ref": "Lesson 12 · Why real estate runs on debt"
+    },
+    {
+      "id": "12-004",
+      "tag": "Rates",
+      "q": "Which is NOT one of the three parts of a mortgage rate from the lender's point of view?",
+      "choices": [
+        "A base return on the capital",
+        "The borrower's down payment",
+        "A premium for accepting risk",
+        "A charge for managing the loan"
+      ],
+      "answer": 1,
+      "explain": "The three parts are a base return, a risk premium and a payment toward management costs.",
+      "ref": "Lesson 12 · The capital market and interest rates"
+    },
+    {
+      "id": "12-005",
+      "tag": "Rates",
+      "q": "Why do mortgages usually pay more than government bonds of a similar term?",
+      "choices": [
+        "Mortgages are guaranteed by the federal government",
+        "They're riskier, less liquid, more work",
+        "Bonds always have much longer terms",
+        "Bonds need more active management by investors"
+      ],
+      "answer": 1,
+      "explain": "Mortgages carry more default risk, are harder to sell and require more administration, so investors demand a higher yield.",
+      "ref": "Lesson 12 · The capital market and interest rates"
+    },
+    {
+      "id": "12-006",
+      "tag": "Rates",
+      "q": "How do institutional lenders usually handle extra risk on an individual loan?",
+      "choices": [
+        "Charge that borrower a higher rate",
+        "Adjust non-rate terms like LTV",
+        "Refuse every higher-risk borrower",
+        "Ask CMHC to set the rate"
+      ],
+      "answer": 1,
+      "explain": "They tend to keep the market rate and adjust non-rate terms such as term, amortization or loan-to-value.",
+      "ref": "Lesson 12 · The capital market and interest rates"
+    },
+    {
+      "id": "12-007",
+      "tag": "Markets",
+      "q": "What happens in the secondary mortgage market?",
+      "choices": [
+        "New mortgages are first arranged",
+        "Existing mortgages are bought and sold",
+        "Only second mortgages are traded",
+        "The Bank of Canada sets mortgage rates"
+      ],
+      "answer": 1,
+      "explain": "The secondary market trades existing mortgages: buyers acquire the right to the borrower's payments.",
+      "ref": "Lesson 12 · The mortgage market"
+    },
+    {
+      "id": "12-008",
+      "tag": "Investors",
+      "q": "What is the reinvestment problem for small mortgage investors?",
+      "choices": [
+        "Borrowers can't refinance at maturity",
+        "Small payments can't fund new loans",
+        "They can't sell their mortgages at all",
+        "Rates always fall after the loan is made"
+      ],
+      "answer": 1,
+      "explain": "A small lender's monthly payments are too small to make a new mortgage, so they sit in lower-yielding accounts.",
+      "ref": "Lesson 12 · Why mortgages were hard for small investors"
+    },
+    {
+      "id": "12-009",
+      "tag": "MBS",
+      "q": "Who created NHA Mortgage-Backed Securities, and when?",
+      "choices": [
+        "The Bank of Canada, in 2001",
+        "CMHC, in 1986",
+        "OSFI, in 2016",
+        "The chartered banks, in 1954"
+      ],
+      "answer": 1,
+      "explain": "CMHC created NHA MBS in 1986: pools of insured residential mortgages sold in small units, paid monthly.",
+      "ref": "Lesson 12 · Government's fixes"
+    },
+    {
+      "id": "12-010",
+      "tag": "CMBs",
+      "q": "How often do Canada Mortgage Bond holders receive interest?",
+      "choices": [
+        "Monthly",
+        "Every six months",
+        "Quarterly, on set dates",
+        "Once a year"
+      ],
+      "answer": 1,
+      "explain": "CMBs, issued by the Canada Housing Trust since 2001, pay fixed interest every six months.",
+      "ref": "Lesson 12 · Government's fixes"
+    },
+    {
+      "id": "12-011",
+      "tag": "MICs",
+      "q": "What share of its net income can a qualifying MIC pass through to investors?",
+      "choices": [
+        "Up to 50%",
+        "100%",
+        "Only its capital gains",
+        "Nothing until it winds up"
+      ],
+      "answer": 1,
+      "explain": "Under the Income Tax Act rules, a MIC can pass on 100% of its net income to its shareholders.",
+      "ref": "Lesson 12 · Government's fixes"
+    },
+    {
+      "id": "12-012",
+      "tag": "History",
+      "q": "After the 1930s Depression, which repayment plan became standard?",
+      "choices": [
+        "Short-term interest-only loans",
+        "Fully amortized constant payment loans",
+        "Variable rate mortgages tied to prime",
+        "Reverse annuity mortgages for retirees"
+      ],
+      "answer": 1,
+      "explain": "Interest-only loans left principal at risk, so lenders moved to long-term, fully amortized constant payment loans.",
+      "ref": "Lesson 12 · A short history of Canadian mortgages"
+    },
+    {
+      "id": "12-013",
+      "tag": "History",
+      "q": "Why did partially amortized (short-term) mortgages emerge in the 1970s?",
+      "choices": [
+        "To help first-time buyers qualify",
+        "To share interest rate risk",
+        "To comply with the Interest Act",
+        "To lower insurance premiums"
+      ],
+      "answer": 1,
+      "explain": "Rising rates exposed lenders to interest rate risk. Short terms let rates reset, sharing the risk with borrowers.",
+      "ref": "Lesson 12 · A short history of Canadian mortgages"
+    },
+    {
+      "id": "12-014",
+      "tag": "Stress test",
+      "q": "Since June 2021, what is the minimum qualifying rate under the stress test?",
+      "choices": [
+        "Contract rate plus 1%, always",
+        "Greater of 5.25% or contract + 2%",
+        "The posted five-year rate plus 1%",
+        "Lesser of 5.25% or contract + 2%"
+      ],
+      "answer": 1,
+      "explain": "The greater of 5.25% or the contract rate plus 2%, subject to periodic review.",
+      "ref": "Lesson 12 · Federal rule changes you should recognize"
+    },
+    {
+      "id": "12-015",
+      "tag": "Rules",
+      "q": "Since December 2024, what is the price cap for an insured mortgage?",
+      "choices": [
+        "$1,000,000",
+        "$1,500,000",
+        "$2,000,000",
+        "$1,250,000"
+      ],
+      "answer": 1,
+      "explain": "The cap rose from $1 million to $1.5 million. Homes at $1.5 million or more need 20% down and can't be insured.",
+      "ref": "Lesson 12 · Federal rule changes you should recognize"
+    },
+    {
+      "id": "12-016",
+      "tag": "Rules",
+      "q": "Since 2016, what minimum down payment applies to the part of an insured purchase price above $500,000?",
+      "choices": [
+        "5%",
+        "10%",
+        "15%",
+        "20%"
+      ],
+      "answer": 1,
+      "explain": "5% on the first $500,000 and 10% on the portion above that (up to $1.5 million).",
+      "ref": "Lesson 12 · Federal rule changes you should recognize"
+    },
+    {
+      "id": "12-017",
+      "tag": "Classes",
+      "q": "What's the maximum loan-to-value for a conventional mortgage at a federally regulated lender?",
+      "choices": [
+        "75%",
+        "80%",
+        "90%",
+        "95%"
+      ],
+      "answer": 1,
+      "explain": "80%. Above that, the loan is high-ratio and must be insured (up to 95%).",
+      "ref": "Lesson 12 · Classifying mortgage loans"
+    },
+    {
+      "id": "12-018",
+      "tag": "Insurance",
+      "q": "Who pays for mortgage default insurance, and who does it protect?",
+      "choices": [
+        "Lender pays; it protects the borrower",
+        "Borrower pays; it protects the lender",
+        "Insurer pays; it protects both",
+        "Government pays; it protects the lender"
+      ],
+      "answer": 1,
+      "explain": "The borrower pays the premium (usually added to the loan), but the insurance protects the lender against default losses.",
+      "ref": "Lesson 12 · Classifying mortgage loans"
+    },
+    {
+      "id": "12-019",
+      "tag": "Priority",
+      "q": "What makes a mortgage the \"first\" mortgage?",
+      "choices": [
+        "It's the largest loan on title",
+        "It was registered first",
+        "It has the lowest interest rate",
+        "It has the longest term"
+      ],
+      "answer": 1,
+      "explain": "Rank depends on registration order, not size. Later mortgages are junior mortgages.",
+      "ref": "Lesson 12 · Classifying mortgage loans"
+    },
+    {
+      "id": "12-020",
+      "tag": "Lenders",
+      "q": "Which type of institution has been the largest source of mortgage funds in Canada since 1979?",
+      "choices": [
+        "Trust companies",
+        "Chartered banks",
+        "Life insurance companies",
+        "Credit unions"
+      ],
+      "answer": 1,
+      "explain": "Chartered banks, mainly through residential lending. Trust companies led from 1967 to 1978.",
+      "ref": "Lesson 12 · Who lends"
+    },
+    {
+      "id": "12-021",
+      "tag": "Lenders",
+      "q": "What is a monoline lender?",
+      "choices": [
+        "A lender serving only commercial clients",
+        "A mortgage-only lender, through brokers",
+        "A credit union with a single branch",
+        "A lender offering one fixed rate"
+      ],
+      "answer": 1,
+      "explain": "Monolines (e.g. MCAP, First National) focus only on mortgages, have no branches and deal only through brokers.",
+      "ref": "Lesson 12 · Who lends"
+    },
+    {
+      "id": "12-022",
+      "tag": "Lenders",
+      "q": "Where did life insurance companies shift their mortgage lending?",
+      "choices": [
+        "Insured residential mortgages only",
+        "Commercial loans and equity stakes",
+        "Unsecured consumer credit cards",
+        "Short-term government treasury bills"
+      ],
+      "answer": 1,
+      "explain": "Fixed residential yields didn't protect policyholders from inflation, so insurers moved to non-residential loans and equity participation.",
+      "ref": "Lesson 12 · Who lends"
+    },
+    {
+      "id": "12-023",
+      "tag": "Spread",
+      "q": "Trust companies were classic \"spread lenders\". What does that mean?",
+      "choices": [
+        "They lent only on spread-out rural farmland",
+        "They matched deposit and loan terms for a margin",
+        "They spread each loan among many co-lenders",
+        "They charged one identical rate across Canada"
+      ],
+      "answer": 1,
+      "explain": "They matched, say, 5-year GICs with 5-year mortgages to lock in a spread of about 1.5%.",
+      "ref": "Lesson 12 · Who lends"
+    },
+    {
+      "id": "12-024",
+      "tag": "Plans",
+      "q": "How do payments behave on a straight line principal reduction loan?",
+      "choices": [
+        "They stay the same throughout",
+        "They decline over time",
+        "They increase over time",
+        "They're interest only"
+      ],
+      "answer": 1,
+      "explain": "Equal principal each period plus interest on a shrinking balance, so total payments fall. The largest are at the start.",
+      "ref": "Lesson 12 · Repayment plans"
+    },
+    {
+      "id": "12-025",
+      "tag": "Plans",
+      "q": "Which describes an interest accruing loan?",
+      "choices": [
+        "Interest paid monthly, principal at the end",
+        "No payments until the loan matures",
+        "Equal blended payments throughout",
+        "Principal paid first, interest later"
+      ],
+      "answer": 1,
+      "explain": "Nothing is paid during the term; interest is added to the balance and everything is due at maturity.",
+      "ref": "Lesson 12 · Repayment plans"
+    },
+    {
+      "id": "12-026",
+      "tag": "Plans",
+      "q": "Where are interest-only loans most commonly used?",
+      "choices": [
+        "First-time home purchases",
+        "Real estate development",
+        "Reverse mortgages for seniors",
+        "Student loan programs"
+      ],
+      "answer": 1,
+      "explain": "Developers keep financing costs low during construction and repay from sales on completion.",
+      "ref": "Lesson 12 · Repayment plans"
+    },
+    {
+      "id": "12-027",
+      "tag": "Plans",
+      "q": "On a constant payment mortgage, what are the early payments made up of?",
+      "choices": [
+        "Mostly principal",
+        "Mostly interest",
+        "Exactly half and half",
+        "Interest only"
+      ],
+      "answer": 1,
+      "explain": "The balance is largest at the start, so early payments are mostly interest. The principal portion grows over time.",
+      "ref": "Lesson 12 · Repayment plans"
+    },
+    {
+      "id": "12-028",
+      "tag": "Amortization",
+      "q": "What makes a mortgage partially amortized?",
+      "choices": [
+        "The term is longer than the amortization",
+        "The amortization is longer than the term",
+        "The term equals the amortization",
+        "It has no amortization period at all"
+      ],
+      "answer": 1,
+      "explain": "Payments are based on a long amortization, but the contract ends sooner, leaving a balance to repay or refinance.",
+      "ref": "Lesson 12 · Fully vs partially amortized"
+    },
+    {
+      "id": "12-029",
+      "tag": "Balloon",
+      "q": "What is a balloon payment?",
+      "choices": [
+        "The term is longer than the amortization period",
+        "The amortization is longer than the term",
+        "The term and the amortization are equal",
+        "It has no amortization period whatsoever"
+      ],
+      "answer": 1,
+      "explain": "Any principal paid over and above the regular payments, including the balance due at the end of the term.",
+      "ref": "Lesson 12 · Fully vs partially amortized"
+    },
+    {
+      "id": "12-030",
+      "tag": "Amortization",
+      "q": "Since December 2024, what's the maximum amortization for an insured mortgage to a first-time buyer?",
+      "choices": [
+        "25 years",
+        "30 years",
+        "35 years",
+        "40 years"
+      ],
+      "answer": 1,
+      "explain": "30 years for all first-time buyers and buyers of new builds; 25 years for other insured mortgages.",
+      "ref": "Lesson 12 · Fully vs partially amortized"
+    },
+    {
+      "id": "12-031",
+      "tag": "Accelerated",
+      "q": "How is an accelerated biweekly payment calculated?",
+      "choices": [
+        "Monthly × 12 ÷ 26, every two weeks",
+        "Half the monthly payment, every two weeks",
+        "The full monthly payment, every two weeks",
+        "A quarter of the monthly payment, weekly"
+      ],
+      "answer": 1,
+      "explain": "Half the monthly payment paid 26 times a year: the equivalent of 13 monthly payments.",
+      "ref": "Lesson 12 · Making a mortgage disappear faster"
+    },
+    {
+      "id": "12-032",
+      "tag": "Accelerated",
+      "q": "Accelerated biweekly payments add the equivalent of how much each year?",
+      "choices": [
+        "One extra week's payment",
+        "One extra monthly payment",
+        "Two extra monthly payments",
+        "No extra payment at all"
+      ],
+      "answer": 1,
+      "explain": "26 half-payments = 13 monthly payments, so one extra monthly payment goes to principal each year.",
+      "ref": "Lesson 12 · Accelerated biweekly payments"
+    },
+    {
+      "id": "12-033",
+      "tag": "Open",
+      "q": "Which describes an open mortgage?",
+      "choices": [
+        "A lower rate and a long term",
+        "Prepay anytime, at a higher rate",
+        "No prepayment permitted at all",
+        "Only available to investors"
+      ],
+      "answer": 1,
+      "explain": "Open mortgages allow prepayment at any time (small fee) but carry higher rates and short terms.",
+      "ref": "Lesson 12 · Open, closed and convertible"
+    },
+    {
+      "id": "12-034",
+      "tag": "Convertible",
+      "q": "What is a convertible mortgage?",
+      "choices": [
+        "A variable that auto-switches to fixed",
+        "A short closed term you can lengthen",
+        "A loan that converts into equity",
+        "A mortgage that converts to a lease"
+      ],
+      "answer": 1,
+      "explain": "A short-term (often 6-month or 1-year) closed mortgage that can be converted to a longer term at current rates.",
+      "ref": "Lesson 12 · Open, closed and convertible"
+    },
+    {
+      "id": "12-035",
+      "tag": "Variable",
+      "q": "Why are variable rate mortgages usually cheaper than fixed?",
+      "choices": [
+        "The lender carries the rate risk",
+        "The borrower carries the rate risk",
+        "The government insures every VRM",
+        "VRMs always have longer terms"
+      ],
+      "answer": 1,
+      "explain": "Rate changes pass to the borrower, so the lender takes less risk and charges less.",
+      "ref": "Lesson 12 · Fixed vs variable"
+    },
+    {
+      "id": "12-036",
+      "tag": "Fixed",
+      "q": "What do fixed mortgage rates generally move with?",
+      "choices": [
+        "The prime rate",
+        "Bond yields of similar maturity",
+        "The consumer price index",
+        "The Bank of Canada's overnight rate"
+      ],
+      "answer": 1,
+      "explain": "Fixed rates track bond yields and deposit rates of similar maturity; variable rates track prime.",
+      "ref": "Lesson 12 · Fixed vs variable"
+    },
+    {
+      "id": "12-037",
+      "tag": "RAM",
+      "q": "What happens under a reverse annuity mortgage?",
+      "choices": [
+        "The borrower makes double payments",
+        "The lender pays the borrower over time",
+        "Payments rise every year",
+        "The lender shares in appreciation"
+      ],
+      "answer": 1,
+      "explain": "The lender advances payments to the (usually retired) borrower; the balance is repaid on sale, death or refinancing.",
+      "ref": "Lesson 12 · Other plans to recognize"
+    },
+    {
+      "id": "12-038",
+      "tag": "SAM",
+      "q": "What does a borrower get in exchange for giving a lender a share of the property's appreciation?",
+      "choices": [
+        "A longer amortization period",
+        "A lower interest rate",
+        "A larger down payment",
+        "Freedom from default insurance"
+      ],
+      "answer": 1,
+      "explain": "A shared appreciation mortgage trades a lower rate for a share of the gain in value.",
+      "ref": "Lesson 12 · Other plans to recognize"
+    },
+    {
+      "id": "12-039",
+      "tag": "HELOC",
+      "q": "A home equity loan is typically limited to what percentage of value, less existing mortgages?",
+      "choices": [
+        "50%",
+        "65%",
+        "80%",
+        "95%"
+      ],
+      "answer": 1,
+      "explain": "Typically up to 65% of the lower of price or appraised value, minus existing mortgage balances.",
+      "ref": "Lesson 12 · Other plans to recognize"
+    },
+    {
+      "id": "12-040",
+      "tag": "Construction",
+      "q": "How is construction financing usually advanced and repaid during the build?",
+      "choices": [
+        "One lump sum, then amortized",
+        "In stages, usually interest only",
+        "By the vendor to the purchaser",
+        "Through CMHC grants only"
+      ],
+      "answer": 1,
+      "explain": "Funds are advanced in instalments as stages are completed, typically on an interest-only basis.",
+      "ref": "Lesson 12 · Other plans to recognize"
+    },
+    {
+      "id": "12-041",
+      "tag": "Interest Act",
+      "q": "For a blended-payment mortgage, how must the rate be stated under s.6 of the Interest Act?",
+      "choices": [
+        "Monthly, calculated in advance",
+        "Yearly or half-yearly, not in advance",
+        "Daily, not in advance",
+        "At any frequency the lender likes"
+      ],
+      "answer": 1,
+      "explain": "Calculated yearly or half-yearly, not in advance. That's why Canadian rates are quoted with semi-annual compounding.",
+      "ref": "Lesson 12 · The Interest Act: how rates must be quoted"
+    },
+    {
+      "id": "12-042",
+      "tag": "Interest Act",
+      "q": "What does \"not in advance\" mean in an interest rate quote?",
+      "choices": [
+        "Interest is charged at the period's start",
+        "Interest is charged at the period's end",
+        "Interest is waived for the first period",
+        "Interest is paid before funds advance"
+      ],
+      "answer": 1,
+      "explain": "Interest accrues over the period and is charged at its end. Assume this unless told otherwise.",
+      "ref": "Lesson 12 · The Interest Act: how rates must be quoted"
+    },
+    {
+      "id": "12-043",
+      "tag": "Section 10",
+      "q": "Under s.10 of the Interest Act, who can prepay, and on what terms?",
+      "choices": [
+        "Any borrower at any time, without a penalty",
+        "An individual after 5 years + 3 months' interest",
+        "A corporation after 3 years, with no fee at all",
+        "An individual after 1 year, with no penalty"
+      ],
+      "answer": 1,
+      "explain": "An individual whose mortgage runs more than 5 years can pay it off after 5 years with three months' interest.",
+      "ref": "Lesson 12 · The Interest Act: how rates must be quoted"
+    },
+    {
+      "id": "12-044",
+      "tag": "Periodic",
+      "q": "What is the periodic rate for j₄ = 10%?",
+      "choices": [
+        "0.833333%",
+        "2.5%",
+        "5%",
+        "10%"
+      ],
+      "answer": 1,
+      "explain": "i = jₘ ÷ m = 10% ÷ 4 = 2.5% per quarter.",
+      "ref": "Lesson 12 · Nominal and periodic rates"
+    },
+    {
+      "id": "12-045",
+      "tag": "Periodic",
+      "q": "A loan charges 0.5% per period at a nominal rate of 6%. How many compounding periods are there per year?",
+      "choices": [
+        "2",
+        "12",
+        "6",
+        "4"
+      ],
+      "answer": 1,
+      "explain": "m = j ÷ i = 6% ÷ 0.5% = 12 (monthly).",
+      "ref": "Lesson 12 · Nominal and periodic rates"
+    },
+    {
+      "id": "12-046",
+      "tag": "Effective",
+      "q": "Which rate is the effective annual rate?",
+      "choices": [
+        "j₂",
+        "j₁",
+        "j₁₂",
+        "j₃₆₅"
+      ],
+      "answer": 1,
+      "explain": "j₁, the nominal rate compounded once a year, is the effective annual rate.",
+      "ref": "Lesson 12 · Nominal and periodic rates"
+    },
+    {
+      "id": "12-047",
+      "tag": "Calculator",
+      "q": "Which mode should the HP 10bII+ be in for this course?",
+      "choices": [
+        "Begin mode",
+        "End mode",
+        "Either mode works",
+        "Statistical mode"
+      ],
+      "answer": 1,
+      "explain": "End mode: payments at the end of each period. If BEG shows on the display, switch it off.",
+      "ref": "Lesson 12 · Setting up the HP 10bII+"
+    },
+    {
+      "id": "12-048",
+      "tag": "Calculator",
+      "q": "Which calculators are allowed in the exam room?",
+      "choices": [
+        "Any programmable calculator you choose",
+        "Not both alphanumeric and programmable",
+        "Only the HP 10bII+ model, nothing else",
+        "Any calculator app on a smartphone"
+      ],
+      "answer": 1,
+      "explain": "Silent, cordless, hand-held calculators that are not both alphanumeric and programmable.",
+      "ref": "Lesson 12 · Setting up the HP 10bII+"
+    },
+    {
+      "id": "12-049",
+      "tag": "Signs",
+      "q": "From the borrower's perspective, how are the keys signed in a mortgage problem?",
+      "choices": [
+        "PV negative, PMT and FV positive",
+        "PV positive, PMT and FV negative",
+        "All values entered as positive",
+        "All values entered as negative"
+      ],
+      "answer": 1,
+      "explain": "Money received (the loan) is positive; payments and balances paid out are negative. Reverse it for the lender.",
+      "ref": "Lesson 12 · The financial keys"
+    },
+    {
+      "id": "12-050",
+      "tag": "Frequency",
+      "q": "A loan has monthly payments and a rate of j₂ = 6%. What must you do before solving?",
+      "choices": [
+        "Enter 6 in I/YR with P/YR set to 2",
+        "Convert the rate to an equivalent j₁₂",
+        "Divide 6% by 12 and enter 0.5",
+        "Multiply N by 2 for semi-annual"
+      ],
+      "answer": 1,
+      "explain": "N, I/YR and PMT must share a frequency. Monthly payments → convert j₂ to j₁₂.",
+      "ref": "Lesson 12 · The financial keys"
+    },
+    {
+      "id": "12-051",
+      "tag": "Frequency",
+      "q": "There are no payments in a problem. What sets the frequency for N and I/YR?",
+      "choices": [
+        "The size of the loan amount",
+        "The rate's compounding frequency",
+        "The length of the amortization",
+        "The calculator's default settings"
+      ],
+      "answer": 1,
+      "explain": "With no payment frequency, the compounding frequency of the given rate drives the problem.",
+      "ref": "Lesson 12 · The financial keys"
+    },
+    {
+      "id": "12-052",
+      "tag": "FV",
+      "q": "Land bought for $250,000 rises 0.75% a month for 4 years. What is it worth then?",
+      "choices": [
+        "$340,000.00",
+        "$357,851.33",
+        "$352,895.40",
+        "$325,000.00"
+      ],
+      "answer": 1,
+      "explain": "j₁₂ = 9%, N = 48, PV = −250,000 → FV = $357,851.33.",
+      "ref": "Lesson 12 · Future and present value of a lump sum"
+    },
+    {
+      "id": "12-053",
+      "tag": "PV",
+      "q": "What should you pay today for $1,000,000 due in 5 years, to earn j₁₂ = 8%?",
+      "choices": [
+        "$680,583.20",
+        "$671,210.44",
+        "$600,000.00",
+        "$714,285.71"
+      ],
+      "answer": 1,
+      "explain": "P/YR 12, I/YR 8, N 60, FV 1,000,000 → PV = $671,210.44.",
+      "ref": "Lesson 12 · Future and present value of a lump sum"
+    },
+    {
+      "id": "12-054",
+      "tag": "Lump sum",
+      "q": "Which condition must hold to treat a problem as a simple lump sum?",
+      "choices": [
+        "Payments are made each month",
+        "PMT equals zero",
+        "PV and FV are equal",
+        "The rate is compounded daily"
+      ],
+      "answer": 1,
+      "explain": "There must be no payments between PV and FV (PMT = 0).",
+      "ref": "Lesson 12 · Future and present value of a lump sum"
+    },
+    {
+      "id": "12-055",
+      "tag": "Sinking fund",
+      "q": "What is a sinking fund?",
+      "choices": [
+        "A loan whose payments shrink",
+        "Regular deposits for a future purpose",
+        "A reserve to cover loan defaults",
+        "A lender account for property taxes"
+      ],
+      "answer": 1,
+      "explain": "A series of regular deposits accumulating money for a specific future need, like replacing equipment.",
+      "ref": "Lesson 12 · Annuities: regular payments"
+    },
+    {
+      "id": "12-056",
+      "tag": "Interest only",
+      "q": "What is the monthly interest-only payment on $2,000,000 at j₁₂ = 7%?",
+      "choices": [
+        "$14,000.00",
+        "$11,666.67",
+        "$10,500.00",
+        "$12,083.33"
+      ],
+      "answer": 1,
+      "explain": "7% ÷ 12 = 0.583333% × $2,000,000 = $11,666.67.",
+      "ref": "Lesson 12 · Annuities: regular payments"
+    },
+    {
+      "id": "12-057",
+      "tag": "Equivalent",
+      "q": "When are two interest rates equivalent?",
+      "choices": [
+        "When they have the same nominal rate",
+        "When they have the same effective rate",
+        "When they compound equally often",
+        "When their periodic rates match"
+      ],
+      "answer": 1,
+      "explain": "Equivalent rates give the same amount owing for the same loan and time: the same j₁.",
+      "ref": "Lesson 12 · Equivalent interest rates"
+    },
+    {
+      "id": "12-058",
+      "tag": "Conversion",
+      "q": "What j₁₂ is equivalent to j₂ = 5%?",
+      "choices": [
+        "5.000000%",
+        "4.948699%",
+        "5.062500%",
+        "5.052374%"
+      ],
+      "answer": 1,
+      "explain": "5 NOM%, 2 P/YR, EFF% (5.0625%), 12 P/YR, NOM% → 4.948699%.",
+      "ref": "Lesson 12 · The five-step conversion template"
+    },
+    {
+      "id": "12-059",
+      "tag": "Conversion",
+      "q": "A lender charges j₁₂ = 6%. What j₂ must it disclose under the Interest Act?",
+      "choices": [
+        "5.926346%",
+        "6.075502%",
+        "6.167781%",
+        "6.000000%"
+      ],
+      "answer": 1,
+      "explain": "6 NOM%, 12 P/YR, EFF% (6.167781%), 2 P/YR, NOM% → j₂ = 6.075502%.",
+      "ref": "Lesson 12 · Equivalent interest rates"
+    },
+    {
+      "id": "12-060",
+      "tag": "Compare",
+      "q": "Lender A offers j₂ = 6%; Lender B offers j₁₂ = 5.94%. Which costs less?",
+      "choices": [
+        "Lender B, since 5.94% is lower",
+        "Lender A, with the lower j₁",
+        "Both cost exactly the same",
+        "They can't be compared at all"
+      ],
+      "answer": 1,
+      "explain": "A's effective rate is 6.09%; B's is about 6.10%. Compare effective rates, not headline numbers.",
+      "ref": "Lesson 12 · Equivalent interest rates"
+    },
+    {
+      "id": "12-061",
+      "tag": "Conversion",
+      "q": "Why shouldn't you re-key a rate you just converted on the calculator?",
+      "choices": [
+        "The calculator won't allow it",
+        "You lose precision and risk typos",
+        "It resets the P/YR setting",
+        "It reverses the sign of PV"
+      ],
+      "answer": 1,
+      "explain": "Use the converted rate straight from memory to keep full accuracy.",
+      "ref": "Lesson 12 · Equivalent interest rates"
+    },
+    {
+      "id": "12-062",
+      "tag": "Periodic",
+      "q": "What effective annual rate is equivalent to 0.5% per month?",
+      "choices": [
+        "6.000000%",
+        "6.167781%",
+        "6.090000%",
+        "5.926346%"
+      ],
+      "answer": 1,
+      "explain": "0.5% × 12 = j₁₂ 6%; convert to EFF% = 6.167781%.",
+      "ref": "Lesson 12 · Equivalent interest rates"
+    },
+    {
+      "id": "12-063",
+      "tag": "Case",
+      "q": "How did the court resolve Haptom v. Pahl (24% \"per annum\" with $3,000/month interest-only)?",
+      "choices": [
+        "The lender kept every one of the $3,000 payments",
+        "It sided with the borrowers; overpayment credited",
+        "It voided the whole loan as a criminal interest rate",
+        "It reset the rate to 24% per annum, compounded monthly"
+      ],
+      "answer": 1,
+      "explain": "Monthly payments of $3,000 exceeded 24% compounded annually; the court recalculated and credited the borrowers.",
+      "ref": "Lesson 12 · A licensee case: get the rate wording right"
+    },
+    {
+      "id": "12-064",
+      "tag": "Payment",
+      "q": "What's the monthly payment on $500,000 at j₂ = 5% over 25 years?",
+      "choices": [
+        "$2,922.95",
+        "$2,908.02",
+        "$2,668.45",
+        "$2,061.96"
+      ],
+      "answer": 1,
+      "explain": "Convert to j₁₂ 4.948699%, N 300, PV 500,000, FV 0 → PMT $2,908.02. ($2,922.95 is the mistake of treating 5% as j₁₂.)",
+      "ref": "Lesson 12 · 1. Payment"
+    },
+    {
+      "id": "12-065",
+      "tag": "Loan amount",
+      "q": "A buyer can pay $3,000/month at j₂ = 6% over 25 years. What's the maximum loan?",
+      "choices": [
+        "$465,620.59",
+        "$468,891.68",
+        "$540,000.00",
+        "$900,000.00"
+      ],
+      "answer": 1,
+      "explain": "Convert to j₁₂ 5.926346%, N 300, PMT −3,000 → PV $468,891.68.",
+      "ref": "Lesson 12 · 2. Loan amount (what a payment will support)"
+    },
+    {
+      "id": "12-066",
+      "tag": "Rates",
+      "q": "If rates rise and a borrower's payment stays the same, what happens to the loan they can support?",
+      "choices": [
+        "It gets larger",
+        "It gets smaller",
+        "It doesn't change",
+        "The term lengthens automatically"
+      ],
+      "answer": 1,
+      "explain": "More of each payment goes to interest, so the same payment supports a smaller loan.",
+      "ref": "Lesson 12 · 2. Loan amount (what a payment will support)"
+    },
+    {
+      "id": "12-067",
+      "tag": "Amortization",
+      "q": "Solving for N, the calculator shows \"no Solution\". What does that mean?",
+      "choices": [
+        "The interest rate entered is too low",
+        "The payment never repays the loan",
+        "The loan is already fully amortized",
+        "P/YR was accidentally set to 1"
+      ],
+      "answer": 1,
+      "explain": "The payment isn't large enough to ever pay off the loan at that rate.",
+      "ref": "Lesson 12 · 4. Amortization period"
+    },
+    {
+      "id": "12-068",
+      "tag": "OSB",
+      "q": "After calculating the payment, what must you do before finding the outstanding balance?",
+      "choices": [
+        "Clear all the calculator memory",
+        "Re-enter the rounded payment",
+        "Change P/YR back to 1",
+        "Set FV equal to PV"
+      ],
+      "answer": 1,
+      "explain": "Re-enter the payment exactly as rounded in the contract (negative), then use INPUT and AMORT.",
+      "ref": "Lesson 12 · 5. Outstanding balance"
+    },
+    {
+      "id": "12-069",
+      "tag": "AMORT",
+      "q": "After N INPUT ■ AMORT, what does the third press of \"=\" show?",
+      "choices": [
+        "The principal paid in the range",
+        "The balance after the last payment",
+        "The interest paid in the range",
+        "The number of payments left"
+      ],
+      "answer": 1,
+      "explain": "Principal, then interest, then the outstanding balance after the last payment in the range.",
+      "ref": "Lesson 12 · 5. Outstanding balance"
+    },
+    {
+      "id": "12-070",
+      "tag": "AMORT",
+      "q": "Which keystrokes give the interest paid in the second year of a monthly mortgage?",
+      "choices": [
+        "1 INPUT 24 ■ AMORT",
+        "13 INPUT 24 ■ AMORT",
+        "12 INPUT 24 ■ AMORT",
+        "24 INPUT ■ AMORT"
+      ],
+      "answer": 1,
+      "explain": "Year 2 is payments 13 to 24.",
+      "ref": "Lesson 12 · 6. Principal and interest over a range"
+    },
+    {
+      "id": "12-071",
+      "tag": "Final",
+      "q": "If regular payments are rounded up, how does the final payment of a fully amortized loan compare?",
+      "choices": [
+        "It's larger than the regular payment",
+        "It's smaller than the regular payment",
+        "It's exactly the same",
+        "The lender waives it"
+      ],
+      "answer": 1,
+      "explain": "The borrower overpays slightly each time, so less is left for the final payment.",
+      "ref": "Lesson 12 · Final payments"
+    },
+    {
+      "id": "12-072",
+      "tag": "Amortization",
+      "q": "What does lengthening the amortization period do?",
+      "choices": [
+        "Raises payments, cuts total interest",
+        "Lowers payments, raises total interest",
+        "Lowers payments and total interest",
+        "Has no effect on total interest"
+      ],
+      "answer": 1,
+      "explain": "Smaller payments, but repayment is slower and more interest is paid overall (with diminishing benefit).",
+      "ref": "Lesson 12 · Fully vs partially amortized"
+    }
+  ]
+}

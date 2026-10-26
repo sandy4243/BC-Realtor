@@ -5,6 +5,16 @@
     "lesson": "02"
   },
   {
+    "term": "Accelerated biweekly payments",
+    "def": "Paying half the monthly payment every two weeks (26 a year = 13 monthly payments), shortening the amortization.",
+    "lesson": "12"
+  },
+  {
+    "term": "Acceleration clause",
+    "def": "A mortgage term letting the lender, on default, demand the whole balance immediately.",
+    "lesson": "13"
+  },
+  {
     "term": "Acceptance",
     "def": "Clear, unconditional agreement to all the terms of an offer, communicated to the offeror.",
     "lesson": "07"
@@ -45,14 +55,34 @@
     "lesson": "09"
   },
   {
+    "term": "Agreement for sale",
+    "def": "A sale in which the seller finances the buyer and stays the registered owner until paid; the buyer's interest is registered as a charge.",
+    "lesson": "13"
+  },
+  {
     "term": "Ameliorating waste",
     "def": "A change by a life tenant that improves the property, such as adding a deck. Technically waste, but usually no damages are awarded.",
     "lesson": "02"
   },
   {
+    "term": "Amortization period",
+    "def": "The total time it would take to pay a loan off completely with regular payments (e.g. 25 years).",
+    "lesson": "12"
+  },
+  {
     "term": "Anchoring",
     "def": "The pull a first number (list price or first offer) exerts on the rest of a negotiation.",
     "lesson": "08"
+  },
+  {
+    "term": "Annual percentage rate (APR)",
+    "def": "The interest rate including non-interest finance charges, which BC lenders must disclose to consumer borrowers.",
+    "lesson": "13"
+  },
+  {
+    "term": "Annuity",
+    "def": "A series of equal payments made at regular intervals, such as mortgage payments.",
+    "lesson": "12"
   },
   {
     "term": "Anticipatory breach",
@@ -110,6 +140,11 @@
     "lesson": "01"
   },
   {
+    "term": "Balloon payment",
+    "def": "Any principal payment beyond the regular payments, typically the balance owing at the end of a partially amortized term.",
+    "lesson": "12"
+  },
+  {
     "term": "Bare land strata",
     "def": "A strata development where land, rather than a building, is divided into strata lots. Roads and amenities are usually common property paid for by the owners.",
     "lesson": "03"
@@ -135,9 +170,19 @@
     "lesson": "06"
   },
   {
+    "term": "Bonus (mortgage)",
+    "def": "An amount added to the loan's face value that the borrower never receives in cash, raising the true cost of borrowing.",
+    "lesson": "13"
+  },
+  {
     "term": "Breach of contract",
     "def": "Failing to perform a contractual promise, including by refusing in advance (anticipatory breach) or making performance impossible.",
     "lesson": "07"
+  },
+  {
+    "term": "Bridge financing",
+    "def": "Short-term financing, usually at a higher rate, that covers a gap until long-term financing or sale proceeds arrive.",
+    "lesson": "13"
   },
   {
     "term": "Brokerage",
@@ -170,9 +215,19 @@
     "lesson": "01"
   },
   {
+    "term": "Canada Mortgage Bonds (CMB)",
+    "def": "Bonds issued by the Canada Housing Trust, funded by NHA MBS, paying interest every six months.",
+    "lesson": "12"
+  },
+  {
     "term": "Capacity",
     "def": "The legal ability to make a binding contract. Minors and mentally incapable people have limited capacity.",
     "lesson": "07"
+  },
+  {
+    "term": "Cash-equivalent price",
+    "def": "Cash down plus the market value of any financing, used to compare offers with different financing terms.",
+    "lesson": "13"
   },
   {
     "term": "Cause of action",
@@ -230,9 +285,19 @@
     "lesson": "04"
   },
   {
+    "term": "Clog on the equity of redemption",
+    "def": "A term that prevents the borrower from getting the property back on repayment, such as a lender's option to buy granted with the loan. Void.",
+    "lesson": "13"
+  },
+  {
     "term": "Close family member",
     "def": "Under the RTA: a person's parent, spouse or child, or their spouse's parent or child.",
     "lesson": "10"
+  },
+  {
+    "term": "Closed mortgage",
+    "def": "A mortgage that cannot be prepaid (or only with a penalty) during its term.",
+    "lesson": "12"
   },
   {
     "term": "Collateral warranty",
@@ -295,6 +360,11 @@
     "lesson": "08"
   },
   {
+    "term": "Conduct of sale",
+    "def": "A court order letting the lender list and sell the property in foreclosure, with the court approving the sale.",
+    "lesson": "13"
+  },
+  {
     "term": "Conduct unbecoming",
     "def": "Behaviour contrary to the public's best interests, or that undermines confidence in or discredits the real estate industry.",
     "lesson": "05"
@@ -313,6 +383,11 @@
     "term": "Consideration",
     "def": "Something of value each side gives in exchange for the other's promise. Courts don't review whether it's adequate.",
     "lesson": "07"
+  },
+  {
+    "term": "Constant payment mortgage",
+    "def": "A loan repaid with equal blended payments of principal and interest. Early payments are mostly interest; later ones mostly principal.",
+    "lesson": "12"
   },
   {
     "term": "Contingency reserve fund (CRF)",
@@ -335,6 +410,11 @@
     "lesson": "08"
   },
   {
+    "term": "Conventional mortgage",
+    "def": "A mortgage of 80% or less of the property's value, normally not requiring default insurance.",
+    "lesson": "12"
+  },
+  {
     "term": "Cooperating brokerage",
     "def": "The brokerage working with the buyer, which usually shares in the listing brokerage's commission.",
     "lesson": "09"
@@ -348,6 +428,11 @@
     "term": "Cooperative interest",
     "def": "A share or membership in a cooperative association that comes with the right to occupy a unit.",
     "lesson": "05"
+  },
+  {
+    "term": "Cost of funds advanced (COFA)",
+    "def": "The borrower's true interest rate, taking into account fees deducted from or added to the loan.",
+    "lesson": "13"
   },
   {
     "term": "Counter-offer",
@@ -365,6 +450,11 @@
     "lesson": "08"
   },
   {
+    "term": "Covenantor",
+    "def": "A person who signs a mortgage as a primary debtor, liable just like the borrower.",
+    "lesson": "13"
+  },
+  {
     "term": "CREA",
     "def": "Canadian Real Estate Association: the national organization that owns the REALTOR® and MLS® trademarks and the REALTOR® Code.",
     "lesson": "04"
@@ -378,6 +468,11 @@
     "term": "Damages",
     "def": "Money a court orders one party to pay another as compensation for a wrong.",
     "lesson": "01"
+  },
+  {
+    "term": "Debt coverage ratio (DCR)",
+    "def": "NOI divided by annual debt service. Lenders set a minimum (e.g. 1.25) to size commercial loans.",
+    "lesson": "13"
   },
   {
     "term": "Deceit",
@@ -465,6 +560,11 @@
     "lesson": "09"
   },
   {
+    "term": "Due on sale clause",
+    "def": "A mortgage term making the loan payable if the property is sold, which stops a buyer from assuming it.",
+    "lesson": "13"
+  },
+  {
     "term": "Duplicate certificate of title",
     "def": "A paper copy of title issued only on the owner's request since 1979. While it's out, transfers and mortgages can't be registered.",
     "lesson": "03"
@@ -488,6 +588,11 @@
     "term": "Easement",
     "def": "A right to use a neighbour's land in a particular way (a right of way, a drain, light) for the benefit of your own land. Runs with the land if registered.",
     "lesson": "02"
+  },
+  {
+    "term": "Effective annual rate",
+    "def": "The true yearly rate after compounding, written j₁. Used to compare rates quoted at different frequencies.",
+    "lesson": "12"
   },
   {
     "term": "Effective cause",
@@ -515,6 +620,11 @@
     "lesson": "07"
   },
   {
+    "term": "Equitable mortgage",
+    "def": "An unregistered mortgage, binding the borrower but not third parties (e.g. a deposit of the title certificate with intent, or an agreement to mortgage).",
+    "lesson": "13"
+  },
+  {
     "term": "Equitable waste",
     "def": "Flagrant or malicious destruction by a life tenant, such as arson. Not excused by \"without impeachment for waste\" unless expressly stated.",
     "lesson": "02"
@@ -523,6 +633,16 @@
     "term": "Equity",
     "def": "Principles of fairness developed by the courts of chancery to soften the rigid common law. Where equity and common law conflict, equity wins.",
     "lesson": "01"
+  },
+  {
+    "term": "Equity of redemption",
+    "def": "The borrower's right, created by the courts of equity, to redeem the property by paying the debt even after default. Ended by foreclosure.",
+    "lesson": "13"
+  },
+  {
+    "term": "Equivalent interest rates",
+    "def": "Rates with different compounding frequencies that produce the same effective annual rate (same j₁).",
+    "lesson": "12"
   },
   {
     "term": "Error in substantialibus",
@@ -595,6 +715,11 @@
     "lesson": "04"
   },
   {
+    "term": "Five Cs of credit",
+    "def": "Character, capital, capacity, credit and collateral: the factors lenders weigh in deciding whether to lend.",
+    "lesson": "13"
+  },
+  {
     "term": "Fixed term tenancy",
     "def": "A tenancy with a set end date. A commercial one ends automatically; a residential one usually becomes month-to-month.",
     "lesson": "10"
@@ -603,6 +728,11 @@
     "term": "Fixture",
     "def": "Something attached to land or a building so that it's legally part of the real property. Stays with the property on a sale.",
     "lesson": "02"
+  },
+  {
+    "term": "Foreclosure",
+    "def": "The court process that ends the borrower's equity of redemption, through an order nisi, then a judicial sale or order absolute.",
+    "lesson": "13"
   },
   {
     "term": "Form A",
@@ -630,6 +760,11 @@
     "lesson": "07"
   },
   {
+    "term": "Gross debt service ratio (GDSR)",
+    "def": "Mortgage principal, interest and property taxes as a share of gross income (sometimes plus heat and half of strata fees).",
+    "lesson": "13"
+  },
+  {
     "term": "Gross lease",
     "def": "A commercial lease where one rent figure covers the tenant's share of operating costs; the landlord bears increases.",
     "lesson": "10"
@@ -640,9 +775,19 @@
     "lesson": "11"
   },
   {
+    "term": "Guarantor",
+    "def": "A person who promises to pay if the borrower doesn't; liable only after the lender pursues the borrower.",
+    "lesson": "13"
+  },
+  {
     "term": "Headline test",
     "def": "Asking whether you'd be comfortable seeing your decision reported as a news headline. A quick ethics check.",
     "lesson": "06"
+  },
+  {
+    "term": "HELOC",
+    "def": "Home equity line of credit: revolving credit secured on a home, limited to 65% of value less other mortgages.",
+    "lesson": "12"
   },
   {
     "term": "Holdback",
@@ -690,9 +835,29 @@
     "lesson": "04"
   },
   {
+    "term": "Insured mortgage",
+    "def": "A high-ratio mortgage (over 80% loan-to-value) protected by default insurance from CMHC, Sagen or Canada Guaranty. The borrower pays; the lender is protected.",
+    "lesson": "12"
+  },
+  {
     "term": "Interesse termini",
     "def": "The old rule that no estate passes until the tenant takes possession, so a commercial tenant refused entry gets only damages. Abolished for residential tenancies.",
     "lesson": "10"
+  },
+  {
+    "term": "Interest Act",
+    "def": "Federal statute governing how interest is stated. Blended-payment mortgages must quote a yearly or half-yearly rate (s.6); individuals can prepay after 5 years with 3 months' interest (s.10).",
+    "lesson": "12"
+  },
+  {
+    "term": "Interest rate differential (IRD)",
+    "def": "A prepayment penalty based on the gap between the contract rate and the lender's current rate for the remaining term.",
+    "lesson": "13"
+  },
+  {
+    "term": "Interim blanket mortgage",
+    "def": "A development loan secured on a whole project, with lots or units released by partial discharge as they're sold.",
+    "lesson": "13"
   },
   {
     "term": "Interim budget",
@@ -765,6 +930,11 @@
     "lesson": "01"
   },
   {
+    "term": "Lending value",
+    "def": "A lender's conservative long-term estimate of a property's value, usually at or below market value.",
+    "lesson": "13"
+  },
+  {
     "term": "Letters of Administration",
     "def": "A court document appointing an administrator when there's no valid will. The administrator has no authority before it's granted.",
     "lesson": "07"
@@ -808,6 +978,11 @@
     "term": "Listing contract",
     "def": "The agreement between a seller and a brokerage: the brokerage markets the property, and the seller pays commission if a sale results. The buyer isn't a party.",
     "lesson": "08"
+  },
+  {
+    "term": "Loan-to-value ratio (LTV)",
+    "def": "The loan amount divided by the property's lending value.",
+    "lesson": "13"
   },
   {
     "term": "LOTA",
@@ -865,6 +1040,36 @@
     "lesson": "06"
   },
   {
+    "term": "Monoline lender",
+    "def": "A lender that only makes mortgage loans and deals through mortgage brokers rather than branches.",
+    "lesson": "12"
+  },
+  {
+    "term": "Mortgage",
+    "def": "An interest in land given as security for a debt, along with evidence of that debt. The borrower keeps title; the lender's charge is registered against it.",
+    "lesson": "13"
+  },
+  {
+    "term": "Mortgage assumption",
+    "def": "A buyer taking over the seller's existing mortgage. The seller stays liable unless released or there is a novation.",
+    "lesson": "13"
+  },
+  {
+    "term": "Mortgage investment corporation (MIC)",
+    "def": "A company that pools investors' money to make mortgage loans, passing its income through to shareholders.",
+    "lesson": "12"
+  },
+  {
+    "term": "Mortgage term",
+    "def": "The length of the current contract (e.g. 5 years). If shorter than the amortization, a balance is owing when it ends and must be repaid or renewed.",
+    "lesson": "12"
+  },
+  {
+    "term": "Mortgage-backed securities (MBS)",
+    "def": "Investments made from pools of insured residential mortgages; NHA MBS pay investors monthly.",
+    "lesson": "12"
+  },
+  {
     "term": "Mortgagor / mortgagee",
     "def": "The mortgagor is the borrower who grants the mortgage; the mortgagee is the lender who receives it.",
     "lesson": "02"
@@ -905,6 +1110,16 @@
     "lesson": "09"
   },
   {
+    "term": "Net operating income (NOI)",
+    "def": "A property's income after vacancy, bad debt and operating expenses, but before debt payments, income tax and depreciation.",
+    "lesson": "13"
+  },
+  {
+    "term": "Nominal interest rate",
+    "def": "An annual rate with a stated compounding frequency, written jₘ (e.g. j₂ = compounded semi-annually). Equals the periodic rate × m.",
+    "lesson": "12"
+  },
+  {
     "term": "Non est factum",
     "def": "\"Not my deed.\" A defence that a signer didn't understand the basic nature of what they signed, making the document void.",
     "lesson": "03"
@@ -918,6 +1133,11 @@
     "term": "Norfolk & Aikens",
     "def": "The 1989 BCCA decision behind the CPS clauses that let transfers and mortgages register on lawyers' and notaries' undertakings.",
     "lesson": "08"
+  },
+  {
+    "term": "Novation",
+    "def": "Replacing one debtor with another so the old contract ends and the original borrower is fully released.",
+    "lesson": "13"
   },
   {
     "term": "Nuisance (private)",
@@ -945,6 +1165,11 @@
     "lesson": "09"
   },
   {
+    "term": "Open mortgage",
+    "def": "A mortgage that can be prepaid at any time without penalty, usually at a higher rate and short term.",
+    "lesson": "12"
+  },
+  {
     "term": "Operating fund",
     "def": "A strata's fund for expenses that occur once a year or more often.",
     "lesson": "11"
@@ -955,14 +1180,34 @@
     "lesson": "07"
   },
   {
+    "term": "Order absolute",
+    "def": "A final foreclosure order vesting title in the lender. The lender then cannot sue the borrower for any shortfall.",
+    "lesson": "13"
+  },
+  {
+    "term": "Order nisi",
+    "def": "A foreclosure order setting a redemption period (often 6 months) within which the borrower can pay off the loan or sell.",
+    "lesson": "13"
+  },
+  {
     "term": "Order of possession",
     "def": "An order (from the RTB or a court) entitling a landlord to possession, enforceable by a court bailiff.",
     "lesson": "10"
   },
   {
+    "term": "Outstanding balance",
+    "def": "The principal still owing on a loan at a given point, e.g. after 60 payments.",
+    "lesson": "12"
+  },
+  {
     "term": "Overholding",
     "def": "A tenant staying on after a lease ends. If the landlord accepts rent, a commercial periodic tenancy may be implied.",
     "lesson": "10"
+  },
+  {
+    "term": "Partially amortized mortgage",
+    "def": "A mortgage whose term is shorter than its amortization period, so a balance (balloon) is still owing at the end of the term.",
+    "lesson": "12"
   },
   {
     "term": "Party to be charged",
@@ -983,6 +1228,11 @@
     "term": "PCMLTFA",
     "def": "Proceeds of Crime (Money Laundering) and Terrorist Financing Act: the federal law requiring reporting entities to run compliance programs, verify identity, report and keep records.",
     "lesson": "06"
+  },
+  {
+    "term": "Periodic interest rate",
+    "def": "The rate per compounding period (i = jₘ ÷ m), e.g. j₁₂ 6% = 0.5% a month.",
+    "lesson": "12"
   },
   {
     "term": "Periodic tenancy",
@@ -1055,6 +1305,11 @@
     "lesson": "01"
   },
   {
+    "term": "Prepayment penalty",
+    "def": "A charge for paying off a closed mortgage early, usually the greater of 3 months' interest or the interest rate differential.",
+    "lesson": "13"
+  },
+  {
     "term": "Price maintenance",
     "def": "Pressuring others to keep prices up, or punishing someone for low pricing. A civil matter under Competition Act s.76.",
     "lesson": "08"
@@ -1063,6 +1318,11 @@
     "term": "Principal",
     "def": "The person an agent acts for, such as the seller or buyer client of a brokerage.",
     "lesson": "04"
+  },
+  {
+    "term": "Priority agreement",
+    "def": "A registered agreement between charge holders that changes the order in which their charges rank.",
+    "lesson": "13"
   },
   {
     "term": "Private law",
@@ -1210,6 +1470,11 @@
     "lesson": "02"
   },
   {
+    "term": "Reverse annuity mortgage (RAM)",
+    "def": "A mortgage in which the lender makes payments to the owner, usually an older homeowner, with the debt growing over time.",
+    "lesson": "12"
+  },
+  {
     "term": "Reversioner",
     "def": "The original owner who gets the property back when a life estate they created ends.",
     "lesson": "02"
@@ -1278,6 +1543,11 @@
     "term": "Short term exclusive use",
     "def": "A personal, cancellable permission to use common property exclusively, for up to 1 year (5 years for an EV-charging stall).",
     "lesson": "11"
+  },
+  {
+    "term": "Sinking fund",
+    "def": "Regular deposits set aside, with interest, to accumulate a target sum by a future date (e.g. to repay an interest-only loan).",
+    "lesson": "12"
   },
   {
     "term": "Smurfing",
@@ -1375,6 +1645,11 @@
     "lesson": "06"
   },
   {
+    "term": "Stress test",
+    "def": "Qualifying a borrower at the greater of 5.25% or the contract rate plus 2%, required by federally regulated lenders.",
+    "lesson": "13"
+  },
+  {
     "term": "Subdivision",
     "def": "Dividing land into two or more parcels. In BC it requires compliance with the Land Title Act and approval.",
     "lesson": "03"
@@ -1448,6 +1723,11 @@
     "term": "Tort",
     "def": "A private wrong, other than breach of contract, that injures someone and for which a court will award damages. Negligence is the most common.",
     "lesson": "01"
+  },
+  {
+    "term": "Total debt service ratio (TDSR)",
+    "def": "All debt payments, including the mortgage, taxes and other loans, as a share of gross income.",
+    "lesson": "13"
   },
   {
     "term": "Trade in real estate",
@@ -1543,6 +1823,16 @@
     "term": "Vacate clause",
     "def": "A term requiring a residential tenant to leave at the end of a fixed term. Allowed only for subleases or when the landlord or close family will move in.",
     "lesson": "10"
+  },
+  {
+    "term": "Variable rate mortgage (VRM)",
+    "def": "A mortgage whose rate floats with the lender's prime rate (prime ± x%). The borrower bears the rate risk.",
+    "lesson": "12"
+  },
+  {
+    "term": "Vendor take-back mortgage (VTB)",
+    "def": "A mortgage the seller gives the buyer to finance part of the price. Title passes to the buyer, with the seller's mortgage on it.",
+    "lesson": "13"
   },
   {
     "term": "Vicarious liability",

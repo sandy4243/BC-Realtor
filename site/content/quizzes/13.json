@@ -1,0 +1,1293 @@
+{
+  "lessonId": "13",
+  "questions": [
+    {
+      "id": "13-001",
+      "tag": "Definition",
+      "q": "Legally, what is a mortgage?",
+      "choices": [
+        "The loan itself, as a contract",
+        "An interest in land given as security",
+        "A lease of the land to the lender",
+        "A guarantee from the government"
+      ],
+      "answer": 1,
+      "explain": "A mortgage is an interest in land granted as security for a debt, plus evidence of that debt. It isn't the loan itself.",
+      "ref": "Lesson 13 · What a mortgage is, legally"
+    },
+    {
+      "id": "13-002",
+      "tag": "Equity of redemption",
+      "q": "Where did the equity of redemption come from?",
+      "choices": [
+        "The Land Title Act, passed in 1990",
+        "The courts of equity, for fairness",
+        "The federal Interest Act of Canada",
+        "A 2014 Supreme Court of Canada ruling"
+      ],
+      "answer": 1,
+      "explain": "Equity courts gave borrowers a right to redeem after the due date because forfeiting land for one late day was unfair.",
+      "ref": "Lesson 13 · Where the equity of redemption came from"
+    },
+    {
+      "id": "13-003",
+      "tag": "Equity",
+      "q": "A home is worth $600,000 with a $150,000 mortgage. What is the owner's equity (in the everyday sense)?",
+      "choices": [
+        "$150,000",
+        "$450,000",
+        "$600,000",
+        "$750,000"
+      ],
+      "answer": 1,
+      "explain": "Everyday equity is value minus debt: $600,000 − $150,000. Don't confuse it with the equity of redemption, which is a right.",
+      "ref": "Lesson 13 · Where the equity of redemption came from"
+    },
+    {
+      "id": "13-004",
+      "tag": "Equitable",
+      "q": "Against whom is an unregistered (equitable) mortgage enforceable?",
+      "choices": [
+        "Against everyone, just like a legal one",
+        "Against the borrower, not third parties",
+        "Against third parties, but not the borrower",
+        "Against no one until it is registered"
+      ],
+      "answer": 1,
+      "explain": "Equitable mortgages bind the borrower but not third parties. Registration is what gives effect against the world.",
+      "ref": "Lesson 13 · Legal and equitable mortgages"
+    },
+    {
+      "id": "13-005",
+      "tag": "Equitable",
+      "q": "What is needed for a deposit of the duplicate certificate of title to create an equitable mortgage?",
+      "choices": [
+        "Registration at the land title office first",
+        "Delivery plus an intention to create security",
+        "A caveat filed in the lender's favour at once",
+        "A court order confirming the deposit was made"
+      ],
+      "answer": 1,
+      "explain": "There must be actual delivery and an intent to create a mortgage; otherwise it may just be safekeeping (Mesa Estates).",
+      "ref": "Lesson 13 · Legal and equitable mortgages"
+    },
+    {
+      "id": "13-006",
+      "tag": "Disguised",
+      "q": "A loan is papered as an outright transfer of the land to the lender. How will a court treat it?",
+      "choices": [
+        "As a valid sale; the borrower loses all",
+        "As a mortgage, restoring redemption",
+        "As void, with no security at all",
+        "As a lease to the lender"
+      ],
+      "answer": 1,
+      "explain": "Courts look at substance. If the real purpose was security for a loan, it's a mortgage with an equity of redemption.",
+      "ref": "Lesson 13 · Legal and equitable mortgages"
+    },
+    {
+      "id": "13-007",
+      "tag": "Clog",
+      "q": "Which mortgage term is a void \"clog\" on the equity of redemption?",
+      "choices": [
+        "A restriction on prepaying the loan early",
+        "A lender's option to buy, granted with the loan",
+        "A clause that prohibits any assumption of the loan",
+        "A due on sale clause in the standard terms"
+      ],
+      "answer": 1,
+      "explain": "An option to purchase given to the lender as part of the loan would stop redemption. Prepayment and assumption limits are not clogs.",
+      "ref": "Lesson 13 · Implied terms"
+    },
+    {
+      "id": "13-008",
+      "tag": "Good faith",
+      "q": "What did Bhasin v. Hrynew (SCC 2014) establish?",
+      "choices": [
+        "Lenders can't foreclose without mediation",
+        "A duty of honest contract performance",
+        "A cap on mortgage interest rates",
+        "Oral promises always bind lenders"
+      ],
+      "answer": 1,
+      "explain": "It recognized good faith as an organizing principle, including a duty to perform contracts honestly.",
+      "ref": "Lesson 13 · Implied terms"
+    },
+    {
+      "id": "13-009",
+      "tag": "Form B",
+      "q": "If a lender's filed standard terms aren't given to and acknowledged by the borrower, which terms apply?",
+      "choices": [
+        "None; the mortgage is void",
+        "The prescribed standard terms",
+        "The lender's filed terms anyway",
+        "Whatever the borrower chooses"
+      ],
+      "answer": 1,
+      "explain": "The mortgage takes effect as if the Land Title Act's prescribed standard terms were used.",
+      "ref": "Lesson 13 · Express terms: the Form B mortgage"
+    },
+    {
+      "id": "13-010",
+      "tag": "Acceleration",
+      "q": "Who decides whether to accelerate a mortgage after default?",
+      "choices": [
+        "The borrower, by missing payments",
+        "The lender, at its option",
+        "The court, automatically",
+        "The land title registrar"
+      ],
+      "answer": 1,
+      "explain": "Acceleration is at the lender's option. A lender wouldn't want a high-rate loan forced to end.",
+      "ref": "Lesson 13 · Common clauses"
+    },
+    {
+      "id": "13-011",
+      "tag": "Acceleration",
+      "q": "How often can a court grant relief against acceleration for the same party and covenant?",
+      "choices": [
+        "Never",
+        "Once",
+        "Twice",
+        "As often as needed"
+      ],
+      "answer": 1,
+      "explain": "Law and Equity Act s.25 allows relief; s.28 limits it to once for the same party and covenant.",
+      "ref": "Lesson 13 · Common clauses"
+    },
+    {
+      "id": "13-012",
+      "tag": "Omnibus",
+      "q": "What does an omnibus clause let a lender do?",
+      "choices": [
+        "Accelerate the loan on any default at all",
+        "Pay unpaid taxes and add them to the loan",
+        "Refuse every further advance without notice",
+        "Vote on the owner's behalf at every meeting"
+      ],
+      "answer": 1,
+      "explain": "If the borrower fails to pay something like taxes or strata fees, the lender can pay it and add it to the mortgage.",
+      "ref": "Lesson 13 · Common clauses"
+    },
+    {
+      "id": "13-013",
+      "tag": "Due on sale",
+      "q": "A mortgage has no due on sale clause. What follows?",
+      "choices": [
+        "The mortgage is void on any sale",
+        "The mortgage is assumable",
+        "The buyer must refinance",
+        "The seller must prepay it"
+      ],
+      "answer": 1,
+      "explain": "Without a due on sale (or similar) clause, a buyer can assume the mortgage.",
+      "ref": "Lesson 13 · Common clauses"
+    },
+    {
+      "id": "13-014",
+      "tag": "Covenantor",
+      "q": "How does a covenantor differ from a guarantor?",
+      "choices": [
+        "A covenantor is only secondarily liable, like a guarantor",
+        "A covenantor is primarily liable, like the borrower",
+        "A covenantor can never be sued on the covenant",
+        "A covenantor pays only the interest, never principal"
+      ],
+      "answer": 1,
+      "explain": "A covenantor is a primary debtor; a guarantor is liable only after the lender exhausts remedies against the borrower.",
+      "ref": "Lesson 13 · Covenantor vs guarantor"
+    },
+    {
+      "id": "13-015",
+      "tag": "Blanket",
+      "q": "What does an interim blanket mortgage on a development typically include?",
+      "choices": [
+        "A ban on selling any of the lots",
+        "Partial discharges as units are sold",
+        "A vendor take-back on every unit",
+        "A fixed 25-year term"
+      ],
+      "answer": 1,
+      "explain": "The lender releases each lot or strata unit as it's sold, keeping security over the rest.",
+      "ref": "Lesson 13 · Special types of mortgages"
+    },
+    {
+      "id": "13-016",
+      "tag": "VTB",
+      "q": "In a vendor take-back mortgage, who is registered as owner after completion?",
+      "choices": [
+        "The seller, until the mortgage is fully paid",
+        "The buyer, with the seller's mortgage on title",
+        "The seller's own lender, as security trustee",
+        "The buyer and seller jointly, as co-owners"
+      ],
+      "answer": 1,
+      "explain": "Title passes to the buyer; the seller's mortgage is registered against it. (In an agreement for sale, the seller stays on title.)",
+      "ref": "Lesson 13 · Special types of mortgages"
+    },
+    {
+      "id": "13-017",
+      "tag": "Bridge",
+      "q": "What is bridge financing?",
+      "choices": [
+        "A long-term loan used to fund infrastructure",
+        "Short-term interim financing at a higher rate",
+        "A second mortgage registered on a vacation home",
+        "A long-term loan insured by CMHC at a low rate"
+      ],
+      "answer": 1,
+      "explain": "A short-term loan while long-term financing is arranged, e.g. buying before the old home sells.",
+      "ref": "Lesson 13 · Special types of mortgages"
+    },
+    {
+      "id": "13-018",
+      "tag": "Interest Act",
+      "q": "A loan document requires interest but states no rate. What rate applies under s.3?",
+      "choices": [
+        "0%",
+        "5% a year",
+        "The prime rate",
+        "The criminal rate"
+      ],
+      "answer": 1,
+      "explain": "Section 3 sets 5% per annum where no rate is stated.",
+      "ref": "Lesson 13 · Interest Act"
+    },
+    {
+      "id": "13-019",
+      "tag": "Interest Act",
+      "q": "A blended-payment mortgage omits the required yearly or half-yearly rate statement. What's the result?",
+      "choices": [
+        "The lender may charge prime instead",
+        "No interest can be charged",
+        "Interest is reduced to 5%",
+        "The mortgage is void entirely"
+      ],
+      "answer": 1,
+      "explain": "Under s.6, if the required statement is missing, no interest is chargeable.",
+      "ref": "Lesson 13 · Interest Act"
+    },
+    {
+      "id": "13-020",
+      "tag": "Interest Act",
+      "q": "A mortgage cuts the rate by 2% unless the borrower defaults. What did Krayzel (SCC 2016) say about that?",
+      "choices": [
+        "It's fine; it simply rewards good borrowers",
+        "It breaches s.8: a higher rate on default",
+        "It's a clog on the equity of redemption",
+        "It's a criminal rate of interest under the Code"
+      ],
+      "answer": 1,
+      "explain": "Losing a discount on default means paying more on arrears than on other principal, which s.8 forbids.",
+      "ref": "Lesson 13 · Interest Act"
+    },
+    {
+      "id": "13-021",
+      "tag": "Bonus",
+      "q": "How is a lender's bonus treated under the Interest Act and the Criminal Code?",
+      "choices": [
+        "Interest under both of the two statutes",
+        "Principal (Interest Act) but interest (Code)",
+        "Interest (Interest Act) but principal (Code)",
+        "Ignored entirely by both of the statutes"
+      ],
+      "answer": 1,
+      "explain": "Case law treats a bonus as principal for s.6 of the Interest Act, but the Criminal Code's broad definition counts it as interest.",
+      "ref": "Lesson 13 · Interest Act"
+    },
+    {
+      "id": "13-022",
+      "tag": "Section 10",
+      "q": "Which borrower can use the Interest Act s.10 prepayment right?",
+      "choices": [
+        "A corporation after 5 years",
+        "An individual after 5 years",
+        "A partnership after 3 years",
+        "Any borrower after 1 year"
+      ],
+      "answer": 1,
+      "explain": "Only individuals. Corporations never could; partnerships, ULCs and business trusts lost it for mortgages made from 2012.",
+      "ref": "Lesson 13 · Section 10: the five-year prepayment right"
+    },
+    {
+      "id": "13-023",
+      "tag": "Section 10",
+      "q": "An individual's mortgage is renewed and re-dated to the renewal date for a new 5-year term. When can they use s.10?",
+      "choices": [
+        "Right away, as 5 years have passed",
+        "Not during the renewal term",
+        "After 3 months' notice",
+        "Only with the lender's consent"
+      ],
+      "answer": 1,
+      "explain": "Re-dating restarts the clock, and a 5-year renewal isn't longer than 5 years, so s.10 doesn't help.",
+      "ref": "Lesson 13 · Section 10: the five-year prepayment right"
+    },
+    {
+      "id": "13-024",
+      "tag": "Section 10",
+      "q": "What must the borrower pay to prepay under s.10?",
+      "choices": [
+        "The full interest to the end of the term",
+        "Everything owing plus 3 months' interest",
+        "An interest rate differential",
+        "Six months' interest"
+      ],
+      "answer": 1,
+      "explain": "All principal and interest owing plus three months' interest. Then no further interest can be charged.",
+      "ref": "Lesson 13 · Section 10: the five-year prepayment right"
+    },
+    {
+      "id": "13-025",
+      "tag": "Prepayment",
+      "q": "When does a lender lose its right to a prepayment penalty?",
+      "choices": [
+        "When market rates rise above the contract rate",
+        "Once it accelerates and demands payment",
+        "After the first 3 years of the term pass",
+        "Whenever the borrower decides to sell"
+      ],
+      "answer": 1,
+      "explain": "Once the balance is accelerated and demanded (e.g. foreclosure starts), the penalty is lost.",
+      "ref": "Lesson 13 · Section 10: the five-year prepayment right"
+    },
+    {
+      "id": "13-026",
+      "tag": "Criminal",
+      "q": "Since January 1, 2025, what is the criminal rate of interest?",
+      "choices": [
+        "An effective rate over 60%",
+        "An APR over 35%",
+        "An APR over 48%",
+        "Any rate over prime + 10%"
+      ],
+      "answer": 1,
+      "explain": "An annual percentage rate over 35%. Before 2025 it was an effective rate over 60%.",
+      "ref": "Lesson 13 · Criminal Code"
+    },
+    {
+      "id": "13-027",
+      "tag": "Criminal",
+      "q": "A commercial loan of $750,000 to a corporation. Is it subject to a criminal rate?",
+      "choices": [
+        "Yes, an APR over 35%",
+        "No criminal rate applies",
+        "Yes, an APR over 48%",
+        "Yes, an effective rate over 60%"
+      ],
+      "answer": 1,
+      "explain": "Business loans to non-individuals over $500,000 are exempt. From $10,000 to $500,000 the cap is 48% APR.",
+      "ref": "Lesson 13 · Criminal Code"
+    },
+    {
+      "id": "13-028",
+      "tag": "Fraud",
+      "q": "What happened in R. v. Frebold?",
+      "choices": [
+        "A lender was fined for charging a high rate",
+        "A licensee was jailed for mortgage fraud",
+        "A buyer lost a bid at a foreclosure sale",
+        "A strata lien took priority over a mortgage"
+      ],
+      "answer": 1,
+      "explain": "A licensee with a power of attorney diverted $672,000 of mortgage proceeds and altered documents: 30 months in prison.",
+      "ref": "Lesson 13 · Criminal Code"
+    },
+    {
+      "id": "13-029",
+      "tag": "BPCPA",
+      "q": "Under the Canmerica v. Yu test, what must a borrower first show to prove an unconscionable loan?",
+      "choices": [
+        "That the rate charged exceeded 35% a year",
+        "Unequal bargaining power and unfairness",
+        "That they had no lawyer when they signed",
+        "That the lender was not licensed in BC"
+      ],
+      "answer": 1,
+      "explain": "Inequality of bargaining power plus substantial unfairness; then the lender must prove the deal was fair.",
+      "ref": "Lesson 13 · Business Practices and Consumer Protection Act (BPCPA)"
+    },
+    {
+      "id": "13-030",
+      "tag": "BPCPA",
+      "q": "How long before a consumer borrower is bound must the BPCPA disclosure statement be given?",
+      "choices": [
+        "1 day",
+        "2 days",
+        "7 days",
+        "21 days"
+      ],
+      "answer": 1,
+      "explain": "Two days before the borrower incurs the obligation, unless waived. Renewal statements: 21 days before the term ends.",
+      "ref": "Lesson 13 · Business Practices and Consumer Protection Act (BPCPA)"
+    },
+    {
+      "id": "13-031",
+      "tag": "Brokers",
+      "q": "Which would make someone a mortgage broker under BC's Mortgage Brokers Act?",
+      "choices": [
+        "Making 3 private mortgage loans a year",
+        "Earning $1,000+ a year arranging mortgages",
+        "Owning a mortgaged rental property",
+        "Referring one friend to a bank"
+      ],
+      "answer": 1,
+      "explain": "Triggers include $1,000+ a year in fees arranging mortgages or making 10+ mortgage loans a year.",
+      "ref": "Lesson 13 · Mortgage Brokers Act"
+    },
+    {
+      "id": "13-032",
+      "tag": "Environment",
+      "q": "When can a secured lender become liable to remediate a contaminated site?",
+      "choices": [
+        "Whenever it lends money on a contaminated site",
+        "If it causes contamination or becomes owner",
+        "Only if the borrower goes bankrupt first",
+        "Never; BC law fully protects secured lenders"
+      ],
+      "answer": 1,
+      "explain": "It's protected for financial involvement, but liable if it causes contamination through control or becomes registered owner (e.g. order absolute).",
+      "ref": "Lesson 13 · Environmental Management Act"
+    },
+    {
+      "id": "13-033",
+      "tag": "Assignment",
+      "q": "Does a lender need the borrower's consent to assign a mortgage?",
+      "choices": [
+        "Yes, always, and the consent must be in writing",
+        "No, but the borrower must get notice",
+        "Yes, plus a court order approving the transfer",
+        "Only for residential mortgages, not commercial"
+      ],
+      "answer": 1,
+      "explain": "No consent is needed. Written notice to the borrower makes payments due to the assignee.",
+      "ref": "Lesson 13 · Assignment of a mortgage"
+    },
+    {
+      "id": "13-034",
+      "tag": "Assignment",
+      "q": "A borrower pays the original lender $2,000 after receiving notice of assignment. What's the effect?",
+      "choices": [
+        "The payment reduces the debt to the assignee",
+        "It doesn't reduce what's owed to the assignee",
+        "The assignment is cancelled",
+        "The assignee must refund the borrower"
+      ],
+      "answer": 1,
+      "explain": "Notice freezes the accounts. Payments to the old lender after notice don't count against the assignee.",
+      "ref": "Lesson 13 · Assignment of a mortgage"
+    },
+    {
+      "id": "13-035",
+      "tag": "Assumption",
+      "q": "After a buyer assumes the seller's mortgage, is the seller still liable?",
+      "choices": [
+        "No, liability ends automatically",
+        "Yes, unless released or novated",
+        "Only if the buyer is a company",
+        "Only for the first year"
+      ],
+      "answer": 1,
+      "explain": "The original borrower stays liable on the personal covenant unless released (PLA) or there's a novation.",
+      "ref": "Lesson 13 · Assumption and novation"
+    },
+    {
+      "id": "13-036",
+      "tag": "Direct action",
+      "q": "Can a lender sue a buyer who assumed the mortgage directly?",
+      "choices": [
+        "No, because of privity of contract",
+        "Yes, the Property Law Act allows it",
+        "Only if the buyer signed a guarantee",
+        "Only for residential loans"
+      ],
+      "answer": 1,
+      "explain": "The Property Law Act overrides privity and lets any lender sue an assuming buyer directly.",
+      "ref": "Lesson 13 · Assumption and novation"
+    },
+    {
+      "id": "13-037",
+      "tag": "Release",
+      "q": "To release the seller, within what time must the request for the lender's written approval of the buyer be made?",
+      "choices": [
+        "30 days of the transfer",
+        "3 months of the transfer",
+        "6 months of the transfer",
+        "1 year of the transfer"
+      ],
+      "answer": 1,
+      "explain": "Within 3 months of the transfer. The lender can't unreasonably refuse for a residential-purpose loan.",
+      "ref": "Lesson 13 · Getting the seller released (Property Law Act)"
+    },
+    {
+      "id": "13-038",
+      "tag": "Release",
+      "q": "Which loan does NOT qualify for the Property Law Act release from continuing liability?",
+      "choices": [
+        "A loan to buy the home",
+        "A business loan secured on the home",
+        "A loan to renovate the home",
+        "A refinance of a home purchase loan"
+      ],
+      "answer": 1,
+      "explain": "Only residential-purpose loans qualify: buying or improving the residence, household spending, or refinancing those.",
+      "ref": "Lesson 13 · Getting the seller released (Property Law Act)"
+    },
+    {
+      "id": "13-039",
+      "tag": "Release",
+      "q": "The term of an assumed residential mortgage expires. When is the original borrower released if the lender does nothing?",
+      "choices": [
+        "Immediately, as soon as the term expires",
+        "If no demand within 3 months of expiry",
+        "After 1 year without any demand being made",
+        "Never, without the lender's written approval"
+      ],
+      "answer": 1,
+      "explain": "If the lender doesn't demand payment within 3 months after maturity, the original borrower's liability ends.",
+      "ref": "Lesson 13 · Getting the seller released (Property Law Act)"
+    },
+    {
+      "id": "13-040",
+      "tag": "Novation",
+      "q": "Which is NOT required for a novation of a mortgage?",
+      "choices": [
+        "The new borrower assumes complete liability",
+        "A court order approving the substitution",
+        "The lender accepts the new borrower as principal debtor",
+        "The new contract fully replaces the old one"
+      ],
+      "answer": 1,
+      "explain": "No court order is needed. The three requirements are complete liability, acceptance as principal debtor, and full substitution.",
+      "ref": "Lesson 13 · Novation"
+    },
+    {
+      "id": "13-041",
+      "tag": "Priority",
+      "q": "Lender B lends first but registers second; Lender C lends later but registers first. Who has first priority?",
+      "choices": [
+        "Lender B, who lent first",
+        "Lender C, who registered first",
+        "They share first priority equally",
+        "Whoever lent the larger amount"
+      ],
+      "answer": 1,
+      "explain": "In BC, priority follows the order of registration, not the date of the loan.",
+      "ref": "Lesson 13 · Priorities"
+    },
+    {
+      "id": "13-042",
+      "tag": "Priority",
+      "q": "How can a later-registered mortgage rank ahead of an earlier one?",
+      "choices": [
+        "By charging a higher interest rate than the first",
+        "Through a registered priority agreement",
+        "By being the larger of the two loans",
+        "By being insured by CMHC or another insurer"
+      ],
+      "answer": 1,
+      "explain": "Charge holders can rearrange priority with registered priority (postponement) agreements, or a mortgage can say it's subject to another.",
+      "ref": "Lesson 13 · Priorities"
+    },
+    {
+      "id": "13-043",
+      "tag": "Foreclose",
+      "q": "A third mortgagee forecloses to order absolute. What does it take?",
+      "choices": [
+        "Title free and clear of all the mortgages",
+        "Title subject to the 1st and 2nd mortgages",
+        "Only the first mortgage's ranking position",
+        "Nothing; it must sell through the court instead"
+      ],
+      "answer": 1,
+      "explain": "Redeem up, foreclose down: it forecloses only the borrower, so it owns subject to the senior mortgages.",
+      "ref": "Lesson 13 · Redeem up, foreclose down"
+    },
+    {
+      "id": "13-044",
+      "tag": "Advances",
+      "q": "Which lets a first lender keep priority for a later construction advance over a registered second mortgage?",
+      "choices": [
+        "Oral notice given by the second lender",
+        "A priority agreement with the second lender",
+        "Charging a higher interest rate on the advance",
+        "Making the advance within 30 days of registration"
+      ],
+      "answer": 1,
+      "explain": "Priority is kept with no written notice, a contractual obligation to advance, or (most commonly) a priority agreement.",
+      "ref": "Lesson 13 · Further advances"
+    },
+    {
+      "id": "13-045",
+      "tag": "Statutory",
+      "q": "Which claim beats a registered mortgage without being registered at all?",
+      "choices": [
+        "A second mortgage registered later",
+        "Unpaid municipal property taxes",
+        "A builders lien that has been filed",
+        "A strata lien for unpaid strata fees"
+      ],
+      "answer": 1,
+      "explain": "Property tax liens rank ahead of everything except the Crown and need no registration.",
+      "ref": "Lesson 13 · Statutory priorities: claims that can jump ahead of a registered mortgage"
+    },
+    {
+      "id": "13-046",
+      "tag": "Tax sale",
+      "q": "After a municipal tax sale, how long does the owner or mortgagee have to redeem?",
+      "choices": [
+        "30 days",
+        "1 year",
+        "2 years",
+        "3 years"
+      ],
+      "answer": 1,
+      "explain": "One year from the sale. Tax sales happen after 3 years of arrears (2 years for rural properties).",
+      "ref": "Lesson 13 · Statutory priorities: claims that can jump ahead of a registered mortgage"
+    },
+    {
+      "id": "13-047",
+      "tag": "Builders lien",
+      "q": "How does a filed builders lien rank against a registered mortgage?",
+      "choices": [
+        "Behind the whole mortgage, in all cases",
+        "Ahead of advances made after filing",
+        "Ahead of the entire mortgage, always",
+        "Equal with the mortgage, sharing pro rata"
+      ],
+      "answer": 1,
+      "explain": "The lien has priority over mortgage advances made after the date it's filed.",
+      "ref": "Lesson 13 · Statutory priorities: claims that can jump ahead of a registered mortgage"
+    },
+    {
+      "id": "13-048",
+      "tag": "CRA",
+      "q": "Why are CRA deemed trust claims a special risk for lenders?",
+      "choices": [
+        "They're always for amounts under $1,000",
+        "There's no registry to search for them",
+        "They rank behind every registered mortgage",
+        "They expire automatically after 30 days"
+      ],
+      "answer": 1,
+      "explain": "Unremitted source deductions and GST can be claimed years later, and there's no registry to check.",
+      "ref": "Lesson 13 · Statutory priorities: claims that can jump ahead of a registered mortgage"
+    },
+    {
+      "id": "13-049",
+      "tag": "Foreclosure",
+      "q": "A business borrower is insolvent. How long must the lender wait after a BIA s.244 notice before enforcing?",
+      "choices": [
+        "5 days",
+        "10 days",
+        "15 business days",
+        "30 days"
+      ],
+      "answer": 1,
+      "explain": "Ten days. For farmers, the Farm Debt Mediation Act requires 15 business days.",
+      "ref": "Lesson 13 · Step by step"
+    },
+    {
+      "id": "13-050",
+      "tag": "Foreclosure",
+      "q": "Why would a lender name residential tenants as respondents in a foreclosure petition?",
+      "choices": [
+        "To collect the rent arrears from them",
+        "To enforce vacant possession against them",
+        "To invite them to buy the property first",
+        "Because the RTA otherwise forbids foreclosure"
+      ],
+      "answer": 1,
+      "explain": "Named tenants must leave on the court's possession order, even mid-lease and without RTA notice.",
+      "ref": "Lesson 13 · Step by step"
+    },
+    {
+      "id": "13-051",
+      "tag": "Order nisi",
+      "q": "What redemption period is typical in an order nisi when the property has equity?",
+      "choices": [
+        "1 day",
+        "6 months",
+        "1 year",
+        "3 years"
+      ],
+      "answer": 1,
+      "explain": "Six months. It can be much shorter (even one day) if there's no equity, or the property is abandoned or being wasted.",
+      "ref": "Lesson 13 · The court orders"
+    },
+    {
+      "id": "13-052",
+      "tag": "Order nisi",
+      "q": "After an order nisi but before conduct of sale, can the owner sell the property?",
+      "choices": [
+        "No, only the lender can sell",
+        "Yes, during the redemption period",
+        "Only with the court's permission first",
+        "Only to the lender"
+      ],
+      "answer": 1,
+      "explain": "The owner can list and sell during the redemption period without court supervision.",
+      "ref": "Lesson 13 · The court orders"
+    },
+    {
+      "id": "13-053",
+      "tag": "Conduct",
+      "q": "What happens to the owner's listing when the lender gets an order for conduct of sale?",
+      "choices": [
+        "It continues until it expires on its own",
+        "It ends; the lender takes over marketing",
+        "It becomes an exclusive listing for the lender",
+        "It automatically converts to a public auction"
+      ],
+      "answer": 1,
+      "explain": "The owner's right to list and market ends, and any existing listing is terminated.",
+      "ref": "Lesson 13 · The court orders"
+    },
+    {
+      "id": "13-054",
+      "tag": "Sale",
+      "q": "At the hearing to approve a foreclosure sale, how can another buyer compete?",
+      "choices": [
+        "By phoning the judge",
+        "With one sealed, higher offer",
+        "By matching the accepted price",
+        "By making a backup offer"
+      ],
+      "answer": 1,
+      "explain": "Interested parties get one chance to submit a sealed offer that must be higher; the court usually approves the highest.",
+      "ref": "Lesson 13 · Selling through the court"
+    },
+    {
+      "id": "13-055",
+      "tag": "Proceeds",
+      "q": "On a court-approved sale, which is usually paid first?",
+      "choices": [
+        "The lender that petitioned the court",
+        "Outstanding property taxes and utilities",
+        "The listing brokerage's real estate commission",
+        "The second mortgage, ahead of the first"
+      ],
+      "answer": 1,
+      "explain": "Taxes and utilities, then priority strata fees, commission, the petitioning lender plus costs, then the balance into court.",
+      "ref": "Lesson 13 · Selling through the court"
+    },
+    {
+      "id": "13-056",
+      "tag": "Order absolute",
+      "q": "What does a lender give up by taking an order absolute?",
+      "choices": [
+        "Any right to possession of the property",
+        "The right to sue on the personal covenant",
+        "The right to sell the property later on",
+        "Its first-ranking priority over other charges"
+      ],
+      "answer": 1,
+      "explain": "Under PLA s.32, after order absolute the lender can't pursue the borrower or guarantor for any shortfall.",
+      "ref": "Lesson 13 · Order absolute vs judicial sale"
+    },
+    {
+      "id": "13-057",
+      "tag": "Deficiency",
+      "q": "After a judicial sale for less than the debt, is the borrower liable for the shortfall?",
+      "choices": [
+        "No, the debt is extinguished",
+        "Yes, the borrower remains liable",
+        "Only if they are a corporation",
+        "Only the guarantor is liable"
+      ],
+      "answer": 1,
+      "explain": "After a judicial sale, borrowers (and guarantors) remain liable for any deficiency. After order absolute, they aren't.",
+      "ref": "Lesson 13 · Order absolute vs judicial sale"
+    },
+    {
+      "id": "13-058",
+      "tag": "AFS",
+      "q": "How does an agreement for sale differ from a vendor take-back mortgage?",
+      "choices": [
+        "The buyer pays no interest on the balance",
+        "The seller stays the registered owner",
+        "The buyer can't take possession until paid",
+        "It can't be registered at the land title office"
+      ],
+      "answer": 1,
+      "explain": "Under an agreement for sale the seller remains on title until paid; the buyer's interest is a registered charge (Form C).",
+      "ref": "Lesson 13 · Agreements for sale"
+    },
+    {
+      "id": "13-059",
+      "tag": "Value",
+      "q": "What is the cash-equivalent price of an offer with vendor financing?",
+      "choices": [
+        "Cash down plus the mortgage face value",
+        "Cash down plus the mortgage's market value",
+        "The stated offer price, always",
+        "The mortgage's face value alone"
+      ],
+      "answer": 1,
+      "explain": "Cash down plus the present value of the mortgage payments discounted at the market rate.",
+      "ref": "Lesson 13 · How financing changes what an offer is worth"
+    },
+    {
+      "id": "13-060",
+      "tag": "Value",
+      "q": "A VTB's contract rate is below the market rate. How does the offer's real value compare with its stated price?",
+      "choices": [
+        "It is higher than the stated price",
+        "It is lower than the stated price",
+        "It is exactly equal",
+        "It can't be determined"
+      ],
+      "answer": 1,
+      "explain": "The see-saw: a below-market rate makes the mortgage worth less than face, so the offer is worth less.",
+      "ref": "Lesson 13 · How financing changes what an offer is worth"
+    },
+    {
+      "id": "13-061",
+      "tag": "Value",
+      "q": "A seller offers a below-market VTB. How can they reduce the value they give away, keeping the same rate?",
+      "choices": [
+        "Lengthen the amortization period",
+        "Shorten the mortgage term",
+        "Lower the down payment",
+        "Remove the due on sale clause"
+      ],
+      "answer": 1,
+      "explain": "A shorter term limits how long the below-market rate lasts, raising the mortgage's market value.",
+      "ref": "Lesson 13 · The three-step method"
+    },
+    {
+      "id": "13-062",
+      "tag": "Steps",
+      "q": "When calculating a VTB's market value, which rate do you use to find the PV in step 2?",
+      "choices": [
+        "The contract rate",
+        "The current market rate",
+        "The prime rate",
+        "The stress test rate"
+      ],
+      "answer": 1,
+      "explain": "Payments come from the contract rate; the market value comes from discounting them at the market rate.",
+      "ref": "Lesson 13 · The three-step method"
+    },
+    {
+      "id": "13-063",
+      "tag": "Assumed",
+      "q": "When valuing an assumed mortgage, what do you enter as N?",
+      "choices": [
+        "The original amortization in months",
+        "The number of payments remaining",
+        "The number of payments already made",
+        "Always 300"
+      ],
+      "answer": 1,
+      "explain": "Only the payments the buyer will make (remaining in the term, or remaining amortization if fully amortized).",
+      "ref": "Lesson 13 · Assumed mortgages"
+    },
+    {
+      "id": "13-064",
+      "tag": "Appraisal",
+      "q": "How should an appraiser treat a sale that included below-market assumed financing?",
+      "choices": [
+        "Use the sale price unchanged",
+        "Adjust out the financing benefit",
+        "Add the financing benefit to the price",
+        "Average it with the list price"
+      ],
+      "answer": 1,
+      "explain": "The recorded price includes a financial asset. The appraiser must isolate and remove it, or exclude the comparable.",
+      "ref": "Lesson 13 · Appraisers and non-market financing"
+    },
+    {
+      "id": "13-065",
+      "tag": "Portable",
+      "q": "What's the main catch with porting a mortgage to a new home?",
+      "choices": [
+        "Ports are banned in BC",
+        "You must re-qualify, within a time limit",
+        "The rate resets to posted rates",
+        "The lender charges 3 months' interest"
+      ],
+      "answer": 1,
+      "explain": "You usually need to re-qualify under current rules (stress test) and complete within a window (often 30–120 days).",
+      "ref": "Lesson 13 · Portable mortgages"
+    },
+    {
+      "id": "13-066",
+      "tag": "Fees",
+      "q": "How does a fee deducted from the advance affect the borrower's true cost?",
+      "choices": [
+        "It lowers the true cost",
+        "It raises the true cost",
+        "It has no effect",
+        "It only affects the lender"
+      ],
+      "answer": 1,
+      "explain": "The borrower pays interest on the full face value while receiving less cash, so the real rate is higher than the contract rate.",
+      "ref": "Lesson 13 · Bonuses, brokerage fees and the true cost of borrowing"
+    },
+    {
+      "id": "13-067",
+      "tag": "APR",
+      "q": "What must BC lenders disclose to consumer borrowers under the BPCPA?",
+      "choices": [
+        "The cost of funds advanced",
+        "The annual percentage rate (APR)",
+        "The lender's own cost of funds",
+        "The broker's commission split"
+      ],
+      "answer": 1,
+      "explain": "The APR: the contract rate plus non-interest finance charges. COFA isn't legally required.",
+      "ref": "Lesson 13 · Bonuses, brokerage fees and the true cost of borrowing"
+    },
+    {
+      "id": "13-068",
+      "tag": "COFA",
+      "q": "When calculating cost of funds advanced on a partially amortized loan, what goes into PV?",
+      "choices": [
+        "The face value of the loan",
+        "The net amount actually received",
+        "The outstanding balance at term end",
+        "The total of all payments"
+      ],
+      "answer": 1,
+      "explain": "Payments come from the gross (face) amount; COFA uses the net cash received as PV, with N = the term.",
+      "ref": "Lesson 13 · Cost of funds advanced"
+    },
+    {
+      "id": "13-069",
+      "tag": "COFA",
+      "q": "With the same fee, how does a shorter term affect the cost of funds advanced?",
+      "choices": [
+        "It lowers it",
+        "It raises it, sometimes sharply",
+        "It has no effect",
+        "It makes it equal to the contract rate"
+      ],
+      "answer": 1,
+      "explain": "The fee is recovered over fewer payments, so the effective rate rises. A 5% fee over one year adds roughly 5 points.",
+      "ref": "Lesson 13 · Cost of funds advanced"
+    },
+    {
+      "id": "13-070",
+      "tag": "Yield",
+      "q": "A lender pays a mortgage broker's fee. What happens to the lender's yield?",
+      "choices": [
+        "It rises above the contract rate",
+        "It falls below the contract rate",
+        "It equals the contract rate",
+        "It becomes zero"
+      ],
+      "answer": 1,
+      "explain": "The lender pays out more than the loan amount but receives payments based on the loan, so its yield falls.",
+      "ref": "Lesson 13 · Yield to the lender"
+    },
+    {
+      "id": "13-071",
+      "tag": "Penalty",
+      "q": "A closed mortgage is paid out early. What penalty do lenders typically charge?",
+      "choices": [
+        "The lesser of 3 months' interest or IRD",
+        "The greater of 3 months' interest or IRD",
+        "Always 6 months' interest",
+        "No penalty under 5 years"
+      ],
+      "answer": 1,
+      "explain": "Usually the greater of three months' interest or the interest rate differential on the amount prepaid.",
+      "ref": "Lesson 13 · Prepayment penalties"
+    },
+    {
+      "id": "13-072",
+      "tag": "IRD",
+      "q": "When is an interest rate differential penalty likely to be large?",
+      "choices": [
+        "When rates have risen since signing",
+        "When rates have fallen since signing",
+        "When the term just started 1 day ago",
+        "Only for variable rate mortgages"
+      ],
+      "answer": 1,
+      "explain": "The IRD compensates the lender for lost interest when current rates are lower than the contract rate.",
+      "ref": "Lesson 13 · Prepayment penalties"
+    },
+    {
+      "id": "13-073",
+      "tag": "Five Cs",
+      "q": "Which of the five Cs asks whether the borrower CAN repay, using income and debt ratios?",
+      "choices": [
+        "Character",
+        "Capacity",
+        "Collateral",
+        "Capital"
+      ],
+      "answer": 1,
+      "explain": "Capacity looks at income and debt service ratios. Character asks whether they WILL repay.",
+      "ref": "Lesson 13 · The five Cs of credit"
+    },
+    {
+      "id": "13-074",
+      "tag": "Risk",
+      "q": "A borrower with good credit but self-employment income usually goes to which type of lender?",
+      "choices": [
+        "Prime (A) lender",
+        "Alt-A lender",
+        "Subprime lender only",
+        "No lender will help"
+      ],
+      "answer": 1,
+      "explain": "Alt-A (A minus) lenders specialize in good-credit borrowers with non-standard income.",
+      "ref": "Lesson 13 · Risk classes"
+    },
+    {
+      "id": "13-075",
+      "tag": "Credit",
+      "q": "What is CMHC's minimum credit score for at least one borrower on an insured mortgage?",
+      "choices": [
+        "600",
+        "680",
+        "720",
+        "750"
+      ],
+      "answer": 1,
+      "explain": "680 for at least one borrower. 750+ usually gets the best rates. (600 is the minimum for low-ratio insurance.)",
+      "ref": "Lesson 13 · The application and credit analysis"
+    },
+    {
+      "id": "13-076",
+      "tag": "Self-employed",
+      "q": "What minimum down payment does OSFI require for self-employed borrowers at federally regulated lenders?",
+      "choices": [
+        "10%",
+        "35%",
+        "20%",
+        "5%"
+      ],
+      "answer": 1,
+      "explain": "35% of the home price.",
+      "ref": "Lesson 13 · The application and credit analysis"
+    },
+    {
+      "id": "13-077",
+      "tag": "Value",
+      "q": "How does lending value usually compare with market value?",
+      "choices": [
+        "It is usually higher than market value",
+        "It is usually lower, never much higher",
+        "It is always exactly equal to market value",
+        "It ignores the property's condition entirely"
+      ],
+      "answer": 1,
+      "explain": "Lending value is long-term and conservative, ignoring speculative factors, so it's usually at or below market value.",
+      "ref": "Lesson 13 · Four different \"values\""
+    },
+    {
+      "id": "13-078",
+      "tag": "LTV",
+      "q": "Lending value is $700,000 and the lender allows 80% LTV. What is the maximum loan on security alone?",
+      "choices": [
+        "$525,000",
+        "$560,000",
+        "$630,000",
+        "$665,000"
+      ],
+      "answer": 1,
+      "explain": "0.80 × $700,000 = $560,000.",
+      "ref": "Lesson 13 · Loan-to-value"
+    },
+    {
+      "id": "13-079",
+      "tag": "GDSR",
+      "q": "What does the gross debt service ratio (as used in this course) include?",
+      "choices": [
+        "All debts, including car loans",
+        "Mortgage P + I and property taxes",
+        "Only the mortgage interest",
+        "Rent and utilities only"
+      ],
+      "answer": 1,
+      "explain": "GDSR = (principal + interest + taxes) ÷ gross income. TDSR adds all other debt payments.",
+      "ref": "Lesson 13 · Debt service ratios"
+    },
+    {
+      "id": "13-080",
+      "tag": "TDSR",
+      "q": "A borrower earns $100,000; the lender's TDSR is 40%; taxes are $4,000 and a car loan costs $6,000 a year. What's the maximum annual mortgage payment?",
+      "choices": [
+        "$40,000",
+        "$30,000",
+        "$36,000",
+        "$34,000"
+      ],
+      "answer": 1,
+      "explain": "0.40 × $100,000 = $40,000 − $4,000 − $6,000 = $30,000 a year.",
+      "ref": "Lesson 13 · Debt service ratios"
+    },
+    {
+      "id": "13-081",
+      "tag": "Constraints",
+      "q": "A borrower qualifies for $520,000 by LTV, $480,000 by GDSR and $455,000 by TDSR. What's the maximum loan?",
+      "choices": [
+        "$520,000",
+        "$455,000",
+        "$480,000",
+        "$485,000"
+      ],
+      "answer": 1,
+      "explain": "The lender lends the lowest amount allowed by all constraints.",
+      "ref": "Lesson 13 · Debt service ratios"
+    },
+    {
+      "id": "13-082",
+      "tag": "Stress test",
+      "q": "A borrower's contract rate is 2.75%. What qualifying rate applies under the stress test?",
+      "choices": [
+        "4.75%",
+        "5.25%",
+        "2.75%",
+        "7.25%"
+      ],
+      "answer": 1,
+      "explain": "The greater of 5.25% or 2.75% + 2% (4.75%), so 5.25%.",
+      "ref": "Lesson 13 · The stress test"
+    },
+    {
+      "id": "13-083",
+      "tag": "Stress test",
+      "q": "Which lender is NOT automatically bound by OSFI's stress test?",
+      "choices": [
+        "A chartered bank",
+        "A BC credit union",
+        "A federal trust company",
+        "A life insurance company"
+      ],
+      "answer": 1,
+      "explain": "Credit unions are provincially regulated; they apply it only if they choose.",
+      "ref": "Lesson 13 · The stress test"
+    },
+    {
+      "id": "13-084",
+      "tag": "Borrow more",
+      "q": "How can a borrower qualify for a larger loan without changing their income or the GDSR?",
+      "choices": [
+        "Shorten the amortization period",
+        "Lengthen the amortization period",
+        "Take a longer fixed term",
+        "Increase the property taxes"
+      ],
+      "answer": 1,
+      "explain": "A longer amortization lowers the payment for a given loan, so the same payment supports more debt (with more risk and interest).",
+      "ref": "Lesson 13 · Ways to borrow more (and their trade-offs)"
+    },
+    {
+      "id": "13-085",
+      "tag": "Insurance",
+      "q": "On a loan at 95% LTV, what is CMHC's premium (traditional down payment)?",
+      "choices": [
+        "3.10%",
+        "4.00%",
+        "2.80%",
+        "4.50%"
+      ],
+      "answer": 1,
+      "explain": "4.00% for 90.01–95% LTV; 4.50% with a non-traditional down payment.",
+      "ref": "Lesson 13 · Mortgage loan insurance"
+    },
+    {
+      "id": "13-086",
+      "tag": "Insurance",
+      "q": "What is the minimum down payment for an insured purchase at $800,000?",
+      "choices": [
+        "$40,000",
+        "$55,000",
+        "$80,000",
+        "$160,000"
+      ],
+      "answer": 1,
+      "explain": "5% of $500,000 ($25,000) + 10% of $300,000 ($30,000) = $55,000.",
+      "ref": "Lesson 13 · Mortgage loan insurance"
+    },
+    {
+      "id": "13-087",
+      "tag": "Insurance",
+      "q": "When the insurance premium is added to the loan, how is it treated in underwriting?",
+      "choices": [
+        "Included in LTV and GDSR",
+        "Excluded from LTV; included in GDSR",
+        "Included in LTV; excluded from GDSR",
+        "Excluded from both ratios"
+      ],
+      "answer": 1,
+      "explain": "The premium isn't counted in the LTV, but the payments (including it) count in the GDSR.",
+      "ref": "Lesson 13 · Mortgage loan insurance"
+    },
+    {
+      "id": "13-088",
+      "tag": "Insurance",
+      "q": "Why should the borrower insure for full insurable value rather than just the loan amount?",
+      "choices": [
+        "Insurers forbid any partial coverage at all",
+        "So the lender isn't left sharing the payout",
+        "To lower the annual premium the borrower pays",
+        "Because CMHC requires it on every single loan"
+      ],
+      "answer": 1,
+      "explain": "With split policies, the lender may receive only part of a loss payout and be left with damaged security.",
+      "ref": "Lesson 13 · After approval"
+    },
+    {
+      "id": "13-089",
+      "tag": "Commercial",
+      "q": "What does a commercial lender focus on when sizing a loan on an apartment building?",
+      "choices": [
+        "The owner's personal salary",
+        "The property's net operating income",
+        "The building's assessed value only",
+        "The tenants' credit scores"
+      ],
+      "answer": 1,
+      "explain": "Income property is underwritten mainly on NOI, along with value, borrower track record and tenant strength.",
+      "ref": "Lesson 13 · Commercial underwriting"
+    },
+    {
+      "id": "13-090",
+      "tag": "DCR",
+      "q": "NOI is $300,000 and the lender requires a DCR of 1.25. What is the maximum annual debt service?",
+      "choices": [
+        "$375,000",
+        "$240,000",
+        "$225,000",
+        "$250,000"
+      ],
+      "answer": 1,
+      "explain": "Maximum debt service = NOI ÷ DCR = $300,000 ÷ 1.25 = $240,000.",
+      "ref": "Lesson 13 · 2. Income: safety margin or debt coverage ratio"
+    },
+    {
+      "id": "13-091",
+      "tag": "DCR",
+      "q": "A lender requires a 20% safety margin on NOI. What is the equivalent debt coverage ratio?",
+      "choices": [
+        "1.20",
+        "1.25",
+        "1.33",
+        "0.80"
+      ],
+      "answer": 1,
+      "explain": "DCR = 1 ÷ (1 − 0.20) = 1.25.",
+      "ref": "Lesson 13 · 2. Income: safety margin or debt coverage ratio"
+    },
+    {
+      "id": "13-092",
+      "tag": "DCR",
+      "q": "Which property type typically faces the highest debt coverage ratio requirement?",
+      "choices": [
+        "A small 4-unit rental",
+        "A warehouse or industrial building",
+        "A conventional apartment building",
+        "An owner-occupied house"
+      ],
+      "answer": 1,
+      "explain": "Non-apartment commercial and industrial properties often need DCRs of 1.4–1.5.",
+      "ref": "Lesson 13 · 2. Income: safety margin or debt coverage ratio"
+    }
+  ]
+}
